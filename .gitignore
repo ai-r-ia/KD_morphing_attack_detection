@@ -1,0 +1,8 @@
+*.npy
+*.json
+*.pt
+.mypy_cache/*
+__pycache__/*
+.git/*
+*.zip
+*.pkl

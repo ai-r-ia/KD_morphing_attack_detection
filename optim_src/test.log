@@ -1,0 +1,1260 @@
+2024-10-01 10:38:41,175 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-01 10:38:41,179 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-01 10:38:41,180 - matplotlib - DEBUG - interactive is False
+2024-10-01 10:38:41,180 - matplotlib - DEBUG - platform is linux
+2024-10-01 10:38:41,213 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-01 10:38:41,214 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-01 10:38:42,683 - optim_src.configs.config - INFO - train_teacher
+2024-10-01 10:40:03,750 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-01 10:40:03,756 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-01 10:40:03,758 - matplotlib - DEBUG - interactive is False
+2024-10-01 10:40:03,758 - matplotlib - DEBUG - platform is linux
+2024-10-01 10:40:03,793 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-01 10:40:03,794 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-01 10:40:05,075 - optim_src.configs.config - INFO - train_teacher
+2024-10-01 14:59:24,410 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on mordiff
+2024-10-01 15:04:08,800 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lma
+2024-10-01 15:06:31,369 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on mipgan1
+2024-10-01 15:07:43,157 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-01 16:36:47,694 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on mordiff
+2024-10-01 16:45:07,574 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on mipgan1
+2024-10-01 16:45:43,152 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on lma
+2024-10-01 17:56:35,004 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on mipgan2
+2024-10-01 18:19:09,633 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on pipe
+2024-10-01 18:20:56,683 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on stylegan
+2024-10-01 18:26:20,365 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on cvmi
+2024-10-01 19:07:58,930 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on mipgan2
+2024-10-01 19:28:05,534 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on lmaubo
+2024-10-01 19:43:05,304 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on stylegan
+2024-10-01 19:48:27,802 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on cvmi
+2024-10-01 20:16:02,077 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on lmaubo
+2024-10-01 20:23:04,497 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mordiff
+2024-10-01 21:13:57,863 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mordiff
+2024-10-01 21:22:28,010 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan1
+2024-10-01 21:29:00,464 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on lma
+2024-10-01 21:46:15,883 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-01 22:20:58,091 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on pipe
+2024-10-01 22:43:27,953 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mipgan1
+2024-10-01 22:44:39,183 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on lma
+2024-10-01 22:59:31,542 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-01 23:28:47,153 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on pipe
+2024-10-01 23:56:21,063 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on stylegan
+2024-10-02 00:00:32,154 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on cvmi
+2024-10-02 00:05:23,082 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on lmaubo
+2024-10-02 00:35:50,057 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 01:08:04,177 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on lmaubo
+2024-10-02 01:10:48,058 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on stylegan
+2024-10-02 01:14:59,343 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on cvmi
+2024-10-02 01:37:19,299 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 02:28:36,147 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mipgan1
+2024-10-02 02:41:06,643 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on lma
+2024-10-02 02:57:51,585 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on pipe
+2024-10-02 02:58:12,627 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on lmaubo
+2024-10-02 03:36:01,332 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mipgan1
+2024-10-02 03:47:19,218 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on lmaubo
+2024-10-02 03:53:54,427 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on lma
+2024-10-02 04:07:40,796 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on pipe
+2024-10-02 04:45:59,952 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on cvmi
+2024-10-02 05:02:40,048 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on mipgan2
+2024-10-02 05:05:43,180 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on stylegan
+2024-10-02 05:20:35,512 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on mordiff
+2024-10-02 05:49:16,008 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on cvmi
+2024-10-02 06:05:21,677 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on mipgan2
+2024-10-02 06:11:56,524 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on stylegan
+2024-10-02 06:20:54,336 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on mordiff
+2024-10-02 06:56:14,448 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on mipgan1
+2024-10-02 07:19:29,401 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on lma
+2024-10-02 07:30:14,862 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 08:10:42,839 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on mipgan1
+2024-10-02 08:29:09,242 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on lma
+2024-10-02 09:08:40,528 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:08:40,688 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:08:40,706 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:08:40,786 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:13:46,533 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:13:46,540 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:13:46,579 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:13:46,817 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:14:49,915 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:14:49,943 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:14:49,988 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:14:50,003 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:20:53,723 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:20:53,724 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:20:53,729 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:20:54,044 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:21:56,522 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:21:57,289 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:21:57,303 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:21:57,305 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:31:07,387 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:31:07,730 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:31:07,763 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:31:07,795 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:31:32,386 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:31:32,878 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:31:32,891 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:31:32,957 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:52:52,490 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:52:53,232 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:52:54,534 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:58:01,156 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:58:01,518 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:58:01,834 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:58:02,631 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 09:58:41,186 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on pipe
+2024-10-02 09:58:41,242 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 09:58:42,412 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 09:58:55,956 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 10:02:32,987 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on mordiff
+2024-10-02 10:02:33,191 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on pipe
+2024-10-02 10:02:33,278 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on mipgan2
+2024-10-02 10:02:33,625 - optim_src.configs.config - INFO - saving train embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 10:03:11,328 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on pipe
+2024-10-02 10:03:12,213 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on mipgan2
+2024-10-02 10:03:12,232 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on mordiff
+2024-10-02 10:03:12,436 - optim_src.configs.config - INFO - saving test embeddings for teacher og on lmaubo, now on lmaubo
+2024-10-02 10:03:53,943 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mordiff
+2024-10-02 10:03:54,287 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on pipe
+2024-10-02 10:03:54,749 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 10:03:57,851 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mipgan2, now on lmaubo
+2024-10-02 10:04:30,970 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on pipe
+2024-10-02 10:04:31,427 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mordiff
+2024-10-02 10:04:31,489 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on mipgan2
+2024-10-02 10:04:32,203 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mipgan2, now on lmaubo
+2024-10-02 10:05:13,448 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 10:05:14,336 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on pipe
+2024-10-02 10:05:14,439 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on mipgan2
+2024-10-02 10:05:14,806 - optim_src.configs.config - INFO - saving train embeddings for teacher og on mordiff, now on lmaubo
+2024-10-02 10:05:50,676 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on pipe
+2024-10-02 10:05:51,361 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mipgan2
+2024-10-02 10:05:51,425 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on mordiff
+2024-10-02 10:05:51,780 - optim_src.configs.config - INFO - saving test embeddings for teacher og on mordiff, now on lmaubo
+2024-10-02 10:06:38,379 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on pipe
+2024-10-02 10:06:38,542 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on mipgan2
+2024-10-02 10:06:38,576 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on mordiff
+2024-10-02 10:06:39,510 - optim_src.configs.config - INFO - saving train embeddings for teacher og on pipe, now on lmaubo
+2024-10-02 10:07:16,407 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on mipgan2
+2024-10-02 10:07:16,504 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on mordiff
+2024-10-02 10:07:16,798 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on pipe
+2024-10-02 10:07:17,416 - optim_src.configs.config - INFO - saving test embeddings for teacher og on pipe, now on lmaubo
+2024-10-02 10:27:04,379 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 10:27:04,382 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 10:27:04,383 - matplotlib - DEBUG - interactive is False
+2024-10-02 10:27:04,383 - matplotlib - DEBUG - platform is linux
+2024-10-02 10:27:04,460 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 10:27:04,461 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 10:27:05,179 - optim_src.configs.config - INFO - train_adapter
+2024-10-02 12:47:26,190 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:47:26,191 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:47:26,194 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:47:26,194 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:47:26,195 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:47:26,195 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:47:26,195 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:47:26,195 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:47:26,207 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:47:26,208 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:47:26,211 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:47:26,211 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:47:26,212 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:47:26,212 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:47:26,212 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:47:26,212 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:47:26,277 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:47:26,278 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:47:26,278 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:47:26,279 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:47:26,295 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:47:26,295 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:47:26,295 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:47:26,296 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:47:27,096 - optim_src.configs.config - INFO - train_adapter
+2024-10-02 12:47:27,111 - optim_src.configs.config - INFO - train_adapter
+2024-10-02 12:47:27,111 - optim_src.configs.config - INFO - train_adapter
+2024-10-02 12:47:27,115 - optim_src.configs.config - INFO - train_adapter
+2024-10-02 12:55:36,891 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:55:36,893 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:55:36,895 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:55:36,895 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:55:36,895 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:55:36,896 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:55:36,896 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:55:36,896 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:55:36,897 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:55:36,897 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:55:36,900 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:55:36,900 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:55:36,900 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:55:36,901 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:55:36,901 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:55:36,901 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:55:36,985 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:55:36,985 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:55:36,986 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:55:36,986 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:55:36,994 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:55:36,995 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:55:37,043 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:55:37,044 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:56:22,910 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:56:22,914 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:56:22,914 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:56:22,915 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:56:22,930 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:56:22,931 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:56:22,934 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:56:22,935 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:56:22,935 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:56:22,935 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:56:22,936 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:56:22,936 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:56:22,992 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:56:22,993 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:56:22,994 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:56:22,997 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:56:22,998 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:56:22,998 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:56:23,018 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:56:23,018 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:56:23,026 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:56:23,026 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:56:23,160 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:56:23,161 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:57:48,520 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:57:48,524 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:57:48,524 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:57:48,524 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:57:48,535 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:57:48,539 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:57:48,539 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:57:48,539 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:57:48,578 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:57:48,582 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:57:48,583 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:57:48,583 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:57:48,585 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 12:57:48,589 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 12:57:48,589 - matplotlib - DEBUG - interactive is False
+2024-10-02 12:57:48,590 - matplotlib - DEBUG - platform is linux
+2024-10-02 12:57:48,601 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:57:48,602 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:57:48,618 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:57:48,618 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:57:48,671 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:57:48,671 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 12:57:48,749 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 12:57:48,750 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:00:39,403 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:00:39,407 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:00:39,408 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:00:39,408 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:00:39,409 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:00:39,412 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:00:39,413 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:00:39,413 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:00:39,418 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:00:39,422 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:00:39,423 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:00:39,423 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:00:39,497 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:00:39,497 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:00:39,498 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:00:39,498 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:00:39,508 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:00:39,511 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:00:39,512 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:00:39,512 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:00:39,513 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:00:39,514 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:00:39,594 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:00:39,594 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:01:34,603 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:01:34,607 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:01:34,607 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:01:34,608 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:01:34,696 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:01:34,697 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:01:35,500 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:01:35,504 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:01:35,505 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:01:35,505 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:01:35,669 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:01:35,670 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:01:36,103 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:01:36,107 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:01:36,107 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:01:36,107 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:01:36,193 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:01:36,194 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:01:36,500 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:01:36,504 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:01:36,504 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:01:36,504 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:01:36,583 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:01:36,584 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:02:00,932 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:02:00,954 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:02:00,961 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:02:00,961 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:02:01,198 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:02:01,200 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:02:56,066 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:02:56,088 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:02:56,095 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:02:56,095 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:02:56,330 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:02:56,331 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:05:43,097 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:05:43,100 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:05:43,101 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:05:43,101 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:05:43,107 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:05:43,110 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:05:43,111 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:05:43,111 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:05:43,116 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:05:43,119 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:05:43,120 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:05:43,120 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:05:43,197 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:05:43,198 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:05:43,201 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:05:43,202 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:05:43,223 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:05:43,227 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:05:43,228 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:05:43,228 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:05:43,231 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:05:43,232 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:05:43,307 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:05:43,308 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:06:45,230 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:06:45,233 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:06:45,233 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:06:45,234 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:06:45,234 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:06:45,237 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:06:45,237 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:06:45,237 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:06:45,247 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:06:45,251 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:06:45,252 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:06:45,252 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:06:45,302 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:06:45,306 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:06:45,307 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:06:45,307 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:06:45,320 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:06:45,321 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:06:45,325 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:06:45,326 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:06:45,337 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:06:45,338 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:06:45,446 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:06:45,446 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:06:46,040 - configs.config - INFO - train_adapter
+2024-10-02 13:06:46,045 - configs.config - INFO - train_adapter
+2024-10-02 13:06:46,091 - configs.config - INFO - train_adapter
+2024-10-02 13:06:46,400 - configs.config - INFO - train_adapter
+2024-10-02 13:08:06,656 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:08:06,659 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:08:06,660 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:08:06,660 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:08:06,676 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:08:06,676 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:08:06,680 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:08:06,680 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:08:06,680 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:08:06,680 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:08:06,681 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:08:06,681 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:08:06,748 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:08:06,749 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:08:06,767 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:08:06,768 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:08:06,772 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:08:06,772 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:08:06,856 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:08:06,860 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:08:06,860 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:08:06,861 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:08:06,953 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:08:06,954 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:08:07,478 - configs.config - INFO - train_adapter
+2024-10-02 13:08:07,492 - configs.config - INFO - train_adapter
+2024-10-02 13:08:07,514 - configs.config - INFO - train_adapter
+2024-10-02 13:08:07,688 - configs.config - INFO - train_adapter
+2024-10-02 13:30:33,278 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:30:33,282 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:30:33,283 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:30:33,283 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:30:33,285 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:30:33,287 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:30:33,289 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:30:33,289 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:30:33,290 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:30:33,290 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:30:33,291 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:30:33,291 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:30:33,296 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:30:33,299 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:30:33,300 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:30:33,300 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:30:33,375 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:30:33,376 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:30:33,377 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:30:33,378 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:30:33,383 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:30:33,384 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:30:33,443 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:30:33,444 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:30:34,129 - configs.config - INFO - train_adapter
+2024-10-02 13:30:34,129 - configs.config - INFO - train_adapter
+2024-10-02 13:30:34,140 - configs.config - INFO - train_adapter
+2024-10-02 13:30:34,270 - configs.config - INFO - train_adapter
+2024-10-02 13:31:10,761 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:31:10,762 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:31:10,764 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:31:10,765 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:31:10,765 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:31:10,765 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:31:10,766 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:31:10,766 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:31:10,779 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:31:10,782 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:31:10,783 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:31:10,784 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:31:10,784 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:31:10,785 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:31:10,786 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:31:10,786 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:31:10,845 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:31:10,846 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:31:10,850 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:31:10,851 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:31:10,862 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:31:10,862 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:31:10,873 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:31:10,874 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:31:11,557 - configs.config - INFO - train_adapter
+2024-10-02 13:31:11,567 - configs.config - INFO - train_adapter
+2024-10-02 13:31:11,567 - configs.config - INFO - train_adapter
+2024-10-02 13:31:11,598 - configs.config - INFO - train_adapter
+2024-10-02 13:33:19,429 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:19,433 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:19,434 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:19,434 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:19,435 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:19,437 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:19,438 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:19,439 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:19,439 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:19,440 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:19,441 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:19,441 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:19,442 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:19,445 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:19,446 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:19,446 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:19,517 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:19,518 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:19,525 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:19,525 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:19,533 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:19,534 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:19,541 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:19,542 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:20,235 - configs.config - INFO - train_adapter
+2024-10-02 13:33:20,236 - configs.config - INFO - train_adapter
+2024-10-02 13:33:20,252 - configs.config - INFO - train_adapter
+2024-10-02 13:33:20,281 - configs.config - INFO - train_adapter
+2024-10-02 13:33:22,552 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:22,556 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:22,557 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:22,557 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:22,564 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:22,567 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:22,568 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:22,568 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:22,570 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:22,574 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:22,575 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:22,575 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:22,628 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:22,631 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:22,632 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:22,632 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:22,639 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:22,640 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:22,652 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:22,653 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:22,653 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:22,653 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:22,719 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:22,720 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:23,354 - configs.config - INFO - train_adapter
+2024-10-02 13:33:23,371 - configs.config - INFO - train_adapter
+2024-10-02 13:33:23,451 - configs.config - INFO - train_adapter
+2024-10-02 13:33:23,494 - configs.config - INFO - train_adapter
+2024-10-02 13:33:25,656 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:25,659 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:25,660 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:25,660 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:25,667 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:25,671 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:25,672 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:25,672 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:25,744 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:25,744 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:25,756 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:25,757 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:25,793 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:25,797 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:25,798 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:25,798 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:25,883 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:25,883 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:26,376 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:33:26,379 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:33:26,380 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:33:26,380 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:33:26,464 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:33:26,465 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:33:26,473 - configs.config - INFO - train_adapter
+2024-10-02 13:33:26,487 - configs.config - INFO - train_adapter
+2024-10-02 13:33:26,614 - configs.config - INFO - train_adapter
+2024-10-02 13:33:27,222 - configs.config - INFO - train_adapter
+2024-10-02 13:53:04,352 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:04,356 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:04,357 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:04,357 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:04,361 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:04,364 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:04,365 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:04,365 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:04,374 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:04,377 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:04,378 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:04,378 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:04,430 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:04,434 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:04,434 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:04,435 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:04,447 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:04,447 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:04,454 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:04,455 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:04,466 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:04,467 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:04,585 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:04,586 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:05,173 - configs.config - INFO - train_adapter
+2024-10-02 13:53:05,192 - configs.config - INFO - train_adapter
+2024-10-02 13:53:05,196 - configs.config - INFO - train_adapter
+2024-10-02 13:53:05,413 - configs.config - INFO - train_adapter
+2024-10-02 13:53:07,432 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:07,433 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:07,436 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:07,437 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:07,437 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:07,437 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:07,438 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:07,438 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:07,525 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:07,525 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:07,529 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:07,530 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:07,596 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:07,600 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:07,601 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:07,602 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:07,773 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:07,774 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:07,977 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:53:07,980 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:53:07,981 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:53:07,981 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:53:08,064 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:53:08,065 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:53:08,259 - configs.config - INFO - train_adapter
+2024-10-02 13:53:08,259 - configs.config - INFO - train_adapter
+2024-10-02 13:53:08,674 - configs.config - INFO - train_adapter
+2024-10-02 13:53:08,829 - configs.config - INFO - train_adapter
+2024-10-02 13:54:53,591 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:54:53,595 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:54:53,596 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:54:53,596 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:54:53,597 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:54:53,600 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:54:53,601 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:54:53,601 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:54:53,606 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:54:53,610 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:54:53,611 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:54:53,611 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:54:53,678 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:54:53,679 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:54:53,688 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:54:53,689 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:54:53,694 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:54:53,695 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:54:53,710 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:54:53,714 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:54:53,715 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:54:53,715 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:54:53,854 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:54:53,855 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:54:54,401 - configs.config - INFO - train_adapter
+2024-10-02 13:54:54,415 - configs.config - INFO - train_adapter
+2024-10-02 13:54:54,472 - configs.config - INFO - train_adapter
+2024-10-02 13:54:54,651 - configs.config - INFO - train_adapter
+2024-10-02 13:58:56,199 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:58:56,202 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:58:56,203 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:58:56,203 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:58:56,232 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:58:56,235 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:58:56,236 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:58:56,236 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:58:56,236 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:58:56,238 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:58:56,239 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:58:56,239 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:58:56,285 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:58:56,286 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:58:56,325 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 13:58:56,327 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:58:56,328 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:58:56,328 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 13:58:56,329 - matplotlib - DEBUG - interactive is False
+2024-10-02 13:58:56,329 - matplotlib - DEBUG - platform is linux
+2024-10-02 13:58:56,337 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:58:56,338 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:58:56,489 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 13:58:56,490 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 13:58:57,017 - configs.config - INFO - train_adapter
+2024-10-02 13:58:57,034 - configs.config - INFO - train_adapter
+2024-10-02 13:58:57,061 - configs.config - INFO - train_adapter
+2024-10-02 13:58:57,385 - configs.config - INFO - train_adapter
+2024-10-02 14:19:29,553 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 14:19:29,556 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 14:19:29,557 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 14:19:29,557 - matplotlib - DEBUG - interactive is False
+2024-10-02 14:19:29,557 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 14:19:29,557 - matplotlib - DEBUG - platform is linux
+2024-10-02 14:19:29,560 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 14:19:29,561 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 14:19:29,561 - matplotlib - DEBUG - interactive is False
+2024-10-02 14:19:29,561 - matplotlib - DEBUG - platform is linux
+2024-10-02 14:19:29,562 - matplotlib - DEBUG - interactive is False
+2024-10-02 14:19:29,562 - matplotlib - DEBUG - platform is linux
+2024-10-02 14:19:29,641 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 14:19:29,642 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 14:19:29,646 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 14:19:29,647 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 14:19:29,648 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 14:19:29,649 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 14:19:29,691 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 14:19:29,695 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 14:19:29,696 - matplotlib - DEBUG - interactive is False
+2024-10-02 14:19:29,696 - matplotlib - DEBUG - platform is linux
+2024-10-02 14:19:29,773 - configs.config - INFO - train_adapter
+2024-10-02 14:19:29,783 - configs.config - INFO - train_adapter
+2024-10-02 14:19:29,785 - configs.config - INFO - train_adapter
+2024-10-02 14:19:29,794 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 14:19:29,795 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 14:19:29,928 - configs.config - INFO - train_adapter
+2024-10-02 14:19:31,943 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 14:19:31,947 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 14:19:31,947 - matplotlib - DEBUG - interactive is False
+2024-10-02 14:19:31,948 - matplotlib - DEBUG - platform is linux
+2024-10-02 14:19:31,949 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 14:19:31,952 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 14:19:31,953 - matplotlib - DEBUG - interactive is False
+2024-10-02 14:19:31,953 - matplotlib - DEBUG - platform is linux
+2024-10-02 14:19:31,963 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 14:19:31,966 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 14:19:31,967 - matplotlib - DEBUG - interactive is False
+2024-10-02 14:19:31,967 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:03,539 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:03,555 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:03,558 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:03,559 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:03,559 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:03,559 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:03,560 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:03,560 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:03,651 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:03,651 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:03,655 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:03,655 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:03,787 - configs.config - INFO - train_adapter
+2024-10-02 16:18:03,791 - configs.config - INFO - train_adapter
+2024-10-02 16:18:03,831 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:03,834 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:03,835 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:03,835 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:03,917 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:03,917 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:04,048 - configs.config - INFO - train_adapter
+2024-10-02 16:18:04,608 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:04,611 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:04,612 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:04,612 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:04,697 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:04,697 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:04,832 - configs.config - INFO - train_adapter
+2024-10-02 16:18:05,926 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:05,930 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:05,931 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:05,931 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:05,994 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:06,010 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:06,011 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:06,011 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:06,018 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:06,019 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:06,101 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:06,101 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:06,155 - configs.config - INFO - train_adapter
+2024-10-02 16:18:06,236 - configs.config - INFO - train_adapter
+2024-10-02 16:18:06,292 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:06,295 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:06,296 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:06,296 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:06,379 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:06,380 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:06,513 - configs.config - INFO - train_adapter
+2024-10-02 16:18:07,074 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:07,078 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:07,078 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:07,078 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:07,162 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:07,163 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:07,302 - configs.config - INFO - train_adapter
+2024-10-02 16:18:08,324 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:08,327 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:08,328 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:08,328 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:08,384 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:08,387 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:08,388 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:08,389 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:08,413 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:08,413 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:08,472 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:08,473 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:08,550 - configs.config - INFO - train_adapter
+2024-10-02 16:18:08,608 - configs.config - INFO - train_adapter
+2024-10-02 16:18:08,735 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:08,738 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:08,739 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:08,739 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:08,825 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:08,826 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:08,967 - configs.config - INFO - train_adapter
+2024-10-02 16:18:09,505 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:09,519 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:09,522 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:09,523 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:09,627 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:09,628 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:09,763 - configs.config - INFO - train_adapter
+2024-10-02 16:18:10,747 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:10,751 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:10,752 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:10,752 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:10,756 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:10,759 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:10,760 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:10,760 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:10,841 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:10,842 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:10,853 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:10,854 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:10,989 - configs.config - INFO - train_adapter
+2024-10-02 16:18:10,991 - configs.config - INFO - train_adapter
+2024-10-02 16:18:11,280 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:11,283 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:11,284 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:11,284 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:11,368 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:11,368 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:11,504 - configs.config - INFO - train_adapter
+2024-10-02 16:18:11,914 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:18:11,917 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:18:11,918 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:18:11,918 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:18:11,999 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:18:11,999 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:18:12,129 - configs.config - INFO - train_adapter
+2024-10-02 16:20:19,916 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:19,919 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:19,920 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:19,920 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:20,000 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:20,001 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:20,135 - configs.config - INFO - train_adapter
+2024-10-02 16:20:20,496 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:20,500 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:20,501 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:20,501 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:20,590 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:20,591 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:20,729 - configs.config - INFO - train_adapter
+2024-10-02 16:20:21,328 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:21,332 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:21,333 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:21,333 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:21,421 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:21,422 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:21,561 - configs.config - INFO - train_adapter
+2024-10-02 16:20:21,981 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:21,994 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:21,998 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:21,999 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:22,110 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:22,110 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:22,246 - configs.config - INFO - train_adapter
+2024-10-02 16:20:22,491 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:22,494 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:22,495 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:22,495 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:22,583 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:22,584 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:22,721 - configs.config - INFO - train_adapter
+2024-10-02 16:20:22,872 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:22,875 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:22,876 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:22,876 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:22,957 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:22,958 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:23,090 - configs.config - INFO - train_adapter
+2024-10-02 16:20:23,703 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:23,707 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:23,707 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:23,707 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:23,792 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:23,792 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:23,928 - configs.config - INFO - train_adapter
+2024-10-02 16:20:24,420 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:24,427 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:24,435 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:24,437 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:24,544 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:24,545 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:24,682 - configs.config - INFO - train_adapter
+2024-10-02 16:20:25,194 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:25,198 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:25,198 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:25,199 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:25,298 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:25,302 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:25,303 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:25,303 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:25,309 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:25,310 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:25,388 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:25,388 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:25,447 - configs.config - INFO - train_adapter
+2024-10-02 16:20:25,523 - configs.config - INFO - train_adapter
+2024-10-02 16:20:26,149 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:26,153 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:26,154 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:26,154 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:26,280 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:26,281 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:26,428 - configs.config - INFO - train_adapter
+2024-10-02 16:20:26,886 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:26,890 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:26,890 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:26,891 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:26,976 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:26,977 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:27,113 - configs.config - INFO - train_adapter
+2024-10-02 16:20:27,643 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:27,651 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:27,652 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:27,652 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:27,783 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:27,787 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:27,788 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:27,789 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:27,789 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:27,789 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:27,929 - configs.config - INFO - train_adapter
+2024-10-02 16:20:27,956 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:27,956 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:28,099 - configs.config - INFO - train_adapter
+2024-10-02 16:20:28,802 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:28,806 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:28,806 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:28,806 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:28,885 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:28,886 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:29,020 - configs.config - INFO - train_adapter
+2024-10-02 16:20:29,318 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:29,321 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:29,322 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:29,322 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:29,420 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:29,424 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:29,425 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:29,425 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:29,430 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:29,431 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:29,511 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:29,512 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:29,570 - configs.config - INFO - train_adapter
+2024-10-02 16:20:29,646 - configs.config - INFO - train_adapter
+2024-10-02 16:20:30,172 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:30,176 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:30,177 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:30,177 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:30,289 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:30,290 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:30,429 - configs.config - INFO - train_adapter
+2024-10-02 16:20:31,032 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:31,035 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:31,036 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:31,036 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:31,124 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:31,125 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:31,258 - configs.config - INFO - train_adapter
+2024-10-02 16:20:31,755 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:31,759 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:31,759 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:31,759 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:31,900 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:31,901 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:31,911 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:31,914 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:31,915 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:31,915 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:31,997 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:31,998 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:20:32,040 - configs.config - INFO - train_adapter
+2024-10-02 16:20:32,131 - configs.config - INFO - train_adapter
+2024-10-02 16:20:32,608 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:20:32,613 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:20:32,614 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:20:32,614 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:20:32,889 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:20:32,890 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:25:05,601 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:25:05,604 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:25:05,605 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:25:05,605 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:25:05,612 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:25:05,616 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:25:05,617 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:25:05,617 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:25:05,640 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:25:05,644 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:25:05,644 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:25:05,644 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:25:05,670 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:25:05,673 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:25:05,674 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:25:05,674 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:25:05,693 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:25:05,694 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:25:05,705 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:25:05,705 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:25:05,775 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:25:05,776 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:25:05,792 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:25:05,792 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:25:05,823 - configs.config - INFO - train_adapter
+2024-10-02 16:25:05,835 - configs.config - INFO - train_adapter
+2024-10-02 16:25:05,908 - configs.config - INFO - train_adapter
+2024-10-02 16:25:05,932 - configs.config - INFO - train_adapter
+2024-10-02 16:26:39,909 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:26:39,912 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:26:39,913 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:26:39,913 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:26:40,003 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:26:40,004 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:26:40,009 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:26:40,012 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:26:40,013 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:26:40,013 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:26:40,046 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:26:40,047 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:26:40,049 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:26:40,050 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:26:40,050 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:26:40,051 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:26:40,052 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:26:40,052 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:26:40,095 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:26:40,095 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:26:40,136 - configs.config - INFO - train_adapter
+2024-10-02 16:26:40,138 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:26:40,138 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:26:40,168 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:26:40,168 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:26:40,225 - configs.config - INFO - train_adapter
+2024-10-02 16:26:40,270 - configs.config - INFO - train_adapter
+2024-10-02 16:26:40,306 - configs.config - INFO - train_adapter
+2024-10-02 16:27:06,049 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:27:06,052 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:27:06,053 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:27:06,053 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:27:06,133 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:27:06,134 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:27:06,135 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:27:06,136 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:27:06,137 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:27:06,137 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:27:06,200 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:27:06,204 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:27:06,205 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:27:06,205 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:27:06,220 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:27:06,220 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:27:06,238 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:27:06,241 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:27:06,242 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:27:06,242 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:27:06,265 - configs.config - INFO - train_adapter
+2024-10-02 16:27:06,338 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:27:06,338 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:27:06,349 - configs.config - INFO - train_adapter
+2024-10-02 16:27:06,362 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:27:06,363 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:27:06,471 - configs.config - INFO - train_adapter
+2024-10-02 16:27:06,504 - configs.config - INFO - train_adapter
+2024-10-02 16:28:25,366 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:28:25,370 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:28:25,371 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:28:25,371 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:28:25,373 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:28:25,374 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:28:25,376 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:28:25,377 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:28:25,377 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:28:25,377 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:28:25,378 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:28:25,378 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:28:25,385 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:28:25,388 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:28:25,389 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:28:25,389 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:28:25,457 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:28:25,458 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:28:25,466 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:28:25,467 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:28:25,472 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:28:25,472 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:28:25,501 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:28:25,502 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:28:25,591 - configs.config - INFO - train_adapter
+2024-10-02 16:28:25,602 - configs.config - INFO - train_adapter
+2024-10-02 16:28:25,608 - configs.config - INFO - train_adapter
+2024-10-02 16:28:25,642 - configs.config - INFO - train_adapter
+2024-10-02 16:29:09,785 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:29:09,788 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:29:09,789 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:29:09,789 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:29:09,821 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:29:09,824 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:29:09,825 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:29:09,825 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:29:09,875 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:29:09,876 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:29:09,905 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:29:09,906 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:29:09,906 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:29:09,909 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:29:09,909 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:29:09,909 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:29:09,987 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:29:09,987 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:29:10,005 - configs.config - INFO - train_adapter
+2024-10-02 16:29:10,015 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:29:10,018 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:29:10,019 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:29:10,019 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:29:10,036 - configs.config - INFO - train_adapter
+2024-10-02 16:29:10,119 - configs.config - INFO - train_adapter
+2024-10-02 16:29:10,165 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:29:10,166 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:29:10,301 - configs.config - INFO - train_adapter
+2024-10-02 16:29:15,503 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:29:15,503 - src.utils.logger - INFO - loss decreased (214.402116 --> 214.402116).
+2024-10-02 16:29:15,535 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:29:15,535 - src.utils.logger - INFO - loss decreased (189.751818 --> 189.751818).
+2024-10-02 16:29:15,687 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:29:15,688 - src.utils.logger - INFO - loss decreased (187.334111 --> 187.334111).
+2024-10-02 16:29:16,052 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:29:16,052 - src.utils.logger - INFO - loss decreased (205.412090 --> 205.412090).
+2024-10-02 16:29:19,199 - configs.config - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:29:19,199 - src.utils.logger - INFO - loss decreased (176.420650 --> 176.420650).
+2024-10-02 16:29:19,395 - configs.config - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:29:19,395 - src.utils.logger - INFO - loss decreased (145.316933 --> 145.316933).
+2024-10-02 16:29:19,408 - configs.config - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:29:19,409 - src.utils.logger - INFO - loss decreased (151.498341 --> 151.498341).
+2024-10-02 16:29:19,504 - configs.config - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:29:19,504 - src.utils.logger - INFO - loss decreased (166.251721 --> 166.251721).
+2024-10-02 16:33:05,420 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:33:05,424 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:33:05,425 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:33:05,425 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:33:05,436 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:33:05,440 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:33:05,440 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:33:05,441 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:33:05,441 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:33:05,444 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:33:05,444 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:33:05,444 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:33:05,446 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:33:05,449 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:33:05,450 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:33:05,450 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:33:05,516 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:33:05,517 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:33:05,522 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:33:05,522 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:33:05,535 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:33:05,535 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:33:05,538 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:33:05,538 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:33:05,652 - configs.config - INFO - train_adapter
+2024-10-02 16:33:05,653 - configs.config - INFO - train_adapter
+2024-10-02 16:33:05,669 - configs.config - INFO - train_adapter
+2024-10-02 16:33:05,670 - configs.config - INFO - train_adapter
+2024-10-02 16:34:19,587 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:34:19,590 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:34:19,591 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:34:19,592 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:34:19,592 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:34:19,593 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:34:19,594 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:34:19,594 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:34:19,597 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:34:19,600 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:34:19,601 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:34:19,601 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:34:19,603 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:34:19,606 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:34:19,607 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:34:19,607 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:34:19,677 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:34:19,678 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:34:19,683 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:34:19,683 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:34:19,700 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:34:19,701 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:34:19,732 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:34:19,732 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:34:19,813 - configs.config - INFO - train_adapter
+2024-10-02 16:34:19,818 - configs.config - INFO - train_adapter
+2024-10-02 16:34:19,836 - configs.config - INFO - train_adapter
+2024-10-02 16:34:19,870 - configs.config - INFO - train_adapter
+2024-10-02 16:34:25,419 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:34:25,419 - src.utils.logger - INFO - loss decreased (186.219011 --> 186.219011).
+2024-10-02 16:34:25,557 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:34:25,557 - src.utils.logger - INFO - loss decreased (171.474033 --> 171.474033).
+2024-10-02 16:34:25,614 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:34:25,615 - src.utils.logger - INFO - loss decreased (199.567398 --> 199.567398).
+2024-10-02 16:34:25,730 - configs.config - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:34:25,730 - src.utils.logger - INFO - loss decreased (191.797032 --> 191.797032).
+2024-10-02 16:43:46,354 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:43:46,356 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:43:46,358 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:43:46,359 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:43:46,360 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:43:46,360 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:43:46,360 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:43:46,360 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:43:46,376 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:43:46,380 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:43:46,381 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:43:46,381 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:43:46,383 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:43:46,386 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:43:46,387 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:43:46,387 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:43:46,443 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:43:46,443 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:43:46,451 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:43:46,452 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:43:46,469 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:43:46,470 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:43:46,495 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:43:46,495 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:43:46,581 - Eval_0_adapter - INFO - train_adapter
+2024-10-02 16:43:46,603 - Eval_0_adapter - INFO - train_adapter
+2024-10-02 16:43:46,606 - Eval_0_adapter - INFO - train_adapter
+2024-10-02 16:43:46,630 - Eval_0_adapter - INFO - train_adapter
+2024-10-02 16:43:52,108 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:43:52,108 - src.utils.logger - INFO - loss decreased (204.131459 --> 204.131459).
+2024-10-02 16:43:52,215 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:43:52,219 - src.utils.logger - INFO - loss decreased (186.245372 --> 186.245372).
+2024-10-02 16:43:52,247 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:43:52,247 - src.utils.logger - INFO - loss decreased (206.333470 --> 206.333470).
+2024-10-02 16:43:52,343 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-02 16:43:52,344 - src.utils.logger - INFO - loss decreased (203.913486 --> 203.913486).
+2024-10-02 16:43:55,756 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:43:55,756 - src.utils.logger - INFO - loss decreased (160.805247 --> 160.805247).
+2024-10-02 16:43:56,043 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:43:56,044 - src.utils.logger - INFO - loss decreased (163.775777 --> 163.775777).
+2024-10-02 16:43:56,046 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:43:56,046 - src.utils.logger - INFO - loss decreased (144.567096 --> 144.567096).
+2024-10-02 16:43:56,050 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-02 16:43:56,050 - src.utils.logger - INFO - loss decreased (164.294933 --> 164.294933).
+2024-10-02 16:43:59,451 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-02 16:43:59,451 - src.utils.logger - INFO - loss decreased (127.783389 --> 127.783389).
+2024-10-02 16:43:59,786 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-02 16:43:59,787 - src.utils.logger - INFO - loss decreased (128.720795 --> 128.720795).
+2024-10-02 16:43:59,798 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-02 16:43:59,799 - src.utils.logger - INFO - loss decreased (133.297128 --> 133.297128).
+2024-10-02 16:43:59,851 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-02 16:43:59,852 - src.utils.logger - INFO - loss decreased (111.847154 --> 111.847154).
+2024-10-02 16:44:02,971 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-02 16:44:02,971 - src.utils.logger - INFO - loss decreased (104.092278 --> 104.092278).
+2024-10-02 16:44:03,457 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-02 16:44:03,457 - src.utils.logger - INFO - loss decreased (109.516810 --> 109.516810).
+2024-10-02 16:44:03,459 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-02 16:44:03,459 - src.utils.logger - INFO - loss decreased (86.645316 --> 86.645316).
+2024-10-02 16:44:03,463 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-02 16:44:03,463 - src.utils.logger - INFO - loss decreased (102.448058 --> 102.448058).
+2024-10-02 16:44:06,478 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-02 16:44:06,478 - src.utils.logger - INFO - loss decreased (87.243532 --> 87.243532).
+2024-10-02 16:44:06,960 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-02 16:44:06,960 - src.utils.logger - INFO - loss decreased (92.367446 --> 92.367446).
+2024-10-02 16:44:07,050 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-02 16:44:07,050 - src.utils.logger - INFO - loss decreased (84.659450 --> 84.659450).
+2024-10-02 16:44:07,410 - Eval_0_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-02 16:44:07,411 - src.utils.logger - INFO - loss decreased (67.332725 --> 67.332725).
+2024-10-02 16:47:23,064 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:47:23,067 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:47:23,068 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:47:23,068 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:47:23,070 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:47:23,070 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:47:23,073 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:47:23,073 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:47:23,074 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:47:23,074 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:47:23,074 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:47:23,074 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:47:23,158 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:47:23,159 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:47:23,161 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:47:23,162 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:47:23,163 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:47:23,164 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:47:23,294 - Eval_0_adapter - INFO - train_adapter
+2024-10-02 16:47:23,295 - Eval_0_adapter - INFO - train_adapter
+2024-10-02 16:47:23,299 - matplotlib - DEBUG - matplotlib data path: /home/ubuntu/miniconda3/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-10-02 16:47:23,300 - Eval_0_adapter - INFO - train_adapter
+2024-10-02 16:47:23,302 - matplotlib - DEBUG - CONFIGDIR=/home/ubuntu/.config/matplotlib
+2024-10-02 16:47:23,303 - matplotlib - DEBUG - interactive is False
+2024-10-02 16:47:23,303 - matplotlib - DEBUG - platform is linux
+2024-10-02 16:47:23,440 - matplotlib - DEBUG - CACHEDIR=/home/ubuntu/.cache/matplotlib
+2024-10-02 16:47:23,441 - matplotlib.font_manager - DEBUG - Using fontManager instance from /home/ubuntu/.cache/matplotlib/fontlist-v390.json
+2024-10-02 16:47:23,584 - Eval_0_adapter - INFO - train_adapter

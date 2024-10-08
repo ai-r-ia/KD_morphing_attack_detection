@@ -1,0 +1,635 @@
+2024-10-08 10:18:28,358 - Eval_-1_baseline - INFO - train_teacher mordiff
+2024-10-08 10:18:28,374 - Eval_-1_baseline - INFO - train_teacher stylegan
+2024-10-08 10:18:28,543 - Eval_-1_baseline - INFO - train_teacher lma
+2024-10-08 10:18:31,695 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 10:18:31,700 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 10:18:31,743 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 10:21:46,241 - Eval_-1_baseline - DEBUG - Train Loss: 70.61625561118126
+2024-10-08 10:21:46,241 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 10:21:46,241 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:21:46,242 - Eval_-1_baseline - INFO - train time : 194.54607939720154
+2024-10-08 10:21:46,488 - Eval_-1_baseline - DEBUG - Train Loss: 70.17108103632927
+2024-10-08 10:21:46,488 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:21:46,488 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:21:46,489 - Eval_-1_baseline - INFO - train time : 194.74534940719604
+2024-10-08 10:21:46,884 - Eval_-1_baseline - DEBUG - Train Loss: 71.12393492460251
+2024-10-08 10:21:46,884 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:21:46,885 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 10:21:46,886 - Eval_-1_baseline - INFO - train time : 195.18556904792786
+2024-10-08 10:24:39,741 - Eval_-1_baseline - DEBUG - Test Loss: 63.510321259498596
+2024-10-08 10:24:39,741 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:24:39,741 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:24:39,741 - Eval_-1_baseline - INFO - test time : 173.2527265548706
+2024-10-08 10:24:39,741 - Eval_-1_baseline - DEBUG - acc list: [100]
+2024-10-08 10:24:39,742 - Eval_-1_baseline - DEBUG - train_loss:  [70.17108103632927]
+2024-10-08 10:24:39,742 - Eval_-1_baseline - DEBUG - test_loss:  [63.510321259498596]
+2024-10-08 10:24:39,742 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 0
+2024-10-08 10:24:47,500 - Eval_-1_baseline - DEBUG - Test Loss: 68.8682013452053
+2024-10-08 10:24:47,501 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 10:24:47,501 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:24:47,501 - Eval_-1_baseline - INFO - test time : 181.25929999351501
+2024-10-08 10:24:47,501 - Eval_-1_baseline - DEBUG - Calculated acc:  [70.31]
+2024-10-08 10:24:48,000 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 10:24:48,000 - Eval_-1_baseline - DEBUG - Epoch time: 376.3821301460266
+2024-10-08 10:24:48,000 - Eval_-1_baseline - INFO - loss decreased (68.868201 --> 68.868201).
+2024-10-08 10:24:48,002 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 10:24:48,281 - Eval_-1_baseline - DEBUG - Test Loss: 69.59950059652328
+2024-10-08 10:24:48,282 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:24:48,282 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 10:24:48,282 - Eval_-1_baseline - INFO - test time : 181.39560198783875
+2024-10-08 10:24:48,282 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36]
+2024-10-08 10:24:48,855 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 10:24:48,855 - Eval_-1_baseline - DEBUG - Epoch time: 377.23056197166443
+2024-10-08 10:24:48,855 - Eval_-1_baseline - INFO - loss decreased (69.599501 --> 69.599501).
+2024-10-08 10:24:48,858 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 10:26:59,549 - Eval_-1_baseline - DEBUG - Train Loss: 70.48424470424652
+2024-10-08 10:26:59,549 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:26:59,549 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3566 incorrect: 1
+2024-10-08 10:26:59,549 - Eval_-1_baseline - INFO - train time : 131.54668498039246
+2024-10-08 10:27:01,420 - Eval_-1_baseline - DEBUG - Train Loss: 70.93820497393608
+2024-10-08 10:27:01,420 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 10:27:01,420 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 10:27:01,420 - Eval_-1_baseline - INFO - train time : 132.56240558624268
+2024-10-08 10:29:02,352 - Eval_-1_baseline - DEBUG - Test Loss: 68.71887296438217
+2024-10-08 10:29:02,352 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:29:02,353 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3566 incorrect: 1
+2024-10-08 10:29:02,353 - Eval_-1_baseline - INFO - test time : 122.80347657203674
+2024-10-08 10:29:02,353 - Eval_-1_baseline - DEBUG - Calculated acc:  [70.31, 70.31]
+2024-10-08 10:29:03,459 - Eval_-1_baseline - DEBUG - Test Loss: 69.5656506717205
+2024-10-08 10:29:03,460 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 10:29:03,460 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 10:29:03,460 - Eval_-1_baseline - INFO - test time : 122.03935742378235
+2024-10-08 10:29:03,460 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 35.36]
+2024-10-08 10:29:04,008 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 1
+2024-10-08 10:29:04,009 - Eval_-1_baseline - DEBUG - Epoch time: 256.00831413269043
+2024-10-08 10:29:04,009 - Eval_-1_baseline - INFO - loss decreased (68.718873 --> 68.718873).
+2024-10-08 10:29:04,014 - Eval_-1_baseline - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-08 10:29:05,701 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 1
+2024-10-08 10:29:05,701 - Eval_-1_baseline - DEBUG - Epoch time: 256.8457429409027
+2024-10-08 10:29:05,701 - Eval_-1_baseline - INFO - loss decreased (69.565651 --> 69.565651).
+2024-10-08 10:29:05,706 - Eval_-1_baseline - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-08 10:31:14,313 - Eval_-1_baseline - DEBUG - Train Loss: 70.37823304533958
+2024-10-08 10:31:14,313 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:31:14,313 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:31:14,313 - Eval_-1_baseline - INFO - train time : 130.2991259098053
+2024-10-08 10:31:18,583 - Eval_-1_baseline - DEBUG - Train Loss: 70.84391331672668
+2024-10-08 10:31:18,583 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:31:18,583 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 10:31:18,584 - Eval_-1_baseline - INFO - train time : 132.87738633155823
+2024-10-08 10:33:16,487 - Eval_-1_baseline - DEBUG - Test Loss: 68.6041169166565
+2024-10-08 10:33:16,488 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:33:16,488 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:33:16,488 - Eval_-1_baseline - INFO - test time : 122.17473077774048
+2024-10-08 10:33:16,488 - Eval_-1_baseline - DEBUG - acc list: [70.31, 70.31, 100]
+2024-10-08 10:33:16,488 - Eval_-1_baseline - DEBUG - train_loss:  [70.61625561118126, 70.48424470424652, 70.37823304533958]
+2024-10-08 10:33:16,488 - Eval_-1_baseline - DEBUG - test_loss:  [68.8682013452053, 68.71887296438217, 68.6041169166565]
+2024-10-08 10:33:16,488 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 2
+2024-10-08 10:33:18,997 - Eval_-1_baseline - DEBUG - Test Loss: 69.26514279842377
+2024-10-08 10:33:18,998 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:33:18,998 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 10:33:18,998 - Eval_-1_baseline - INFO - test time : 120.41460704803467
+2024-10-08 10:33:18,998 - Eval_-1_baseline - DEBUG - acc list: [35.36, 35.36, 100]
+2024-10-08 10:33:18,998 - Eval_-1_baseline - DEBUG - train_loss:  [71.12393492460251, 70.93820497393608, 70.84391331672668]
+2024-10-08 10:33:18,999 - Eval_-1_baseline - DEBUG - test_loss:  [69.59950059652328, 69.5656506717205, 69.26514279842377]
+2024-10-08 10:33:18,999 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 2
+2024-10-08 10:53:06,736 - Eval_-1_baseline - INFO - train_teacher lma
+2024-10-08 10:53:08,285 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 10:54:01,049 - Eval_-1_baseline - DEBUG - Train Loss: 70.1613999903202
+2024-10-08 10:54:01,049 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:54:01,049 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3566 incorrect: 1
+2024-10-08 10:54:01,049 - Eval_-1_baseline - INFO - train time : 52.764291763305664
+2024-10-08 10:54:48,989 - Eval_-1_baseline - DEBUG - Test Loss: 63.537937730550766
+2024-10-08 10:54:48,989 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:54:48,989 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3566 incorrect: 1
+2024-10-08 10:54:48,989 - Eval_-1_baseline - INFO - test time : 47.93981862068176
+2024-10-08 10:54:48,989 - Eval_-1_baseline - DEBUG - Calculated acc:  [70.31]
+2024-10-08 10:54:49,496 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 10:54:49,496 - Eval_-1_baseline - DEBUG - Epoch time: 101.27071785926819
+2024-10-08 10:54:49,496 - Eval_-1_baseline - INFO - loss decreased (63.537938 --> 63.537938).
+2024-10-08 10:54:49,499 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 10:55:43,048 - Eval_-1_baseline - DEBUG - Train Loss: 70.08512264490128
+2024-10-08 10:55:43,049 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:55:43,049 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:55:43,049 - Eval_-1_baseline - INFO - train time : 53.55050849914551
+2024-10-08 10:56:31,153 - Eval_-1_baseline - DEBUG - Test Loss: 63.40722581744194
+2024-10-08 10:56:31,154 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 10:56:31,154 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 10:56:31,154 - Eval_-1_baseline - INFO - test time : 48.10480332374573
+2024-10-08 10:56:31,154 - Eval_-1_baseline - DEBUG - acc list: [70.31, 100]
+2024-10-08 10:56:31,154 - Eval_-1_baseline - DEBUG - train_loss:  [70.1613999903202, 70.08512264490128]
+2024-10-08 10:56:31,154 - Eval_-1_baseline - DEBUG - test_loss:  [63.537937730550766, 63.40722581744194]
+2024-10-08 10:56:31,154 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 1
+2024-10-08 11:02:28,190 - Eval_-1_baseline - INFO - train_teacher mordiff
+2024-10-08 11:02:28,201 - Eval_-1_baseline - INFO - train_teacher stylegan
+2024-10-08 11:02:28,205 - Eval_-1_baseline - INFO - train_teacher lma
+2024-10-08 11:02:31,674 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 11:02:31,679 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 11:02:31,702 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 11:05:47,047 - Eval_-1_baseline - DEBUG - Train Loss: 70.57899862527847
+2024-10-08 11:05:47,047 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:05:47,047 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:05:47,047 - Eval_-1_baseline - INFO - train time : 195.368008852005
+2024-10-08 11:05:47,204 - Eval_-1_baseline - DEBUG - Train Loss: 70.13296255469322
+2024-10-08 11:05:47,204 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:05:47,204 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:05:47,204 - Eval_-1_baseline - INFO - train time : 195.50167036056519
+2024-10-08 11:05:47,407 - Eval_-1_baseline - DEBUG - Train Loss: 71.034184217453
+2024-10-08 11:05:47,407 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:05:47,408 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:05:47,408 - Eval_-1_baseline - INFO - train time : 195.73339700698853
+2024-10-08 11:08:40,996 - Eval_-1_baseline - DEBUG - Test Loss: 63.51839390397072
+2024-10-08 11:08:40,997 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:08:40,997 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:08:40,997 - Eval_-1_baseline - INFO - test time : 173.79302763938904
+2024-10-08 11:08:40,998 - Eval_-1_baseline - DEBUG - acc list: [100]
+2024-10-08 11:08:40,998 - Eval_-1_baseline - DEBUG - train_loss:  [70.13296255469322]
+2024-10-08 11:08:40,998 - Eval_-1_baseline - DEBUG - test_loss:  [63.51839390397072]
+2024-10-08 11:08:40,998 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 0
+2024-10-08 11:08:50,234 - Eval_-1_baseline - DEBUG - Test Loss: 68.86341580748558
+2024-10-08 11:08:50,235 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:08:50,235 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:08:50,235 - Eval_-1_baseline - INFO - test time : 183.18814969062805
+2024-10-08 11:08:50,235 - Eval_-1_baseline - DEBUG - Calculated acc:  [70.31]
+2024-10-08 11:08:50,488 - Eval_-1_baseline - DEBUG - Test Loss: 69.54578602313995
+2024-10-08 11:08:50,489 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:08:50,489 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:08:50,489 - Eval_-1_baseline - INFO - test time : 183.08158135414124
+2024-10-08 11:08:50,489 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36]
+2024-10-08 11:08:52,736 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 11:08:52,736 - Eval_-1_baseline - DEBUG - Epoch time: 381.1287455558777
+2024-10-08 11:08:52,736 - Eval_-1_baseline - INFO - loss decreased (68.863416 --> 68.863416).
+2024-10-08 11:08:52,741 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 11:08:53,197 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 11:08:53,197 - Eval_-1_baseline - DEBUG - Epoch time: 381.5990197658539
+2024-10-08 11:08:53,197 - Eval_-1_baseline - INFO - loss decreased (69.545786 --> 69.545786).
+2024-10-08 11:08:53,200 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 11:11:05,337 - Eval_-1_baseline - DEBUG - Train Loss: 70.46651202440262
+2024-10-08 11:11:05,337 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:11:05,337 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:11:05,338 - Eval_-1_baseline - INFO - train time : 132.5961136817932
+2024-10-08 11:11:06,474 - Eval_-1_baseline - DEBUG - Train Loss: 71.05188935995102
+2024-10-08 11:11:06,475 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:11:06,475 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3605 incorrect: 4
+2024-10-08 11:11:06,475 - Eval_-1_baseline - INFO - train time : 133.27510476112366
+2024-10-08 11:13:07,708 - Eval_-1_baseline - DEBUG - Test Loss: 68.72386366128922
+2024-10-08 11:13:07,709 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:13:07,709 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:13:07,709 - Eval_-1_baseline - INFO - test time : 122.3710777759552
+2024-10-08 11:13:07,709 - Eval_-1_baseline - DEBUG - Calculated acc:  [70.31, 70.31]
+2024-10-08 11:13:08,982 - Eval_-1_baseline - DEBUG - Test Loss: 69.39923584461212
+2024-10-08 11:13:08,983 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:13:08,983 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3605 incorrect: 4
+2024-10-08 11:13:08,983 - Eval_-1_baseline - INFO - test time : 122.50791692733765
+2024-10-08 11:13:08,983 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138]
+2024-10-08 11:13:09,476 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 1
+2024-10-08 11:13:09,476 - Eval_-1_baseline - DEBUG - Epoch time: 256.74004101753235
+2024-10-08 11:13:09,476 - Eval_-1_baseline - INFO - loss decreased (68.723864 --> 68.723864).
+2024-10-08 11:13:09,481 - Eval_-1_baseline - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-08 11:13:11,065 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 1
+2024-10-08 11:13:11,066 - Eval_-1_baseline - DEBUG - Epoch time: 257.8683114051819
+2024-10-08 11:13:11,066 - Eval_-1_baseline - INFO - loss decreased (69.399236 --> 69.399236).
+2024-10-08 11:13:11,072 - Eval_-1_baseline - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-08 11:15:20,136 - Eval_-1_baseline - DEBUG - Train Loss: 70.33921349048615
+2024-10-08 11:15:20,136 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:15:20,136 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:15:20,137 - Eval_-1_baseline - INFO - train time : 130.6552734375
+2024-10-08 11:15:23,887 - Eval_-1_baseline - DEBUG - Train Loss: 70.89575612545013
+2024-10-08 11:15:23,887 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:15:23,887 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 11:15:23,887 - Eval_-1_baseline - INFO - train time : 132.81527495384216
+2024-10-08 11:17:22,321 - Eval_-1_baseline - DEBUG - Test Loss: 68.62658113241196
+2024-10-08 11:17:22,321 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:17:22,322 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:17:22,322 - Eval_-1_baseline - INFO - test time : 122.18500590324402
+2024-10-08 11:17:22,322 - Eval_-1_baseline - DEBUG - acc list: [70.31, 70.31, 100]
+2024-10-08 11:17:22,322 - Eval_-1_baseline - DEBUG - train_loss:  [70.57899862527847, 70.46651202440262, 70.33921349048615]
+2024-10-08 11:17:22,322 - Eval_-1_baseline - DEBUG - test_loss:  [68.86341580748558, 68.72386366128922, 68.62658113241196]
+2024-10-08 11:17:22,322 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 2
+2024-10-08 11:17:24,593 - Eval_-1_baseline - DEBUG - Test Loss: 69.36515778303146
+2024-10-08 11:17:24,595 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:17:24,595 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 11:17:24,595 - Eval_-1_baseline - INFO - test time : 120.707679271698
+2024-10-08 11:17:24,595 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73]
+2024-10-08 11:17:26,435 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 2
+2024-10-08 11:17:26,435 - Eval_-1_baseline - DEBUG - Epoch time: 255.3692982196808
+2024-10-08 11:17:26,436 - Eval_-1_baseline - INFO - loss decreased (69.365158 --> 69.365158).
+2024-10-08 11:17:26,441 - Eval_-1_baseline - DEBUG - Epoch: 3,learning rate: 0.0001
+2024-10-08 11:18:20,413 - Eval_-1_baseline - DEBUG - Train Loss: 70.80913215875626
+2024-10-08 11:18:20,413 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:18:20,413 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3606 incorrect: 3
+2024-10-08 11:18:20,413 - Eval_-1_baseline - INFO - train time : 53.972633600234985
+2024-10-08 11:19:12,321 - Eval_-1_baseline - DEBUG - Test Loss: 69.24892950057983
+2024-10-08 11:19:12,322 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:19:12,322 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3606 incorrect: 3
+2024-10-08 11:19:12,322 - Eval_-1_baseline - INFO - test time : 51.90862011909485
+2024-10-08 11:19:12,322 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57]
+2024-10-08 11:19:13,936 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 3
+2024-10-08 11:19:13,937 - Eval_-1_baseline - DEBUG - Epoch time: 107.50085353851318
+2024-10-08 11:19:13,937 - Eval_-1_baseline - INFO - loss decreased (69.248930 --> 69.248930).
+2024-10-08 11:19:13,942 - Eval_-1_baseline - DEBUG - Epoch: 4,learning rate: 0.0001
+2024-10-08 11:20:07,965 - Eval_-1_baseline - DEBUG - Train Loss: 70.74516421556473
+2024-10-08 11:20:07,966 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:20:07,966 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:20:07,966 - Eval_-1_baseline - INFO - train time : 54.0239839553833
+2024-10-08 11:20:59,694 - Eval_-1_baseline - DEBUG - Test Loss: 69.07819011807442
+2024-10-08 11:20:59,695 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:20:59,695 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:20:59,695 - Eval_-1_baseline - INFO - test time : 51.72893047332764
+2024-10-08 11:20:59,695 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57, 35.36]
+2024-10-08 11:21:01,440 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 4
+2024-10-08 11:21:01,440 - Eval_-1_baseline - DEBUG - Epoch time: 107.50302791595459
+2024-10-08 11:21:01,440 - Eval_-1_baseline - INFO - loss decreased (69.078190 --> 69.078190).
+2024-10-08 11:21:01,445 - Eval_-1_baseline - DEBUG - Epoch: 5,learning rate: 0.0001
+2024-10-08 11:21:55,062 - Eval_-1_baseline - DEBUG - Train Loss: 70.71481427550316
+2024-10-08 11:21:55,062 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:21:55,062 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:21:55,062 - Eval_-1_baseline - INFO - train time : 53.617753982543945
+2024-10-08 11:22:46,985 - Eval_-1_baseline - DEBUG - Test Loss: 69.01895266771317
+2024-10-08 11:22:46,985 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:22:46,985 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:22:46,985 - Eval_-1_baseline - INFO - test time : 51.92293906211853
+2024-10-08 11:22:46,985 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57, 35.36, 35.36]
+2024-10-08 11:22:48,622 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 5
+2024-10-08 11:22:48,623 - Eval_-1_baseline - DEBUG - Epoch time: 107.1824882030487
+2024-10-08 11:22:48,623 - Eval_-1_baseline - INFO - loss decreased (69.018953 --> 69.018953).
+2024-10-08 11:22:48,627 - Eval_-1_baseline - DEBUG - Epoch: 6,learning rate: 0.0001
+2024-10-08 11:23:42,649 - Eval_-1_baseline - DEBUG - Train Loss: 70.6464549601078
+2024-10-08 11:23:42,649 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:23:42,649 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 11:23:42,649 - Eval_-1_baseline - INFO - train time : 54.02162051200867
+2024-10-08 11:24:34,941 - Eval_-1_baseline - DEBUG - Test Loss: 68.96704512834549
+2024-10-08 11:24:34,942 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:24:34,942 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 11:24:34,942 - Eval_-1_baseline - INFO - test time : 52.29285287857056
+2024-10-08 11:24:34,942 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57, 35.36, 35.36, 35.36]
+2024-10-08 11:24:36,565 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 6
+2024-10-08 11:24:36,565 - Eval_-1_baseline - DEBUG - Epoch time: 107.9423177242279
+2024-10-08 11:24:36,565 - Eval_-1_baseline - INFO - loss decreased (68.967045 --> 68.967045).
+2024-10-08 11:24:36,571 - Eval_-1_baseline - DEBUG - Epoch: 7,learning rate: 0.0001
+2024-10-08 11:25:30,401 - Eval_-1_baseline - DEBUG - Train Loss: 70.54602283239365
+2024-10-08 11:25:30,401 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:25:30,401 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:25:30,401 - Eval_-1_baseline - INFO - train time : 53.83039999008179
+2024-10-08 11:26:22,271 - Eval_-1_baseline - DEBUG - Test Loss: 68.86034074425697
+2024-10-08 11:26:22,272 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:26:22,272 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:26:22,272 - Eval_-1_baseline - INFO - test time : 51.870543241500854
+2024-10-08 11:26:22,272 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57, 35.36, 35.36, 35.36, 70.73]
+2024-10-08 11:26:23,858 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 7
+2024-10-08 11:26:23,859 - Eval_-1_baseline - DEBUG - Epoch time: 107.29324841499329
+2024-10-08 11:26:23,859 - Eval_-1_baseline - INFO - loss decreased (68.860341 --> 68.860341).
+2024-10-08 11:26:23,864 - Eval_-1_baseline - DEBUG - Epoch: 8,learning rate: 0.0001
+2024-10-08 11:27:17,690 - Eval_-1_baseline - DEBUG - Train Loss: 70.61239477992058
+2024-10-08 11:27:17,691 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 11:27:17,691 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 11:27:17,691 - Eval_-1_baseline - INFO - train time : 53.82663130760193
+2024-10-08 11:28:09,585 - Eval_-1_baseline - DEBUG - Test Loss: 68.85483795404434
+2024-10-08 11:28:09,586 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 11:28:09,586 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 11:28:09,586 - Eval_-1_baseline - INFO - test time : 51.89508128166199
+2024-10-08 11:28:09,586 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57, 35.36, 35.36, 35.36, 70.73, 17.675]
+2024-10-08 11:28:11,241 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 8
+2024-10-08 11:28:11,241 - Eval_-1_baseline - DEBUG - Epoch time: 107.38184881210327
+2024-10-08 11:28:11,241 - Eval_-1_baseline - INFO - loss decreased (68.854838 --> 68.854838).
+2024-10-08 11:28:11,246 - Eval_-1_baseline - DEBUG - Epoch: 9,learning rate: 0.0001
+2024-10-08 11:29:05,166 - Eval_-1_baseline - DEBUG - Train Loss: 70.54479533433914
+2024-10-08 11:29:05,167 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 11:29:05,167 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 11:29:05,167 - Eval_-1_baseline - INFO - train time : 53.9210147857666
+2024-10-08 11:29:56,950 - Eval_-1_baseline - DEBUG - Test Loss: 68.84672105312347
+2024-10-08 11:29:56,950 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 11:29:56,950 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3607 incorrect: 2
+2024-10-08 11:29:56,950 - Eval_-1_baseline - INFO - test time : 51.7829794883728
+2024-10-08 11:29:56,950 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57, 35.36, 35.36, 35.36, 70.73, 17.675, 17.675]
+2024-10-08 11:29:58,880 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 9
+2024-10-08 11:29:58,881 - Eval_-1_baseline - DEBUG - Epoch time: 107.63927888870239
+2024-10-08 11:29:58,881 - Eval_-1_baseline - INFO - loss decreased (68.846721 --> 68.846721).
+2024-10-08 11:29:58,885 - Eval_-1_baseline - DEBUG - Epoch: 10,learning rate: 0.0001
+2024-10-08 11:30:52,605 - Eval_-1_baseline - DEBUG - Train Loss: 70.44682857394218
+2024-10-08 11:30:52,605 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:30:52,606 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:30:52,606 - Eval_-1_baseline - INFO - train time : 53.72005224227905
+2024-10-08 11:31:44,465 - Eval_-1_baseline - DEBUG - Test Loss: 68.76734772324562
+2024-10-08 11:31:44,466 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:31:44,466 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 11:31:44,466 - Eval_-1_baseline - INFO - test time : 51.860329389572144
+2024-10-08 11:31:44,466 - Eval_-1_baseline - DEBUG - Calculated acc:  [35.36, 14.138, 70.73, 23.57, 35.36, 35.36, 35.36, 70.73, 17.675, 17.675, 35.36]
+2024-10-08 11:31:46,692 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 10
+2024-10-08 11:31:46,693 - Eval_-1_baseline - DEBUG - Epoch time: 107.81173729896545
+2024-10-08 11:31:46,693 - Eval_-1_baseline - INFO - loss decreased (68.767348 --> 68.767348).
+2024-10-08 11:31:46,698 - Eval_-1_baseline - DEBUG - Epoch: 11,learning rate: 0.0001
+2024-10-08 11:32:40,620 - Eval_-1_baseline - DEBUG - Train Loss: 70.41097754240036
+2024-10-08 11:32:40,620 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:32:40,620 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 11:32:40,621 - Eval_-1_baseline - INFO - train time : 53.92258954048157
+2024-10-08 11:33:32,379 - Eval_-1_baseline - DEBUG - Test Loss: 68.64332169294357
+2024-10-08 11:33:32,380 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:33:32,380 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 11:33:32,380 - Eval_-1_baseline - INFO - test time : 51.75921988487244
+2024-10-08 11:33:32,380 - Eval_-1_baseline - DEBUG - acc list: [35.36, 14.138, 70.73, 23.57, 35.36, 35.36, 35.36, 70.73, 17.675, 17.675, 35.36, 100]
+2024-10-08 11:33:32,380 - Eval_-1_baseline - DEBUG - train_loss:  [71.034184217453, 71.05188935995102, 70.89575612545013, 70.80913215875626, 70.74516421556473, 70.71481427550316, 70.6464549601078, 70.54602283239365, 70.61239477992058, 70.54479533433914, 70.44682857394218, 70.41097754240036]
+2024-10-08 11:33:32,380 - Eval_-1_baseline - DEBUG - test_loss:  [69.54578602313995, 69.39923584461212, 69.36515778303146, 69.24892950057983, 69.07819011807442, 69.01895266771317, 68.96704512834549, 68.86034074425697, 68.85483795404434, 68.84672105312347, 68.76734772324562, 68.64332169294357]
+2024-10-08 11:33:32,380 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 11
+2024-10-08 11:37:13,969 - Eval_-1_baseline - INFO - train_teacher lma
+2024-10-08 11:37:14,034 - Eval_-1_baseline - INFO - train_teacher stylegan
+2024-10-08 11:37:16,527 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 11:37:16,686 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 11:39:27,393 - Eval_-1_baseline - DEBUG - Train Loss: 70.60412228107452
+2024-10-08 11:39:27,394 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:39:27,394 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:39:27,394 - Eval_-1_baseline - INFO - train time : 130.8665406703949
+2024-10-08 11:39:27,619 - Eval_-1_baseline - DEBUG - Train Loss: 70.15283361077309
+2024-10-08 11:39:27,619 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:39:27,619 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:39:27,620 - Eval_-1_baseline - INFO - train time : 130.93373441696167
+2024-10-08 11:41:21,737 - Eval_-1_baseline - DEBUG - Test Loss: 63.53164303302765
+2024-10-08 11:41:21,738 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:41:21,738 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:41:21,738 - Eval_-1_baseline - INFO - test time : 114.11824822425842
+2024-10-08 11:41:21,738 - Eval_-1_baseline - DEBUG - acc list: [100]
+2024-10-08 11:41:21,738 - Eval_-1_baseline - DEBUG - train_loss:  [70.15283361077309]
+2024-10-08 11:41:21,738 - Eval_-1_baseline - DEBUG - test_loss:  [63.53164303302765]
+2024-10-08 11:41:21,738 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 0
+2024-10-08 11:41:25,551 - Eval_-1_baseline - DEBUG - Test Loss: 68.8702318072319
+2024-10-08 11:41:25,552 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:41:25,552 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:41:25,552 - Eval_-1_baseline - INFO - test time : 118.15771579742432
+2024-10-08 11:41:25,552 - Eval_-1_baseline - DEBUG - Calculated acc:  [70.31]
+2024-10-08 11:41:26,943 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 11:41:26,943 - Eval_-1_baseline - DEBUG - Epoch time: 250.47819185256958
+2024-10-08 11:41:26,943 - Eval_-1_baseline - INFO - loss decreased (68.870232 --> 68.870232).
+2024-10-08 11:41:26,948 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 11:42:20,833 - Eval_-1_baseline - DEBUG - Train Loss: 70.4627134501934
+2024-10-08 11:42:20,833 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:42:20,834 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3566 incorrect: 1
+2024-10-08 11:42:20,834 - Eval_-1_baseline - INFO - train time : 53.88517904281616
+2024-10-08 11:43:12,708 - Eval_-1_baseline - DEBUG - Test Loss: 68.7219258248806
+2024-10-08 11:43:12,708 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 11:43:12,708 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3566 incorrect: 1
+2024-10-08 11:43:12,708 - Eval_-1_baseline - INFO - test time : 51.8743736743927
+2024-10-08 11:43:12,708 - Eval_-1_baseline - DEBUG - Calculated acc:  [70.31, 35.15]
+2024-10-08 11:43:14,023 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 1
+2024-10-08 11:43:14,023 - Eval_-1_baseline - DEBUG - Epoch time: 107.07950329780579
+2024-10-08 11:43:14,023 - Eval_-1_baseline - INFO - loss decreased (68.721926 --> 68.721926).
+2024-10-08 11:43:14,028 - Eval_-1_baseline - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-08 11:44:07,536 - Eval_-1_baseline - DEBUG - Train Loss: 70.38090413808823
+2024-10-08 11:44:07,536 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:44:07,536 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:44:07,536 - Eval_-1_baseline - INFO - train time : 53.50812101364136
+2024-10-08 11:44:59,427 - Eval_-1_baseline - DEBUG - Test Loss: 68.61767998337746
+2024-10-08 11:44:59,428 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 11:44:59,428 - Eval_-1_baseline - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-08 11:44:59,428 - Eval_-1_baseline - INFO - test time : 51.89150309562683
+2024-10-08 11:44:59,428 - Eval_-1_baseline - DEBUG - acc list: [70.31, 35.15, 100]
+2024-10-08 11:44:59,428 - Eval_-1_baseline - DEBUG - train_loss:  [70.60412228107452, 70.4627134501934, 70.38090413808823]
+2024-10-08 11:44:59,428 - Eval_-1_baseline - DEBUG - test_loss:  [68.8702318072319, 68.7219258248806, 68.61767998337746]
+2024-10-08 11:44:59,428 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 2
+2024-10-08 12:06:17,371 - Eval_-1_baseline - INFO - train_teacher post_process
+2024-10-08 12:06:17,376 - Eval_-1_baseline - INFO - train_teacher Morphing_Diffusion_2024
+2024-10-08 12:06:19,748 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 12:06:19,765 - Eval_-1_baseline - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-08 12:07:23,483 - Eval_-1_baseline - DEBUG - Train Loss: 62.15774509310722
+2024-10-08 12:07:23,483 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3008 incorrect: 457
+2024-10-08 12:07:23,483 - Eval_-1_baseline - DEBUG - Morph (0): correct: 0 incorrect: 0
+2024-10-08 12:07:23,483 - Eval_-1_baseline - INFO - train time : 63.73545026779175
+2024-10-08 12:08:14,033 - Eval_-1_baseline - DEBUG - Test Loss: 42.14408504962921
+2024-10-08 12:08:14,034 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3008 incorrect: 457
+2024-10-08 12:08:14,035 - Eval_-1_baseline - DEBUG - Morph (0): correct: 0 incorrect: 0
+2024-10-08 12:08:14,035 - Eval_-1_baseline - INFO - test time : 50.55140972137451
+2024-10-08 12:08:14,035 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.06582056892778994]
+2024-10-08 12:08:14,660 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 12:08:14,660 - Eval_-1_baseline - DEBUG - Epoch time: 115.24328517913818
+2024-10-08 12:08:14,660 - Eval_-1_baseline - INFO - loss decreased (42.144085 --> 42.144085).
+2024-10-08 12:08:14,662 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 12:08:28,200 - Eval_-1_baseline - DEBUG - Train Loss: 135.46971064805984
+2024-10-08 12:08:28,200 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3251 incorrect: 214
+2024-10-08 12:08:28,200 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 2809 incorrect: 800
+2024-10-08 12:08:28,201 - Eval_-1_baseline - INFO - train time : 128.43565893173218
+2024-10-08 12:09:18,572 - Eval_-1_baseline - DEBUG - Train Loss: 45.41330936551094
+2024-10-08 12:09:18,573 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 12:09:18,573 - Eval_-1_baseline - DEBUG - Morph (0): correct: 0 incorrect: 0
+2024-10-08 12:09:18,573 - Eval_-1_baseline - INFO - train time : 63.910746335983276
+2024-10-08 12:10:11,601 - Eval_-1_baseline - DEBUG - Test Loss: 35.66085994243622
+2024-10-08 12:10:11,601 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 12:10:11,601 - Eval_-1_baseline - DEBUG - Morph (0): correct: 0 incorrect: 0
+2024-10-08 12:10:11,601 - Eval_-1_baseline - INFO - test time : 53.02777647972107
+2024-10-08 12:10:11,601 - Eval_-1_baseline - DEBUG - acc list: [0.06582056892778994, 100]
+2024-10-08 12:10:11,601 - Eval_-1_baseline - DEBUG - train_loss:  [62.15774509310722, 45.41330936551094]
+2024-10-08 12:10:11,601 - Eval_-1_baseline - DEBUG - test_loss:  [42.14408504962921, 35.66085994243622]
+2024-10-08 12:10:11,601 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 1
+2024-10-08 12:10:19,568 - Eval_-1_baseline - DEBUG - Test Loss: 121.36918151378632
+2024-10-08 12:10:19,569 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3251 incorrect: 214
+2024-10-08 12:10:19,569 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 2809 incorrect: 800
+2024-10-08 12:10:19,569 - Eval_-1_baseline - INFO - test time : 111.3682918548584
+2024-10-08 12:10:19,569 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454]
+2024-10-08 12:10:20,079 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 0
+2024-10-08 12:10:20,079 - Eval_-1_baseline - DEBUG - Epoch time: 240.6231575012207
+2024-10-08 12:10:20,080 - Eval_-1_baseline - INFO - loss decreased (121.369182 --> 121.369182).
+2024-10-08 12:10:20,082 - Eval_-1_baseline - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-08 12:11:14,118 - Eval_-1_baseline - DEBUG - Train Loss: 114.44819414615631
+2024-10-08 12:11:14,119 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3303 incorrect: 162
+2024-10-08 12:11:14,119 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3550 incorrect: 59
+2024-10-08 12:11:14,119 - Eval_-1_baseline - INFO - train time : 54.03724479675293
+2024-10-08 12:12:06,104 - Eval_-1_baseline - DEBUG - Test Loss: 104.30343133211136
+2024-10-08 12:12:06,105 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3303 incorrect: 162
+2024-10-08 12:12:06,105 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3550 incorrect: 59
+2024-10-08 12:12:06,105 - Eval_-1_baseline - INFO - test time : 51.98613119125366
+2024-10-08 12:12:06,105 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654]
+2024-10-08 12:12:07,443 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 1
+2024-10-08 12:12:07,444 - Eval_-1_baseline - DEBUG - Epoch time: 107.3640022277832
+2024-10-08 12:12:07,444 - Eval_-1_baseline - INFO - loss decreased (104.303431 --> 104.303431).
+2024-10-08 12:12:07,448 - Eval_-1_baseline - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-08 12:13:01,185 - Eval_-1_baseline - DEBUG - Train Loss: 99.23948988318443
+2024-10-08 12:13:01,185 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3426 incorrect: 39
+2024-10-08 12:13:01,185 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3541 incorrect: 68
+2024-10-08 12:13:01,185 - Eval_-1_baseline - INFO - train time : 53.7366840839386
+2024-10-08 12:13:52,974 - Eval_-1_baseline - DEBUG - Test Loss: 93.23471558094025
+2024-10-08 12:13:52,974 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3426 incorrect: 39
+2024-10-08 12:13:52,974 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3541 incorrect: 68
+2024-10-08 12:13:52,974 - Eval_-1_baseline - INFO - test time : 51.78903293609619
+2024-10-08 12:13:52,974 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027]
+2024-10-08 12:13:54,456 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 2
+2024-10-08 12:13:54,457 - Eval_-1_baseline - DEBUG - Epoch time: 107.01259517669678
+2024-10-08 12:13:54,457 - Eval_-1_baseline - INFO - loss decreased (93.234716 --> 93.234716).
+2024-10-08 12:13:54,461 - Eval_-1_baseline - DEBUG - Epoch: 3,learning rate: 0.0001
+2024-10-08 12:14:48,293 - Eval_-1_baseline - DEBUG - Train Loss: 89.96013900637627
+2024-10-08 12:14:48,293 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3446 incorrect: 19
+2024-10-08 12:14:48,293 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3543 incorrect: 66
+2024-10-08 12:14:48,293 - Eval_-1_baseline - INFO - train time : 53.832101345062256
+2024-10-08 12:15:40,860 - Eval_-1_baseline - DEBUG - Test Loss: 86.10276055335999
+2024-10-08 12:15:40,861 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3446 incorrect: 19
+2024-10-08 12:15:40,861 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3543 incorrect: 66
+2024-10-08 12:15:40,861 - Eval_-1_baseline - INFO - test time : 52.5677433013916
+2024-10-08 12:15:40,861 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471]
+2024-10-08 12:15:42,501 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 3
+2024-10-08 12:15:42,501 - Eval_-1_baseline - DEBUG - Epoch time: 108.04450559616089
+2024-10-08 12:15:42,501 - Eval_-1_baseline - INFO - loss decreased (86.102761 --> 86.102761).
+2024-10-08 12:15:42,506 - Eval_-1_baseline - DEBUG - Epoch: 4,learning rate: 0.0001
+2024-10-08 12:16:36,261 - Eval_-1_baseline - DEBUG - Train Loss: 84.24618574976921
+2024-10-08 12:16:36,261 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3457 incorrect: 8
+2024-10-08 12:16:36,261 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3564 incorrect: 45
+2024-10-08 12:16:36,261 - Eval_-1_baseline - INFO - train time : 53.75466442108154
+2024-10-08 12:17:28,394 - Eval_-1_baseline - DEBUG - Test Loss: 81.62641528248787
+2024-10-08 12:17:28,394 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3457 incorrect: 8
+2024-10-08 12:17:28,394 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3564 incorrect: 45
+2024-10-08 12:17:28,394 - Eval_-1_baseline - INFO - test time : 52.133164167404175
+2024-10-08 12:17:28,395 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754]
+2024-10-08 12:17:29,834 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 4
+2024-10-08 12:17:29,835 - Eval_-1_baseline - DEBUG - Epoch time: 107.33290576934814
+2024-10-08 12:17:29,835 - Eval_-1_baseline - INFO - loss decreased (81.626415 --> 81.626415).
+2024-10-08 12:17:29,840 - Eval_-1_baseline - DEBUG - Epoch: 5,learning rate: 0.0001
+2024-10-08 12:18:23,567 - Eval_-1_baseline - DEBUG - Train Loss: 80.97751975059509
+2024-10-08 12:18:23,568 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3462 incorrect: 3
+2024-10-08 12:18:23,568 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3575 incorrect: 34
+2024-10-08 12:18:23,568 - Eval_-1_baseline - INFO - train time : 53.72786808013916
+2024-10-08 12:19:15,521 - Eval_-1_baseline - DEBUG - Test Loss: 78.6747467815876
+2024-10-08 12:19:15,522 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3462 incorrect: 3
+2024-10-08 12:19:15,522 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3575 incorrect: 34
+2024-10-08 12:19:15,522 - Eval_-1_baseline - INFO - test time : 51.95443677902222
+2024-10-08 12:19:15,522 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892]
+2024-10-08 12:19:17,452 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 5
+2024-10-08 12:19:17,453 - Eval_-1_baseline - DEBUG - Epoch time: 107.6178150177002
+2024-10-08 12:19:17,453 - Eval_-1_baseline - INFO - loss decreased (78.674747 --> 78.674747).
+2024-10-08 12:19:17,457 - Eval_-1_baseline - DEBUG - Epoch: 6,learning rate: 0.0001
+2024-10-08 12:20:11,336 - Eval_-1_baseline - DEBUG - Train Loss: 78.45315760374069
+2024-10-08 12:20:11,337 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:20:11,337 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3582 incorrect: 27
+2024-10-08 12:20:11,337 - Eval_-1_baseline - INFO - train time : 53.879475116729736
+2024-10-08 12:21:03,219 - Eval_-1_baseline - DEBUG - Test Loss: 76.54688265919685
+2024-10-08 12:21:03,220 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:21:03,220 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3582 incorrect: 27
+2024-10-08 12:21:03,220 - Eval_-1_baseline - INFO - test time : 51.883076190948486
+2024-10-08 12:21:03,220 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715]
+2024-10-08 12:21:04,704 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 6
+2024-10-08 12:21:04,704 - Eval_-1_baseline - DEBUG - Epoch time: 107.25148820877075
+2024-10-08 12:21:04,704 - Eval_-1_baseline - INFO - loss decreased (76.546883 --> 76.546883).
+2024-10-08 12:21:04,708 - Eval_-1_baseline - DEBUG - Epoch: 7,learning rate: 0.0001
+2024-10-08 12:21:58,549 - Eval_-1_baseline - DEBUG - Train Loss: 76.7749325633049
+2024-10-08 12:21:58,549 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3461 incorrect: 4
+2024-10-08 12:21:58,549 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3592 incorrect: 17
+2024-10-08 12:21:58,549 - Eval_-1_baseline - INFO - train time : 53.84058165550232
+2024-10-08 12:22:50,356 - Eval_-1_baseline - DEBUG - Test Loss: 74.95558685064316
+2024-10-08 12:22:50,357 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3461 incorrect: 4
+2024-10-08 12:22:50,357 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3592 incorrect: 17
+2024-10-08 12:22:50,357 - Eval_-1_baseline - INFO - test time : 51.80784893035889
+2024-10-08 12:22:50,357 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285]
+2024-10-08 12:22:52,565 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 7
+2024-10-08 12:22:52,566 - Eval_-1_baseline - DEBUG - Epoch time: 107.86116027832031
+2024-10-08 12:22:52,566 - Eval_-1_baseline - INFO - loss decreased (74.955587 --> 74.955587).
+2024-10-08 12:22:52,570 - Eval_-1_baseline - DEBUG - Epoch: 8,learning rate: 0.0001
+2024-10-08 12:23:46,271 - Eval_-1_baseline - DEBUG - Train Loss: 75.66125610470772
+2024-10-08 12:23:46,271 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:23:46,271 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3602 incorrect: 7
+2024-10-08 12:23:46,271 - Eval_-1_baseline - INFO - train time : 53.701454877853394
+2024-10-08 12:24:38,200 - Eval_-1_baseline - DEBUG - Test Loss: 73.6468237042427
+2024-10-08 12:24:38,201 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:24:38,202 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3602 incorrect: 7
+2024-10-08 12:24:38,202 - Eval_-1_baseline - INFO - test time : 51.93056535720825
+2024-10-08 12:24:38,202 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85]
+2024-10-08 12:24:39,781 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 8
+2024-10-08 12:24:39,782 - Eval_-1_baseline - DEBUG - Epoch time: 107.2159857749939
+2024-10-08 12:24:39,782 - Eval_-1_baseline - INFO - loss decreased (73.646824 --> 73.646824).
+2024-10-08 12:24:39,786 - Eval_-1_baseline - DEBUG - Epoch: 9,learning rate: 0.0001
+2024-10-08 12:25:33,782 - Eval_-1_baseline - DEBUG - Train Loss: 74.69954892992973
+2024-10-08 12:25:33,783 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:25:33,783 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3599 incorrect: 10
+2024-10-08 12:25:33,783 - Eval_-1_baseline - INFO - train time : 53.99624967575073
+2024-10-08 12:26:25,667 - Eval_-1_baseline - DEBUG - Test Loss: 72.94439715147018
+2024-10-08 12:26:25,668 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:26:25,668 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3599 incorrect: 10
+2024-10-08 12:26:25,668 - Eval_-1_baseline - INFO - test time : 51.88533115386963
+2024-10-08 12:26:25,668 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091]
+2024-10-08 12:26:27,290 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 9
+2024-10-08 12:26:27,290 - Eval_-1_baseline - DEBUG - Epoch time: 107.50805234909058
+2024-10-08 12:26:27,290 - Eval_-1_baseline - INFO - loss decreased (72.944397 --> 72.944397).
+2024-10-08 12:26:27,295 - Eval_-1_baseline - DEBUG - Epoch: 10,learning rate: 0.0001
+2024-10-08 12:27:21,170 - Eval_-1_baseline - DEBUG - Train Loss: 74.01909041404724
+2024-10-08 12:27:21,170 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:27:21,171 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3600 incorrect: 9
+2024-10-08 12:27:21,171 - Eval_-1_baseline - INFO - train time : 53.87533926963806
+2024-10-08 12:28:13,018 - Eval_-1_baseline - DEBUG - Test Loss: 72.1193313896656
+2024-10-08 12:28:13,019 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:28:13,019 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3600 incorrect: 9
+2024-10-08 12:28:13,019 - Eval_-1_baseline - INFO - test time : 51.84782433509827
+2024-10-08 12:28:13,019 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091, 7.064]
+2024-10-08 12:28:14,402 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 10
+2024-10-08 12:28:14,402 - Eval_-1_baseline - DEBUG - Epoch time: 107.11138463020325
+2024-10-08 12:28:14,402 - Eval_-1_baseline - INFO - loss decreased (72.119331 --> 72.119331).
+2024-10-08 12:28:14,407 - Eval_-1_baseline - DEBUG - Epoch: 11,learning rate: 0.0001
+2024-10-08 12:29:08,187 - Eval_-1_baseline - DEBUG - Train Loss: 73.44166362285614
+2024-10-08 12:29:08,187 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:29:08,187 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3605 incorrect: 4
+2024-10-08 12:29:08,187 - Eval_-1_baseline - INFO - train time : 53.78004813194275
+2024-10-08 12:30:00,019 - Eval_-1_baseline - DEBUG - Test Loss: 71.50534361600876
+2024-10-08 12:30:00,020 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:30:00,020 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3605 incorrect: 4
+2024-10-08 12:30:00,020 - Eval_-1_baseline - INFO - test time : 51.83262062072754
+2024-10-08 12:30:00,020 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091, 7.064, 11.78]
+2024-10-08 12:30:01,457 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 11
+2024-10-08 12:30:01,457 - Eval_-1_baseline - DEBUG - Epoch time: 107.05474138259888
+2024-10-08 12:30:01,457 - Eval_-1_baseline - INFO - loss decreased (71.505344 --> 71.505344).
+2024-10-08 12:30:01,462 - Eval_-1_baseline - DEBUG - Epoch: 12,learning rate: 0.0001
+2024-10-08 12:30:55,267 - Eval_-1_baseline - DEBUG - Train Loss: 73.02985164523125
+2024-10-08 12:30:55,267 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:30:55,267 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3604 incorrect: 5
+2024-10-08 12:30:55,267 - Eval_-1_baseline - INFO - train time : 53.80486822128296
+2024-10-08 12:31:47,049 - Eval_-1_baseline - DEBUG - Test Loss: 71.20975053310394
+2024-10-08 12:31:47,050 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:31:47,050 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3604 incorrect: 5
+2024-10-08 12:31:47,050 - Eval_-1_baseline - INFO - test time : 51.783180236816406
+2024-10-08 12:31:47,050 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091, 7.064, 11.78, 10.095714285714285]
+2024-10-08 12:31:49,207 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 12
+2024-10-08 12:31:49,207 - Eval_-1_baseline - DEBUG - Epoch time: 107.74995350837708
+2024-10-08 12:31:49,207 - Eval_-1_baseline - INFO - loss decreased (71.209751 --> 71.209751).
+2024-10-08 12:31:49,214 - Eval_-1_baseline - DEBUG - Epoch: 13,learning rate: 0.0001
+2024-10-08 12:32:43,144 - Eval_-1_baseline - DEBUG - Train Loss: 72.57755732536316
+2024-10-08 12:32:43,144 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 12:32:43,144 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 12:32:43,144 - Eval_-1_baseline - INFO - train time : 53.929832220077515
+2024-10-08 12:33:35,290 - Eval_-1_baseline - DEBUG - Test Loss: 70.76086536049843
+2024-10-08 12:33:35,291 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 12:33:35,291 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 12:33:35,291 - Eval_-1_baseline - INFO - test time : 52.14699864387512
+2024-10-08 12:33:35,291 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091, 7.064, 11.78, 10.095714285714285, 70.73]
+2024-10-08 12:33:36,756 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 13
+2024-10-08 12:33:36,756 - Eval_-1_baseline - DEBUG - Epoch time: 107.54883813858032
+2024-10-08 12:33:36,756 - Eval_-1_baseline - INFO - loss decreased (70.760865 --> 70.760865).
+2024-10-08 12:33:36,759 - Eval_-1_baseline - DEBUG - Epoch: 14,learning rate: 0.0001
+2024-10-08 12:34:30,470 - Eval_-1_baseline - DEBUG - Train Loss: 72.40103277564049
+2024-10-08 12:34:30,470 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:34:30,470 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3606 incorrect: 3
+2024-10-08 12:34:30,470 - Eval_-1_baseline - INFO - train time : 53.71065545082092
+2024-10-08 12:35:22,219 - Eval_-1_baseline - DEBUG - Test Loss: 70.44991818070412
+2024-10-08 12:35:22,220 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3463 incorrect: 2
+2024-10-08 12:35:22,220 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3606 incorrect: 3
+2024-10-08 12:35:22,220 - Eval_-1_baseline - INFO - test time : 51.74969840049744
+2024-10-08 12:35:22,220 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091, 7.064, 11.78, 10.095714285714285, 70.73, 14.138]
+2024-10-08 12:35:24,102 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 14
+2024-10-08 12:35:24,102 - Eval_-1_baseline - DEBUG - Epoch time: 107.34538745880127
+2024-10-08 12:35:24,102 - Eval_-1_baseline - INFO - loss decreased (70.449918 --> 70.449918).
+2024-10-08 12:35:24,107 - Eval_-1_baseline - DEBUG - Epoch: 15,learning rate: 0.0001
+2024-10-08 12:36:17,876 - Eval_-1_baseline - DEBUG - Train Loss: 72.06276515126228
+2024-10-08 12:36:17,876 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:36:17,877 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 12:36:17,877 - Eval_-1_baseline - INFO - train time : 53.7694628238678
+2024-10-08 12:37:09,780 - Eval_-1_baseline - DEBUG - Test Loss: 70.13571673631668
+2024-10-08 12:37:09,781 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-08 12:37:09,781 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-08 12:37:09,781 - Eval_-1_baseline - INFO - test time : 51.90418457984924
+2024-10-08 12:37:09,781 - Eval_-1_baseline - DEBUG - Calculated acc:  [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091, 7.064, 11.78, 10.095714285714285, 70.73, 14.138, 35.36]
+2024-10-08 12:37:11,488 - Eval_-1_baseline - DEBUG - Model saved successfully at epoch 15
+2024-10-08 12:37:11,488 - Eval_-1_baseline - DEBUG - Epoch time: 107.38611054420471
+2024-10-08 12:37:11,488 - Eval_-1_baseline - INFO - loss decreased (70.135717 --> 70.135717).
+2024-10-08 12:37:11,493 - Eval_-1_baseline - DEBUG - Epoch: 16,learning rate: 0.0001
+2024-10-08 12:38:05,281 - Eval_-1_baseline - DEBUG - Train Loss: 71.87993910908699
+2024-10-08 12:38:05,281 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 12:38:05,281 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 12:38:05,281 - Eval_-1_baseline - INFO - train time : 53.78846311569214
+2024-10-08 12:38:57,057 - Eval_-1_baseline - DEBUG - Test Loss: 69.92805209755898
+2024-10-08 12:38:57,058 - Eval_-1_baseline - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-08 12:38:57,058 - Eval_-1_baseline - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-08 12:38:57,058 - Eval_-1_baseline - INFO - test time : 51.77654814720154
+2024-10-08 12:38:57,058 - Eval_-1_baseline - DEBUG - acc list: [0.059763313609467454, 0.31009049773755654, 0.6511214953271027, 0.8222352941176471, 1.3247169811320754, 1.901891891891892, 2.5164285714285715, 3.3585714285714285, 7.85, 6.420909090909091, 7.064, 11.78, 10.095714285714285, 70.73, 14.138, 35.36, 100]
+2024-10-08 12:38:57,058 - Eval_-1_baseline - DEBUG - train_loss:  [135.46971064805984, 114.44819414615631, 99.23948988318443, 89.96013900637627, 84.24618574976921, 80.97751975059509, 78.45315760374069, 76.7749325633049, 75.66125610470772, 74.69954892992973, 74.01909041404724, 73.44166362285614, 73.02985164523125, 72.57755732536316, 72.40103277564049, 72.06276515126228, 71.87993910908699]
+2024-10-08 12:38:57,058 - Eval_-1_baseline - DEBUG - test_loss:  [121.36918151378632, 104.30343133211136, 93.23471558094025, 86.10276055335999, 81.62641528248787, 78.6747467815876, 76.54688265919685, 74.95558685064316, 73.6468237042427, 72.94439715147018, 72.1193313896656, 71.50534361600876, 71.20975053310394, 70.76086536049843, 70.44991818070412, 70.13571673631668, 69.92805209755898]
+2024-10-08 12:38:57,058 - Eval_-1_baseline - DEBUG - PLOT_EPOCH 16

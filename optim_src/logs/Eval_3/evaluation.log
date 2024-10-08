@@ -1,0 +1,630 @@
+2024-10-03 13:03:31,958 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:03:31,976 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:03:51,832 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:03:52,112 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:04:10,534 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:04:11,331 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:04:27,112 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:04:27,655 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:04:44,319 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:04:44,642 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:04,405 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:05,275 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:24,031 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:24,098 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:41,562 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:42,211 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:58,060 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:05:58,206 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:06:16,777 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:06:16,791 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:06:36,611 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:06:37,002 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:06:56,626 - Eval_3_evaluation - INFO - eval student: pipe
+2024-10-03 13:06:56,693 - Eval_3_evaluation - INFO - eval student: pipe
+
+
+2024-10-03 14:40:31,458 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-03 14:40:44,620 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:41:07,517 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:41:36,474 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:41:53,263 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:42:13,541 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:42:30,699 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:43:17,861 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:43:36,428 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:43:58,455 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:44:24,898 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:44:51,106 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-03 14:45:09,715 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:45:12,846 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:45:31,117 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:45:42,204 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:45:53,992 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:46:01,426 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:46:16,860 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:46:23,512 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:46:56,315 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:47:01,719 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-03 14:47:01,956 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:47:16,420 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:47:19,579 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:47:22,716 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:47:37,309 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:47:37,383 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:47:39,479 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:48:08,725 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:48:12,563 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-03 14:48:21,472 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:48:27,374 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:48:35,798 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:48:36,812 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:48:52,567 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:49:12,209 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:49:16,384 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:49:21,343 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:49:44,044 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:49:54,622 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:50:02,417 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:50:08,504 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:50:18,501 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:50:25,503 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:50:32,251 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-03 14:50:37,740 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:50:50,072 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:50:53,247 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:50:54,641 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:50:58,751 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:51:11,798 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:51:13,972 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-03 14:51:16,755 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:51:18,119 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:51:35,273 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:51:37,805 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:51:43,705 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:51:45,352 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:51:45,917 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:51:56,784 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:52:02,036 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:52:06,105 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:52:06,156 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:52:09,804 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:52:14,111 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:52:23,835 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:52:25,515 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:52:29,657 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:52:35,047 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:52:40,265 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:52:43,201 - Eval_3_evaluation - INFO - EER Table:
+2024-10-03 14:52:43,201 - Eval_3_evaluation - INFO - teacher_pipe: {'mipgan1': 1.77, 'cvmi': 8.64, 'lma': 1.04, 'stylegan': 1.23}
+2024-10-03 14:52:43,202 - Eval_3_evaluation - INFO - teacher_lmaubo: {'mipgan1': 0.0, 'cvmi': 44.28, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-03 14:52:43,202 - Eval_3_evaluation - INFO - teacher_mipgan2: {'mipgan1': 0.0, 'cvmi': 29.31, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-03 14:52:43,202 - Eval_3_evaluation - INFO - teacher_mordiff: {'mipgan1': 0.36, 'cvmi': 12.02, 'lma': 0.33, 'stylegan': 0.37}
+2024-10-03 14:52:43,202 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0: {'mipgan1': 0.08, 'cvmi': 0.12, 'lma': 0.13, 'stylegan': 0.08}
+2024-10-03 14:52:43,202 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-03 14:52:43,202 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs cvmi: DEER = 6.8700
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs lma: DEER = 0.7300
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs stylegan: DEER = 0.5400
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs lma: DEER = 7.6000
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs stylegan: DEER = 7.4100
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_pipe on lma vs stylegan: DEER = 0.1900
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs cvmi: DEER = 44.2800
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs lma: DEER = 0.0000
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs lma: DEER = 44.2800
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs stylegan: DEER = 44.2800
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_lmaubo on lma vs stylegan: DEER = 0.0000
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs cvmi: DEER = 29.3100
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs lma: DEER = 0.0000
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs lma: DEER = 29.3100
+2024-10-03 14:52:43,203 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs stylegan: DEER = 29.3100
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - teacher_mipgan2 on lma vs stylegan: DEER = 0.0000
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs cvmi: DEER = 11.6600
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs lma: DEER = 0.0300
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs stylegan: DEER = 0.0100
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs lma: DEER = 11.6900
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs stylegan: DEER = 11.6500
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - teacher_mordiff on lma vs stylegan: DEER = 0.0400
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan1 vs cvmi: DEER = 0.0400
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan1 vs lma: DEER = 0.0500
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on cvmi vs lma: DEER = 0.0100
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on cvmi vs stylegan: DEER = 0.0400
+2024-10-03 14:52:43,204 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lma vs stylegan: DEER = 0.0500
+2024-10-03 14:52:44,352 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:52:45,786 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:52:48,207 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:52:55,806 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-03 14:53:07,704 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:53:21,546 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:53:21,546 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:53:22,648 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:53:25,662 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:53:26,706 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:53:40,189 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:53:43,183 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:53:57,477 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:54:01,804 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:54:05,644 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:54:10,796 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 14:54:20,989 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:54:26,378 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:54:29,210 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:54:36,515 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:54:54,273 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-03 14:54:57,208 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:54:57,486 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:54:58,456 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 14:54:59,228 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:55:14,908 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:55:18,832 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:55:33,113 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:55:37,831 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:55:42,116 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:55:55,020 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:55:58,209 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-03 14:56:00,851 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 14:56:10,284 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:56:21,232 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:56:28,481 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:56:35,856 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:56:42,490 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 14:56:53,844 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 14:56:56,821 - Eval_3_evaluation - INFO - EER Table:
+2024-10-03 14:56:56,822 - Eval_3_evaluation - INFO - teacher_pipe: {'lmaubo': 7.55, 'mipgan2': 0.72, 'mordiff': 0.17, 'pipe': 0.17}
+2024-10-03 14:56:56,822 - Eval_3_evaluation - INFO - teacher_lmaubo: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 40.11, 'pipe': 40.39}
+2024-10-03 14:56:56,822 - Eval_3_evaluation - INFO - teacher_mipgan2: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 15.77, 'pipe': 15.96}
+2024-10-03 14:56:56,822 - Eval_3_evaluation - INFO - teacher_mordiff: {'lmaubo': 1.6, 'mipgan2': 0.28, 'mordiff': 0.15, 'pipe': 0.15}
+2024-10-03 14:56:56,822 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0: {'lmaubo': 2.04, 'mipgan2': 0.08, 'mordiff': 0.07, 'pipe': 0.07}
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mipgan2: DEER = 6.8300
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mordiff: DEER = 7.3800
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs pipe: DEER = 7.3800
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs mordiff: DEER = 0.5500
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs pipe: DEER = 0.5500
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_pipe on mordiff vs pipe: DEER = 0.0000
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 40.1100
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs pipe: DEER = 40.3900
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 40.1100
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 40.3900
+2024-10-03 14:56:56,823 - Eval_3_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.2800
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mordiff: DEER = 15.7700
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs pipe: DEER = 15.9600
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs mordiff: DEER = 15.7700
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs pipe: DEER = 15.9600
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mipgan2 on mordiff vs pipe: DEER = 0.1900
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mipgan2: DEER = 1.3200
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mordiff: DEER = 1.4500
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs pipe: DEER = 1.4500
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs mordiff: DEER = 0.1300
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs pipe: DEER = 0.1300
+2024-10-03 14:56:56,824 - Eval_3_evaluation - INFO - teacher_mordiff on mordiff vs pipe: DEER = 0.0000
+2024-10-03 14:56:56,825 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lmaubo vs mipgan2: DEER = 1.9600
+2024-10-03 14:56:56,825 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lmaubo vs mordiff: DEER = 1.9700
+2024-10-03 14:56:56,825 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lmaubo vs pipe: DEER = 1.9700
+2024-10-03 14:56:56,825 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan2 vs mordiff: DEER = 0.0100
+2024-10-03 14:56:56,825 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan2 vs pipe: DEER = 0.0100
+2024-10-03 14:56:56,825 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mordiff vs pipe: DEER = 0.0000
+2024-10-03 14:57:01,965 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-03 14:57:02,273 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 14:57:13,878 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 14:57:45,037 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 14:57:58,403 - Eval_3_evaluation - INFO - EER Table:
+2024-10-03 14:57:58,404 - Eval_3_evaluation - INFO - teacher_pipe: {'mipgan1': 1.77, 'cvmi': 8.64, 'lma': 1.04, 'stylegan': 1.23}
+2024-10-03 14:57:58,404 - Eval_3_evaluation - INFO - teacher_lmaubo: {'mipgan1': 0.0, 'cvmi': 44.28, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-03 14:57:58,404 - Eval_3_evaluation - INFO - teacher_mipgan2: {'mipgan1': 0.0, 'cvmi': 29.31, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-03 14:57:58,404 - Eval_3_evaluation - INFO - teacher_mordiff: {'mipgan1': 0.36, 'cvmi': 12.02, 'lma': 0.33, 'stylegan': 0.37}
+2024-10-03 14:57:58,404 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5: {'mipgan1': 0.21, 'cvmi': 0.86, 'lma': 0.18, 'stylegan': 0.16}
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs cvmi: DEER = 6.8700
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs lma: DEER = 0.7300
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs stylegan: DEER = 0.5400
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs lma: DEER = 7.6000
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs stylegan: DEER = 7.4100
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_pipe on lma vs stylegan: DEER = 0.1900
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs cvmi: DEER = 44.2800
+2024-10-03 14:57:58,405 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs lma: DEER = 0.0000
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs lma: DEER = 44.2800
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs stylegan: DEER = 44.2800
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_lmaubo on lma vs stylegan: DEER = 0.0000
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs cvmi: DEER = 29.3100
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs lma: DEER = 0.0000
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs lma: DEER = 29.3100
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs stylegan: DEER = 29.3100
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mipgan2 on lma vs stylegan: DEER = 0.0000
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs cvmi: DEER = 11.6600
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs lma: DEER = 0.0300
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs stylegan: DEER = 0.0100
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs lma: DEER = 11.6900
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs stylegan: DEER = 11.6500
+2024-10-03 14:57:58,406 - Eval_3_evaluation - INFO - teacher_mordiff on lma vs stylegan: DEER = 0.0400
+2024-10-03 14:57:58,407 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan1 vs cvmi: DEER = 0.6500
+2024-10-03 14:57:58,407 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan1 vs lma: DEER = 0.0300
+2024-10-03 14:57:58,407 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan1 vs stylegan: DEER = 0.0500
+2024-10-03 14:57:58,407 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on cvmi vs lma: DEER = 0.6800
+2024-10-03 14:57:58,407 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on cvmi vs stylegan: DEER = 0.7000
+2024-10-03 14:57:58,407 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lma vs stylegan: DEER = 0.0200
+2024-10-03 14:57:59,130 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:58:05,611 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 14:58:31,369 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:58:59,252 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:59:22,074 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-03 14:59:54,935 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 15:00:18,446 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-03 15:00:48,808 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 15:01:03,983 - Eval_3_evaluation - INFO - EER Table:
+2024-10-03 15:01:03,984 - Eval_3_evaluation - INFO - teacher_pipe: {'lmaubo': 7.55, 'mipgan2': 0.72, 'mordiff': 0.17, 'pipe': 0.17}
+2024-10-03 15:01:03,984 - Eval_3_evaluation - INFO - teacher_lmaubo: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 40.11, 'pipe': 40.39}
+2024-10-03 15:01:03,984 - Eval_3_evaluation - INFO - teacher_mipgan2: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 15.77, 'pipe': 15.96}
+2024-10-03 15:01:03,984 - Eval_3_evaluation - INFO - teacher_mordiff: {'lmaubo': 1.6, 'mipgan2': 0.28, 'mordiff': 0.15, 'pipe': 0.15}
+2024-10-03 15:01:03,984 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5: {'lmaubo': 0.21, 'mipgan2': 0.17, 'mordiff': 0.15, 'pipe': 0.15}
+2024-10-03 15:01:03,984 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mipgan2: DEER = 6.8300
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mordiff: DEER = 7.3800
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs pipe: DEER = 7.3800
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs mordiff: DEER = 0.5500
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs pipe: DEER = 0.5500
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_pipe on mordiff vs pipe: DEER = 0.0000
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 40.1100
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs pipe: DEER = 40.3900
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 40.1100
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 40.3900
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.2800
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mordiff: DEER = 15.7700
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs pipe: DEER = 15.9600
+2024-10-03 15:01:03,985 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs mordiff: DEER = 15.7700
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs pipe: DEER = 15.9600
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mipgan2 on mordiff vs pipe: DEER = 0.1900
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mipgan2: DEER = 1.3200
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mordiff: DEER = 1.4500
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs pipe: DEER = 1.4500
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs mordiff: DEER = 0.1300
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs pipe: DEER = 0.1300
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - teacher_mordiff on mordiff vs pipe: DEER = 0.0000
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lmaubo vs mipgan2: DEER = 0.0400
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lmaubo vs mordiff: DEER = 0.0600
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lmaubo vs pipe: DEER = 0.0600
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan2 vs mordiff: DEER = 0.0200
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan2 vs pipe: DEER = 0.0200
+2024-10-03 15:01:03,986 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mordiff vs pipe: DEER = 0.0000
+2024-10-03 15:01:12,619 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 15:01:23,720 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 15:01:59,935 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 15:02:06,663 - Eval_3_evaluation - INFO - EER Table:
+2024-10-03 15:02:06,663 - Eval_3_evaluation - INFO - teacher_pipe: {'mipgan1': 1.77, 'cvmi': 8.64, 'lma': 1.04, 'stylegan': 1.23}
+2024-10-03 15:02:06,663 - Eval_3_evaluation - INFO - teacher_lmaubo: {'mipgan1': 0.0, 'cvmi': 44.28, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-03 15:02:06,663 - Eval_3_evaluation - INFO - teacher_mipgan2: {'mipgan1': 0.0, 'cvmi': 29.31, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-03 15:02:06,664 - Eval_3_evaluation - INFO - teacher_mordiff: {'mipgan1': 0.36, 'cvmi': 12.02, 'lma': 0.33, 'stylegan': 0.37}
+2024-10-03 15:02:06,664 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0: {'mipgan1': 1.14, 'cvmi': 4.19, 'lma': 0.63, 'stylegan': 1.3}
+2024-10-03 15:02:06,664 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-03 15:02:06,664 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs cvmi: DEER = 6.8700
+2024-10-03 15:02:06,664 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs lma: DEER = 0.7300
+2024-10-03 15:02:06,664 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs stylegan: DEER = 0.5400
+2024-10-03 15:02:06,664 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs lma: DEER = 7.6000
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs stylegan: DEER = 7.4100
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_pipe on lma vs stylegan: DEER = 0.1900
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs cvmi: DEER = 44.2800
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs lma: DEER = 0.0000
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs lma: DEER = 44.2800
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs stylegan: DEER = 44.2800
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_lmaubo on lma vs stylegan: DEER = 0.0000
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs cvmi: DEER = 29.3100
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs lma: DEER = 0.0000
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs lma: DEER = 29.3100
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs stylegan: DEER = 29.3100
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mipgan2 on lma vs stylegan: DEER = 0.0000
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs cvmi: DEER = 11.6600
+2024-10-03 15:02:06,665 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs lma: DEER = 0.0300
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs stylegan: DEER = 0.0100
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs lma: DEER = 11.6900
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs stylegan: DEER = 11.6500
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - teacher_mordiff on lma vs stylegan: DEER = 0.0400
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan1 vs cvmi: DEER = 3.0500
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan1 vs lma: DEER = 0.5100
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan1 vs stylegan: DEER = 0.1600
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on cvmi vs lma: DEER = 3.5600
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on cvmi vs stylegan: DEER = 2.8900
+2024-10-03 15:02:06,666 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lma vs stylegan: DEER = 0.6700
+2024-10-03 15:02:56,634 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-03 15:03:37,168 - Eval_3_evaluation - INFO - EER Table:
+2024-10-03 15:03:37,169 - Eval_3_evaluation - INFO - teacher_pipe: {'lmaubo': 7.55, 'mipgan2': 0.72, 'mordiff': 0.17, 'pipe': 0.17}
+2024-10-03 15:03:37,169 - Eval_3_evaluation - INFO - teacher_lmaubo: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 40.11, 'pipe': 40.39}
+2024-10-03 15:03:37,169 - Eval_3_evaluation - INFO - teacher_mipgan2: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 15.77, 'pipe': 15.96}
+2024-10-03 15:03:37,169 - Eval_3_evaluation - INFO - teacher_mordiff: {'lmaubo': 1.6, 'mipgan2': 0.28, 'mordiff': 0.15, 'pipe': 0.15}
+2024-10-03 15:03:37,169 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0: {'lmaubo': 7.49, 'mipgan2': 0.72, 'mordiff': 0.17, 'pipe': 0.17}
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mipgan2: DEER = 6.8300
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mordiff: DEER = 7.3800
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs pipe: DEER = 7.3800
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs mordiff: DEER = 0.5500
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs pipe: DEER = 0.5500
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_pipe on mordiff vs pipe: DEER = 0.0000
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 40.1100
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs pipe: DEER = 40.3900
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 40.1100
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 40.3900
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.2800
+2024-10-03 15:03:37,170 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mordiff: DEER = 15.7700
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs pipe: DEER = 15.9600
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs mordiff: DEER = 15.7700
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs pipe: DEER = 15.9600
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mipgan2 on mordiff vs pipe: DEER = 0.1900
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mipgan2: DEER = 1.3200
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mordiff: DEER = 1.4500
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs pipe: DEER = 1.4500
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs mordiff: DEER = 0.1300
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs pipe: DEER = 0.1300
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - teacher_mordiff on mordiff vs pipe: DEER = 0.0000
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lmaubo vs mipgan2: DEER = 6.7700
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lmaubo vs mordiff: DEER = 7.3200
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lmaubo vs pipe: DEER = 7.3200
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan2 vs mordiff: DEER = 0.5500
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan2 vs pipe: DEER = 0.5500
+2024-10-03 15:03:37,171 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mordiff vs pipe: DEER = 0.0000
+2024-10-04 07:28:29,847 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:28:51,928 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:33:51,879 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:33:51,988 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:35:13,143 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:35:13,475 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:35:54,102 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:35:54,303 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:35:54,368 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 07:35:54,649 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:14:04,526 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:14:05,076 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:17:08,707 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:17:08,801 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:17:46,256 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:17:46,569 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:17:46,616 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:17:46,632 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:24:35,517 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:24:36,771 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:26:54,354 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:28:34,584 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:28:37,476 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:31:12,492 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:31:12,675 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:31:52,828 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:31:53,831 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:31:53,832 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:31:54,147 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:38:14,927 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:38:15,198 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:38:57,067 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:38:58,046 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:38:58,248 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:38:58,254 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:45:13,605 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:45:13,654 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:45:54,299 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:45:54,700 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:45:54,729 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:45:54,818 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:48:06,570 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:48:07,286 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:48:46,480 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:48:46,749 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:48:47,153 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:48:47,205 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:58:12,245 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:58:12,393 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:58:49,736 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:58:50,001 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:58:50,265 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 08:58:50,600 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:03:14,268 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:03:15,291 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:03:51,554 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:03:51,609 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:03:52,032 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:03:52,072 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:07:35,303 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:07:35,882 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:08:13,008 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:08:13,913 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:08:14,121 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:08:14,419 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:15:56,924 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:15:58,404 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:18:00,370 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:18:02,148 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:24:52,072 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:25:05,781 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:25:27,096 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:25:43,366 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:25:48,842 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:25:57,837 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:26:01,727 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:26:16,399 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:26:19,626 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:26:31,139 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:26:34,949 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:26:47,610 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:27:01,604 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:27:06,479 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:27:13,081 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:27:15,137 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:27:23,824 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:27:25,724 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 09:27:38,715 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 09:38:09,786 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:38:09,786 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:44:34,339 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:44:34,460 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:44:48,811 - Eval_3_evaluation - INFO - models: teacher_pipe teacher_lmaubo teacher_mipgan2 teacher_mordiff student_mordiff_llmbd_1.0
+2024-10-04 09:44:49,186 - Eval_3_evaluation - INFO - models: teacher_pipe teacher_lmaubo teacher_mipgan2 teacher_mordiff student_mordiff_llmbd_1.0
+2024-10-04 09:58:17,284 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:58:30,777 - Eval_3_evaluation - INFO - models: teacher_pipe teacher_lmaubo teacher_mipgan2 teacher_mordiff student_mordiff_llmbd_1.0 student_mordiff_llmbd_0.5 student_mordiff_llmbd_0.0
+2024-10-04 09:58:31,976 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:58:34,856 - Eval_3_evaluation - INFO - eval student: mordiff
+2024-10-04 09:58:48,424 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:58:48,508 - Eval_3_evaluation - INFO - models: teacher_pipe teacher_lmaubo teacher_mipgan2 teacher_mordiff student_mordiff_llmbd_1.0 student_mordiff_llmbd_0.5 student_mordiff_llmbd_0.0
+2024-10-04 09:58:50,119 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:59:11,546 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:59:12,645 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:59:26,273 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:59:28,903 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:59:44,141 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:59:44,624 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_pipe
+2024-10-04 09:59:55,342 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 09:59:58,690 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 10:00:10,022 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 10:00:21,339 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 10:00:23,936 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 10:00:33,151 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 10:00:43,859 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:00:49,749 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-04 10:00:56,737 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:01:22,397 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:01:23,255 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:01:33,866 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:01:36,730 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:01:48,806 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:01:50,602 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:02:03,962 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:02:15,269 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-04 10:02:25,757 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:02:36,224 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:02:42,305 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:02:48,865 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:02:58,158 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:03:03,690 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:03:12,237 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:03:18,214 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:03:25,195 - Eval_3_evaluation - DEBUG - fetching scores for: teacher_mordiff
+2024-10-04 10:03:30,998 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:03:39,022 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:03:45,119 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:03:56,270 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:04:00,098 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:04:08,585 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:04:14,716 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:04:19,662 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_1.0
+2024-10-04 10:04:25,724 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:04:31,848 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:04:39,891 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:04:48,392 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:04:54,839 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:05:02,981 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:05:11,112 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:05:16,825 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.5
+2024-10-04 10:05:22,806 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:05:31,524 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - EER Table:
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - teacher_pipe: {'mipgan1': 1.77, 'cvmi': 8.64, 'lma': 1.04, 'stylegan': 1.23}
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - teacher_lmaubo: {'mipgan1': 0.0, 'cvmi': 44.28, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - teacher_mipgan2: {'mipgan1': 0.0, 'cvmi': 29.31, 'lma': 0.0, 'stylegan': 0.0}
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - teacher_mordiff: {'mipgan1': 0.36, 'cvmi': 12.02, 'lma': 0.33, 'stylegan': 0.37}
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0: {'mipgan1': 0.08, 'cvmi': 0.12, 'lma': 0.13, 'stylegan': 0.08}
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5: {'mipgan1': 0.21, 'cvmi': 0.86, 'lma': 0.18, 'stylegan': 0.16}
+2024-10-04 10:05:36,387 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0: {'mipgan1': 1.14, 'cvmi': 4.19, 'lma': 0.63, 'stylegan': 1.3}
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs cvmi: DEER = 6.8700
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs lma: DEER = 0.7300
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_pipe on mipgan1 vs stylegan: DEER = 0.5400
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs lma: DEER = 7.6000
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_pipe on cvmi vs stylegan: DEER = 7.4100
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_pipe on lma vs stylegan: DEER = 0.1900
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs cvmi: DEER = 44.2800
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs lma: DEER = 0.0000
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-04 10:05:36,388 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs lma: DEER = 44.2800
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_lmaubo on cvmi vs stylegan: DEER = 44.2800
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_lmaubo on lma vs stylegan: DEER = 0.0000
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs cvmi: DEER = 29.3100
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs lma: DEER = 0.0000
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs lma: DEER = 29.3100
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mipgan2 on cvmi vs stylegan: DEER = 29.3100
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mipgan2 on lma vs stylegan: DEER = 0.0000
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs cvmi: DEER = 11.6600
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs lma: DEER = 0.0300
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan1 vs stylegan: DEER = 0.0100
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs lma: DEER = 11.6900
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mordiff on cvmi vs stylegan: DEER = 11.6500
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - teacher_mordiff on lma vs stylegan: DEER = 0.0400
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan1 vs cvmi: DEER = 0.0400
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan1 vs lma: DEER = 0.0500
+2024-10-04 10:05:36,389 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan1 vs stylegan: DEER = 0.0000
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on cvmi vs lma: DEER = 0.0100
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on cvmi vs stylegan: DEER = 0.0400
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lma vs stylegan: DEER = 0.0500
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan1 vs cvmi: DEER = 0.6500
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan1 vs lma: DEER = 0.0300
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan1 vs stylegan: DEER = 0.0500
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on cvmi vs lma: DEER = 0.6800
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on cvmi vs stylegan: DEER = 0.7000
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lma vs stylegan: DEER = 0.0200
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan1 vs cvmi: DEER = 3.0500
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan1 vs lma: DEER = 0.5100
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan1 vs stylegan: DEER = 0.1600
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on cvmi vs lma: DEER = 3.5600
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on cvmi vs stylegan: DEER = 2.8900
+2024-10-04 10:05:36,390 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lma vs stylegan: DEER = 0.6700
+2024-10-04 10:05:52,266 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:06:06,115 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:06:18,937 - Eval_3_evaluation - DEBUG - fetching scores for: student_mordiff_llmbd_0.0
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - EER Table:
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - teacher_pipe: {'lmaubo': 7.55, 'mipgan2': 0.72, 'mordiff': 0.17, 'pipe': 0.17}
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - teacher_lmaubo: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 40.11, 'pipe': 40.39}
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - teacher_mipgan2: {'lmaubo': 0.0, 'mipgan2': 0.0, 'mordiff': 15.77, 'pipe': 15.96}
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - teacher_mordiff: {'lmaubo': 1.6, 'mipgan2': 0.28, 'mordiff': 0.15, 'pipe': 0.15}
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0: {'lmaubo': 2.04, 'mipgan2': 0.08, 'mordiff': 0.07, 'pipe': 0.07}
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5: {'lmaubo': 0.21, 'mipgan2': 0.17, 'mordiff': 0.15, 'pipe': 0.15}
+2024-10-04 10:06:31,889 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0: {'lmaubo': 7.49, 'mipgan2': 0.72, 'mordiff': 0.17, 'pipe': 0.17}
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - DEER Table:
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mipgan2: DEER = 6.8300
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs mordiff: DEER = 7.3800
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_pipe on lmaubo vs pipe: DEER = 7.3800
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs mordiff: DEER = 0.5500
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_pipe on mipgan2 vs pipe: DEER = 0.5500
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_pipe on mordiff vs pipe: DEER = 0.0000
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 40.1100
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_lmaubo on lmaubo vs pipe: DEER = 40.3900
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 40.1100
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 40.3900
+2024-10-04 10:06:31,890 - Eval_3_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.2800
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mipgan2: DEER = 0.0000
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs mordiff: DEER = 15.7700
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mipgan2 on lmaubo vs pipe: DEER = 15.9600
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs mordiff: DEER = 15.7700
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mipgan2 on mipgan2 vs pipe: DEER = 15.9600
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mipgan2 on mordiff vs pipe: DEER = 0.1900
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mipgan2: DEER = 1.3200
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs mordiff: DEER = 1.4500
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mordiff on lmaubo vs pipe: DEER = 1.4500
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs mordiff: DEER = 0.1300
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mordiff on mipgan2 vs pipe: DEER = 0.1300
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - teacher_mordiff on mordiff vs pipe: DEER = 0.0000
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lmaubo vs mipgan2: DEER = 1.9600
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lmaubo vs mordiff: DEER = 1.9700
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on lmaubo vs pipe: DEER = 1.9700
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan2 vs mordiff: DEER = 0.0100
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mipgan2 vs pipe: DEER = 0.0100
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - student_mordiff_llmbd_1.0 on mordiff vs pipe: DEER = 0.0000
+2024-10-04 10:06:31,891 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lmaubo vs mipgan2: DEER = 0.0400
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lmaubo vs mordiff: DEER = 0.0600
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on lmaubo vs pipe: DEER = 0.0600
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan2 vs mordiff: DEER = 0.0200
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mipgan2 vs pipe: DEER = 0.0200
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.5 on mordiff vs pipe: DEER = 0.0000
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lmaubo vs mipgan2: DEER = 6.7700
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lmaubo vs mordiff: DEER = 7.3200
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on lmaubo vs pipe: DEER = 7.3200
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan2 vs mordiff: DEER = 0.5500
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mipgan2 vs pipe: DEER = 0.5500
+2024-10-04 10:06:31,892 - Eval_3_evaluation - INFO - student_mordiff_llmbd_0.0 on mordiff vs pipe: DEER = 0.0000

@@ -1,0 +1,186 @@
+2024-10-03 08:49:52,992 - Eval_0_student - INFO - train_student
+2024-10-03 08:49:53,002 - Eval_0_student - INFO - train_student
+2024-10-03 08:49:53,383 - Eval_0_student - INFO - train_student
+2024-10-03 08:49:54,436 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 08:49:54,441 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 08:49:54,529 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 08:53:20,766 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3442 incorrect: 23
+2024-10-03 08:53:20,766 - Eval_0_student - DEBUG - Morph (3609): correct: 3570 incorrect: 39
+2024-10-03 08:53:21,336 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3377 incorrect: 88
+2024-10-03 08:53:21,337 - Eval_0_student - DEBUG - Morph (3609): correct: 3558 incorrect: 51
+2024-10-03 08:53:21,355 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3453 incorrect: 12
+2024-10-03 08:53:21,355 - Eval_0_student - DEBUG - Morph (3609): correct: 3548 incorrect: 61
+2024-10-03 08:56:30,842 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3442 incorrect: 23
+2024-10-03 08:56:30,843 - Eval_0_student - DEBUG - Morph (3609): correct: 3570 incorrect: 39
+2024-10-03 08:56:30,843 - Eval_0_student - DEBUG - Calculated acc:  [1.1309677419354838]
+2024-10-03 08:56:31,350 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 08:56:31,905 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3377 incorrect: 88
+2024-10-03 08:56:31,905 - Eval_0_student - DEBUG - Morph (3609): correct: 3558 incorrect: 51
+2024-10-03 08:56:31,905 - Eval_0_student - DEBUG - Calculated acc:  [0.4989208633093525]
+2024-10-03 08:56:31,984 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3453 incorrect: 12
+2024-10-03 08:56:31,984 - Eval_0_student - DEBUG - Morph (3609): correct: 3548 incorrect: 61
+2024-10-03 08:56:31,984 - Eval_0_student - DEBUG - Calculated acc:  [0.959041095890411]
+2024-10-03 08:56:32,465 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 08:56:32,552 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 08:59:50,521 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 08:59:50,521 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 08:59:55,116 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 08:59:55,116 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 08:59:55,120 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 08:59:55,120 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:02:53,858 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:02:53,859 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:02:53,859 - Eval_0_student - DEBUG - acc loss: 1.1309677419354838 100
+2024-10-03 09:02:53,859 - Eval_0_student - DEBUG - train loss: 73.4831190109253 69.70716068148613
+2024-10-03 09:02:53,859 - Eval_0_student - DEBUG - test loss: 67.8642185330391 67.71401304006577
+2024-10-03 09:02:57,921 - Eval_0_student - INFO - train_student
+2024-10-03 09:02:58,842 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:03:00,490 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:03:00,490 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:03:00,490 - Eval_0_student - DEBUG - acc loss: 0.959041095890411 100
+2024-10-03 09:03:00,490 - Eval_0_student - DEBUG - train loss: 139.98345386981964 113.33783349394798
+2024-10-03 09:03:00,490 - Eval_0_student - DEBUG - test loss: 112.9981974363327 106.81549987196922
+2024-10-03 09:03:00,694 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:03:00,694 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:03:00,695 - Eval_0_student - DEBUG - acc loss: 0.4989208633093525 100
+2024-10-03 09:03:00,695 - Eval_0_student - DEBUG - train loss: 187.28254240751266 148.7445558309555
+2024-10-03 09:03:00,696 - Eval_0_student - DEBUG - test loss: 145.3424221277237 141.4534828066826
+2024-10-03 09:03:04,465 - Eval_0_student - INFO - train_student
+2024-10-03 09:03:04,492 - Eval_0_student - INFO - train_student
+2024-10-03 09:03:05,418 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:03:05,428 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:06:05,134 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3414 incorrect: 51
+2024-10-03 09:06:05,134 - Eval_0_student - DEBUG - Morph (3609): correct: 3588 incorrect: 21
+2024-10-03 09:06:31,077 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3425 incorrect: 40
+2024-10-03 09:06:31,078 - Eval_0_student - DEBUG - Morph (3609): correct: 3598 incorrect: 11
+2024-10-03 09:06:31,779 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3448 incorrect: 17
+2024-10-03 09:06:31,779 - Eval_0_student - DEBUG - Morph (3609): correct: 3600 incorrect: 9
+2024-10-03 09:09:06,974 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3414 incorrect: 51
+2024-10-03 09:09:06,975 - Eval_0_student - DEBUG - Morph (3609): correct: 3588 incorrect: 21
+2024-10-03 09:09:06,975 - Eval_0_student - DEBUG - Calculated acc:  [0.9725]
+2024-10-03 09:09:07,504 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:09:36,693 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3425 incorrect: 40
+2024-10-03 09:09:36,693 - Eval_0_student - DEBUG - Morph (3609): correct: 3598 incorrect: 11
+2024-10-03 09:09:36,693 - Eval_0_student - DEBUG - Calculated acc:  [1.377058823529412]
+2024-10-03 09:09:37,176 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3448 incorrect: 17
+2024-10-03 09:09:37,176 - Eval_0_student - DEBUG - Morph (3609): correct: 3600 incorrect: 9
+2024-10-03 09:09:37,176 - Eval_0_student - DEBUG - Calculated acc:  [2.710769230769231]
+2024-10-03 09:09:37,243 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:09:37,712 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:12:28,491 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:12:28,492 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:13:00,113 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:13:00,113 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:13:01,234 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:13:01,235 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:15:29,940 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:15:29,940 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:15:29,940 - Eval_0_student - DEBUG - acc loss: 0.9725 100
+2024-10-03 09:15:29,940 - Eval_0_student - DEBUG - train loss: 183.47296512126923 148.43860030174255
+2024-10-03 09:15:29,940 - Eval_0_student - DEBUG - test loss: 144.75961184501648 141.96304154396057
+2024-10-03 09:15:33,893 - Eval_0_student - INFO - train_student
+2024-10-03 09:15:34,843 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:16:02,024 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:16:02,024 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:16:02,024 - Eval_0_student - DEBUG - acc loss: 1.377058823529412 100
+2024-10-03 09:16:02,024 - Eval_0_student - DEBUG - train loss: 73.3837454020977 69.68686601519585
+2024-10-03 09:16:02,024 - Eval_0_student - DEBUG - test loss: 67.68685609102249 67.576291680336
+2024-10-03 09:16:03,043 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:16:03,043 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:16:03,043 - Eval_0_student - DEBUG - acc loss: 2.710769230769231 100
+2024-10-03 09:16:03,043 - Eval_0_student - DEBUG - train loss: 139.225221991539 113.43954208493233
+2024-10-03 09:16:03,043 - Eval_0_student - DEBUG - test loss: 113.2259401679039 106.59675067663193
+2024-10-03 09:16:05,815 - Eval_0_student - INFO - train_student
+2024-10-03 09:16:06,601 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:16:06,971 - Eval_0_student - INFO - train_student
+2024-10-03 09:16:07,771 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:18:38,838 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3448 incorrect: 17
+2024-10-03 09:18:38,838 - Eval_0_student - DEBUG - Morph (3609): correct: 3566 incorrect: 43
+2024-10-03 09:19:34,279 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3384 incorrect: 81
+2024-10-03 09:19:34,279 - Eval_0_student - DEBUG - Morph (3609): correct: 3549 incorrect: 60
+2024-10-03 09:19:35,545 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3371 incorrect: 94
+2024-10-03 09:19:35,545 - Eval_0_student - DEBUG - Morph (3609): correct: 3552 incorrect: 57
+2024-10-03 09:21:38,135 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3448 incorrect: 17
+2024-10-03 09:21:38,136 - Eval_0_student - DEBUG - Morph (3609): correct: 3566 incorrect: 43
+2024-10-03 09:21:38,136 - Eval_0_student - DEBUG - Calculated acc:  [1.169]
+2024-10-03 09:21:39,749 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:22:36,823 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3384 incorrect: 81
+2024-10-03 09:22:36,823 - Eval_0_student - DEBUG - Morph (3609): correct: 3549 incorrect: 60
+2024-10-03 09:22:36,823 - Eval_0_student - DEBUG - Calculated acc:  [0.49170212765957444]
+2024-10-03 09:22:38,574 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3371 incorrect: 94
+2024-10-03 09:22:38,574 - Eval_0_student - DEBUG - Morph (3609): correct: 3552 incorrect: 57
+2024-10-03 09:22:38,574 - Eval_0_student - DEBUG - Calculated acc:  [0.45847682119205296]
+2024-10-03 09:22:39,372 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:22:40,794 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:25:00,432 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:25:00,433 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:26:03,549 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:26:03,549 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:26:04,719 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:26:04,719 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:27:58,380 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:27:58,380 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:27:58,380 - Eval_0_student - DEBUG - acc loss: 1.169 100
+2024-10-03 09:27:58,380 - Eval_0_student - DEBUG - train loss: 139.86384642124176 113.30040070414543
+2024-10-03 09:27:58,380 - Eval_0_student - DEBUG - test loss: 112.70409160852432 106.73858615756035
+2024-10-03 09:28:02,432 - Eval_0_student - INFO - train_student
+2024-10-03 09:28:03,641 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:29:03,191 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:29:03,191 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:29:03,191 - Eval_0_student - DEBUG - acc loss: 0.49170212765957444 100
+2024-10-03 09:29:03,191 - Eval_0_student - DEBUG - train loss: 186.69943273067474 148.9714254140854
+2024-10-03 09:29:03,191 - Eval_0_student - DEBUG - test loss: 145.80175310373306 141.26749563217163
+2024-10-03 09:29:04,114 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:29:04,115 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:29:04,115 - Eval_0_student - DEBUG - acc loss: 0.45847682119205296 100
+2024-10-03 09:29:04,115 - Eval_0_student - DEBUG - train loss: 74.66796270012856 69.6906426846981
+2024-10-03 09:29:04,115 - Eval_0_student - DEBUG - test loss: 67.8999330997467 67.56902089715004
+2024-10-03 09:29:07,095 - Eval_0_student - INFO - train_student
+2024-10-03 09:29:07,960 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:29:07,969 - Eval_0_student - INFO - train_student
+2024-10-03 09:29:09,250 - Eval_0_student - INFO - teachers: lmaubo mipgan2 mordiff
+2024-10-03 09:31:09,903 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3385 incorrect: 80
+2024-10-03 09:31:09,903 - Eval_0_student - DEBUG - Morph (3609): correct: 3603 incorrect: 6
+2024-10-03 09:32:37,410 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3394 incorrect: 71
+2024-10-03 09:32:37,411 - Eval_0_student - DEBUG - Morph (3609): correct: 3595 incorrect: 14
+2024-10-03 09:32:38,551 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3433 incorrect: 32
+2024-10-03 09:32:38,552 - Eval_0_student - DEBUG - Morph (3609): correct: 3540 incorrect: 69
+2024-10-03 09:34:04,071 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3385 incorrect: 80
+2024-10-03 09:34:04,071 - Eval_0_student - DEBUG - Morph (3609): correct: 3603 incorrect: 6
+2024-10-03 09:34:04,071 - Eval_0_student - DEBUG - Calculated acc:  [0.8125581395348838]
+2024-10-03 09:34:05,812 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:35:38,642 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3394 incorrect: 71
+2024-10-03 09:35:38,642 - Eval_0_student - DEBUG - Morph (3609): correct: 3595 incorrect: 14
+2024-10-03 09:35:38,642 - Eval_0_student - DEBUG - Calculated acc:  [0.8222352941176471]
+2024-10-03 09:35:39,061 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3433 incorrect: 32
+2024-10-03 09:35:39,061 - Eval_0_student - DEBUG - Morph (3609): correct: 3540 incorrect: 69
+2024-10-03 09:35:39,062 - Eval_0_student - DEBUG - Calculated acc:  [0.6903960396039603]
+2024-10-03 09:35:40,705 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:35:41,579 - Eval_0_student - DEBUG - Model saved successfully at epoch 0
+2024-10-03 09:37:29,224 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-03 09:37:29,225 - Eval_0_student - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-03 09:39:07,008 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:39:07,008 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:39:07,622 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:39:07,623 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:40:20,393 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3464 incorrect: 1
+2024-10-03 09:40:20,393 - Eval_0_student - DEBUG - Morph (3609): correct: 3608 incorrect: 1
+2024-10-03 09:40:20,393 - Eval_0_student - DEBUG - Calculated acc:  [0.8125581395348838, 35.36]
+2024-10-03 09:40:22,245 - Eval_0_student - DEBUG - Model saved successfully at epoch 1
+2024-10-03 09:42:07,501 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:42:07,501 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:42:07,501 - Eval_0_student - DEBUG - acc loss: 0.8222352941176471 100
+2024-10-03 09:42:07,501 - Eval_0_student - DEBUG - train loss: 140.52725160121918 113.64438390731812
+2024-10-03 09:42:07,501 - Eval_0_student - DEBUG - test loss: 113.32106792926788 106.63553836941719
+2024-10-03 09:42:07,929 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:42:07,929 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:42:07,929 - Eval_0_student - DEBUG - acc loss: 0.6903960396039603 100
+2024-10-03 09:42:07,930 - Eval_0_student - DEBUG - train loss: 184.84317338466644 148.72832614183426
+2024-10-03 09:42:07,930 - Eval_0_student - DEBUG - test loss: 145.1969907283783 141.66891157627106
+2024-10-03 09:42:37,779 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:42:37,779 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:44:07,201 - Eval_0_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-03 09:44:07,201 - Eval_0_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-03 09:44:07,201 - Eval_0_student - DEBUG - acc loss: 0.8125581395348838 35.36 100
+2024-10-03 09:44:07,201 - Eval_0_student - DEBUG - train loss: 74.52644145488739 69.75242924690247 69.64858555793762
+2024-10-03 09:44:07,202 - Eval_0_student - DEBUG - test loss: 68.02210316061974 67.65586534142494 67.45875269174576
