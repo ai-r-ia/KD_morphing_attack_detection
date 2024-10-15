@@ -4,6 +4,7 @@ import cv2
 import numpy as np
 from typing import List, Any
 import albumentations as A
+from sympy import root
 from torch.utils.data import DataLoader
 
 
@@ -24,7 +25,10 @@ class DatasetWrapper:
     ) -> None:
         self.root_dir = root_dir
         self.morph_type = morph_type
-        self.morph_dir = morph_dir
+        if morph_dir != None:
+            self.morph_dir = morph_dir
+        else:
+            self.morph_dir = root_dir
         self.height = height
         self.width = width
         self.classes = classes
@@ -38,9 +42,13 @@ class DatasetWrapper:
         allowed_extensions = {".jpg", ".png", ".jpeg"}
         items: List[DataItem] = []
 
+        cnt = 0
         for image_path in os.listdir(dir):
             if os.path.splitext(image_path)[1].lower() in allowed_extensions:
                 image_path = os.path.join(dir, image_path)
+                if cnt == 0:
+                    print(image_path)
+                    cnt = 3
                 items.append(DataItem(image_path, False, label))
                 items.extend(
                     DataItem(image_path, True, label) for _ in range(augment_times)
@@ -93,15 +101,20 @@ class DatasetWrapper:
         for label, cid in enumerate(self.CLASS_NAMES):
             augment_count = augment_times * 2 if cid == "bonafide" else augment_times
             root_dir = self.root_dir
+            if root_dir == "/home/ubuntu/volume/data/feret" and cid == "bonafide":
+                if split_type == "train":
+                    split_type = "raw/train"
+                if split_type == "test":
+                    split_type = "raw/test"
             if cid == "morph":
                 cid = f"morph/{morph_type}"
                 if self.morph_dir != self.root_dir:
                     root_dir = self.morph_dir
                     cid = ""
-                    if split_type == "train":
-                        split_type = "Train"
-                    if split_type == "test":
-                        split_type = "Test"
+                    # if split_type == "train":
+                    #     split_type = "Train/Face"
+                    # if split_type == "test":
+                    #     split_type = "Test/Face"
 
             data.extend(
                 self.loop_through_dir(
@@ -110,7 +123,7 @@ class DatasetWrapper:
                     augment_count,
                 )
             )
-        
+
         return DataLoader(
             DatasetGenerator(data, self.transform, self.augment),
             batch_size=batch_size,

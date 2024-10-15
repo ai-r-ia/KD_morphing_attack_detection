@@ -58,12 +58,20 @@ def save_single_teacher_embds(
 
 
 def save(args) -> None:
-    logger = get_logger("student", args.eval_number)
-    wrapper = DatasetWrapper(args.root_dir, args.morphtype)
-    trainds = wrapper.get_train_dataset(0, args.batch_size, args.morphtype)
-    testds = wrapper.get_test_dataset(0, args.batch_size, args.morphtype)
-    process_num = args.process_num
+    logger = get_logger("save_embeddings")
     morph = args.teacher_morphs
+    if args.morphtype == "post_process" or morph == "post_process":
+        args.morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
+    if args.morphtype != "post_process" and morph != "post_process":
+        args.morph_dir = args.root_dir
+    wrapper = DatasetWrapper(args.root_dir, args.morphtype, morph_dir= args.morph_dir)
+    trainds = wrapper.get_train_dataset(
+        0, args.batch_size, morph_type=morph, shuffle=True, num_workers=8
+    )
+    testds = wrapper.get_test_dataset(
+        0, args.batch_size, morph_type=morph, shuffle=True, num_workers=8
+    )
+    process_num = args.process_num
     print(morph)
 
     dir_path = "./data/print_scan_digital/embeddings"

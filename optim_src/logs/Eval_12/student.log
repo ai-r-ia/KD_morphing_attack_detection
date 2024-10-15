@@ -1,0 +1,259 @@
+2024-10-14 20:03:04,119 - Eval_12_student - INFO - train_student
+2024-10-14 20:03:04,140 - Eval_12_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-14 20:03:04,140 - Eval_12_student - INFO - student morph type:  stylegan
+2024-10-14 20:03:11,682 - Eval_12_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-14 20:07:15,507 - Eval_12_student - INFO - train_student
+2024-10-14 20:07:15,529 - Eval_12_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-14 20:07:15,529 - Eval_12_student - INFO - student morph type:  stylegan
+2024-10-14 20:07:18,387 - Eval_12_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-14 20:20:00,296 - Eval_12_student - INFO - train_student
+2024-10-14 20:20:00,318 - Eval_12_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-14 20:20:00,318 - Eval_12_student - INFO - student morph type:  stylegan
+2024-10-14 21:32:53,808 - Eval_12_student - INFO - train_student
+2024-10-14 21:32:53,830 - Eval_12_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-14 21:32:53,830 - Eval_12_student - INFO - student morph type:  stylegan
+2024-10-14 21:32:56,941 - Eval_12_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-15 06:57:59,361 - Eval_12_student - INFO - train_student
+2024-10-15 06:57:59,382 - Eval_12_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-15 06:57:59,382 - Eval_12_student - INFO - student morph type:  stylegan
+2024-10-15 06:58:01,378 - Eval_12_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-15 06:58:56,263 - Eval_12_student - DEBUG - Train Loss: 208.41951072216034
+2024-10-15 06:58:56,263 - Eval_12_student - DEBUG - Bonafide (3448): correct: 3194 incorrect: 254
+2024-10-15 06:58:56,264 - Eval_12_student - DEBUG - Morph (3560): correct: 3323 incorrect: 237
+2024-10-15 06:59:48,986 - Eval_12_student - DEBUG - Test Loss: 181.84469729661942
+2024-10-15 06:59:48,986 - Eval_12_student - DEBUG - Bonafide (3448): correct: 3194 incorrect: 254
+2024-10-15 06:59:48,986 - Eval_12_student - DEBUG - Morph (3560): correct: 3323 incorrect: 237
+2024-10-15 06:59:48,986 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255]
+2024-10-15 06:59:49,499 - Eval_12_student - DEBUG - Model saved successfully at epoch 0
+2024-10-15 06:59:49,500 - Eval_12_student - INFO - loss decreased (181.844697 --> 181.844697).
+2024-10-15 06:59:49,502 - Eval_12_student - DEBUG - Epoch: 1, learning rate: 0.01
+2024-10-15 07:00:44,156 - Eval_12_student - DEBUG - Train Loss: 165.46759152412415
+2024-10-15 07:00:44,156 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3432 incorrect: 20
+2024-10-15 07:00:44,156 - Eval_12_student - DEBUG - Morph (3556): correct: 3541 incorrect: 15
+2024-10-15 07:01:37,012 - Eval_12_student - DEBUG - Test Loss: 158.87858498096466
+2024-10-15 07:01:37,012 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3432 incorrect: 20
+2024-10-15 07:01:37,012 - Eval_12_student - DEBUG - Morph (3556): correct: 3541 incorrect: 15
+2024-10-15 07:01:37,012 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142]
+2024-10-15 07:01:38,360 - Eval_12_student - DEBUG - Model saved successfully at epoch 1
+2024-10-15 07:01:38,360 - Eval_12_student - INFO - loss decreased (158.878585 --> 158.878585).
+2024-10-15 07:01:38,365 - Eval_12_student - DEBUG - Epoch: 2, learning rate: 0.01
+2024-10-15 07:02:32,828 - Eval_12_student - DEBUG - Train Loss: 161.95017951726913
+2024-10-15 07:02:32,829 - Eval_12_student - DEBUG - Bonafide (3455): correct: 3437 incorrect: 18
+2024-10-15 07:02:32,829 - Eval_12_student - DEBUG - Morph (3553): correct: 3540 incorrect: 13
+2024-10-15 07:03:25,868 - Eval_12_student - DEBUG - Test Loss: 159.92323404550552
+2024-10-15 07:03:25,869 - Eval_12_student - DEBUG - Bonafide (3455): correct: 3437 incorrect: 18
+2024-10-15 07:03:25,869 - Eval_12_student - DEBUG - Morph (3553): correct: 3540 incorrect: 13
+2024-10-15 07:03:25,869 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224]
+2024-10-15 07:03:27,264 - Eval_12_student - DEBUG - Model saved successfully at epoch 2
+2024-10-15 07:03:27,265 - Eval_12_student - INFO - EarlyStopping counter: 1 out of 10
+2024-10-15 07:03:27,267 - Eval_12_student - DEBUG - Epoch: 3, learning rate: 0.01
+2024-10-15 07:04:21,941 - Eval_12_student - DEBUG - Train Loss: 159.96337687969208
+2024-10-15 07:04:21,941 - Eval_12_student - DEBUG - Bonafide (3457): correct: 3453 incorrect: 4
+2024-10-15 07:04:21,941 - Eval_12_student - DEBUG - Morph (3551): correct: 3543 incorrect: 8
+2024-10-15 07:05:14,812 - Eval_12_student - DEBUG - Test Loss: 155.24967736005783
+2024-10-15 07:05:14,812 - Eval_12_student - DEBUG - Bonafide (3457): correct: 3453 incorrect: 4
+2024-10-15 07:05:14,812 - Eval_12_student - DEBUG - Morph (3551): correct: 3543 incorrect: 8
+2024-10-15 07:05:14,812 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83]
+2024-10-15 07:05:16,134 - Eval_12_student - DEBUG - Model saved successfully at epoch 3
+2024-10-15 07:05:16,134 - Eval_12_student - INFO - loss decreased (155.249677 --> 155.249677).
+2024-10-15 07:05:16,138 - Eval_12_student - DEBUG - Epoch: 4, learning rate: 0.01
+2024-10-15 07:06:10,562 - Eval_12_student - DEBUG - Train Loss: 159.58540457487106
+2024-10-15 07:06:10,563 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3433 incorrect: 19
+2024-10-15 07:06:10,563 - Eval_12_student - DEBUG - Morph (3556): correct: 3548 incorrect: 8
+2024-10-15 07:07:03,805 - Eval_12_student - DEBUG - Test Loss: 154.69694286584854
+2024-10-15 07:07:03,805 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3433 incorrect: 19
+2024-10-15 07:07:03,805 - Eval_12_student - DEBUG - Morph (3556): correct: 3548 incorrect: 8
+2024-10-15 07:07:03,805 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556]
+2024-10-15 07:07:05,175 - Eval_12_student - DEBUG - Model saved successfully at epoch 4
+2024-10-15 07:07:05,175 - Eval_12_student - INFO - loss decreased (154.696943 --> 154.696943).
+2024-10-15 07:07:05,180 - Eval_12_student - DEBUG - Epoch: 5, learning rate: 0.01
+2024-10-15 07:07:59,846 - Eval_12_student - DEBUG - Train Loss: 158.56868946552277
+2024-10-15 07:07:59,847 - Eval_12_student - DEBUG - Bonafide (3454): correct: 3453 incorrect: 1
+2024-10-15 07:07:59,847 - Eval_12_student - DEBUG - Morph (3554): correct: 3550 incorrect: 4
+2024-10-15 07:08:52,890 - Eval_12_student - DEBUG - Test Loss: 154.3004942536354
+2024-10-15 07:08:52,891 - Eval_12_student - DEBUG - Bonafide (3454): correct: 3453 incorrect: 1
+2024-10-15 07:08:52,891 - Eval_12_student - DEBUG - Morph (3554): correct: 3550 incorrect: 4
+2024-10-15 07:08:52,891 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998]
+2024-10-15 07:08:55,640 - Eval_12_student - DEBUG - Model saved successfully at epoch 5
+2024-10-15 07:08:55,640 - Eval_12_student - INFO - loss decreased (154.300494 --> 154.300494).
+2024-10-15 07:08:55,643 - Eval_12_student - DEBUG - Epoch: 6, learning rate: 0.01
+2024-10-15 07:09:49,865 - Eval_12_student - DEBUG - Train Loss: 158.0489380955696
+2024-10-15 07:09:49,865 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3448 incorrect: 3
+2024-10-15 07:09:49,866 - Eval_12_student - DEBUG - Morph (3557): correct: 3554 incorrect: 3
+2024-10-15 07:10:43,144 - Eval_12_student - DEBUG - Test Loss: 153.73459845781326
+2024-10-15 07:10:43,145 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3448 incorrect: 3
+2024-10-15 07:10:43,145 - Eval_12_student - DEBUG - Morph (3557): correct: 3554 incorrect: 3
+2024-10-15 07:10:43,145 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67]
+2024-10-15 07:10:44,996 - Eval_12_student - DEBUG - Model saved successfully at epoch 6
+2024-10-15 07:10:44,996 - Eval_12_student - INFO - loss decreased (153.734598 --> 153.734598).
+2024-10-15 07:10:45,001 - Eval_12_student - DEBUG - Epoch: 7, learning rate: 0.01
+2024-10-15 07:11:39,372 - Eval_12_student - DEBUG - Train Loss: 157.6956667304039
+2024-10-15 07:11:39,372 - Eval_12_student - DEBUG - Bonafide (3453): correct: 3451 incorrect: 2
+2024-10-15 07:11:39,373 - Eval_12_student - DEBUG - Morph (3555): correct: 3552 incorrect: 3
+2024-10-15 07:12:32,534 - Eval_12_student - DEBUG - Test Loss: 153.24957263469696
+2024-10-15 07:12:32,534 - Eval_12_student - DEBUG - Bonafide (3453): correct: 3451 incorrect: 2
+2024-10-15 07:12:32,534 - Eval_12_student - DEBUG - Morph (3555): correct: 3552 incorrect: 3
+2024-10-15 07:12:32,534 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998]
+2024-10-15 07:12:34,428 - Eval_12_student - DEBUG - Model saved successfully at epoch 7
+2024-10-15 07:12:34,428 - Eval_12_student - INFO - loss decreased (153.249573 --> 153.249573).
+2024-10-15 07:12:34,433 - Eval_12_student - DEBUG - Epoch: 8, learning rate: 0.01
+2024-10-15 07:13:28,757 - Eval_12_student - DEBUG - Train Loss: 157.36122071743011
+2024-10-15 07:13:28,757 - Eval_12_student - DEBUG - Bonafide (3457): correct: 3457 incorrect: 0
+2024-10-15 07:13:28,757 - Eval_12_student - DEBUG - Morph (3551): correct: 3549 incorrect: 2
+2024-10-15 07:14:21,611 - Eval_12_student - DEBUG - Test Loss: 154.64784783124924
+2024-10-15 07:14:21,611 - Eval_12_student - DEBUG - Bonafide (3457): correct: 3457 incorrect: 0
+2024-10-15 07:14:21,611 - Eval_12_student - DEBUG - Morph (3551): correct: 3549 incorrect: 2
+2024-10-15 07:14:21,611 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03]
+2024-10-15 07:14:23,299 - Eval_12_student - DEBUG - Model saved successfully at epoch 8
+2024-10-15 07:14:23,300 - Eval_12_student - INFO - EarlyStopping counter: 1 out of 10
+2024-10-15 07:14:23,304 - Eval_12_student - DEBUG - Epoch: 9, learning rate: 0.01
+2024-10-15 07:15:17,502 - Eval_12_student - DEBUG - Train Loss: 157.51478505134583
+2024-10-15 07:15:17,502 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3442 incorrect: 9
+2024-10-15 07:15:17,502 - Eval_12_student - DEBUG - Morph (3557): correct: 3549 incorrect: 8
+2024-10-15 07:16:10,353 - Eval_12_student - DEBUG - Test Loss: 153.19658988714218
+2024-10-15 07:16:10,354 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3442 incorrect: 9
+2024-10-15 07:16:10,354 - Eval_12_student - DEBUG - Morph (3557): correct: 3549 incorrect: 8
+2024-10-15 07:16:10,354 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705]
+2024-10-15 07:16:12,614 - Eval_12_student - DEBUG - Model saved successfully at epoch 9
+2024-10-15 07:16:12,614 - Eval_12_student - INFO - loss decreased (153.196590 --> 153.196590).
+2024-10-15 07:16:12,618 - Eval_12_student - DEBUG - Epoch: 10, learning rate: 0.01
+2024-10-15 07:17:06,826 - Eval_12_student - DEBUG - Train Loss: 156.97211754322052
+2024-10-15 07:17:06,827 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3452 incorrect: 0
+2024-10-15 07:17:06,827 - Eval_12_student - DEBUG - Morph (3556): correct: 3555 incorrect: 1
+2024-10-15 07:17:59,816 - Eval_12_student - DEBUG - Test Loss: 152.91242146492004
+2024-10-15 07:17:59,817 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3452 incorrect: 0
+2024-10-15 07:17:59,817 - Eval_12_student - DEBUG - Morph (3556): correct: 3555 incorrect: 1
+2024-10-15 07:17:59,817 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07]
+2024-10-15 07:18:01,420 - Eval_12_student - DEBUG - Model saved successfully at epoch 10
+2024-10-15 07:18:01,420 - Eval_12_student - INFO - loss decreased (152.912421 --> 152.912421).
+2024-10-15 07:18:01,425 - Eval_12_student - DEBUG - Epoch: 11, learning rate: 0.01
+2024-10-15 07:18:55,914 - Eval_12_student - DEBUG - Train Loss: 156.9057576060295
+2024-10-15 07:18:55,914 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3450 incorrect: 2
+2024-10-15 07:18:55,914 - Eval_12_student - DEBUG - Morph (3556): correct: 3555 incorrect: 1
+2024-10-15 07:19:48,746 - Eval_12_student - DEBUG - Test Loss: 152.6782282590866
+2024-10-15 07:19:48,747 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3450 incorrect: 2
+2024-10-15 07:19:48,747 - Eval_12_student - DEBUG - Morph (3556): correct: 3555 incorrect: 1
+2024-10-15 07:19:48,747 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35]
+2024-10-15 07:19:50,745 - Eval_12_student - DEBUG - Model saved successfully at epoch 11
+2024-10-15 07:19:50,745 - Eval_12_student - INFO - loss decreased (152.678228 --> 152.678228).
+2024-10-15 07:19:50,748 - Eval_12_student - DEBUG - Epoch: 12, learning rate: 0.01
+2024-10-15 07:20:45,234 - Eval_12_student - DEBUG - Train Loss: 156.8009443283081
+2024-10-15 07:20:45,234 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3451 incorrect: 1
+2024-10-15 07:20:45,234 - Eval_12_student - DEBUG - Morph (3556): correct: 3554 incorrect: 2
+2024-10-15 07:21:38,196 - Eval_12_student - DEBUG - Test Loss: 152.8462734222412
+2024-10-15 07:21:38,196 - Eval_12_student - DEBUG - Bonafide (3452): correct: 3451 incorrect: 1
+2024-10-15 07:21:38,196 - Eval_12_student - DEBUG - Morph (3556): correct: 3554 incorrect: 2
+2024-10-15 07:21:38,196 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35]
+2024-10-15 07:21:39,621 - Eval_12_student - DEBUG - Model saved successfully at epoch 12
+2024-10-15 07:21:39,621 - Eval_12_student - INFO - EarlyStopping counter: 1 out of 10
+2024-10-15 07:21:39,625 - Eval_12_student - DEBUG - Epoch: 13, learning rate: 0.01
+2024-10-15 07:22:34,144 - Eval_12_student - DEBUG - Train Loss: 156.5669584274292
+2024-10-15 07:22:34,144 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3448 incorrect: 3
+2024-10-15 07:22:34,145 - Eval_12_student - DEBUG - Morph (3557): correct: 3554 incorrect: 3
+2024-10-15 07:23:26,990 - Eval_12_student - DEBUG - Test Loss: 152.5019986629486
+2024-10-15 07:23:26,990 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3448 incorrect: 3
+2024-10-15 07:23:26,990 - Eval_12_student - DEBUG - Morph (3557): correct: 3554 incorrect: 3
+2024-10-15 07:23:26,990 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67]
+2024-10-15 07:23:28,952 - Eval_12_student - DEBUG - Model saved successfully at epoch 13
+2024-10-15 07:23:28,953 - Eval_12_student - INFO - loss decreased (152.501999 --> 152.501999).
+2024-10-15 07:23:28,957 - Eval_12_student - DEBUG - Epoch: 14, learning rate: 0.01
+2024-10-15 07:24:23,247 - Eval_12_student - DEBUG - Train Loss: 156.52698028087616
+2024-10-15 07:24:23,247 - Eval_12_student - DEBUG - Bonafide (3449): correct: 3449 incorrect: 0
+2024-10-15 07:24:23,247 - Eval_12_student - DEBUG - Morph (3559): correct: 3558 incorrect: 1
+2024-10-15 07:25:16,452 - Eval_12_student - DEBUG - Test Loss: 152.56334269046783
+2024-10-15 07:25:16,452 - Eval_12_student - DEBUG - Bonafide (3449): correct: 3449 incorrect: 0
+2024-10-15 07:25:16,452 - Eval_12_student - DEBUG - Morph (3559): correct: 3558 incorrect: 1
+2024-10-15 07:25:16,452 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07]
+2024-10-15 07:25:18,125 - Eval_12_student - DEBUG - Model saved successfully at epoch 14
+2024-10-15 07:25:18,125 - Eval_12_student - INFO - EarlyStopping counter: 1 out of 10
+2024-10-15 07:25:18,130 - Eval_12_student - DEBUG - Epoch: 15, learning rate: 0.01
+2024-10-15 07:26:12,414 - Eval_12_student - DEBUG - Train Loss: 156.39232164621353
+2024-10-15 07:26:12,414 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3450 incorrect: 1
+2024-10-15 07:26:12,414 - Eval_12_student - DEBUG - Morph (3557): correct: 3557 incorrect: 0
+2024-10-15 07:27:05,277 - Eval_12_student - DEBUG - Test Loss: 152.53877985477448
+2024-10-15 07:27:05,277 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3450 incorrect: 1
+2024-10-15 07:27:05,277 - Eval_12_student - DEBUG - Morph (3557): correct: 3557 incorrect: 0
+2024-10-15 07:27:05,277 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07]
+2024-10-15 07:27:07,311 - Eval_12_student - DEBUG - Model saved successfully at epoch 15
+2024-10-15 07:27:07,311 - Eval_12_student - INFO - EarlyStopping counter: 2 out of 10
+2024-10-15 07:27:07,315 - Eval_12_student - DEBUG - Epoch: 16, learning rate: 0.01
+2024-10-15 07:28:01,631 - Eval_12_student - DEBUG - Train Loss: 156.30009311437607
+2024-10-15 07:28:01,632 - Eval_12_student - DEBUG - Bonafide (3455): correct: 3453 incorrect: 2
+2024-10-15 07:28:01,632 - Eval_12_student - DEBUG - Morph (3553): correct: 3553 incorrect: 0
+2024-10-15 07:28:54,771 - Eval_12_student - DEBUG - Test Loss: 152.35822623968124
+2024-10-15 07:28:54,771 - Eval_12_student - DEBUG - Bonafide (3455): correct: 3453 incorrect: 2
+2024-10-15 07:28:54,771 - Eval_12_student - DEBUG - Morph (3553): correct: 3553 incorrect: 0
+2024-10-15 07:28:54,771 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07, 35.03]
+2024-10-15 07:28:56,588 - Eval_12_student - DEBUG - Model saved successfully at epoch 16
+2024-10-15 07:28:56,589 - Eval_12_student - INFO - loss decreased (152.358226 --> 152.358226).
+2024-10-15 07:28:56,591 - Eval_12_student - DEBUG - Epoch: 17, learning rate: 0.01
+2024-10-15 07:29:51,280 - Eval_12_student - DEBUG - Train Loss: 156.2236716747284
+2024-10-15 07:29:51,281 - Eval_12_student - DEBUG - Bonafide (3453): correct: 3452 incorrect: 1
+2024-10-15 07:29:51,281 - Eval_12_student - DEBUG - Morph (3555): correct: 3555 incorrect: 0
+2024-10-15 07:30:44,226 - Eval_12_student - DEBUG - Test Loss: 152.2675553560257
+2024-10-15 07:30:44,226 - Eval_12_student - DEBUG - Bonafide (3453): correct: 3452 incorrect: 1
+2024-10-15 07:30:44,227 - Eval_12_student - DEBUG - Morph (3555): correct: 3555 incorrect: 0
+2024-10-15 07:30:44,227 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07, 35.03, 70.07]
+2024-10-15 07:30:45,952 - Eval_12_student - DEBUG - Model saved successfully at epoch 17
+2024-10-15 07:30:45,952 - Eval_12_student - INFO - loss decreased (152.267555 --> 152.267555).
+2024-10-15 07:30:45,956 - Eval_12_student - DEBUG - Epoch: 18, learning rate: 0.01
+2024-10-15 07:31:40,568 - Eval_12_student - DEBUG - Train Loss: 156.18451339006424
+2024-10-15 07:31:40,568 - Eval_12_student - DEBUG - Bonafide (3456): correct: 3456 incorrect: 0
+2024-10-15 07:31:40,568 - Eval_12_student - DEBUG - Morph (3552): correct: 3551 incorrect: 1
+2024-10-15 07:32:33,589 - Eval_12_student - DEBUG - Test Loss: 152.2399698495865
+2024-10-15 07:32:33,590 - Eval_12_student - DEBUG - Bonafide (3456): correct: 3456 incorrect: 0
+2024-10-15 07:32:33,590 - Eval_12_student - DEBUG - Morph (3552): correct: 3551 incorrect: 1
+2024-10-15 07:32:33,590 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07, 35.03, 70.07, 70.07]
+2024-10-15 07:32:35,479 - Eval_12_student - DEBUG - Model saved successfully at epoch 18
+2024-10-15 07:32:35,479 - Eval_12_student - INFO - loss decreased (152.239970 --> 152.239970).
+2024-10-15 07:32:35,484 - Eval_12_student - DEBUG - Epoch: 19, learning rate: 0.01
+2024-10-15 07:33:29,946 - Eval_12_student - DEBUG - Train Loss: 156.04246872663498
+2024-10-15 07:33:29,946 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3450 incorrect: 1
+2024-10-15 07:33:29,946 - Eval_12_student - DEBUG - Morph (3557): correct: 3557 incorrect: 0
+2024-10-15 07:34:23,226 - Eval_12_student - DEBUG - Test Loss: 151.87363266944885
+2024-10-15 07:34:23,226 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3450 incorrect: 1
+2024-10-15 07:34:23,226 - Eval_12_student - DEBUG - Morph (3557): correct: 3557 incorrect: 0
+2024-10-15 07:34:23,226 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07, 35.03, 70.07, 70.07, 70.07]
+2024-10-15 07:34:24,972 - Eval_12_student - DEBUG - Model saved successfully at epoch 19
+2024-10-15 07:34:24,972 - Eval_12_student - INFO - loss decreased (151.873633 --> 151.873633).
+2024-10-15 07:34:24,976 - Eval_12_student - DEBUG - Epoch: 20, learning rate: 0.01
+2024-10-15 07:35:19,422 - Eval_12_student - DEBUG - Train Loss: 156.11655640602112
+2024-10-15 07:35:19,422 - Eval_12_student - DEBUG - Bonafide (3450): correct: 3449 incorrect: 1
+2024-10-15 07:35:19,422 - Eval_12_student - DEBUG - Morph (3558): correct: 3553 incorrect: 5
+2024-10-15 07:36:12,313 - Eval_12_student - DEBUG - Test Loss: 152.0919145345688
+2024-10-15 07:36:12,313 - Eval_12_student - DEBUG - Bonafide (3450): correct: 3449 incorrect: 1
+2024-10-15 07:36:12,313 - Eval_12_student - DEBUG - Morph (3558): correct: 3553 incorrect: 5
+2024-10-15 07:36:12,313 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07, 35.03, 70.07, 70.07, 70.07, 11.67]
+2024-10-15 07:36:14,263 - Eval_12_student - DEBUG - Model saved successfully at epoch 20
+2024-10-15 07:36:14,264 - Eval_12_student - INFO - EarlyStopping counter: 1 out of 10
+2024-10-15 07:36:14,268 - Eval_12_student - DEBUG - Epoch: 21, learning rate: 0.01
+2024-10-15 07:37:08,597 - Eval_12_student - DEBUG - Train Loss: 156.0480313897133
+2024-10-15 07:37:08,597 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3449 incorrect: 2
+2024-10-15 07:37:08,597 - Eval_12_student - DEBUG - Morph (3557): correct: 3555 incorrect: 2
+2024-10-15 07:38:01,928 - Eval_12_student - DEBUG - Test Loss: 151.80786031484604
+2024-10-15 07:38:01,929 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3449 incorrect: 2
+2024-10-15 07:38:01,929 - Eval_12_student - DEBUG - Morph (3557): correct: 3555 incorrect: 2
+2024-10-15 07:38:01,929 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07, 35.03, 70.07, 70.07, 70.07, 11.67, 17.51]
+2024-10-15 07:38:03,902 - Eval_12_student - DEBUG - Model saved successfully at epoch 21
+2024-10-15 07:38:03,902 - Eval_12_student - INFO - loss decreased (151.807860 --> 151.807860).
+2024-10-15 07:38:03,907 - Eval_12_student - DEBUG - Epoch: 22, learning rate: 0.01
+2024-10-15 07:38:58,303 - Eval_12_student - DEBUG - Train Loss: 155.8543894290924
+2024-10-15 07:38:58,303 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3451 incorrect: 0
+2024-10-15 07:38:58,304 - Eval_12_student - DEBUG - Morph (3557): correct: 3556 incorrect: 1
+2024-10-15 07:39:51,273 - Eval_12_student - DEBUG - Test Loss: 152.1046774983406
+2024-10-15 07:39:51,273 - Eval_12_student - DEBUG - Bonafide (3451): correct: 3451 incorrect: 0
+2024-10-15 07:39:51,273 - Eval_12_student - DEBUG - Morph (3557): correct: 3556 incorrect: 1
+2024-10-15 07:39:51,274 - Eval_12_student - DEBUG - Calculated acc:  [0.13272912423625255, 1.9922857142857142, 2.2506451612903224, 5.83, 2.5855555555555556, 14.005999999999998, 11.67, 14.005999999999998, 35.03, 4.1123529411764705, 70.07, 23.35, 23.35, 11.67, 70.07, 70.07, 35.03, 70.07, 70.07, 70.07, 11.67, 17.51, 70.07]
+2024-10-15 07:39:53,348 - Eval_12_student - DEBUG - Model saved successfully at epoch 22
+2024-10-15 07:39:53,348 - Eval_12_student - INFO - EarlyStopping counter: 1 out of 10
+2024-10-15 07:39:53,354 - Eval_12_student - DEBUG - Epoch: 23, learning rate: 0.01
+2024-10-15 07:40:47,775 - Eval_12_student - DEBUG - Train Loss: 155.8983182311058
+2024-10-15 07:40:47,775 - Eval_12_student - DEBUG - Bonafide (3454): correct: 3454 incorrect: 0
+2024-10-15 07:40:47,776 - Eval_12_student - DEBUG - Morph (3554): correct: 3554 incorrect: 0
+2024-10-15 07:41:40,905 - Eval_12_student - DEBUG - Test Loss: 151.81425058841705
+2024-10-15 07:41:40,905 - Eval_12_student - DEBUG - Bonafide (3454): correct: 3454 incorrect: 0
+2024-10-15 07:41:40,905 - Eval_12_student - DEBUG - Morph (3554): correct: 3554 incorrect: 0
+2024-10-15 07:41:40,905 - Eval_12_student - DEBUG - acc loss: 0.13272912423625255 1.9922857142857142 2.2506451612903224 5.83 2.5855555555555556 14.005999999999998 11.67 14.005999999999998 35.03 4.1123529411764705 70.07 23.35 23.35 11.67 70.07 70.07 35.03 70.07 70.07 70.07 11.67 17.51 70.07 100
+2024-10-15 07:41:40,905 - Eval_12_student - DEBUG - train loss: 208.41951072216034 165.46759152412415 161.95017951726913 159.96337687969208 159.58540457487106 158.56868946552277 158.0489380955696 157.6956667304039 157.36122071743011 157.51478505134583 156.97211754322052 156.9057576060295 156.8009443283081 156.5669584274292 156.52698028087616 156.39232164621353 156.30009311437607 156.2236716747284 156.18451339006424 156.04246872663498 156.11655640602112 156.0480313897133 155.8543894290924 155.8983182311058
+2024-10-15 07:41:40,905 - Eval_12_student - DEBUG - test loss: 181.84469729661942 158.87858498096466 159.92323404550552 155.24967736005783 154.69694286584854 154.3004942536354 153.73459845781326 153.24957263469696 154.64784783124924 153.19658988714218 152.91242146492004 152.6782282590866 152.8462734222412 152.5019986629486 152.56334269046783 152.53877985477448 152.35822623968124 152.2675553560257 152.2399698495865 151.87363266944885 152.0919145345688 151.80786031484604 152.1046774983406 151.81425058841705
+2024-10-15 07:41:40,905 - Eval_12_student - DEBUG - PLOT_EPOCH 23

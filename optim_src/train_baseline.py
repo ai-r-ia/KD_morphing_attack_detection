@@ -36,7 +36,8 @@ def train(args):
     # DIFFUSION - modriff, pipe, greedy,
 
     teacher_dir_path = (
-        f"logs/baseline/checkpoints/baseline_0.0001_{args.teacher_morphs}.pt"
+        # f"logs/baseline/checkpoints/baseline_0.0001_{args.teacher_morphs}.pt"
+        f"logs/teachers/checkpoints/teacher_0.0001_{args.teacher_morphs}.pt"
     )
     if os.path.exists(f"{teacher_dir_path}"):
         model.load_state_dict(

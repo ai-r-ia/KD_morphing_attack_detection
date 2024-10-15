@@ -1,0 +1,92 @@
+2024-10-14 20:02:55,888 - Eval_11_student - INFO - train_student
+2024-10-14 20:02:55,910 - Eval_11_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-14 20:02:55,910 - Eval_11_student - INFO - student morph type:  mipgan2
+2024-10-14 20:02:59,108 - Eval_11_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-14 20:04:49,156 - Eval_11_student - INFO - train_student
+2024-10-14 20:04:49,213 - Eval_11_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-14 20:04:49,213 - Eval_11_student - INFO - student morph type:  mipgan2
+2024-10-14 20:04:52,248 - Eval_11_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-14 20:09:49,883 - Eval_11_student - INFO - train_student
+2024-10-14 20:09:49,904 - Eval_11_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-14 20:09:49,904 - Eval_11_student - INFO - student morph type:  mipgan2
+2024-10-14 20:09:52,905 - Eval_11_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-14 20:17:08,521 - Eval_11_student - INFO - train_student
+2024-10-14 20:17:08,544 - Eval_11_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-14 20:17:08,544 - Eval_11_student - INFO - student morph type:  mipgan2
+2024-10-14 20:20:00,346 - Eval_11_student - INFO - train_student
+2024-10-14 20:20:00,367 - Eval_11_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-14 20:20:00,367 - Eval_11_student - INFO - student morph type:  mipgan2
+2024-10-14 20:48:48,720 - Eval_11_student - INFO - train_student
+2024-10-14 20:48:48,742 - Eval_11_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-14 20:48:48,742 - Eval_11_student - INFO - student morph type:  mipgan2
+2024-10-14 20:48:51,807 - Eval_11_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-14 20:52:12,487 - Eval_11_student - DEBUG - Train Loss: 220.93813955783844
+2024-10-14 20:52:12,487 - Eval_11_student - DEBUG - Bonafide (3432): correct: 2851 incorrect: 581
+2024-10-14 20:52:12,488 - Eval_11_student - DEBUG - Morph (3576): correct: 3292 incorrect: 284
+2024-10-14 20:55:00,614 - Eval_11_student - DEBUG - Test Loss: 167.5851121544838
+2024-10-14 20:55:00,615 - Eval_11_student - DEBUG - Bonafide (3432): correct: 2851 incorrect: 581
+2024-10-14 20:55:00,615 - Eval_11_student - DEBUG - Morph (3576): correct: 3292 incorrect: 284
+2024-10-14 20:55:00,615 - Eval_11_student - DEBUG - Calculated acc:  [0.07101734104046244]
+2024-10-14 20:55:01,138 - Eval_11_student - DEBUG - Model saved successfully at epoch 0
+2024-10-14 20:55:01,138 - Eval_11_student - INFO - loss decreased (167.585112 --> 167.585112).
+2024-10-14 20:55:01,140 - Eval_11_student - DEBUG - Epoch: 1, learning rate: 0.01
+2024-10-14 20:58:27,847 - Eval_11_student - DEBUG - Train Loss: 170.319455742836
+2024-10-14 20:58:27,847 - Eval_11_student - DEBUG - Bonafide (3435): correct: 3387 incorrect: 48
+2024-10-14 20:58:27,847 - Eval_11_student - DEBUG - Morph (3573): correct: 3530 incorrect: 43
+2024-10-14 21:01:18,951 - Eval_11_student - DEBUG - Test Loss: 160.35000628232956
+2024-10-14 21:01:18,952 - Eval_11_student - DEBUG - Bonafide (3435): correct: 3387 incorrect: 48
+2024-10-14 21:01:18,952 - Eval_11_student - DEBUG - Morph (3573): correct: 3530 incorrect: 43
+2024-10-14 21:01:18,952 - Eval_11_student - DEBUG - Calculated acc:  [0.07101734104046244, 0.76010989010989]
+2024-10-14 21:01:20,529 - Eval_11_student - DEBUG - Model saved successfully at epoch 1
+2024-10-14 21:01:20,529 - Eval_11_student - INFO - loss decreased (160.350006 --> 160.350006).
+2024-10-14 21:01:20,533 - Eval_11_student - DEBUG - Epoch: 2, learning rate: 0.01
+2024-10-14 21:04:40,467 - Eval_11_student - DEBUG - Train Loss: 163.60695946216583
+2024-10-14 21:04:40,467 - Eval_11_student - DEBUG - Bonafide (3430): correct: 3428 incorrect: 2
+2024-10-14 21:04:40,467 - Eval_11_student - DEBUG - Morph (3578): correct: 3573 incorrect: 5
+2024-10-14 21:07:35,225 - Eval_11_student - DEBUG - Test Loss: 158.1403135061264
+2024-10-14 21:07:35,225 - Eval_11_student - DEBUG - Bonafide (3430): correct: 3428 incorrect: 2
+2024-10-14 21:07:35,225 - Eval_11_student - DEBUG - Morph (3578): correct: 3573 incorrect: 5
+2024-10-14 21:07:35,225 - Eval_11_student - DEBUG - Calculated acc:  [0.07101734104046244, 0.76010989010989, 10.001428571428571]
+2024-10-14 21:07:36,633 - Eval_11_student - DEBUG - Model saved successfully at epoch 2
+2024-10-14 21:07:36,633 - Eval_11_student - INFO - loss decreased (158.140314 --> 158.140314).
+2024-10-14 21:07:36,638 - Eval_11_student - DEBUG - Epoch: 3, learning rate: 0.01
+2024-10-14 21:11:03,588 - Eval_11_student - DEBUG - Train Loss: 170.54136073589325
+2024-10-14 21:11:03,588 - Eval_11_student - DEBUG - Bonafide (3434): correct: 3302 incorrect: 132
+2024-10-14 21:11:03,588 - Eval_11_student - DEBUG - Morph (3574): correct: 3450 incorrect: 124
+2024-10-14 21:13:49,077 - Eval_11_student - DEBUG - Test Loss: 158.31540709733963
+2024-10-14 21:13:49,077 - Eval_11_student - DEBUG - Bonafide (3434): correct: 3302 incorrect: 132
+2024-10-14 21:13:49,077 - Eval_11_student - DEBUG - Morph (3574): correct: 3450 incorrect: 124
+2024-10-14 21:13:49,077 - Eval_11_student - DEBUG - Calculated acc:  [0.07101734104046244, 0.76010989010989, 10.001428571428571, 0.26375]
+2024-10-14 21:13:51,034 - Eval_11_student - DEBUG - Model saved successfully at epoch 3
+2024-10-14 21:13:51,034 - Eval_11_student - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 21:13:51,037 - Eval_11_student - DEBUG - Epoch: 4, learning rate: 0.01
+2024-10-14 21:17:16,265 - Eval_11_student - DEBUG - Train Loss: 161.2850660085678
+2024-10-14 21:17:16,265 - Eval_11_student - DEBUG - Bonafide (3433): correct: 3432 incorrect: 1
+2024-10-14 21:17:16,265 - Eval_11_student - DEBUG - Morph (3575): correct: 3575 incorrect: 0
+2024-10-14 21:20:11,424 - Eval_11_student - DEBUG - Test Loss: 156.49795389175415
+2024-10-14 21:20:11,424 - Eval_11_student - DEBUG - Bonafide (3433): correct: 3432 incorrect: 1
+2024-10-14 21:20:11,424 - Eval_11_student - DEBUG - Morph (3575): correct: 3575 incorrect: 0
+2024-10-14 21:20:11,424 - Eval_11_student - DEBUG - Calculated acc:  [0.07101734104046244, 0.76010989010989, 10.001428571428571, 0.26375, 70.07]
+2024-10-14 21:20:13,124 - Eval_11_student - DEBUG - Model saved successfully at epoch 4
+2024-10-14 21:20:13,125 - Eval_11_student - INFO - loss decreased (156.497954 --> 156.497954).
+2024-10-14 21:20:13,127 - Eval_11_student - DEBUG - Epoch: 5, learning rate: 0.01
+2024-10-14 21:23:39,871 - Eval_11_student - DEBUG - Train Loss: 160.5368441939354
+2024-10-14 21:23:39,871 - Eval_11_student - DEBUG - Bonafide (3430): correct: 3429 incorrect: 1
+2024-10-14 21:23:39,871 - Eval_11_student - DEBUG - Morph (3578): correct: 3578 incorrect: 0
+2024-10-14 21:26:24,796 - Eval_11_student - DEBUG - Test Loss: 156.08693063259125
+2024-10-14 21:26:24,796 - Eval_11_student - DEBUG - Bonafide (3430): correct: 3429 incorrect: 1
+2024-10-14 21:26:24,796 - Eval_11_student - DEBUG - Morph (3578): correct: 3578 incorrect: 0
+2024-10-14 21:26:24,796 - Eval_11_student - DEBUG - Calculated acc:  [0.07101734104046244, 0.76010989010989, 10.001428571428571, 0.26375, 70.07, 70.07]
+2024-10-14 21:26:26,584 - Eval_11_student - DEBUG - Model saved successfully at epoch 5
+2024-10-14 21:26:26,584 - Eval_11_student - INFO - loss decreased (156.086931 --> 156.086931).
+2024-10-14 21:26:26,587 - Eval_11_student - DEBUG - Epoch: 6, learning rate: 0.01
+2024-10-14 21:29:53,747 - Eval_11_student - DEBUG - Train Loss: 160.18353134393692
+2024-10-14 21:29:53,748 - Eval_11_student - DEBUG - Bonafide (3434): correct: 3434 incorrect: 0
+2024-10-14 21:29:53,748 - Eval_11_student - DEBUG - Morph (3574): correct: 3574 incorrect: 0
+2024-10-14 21:32:49,807 - Eval_11_student - DEBUG - Test Loss: 155.47830164432526
+2024-10-14 21:32:49,808 - Eval_11_student - DEBUG - Bonafide (3434): correct: 3434 incorrect: 0
+2024-10-14 21:32:49,808 - Eval_11_student - DEBUG - Morph (3574): correct: 3574 incorrect: 0
+2024-10-14 21:32:49,808 - Eval_11_student - DEBUG - acc loss: 0.07101734104046244 0.76010989010989 10.001428571428571 0.26375 70.07 70.07 100
+2024-10-14 21:32:49,808 - Eval_11_student - DEBUG - train loss: 220.93813955783844 170.319455742836 163.60695946216583 170.54136073589325 161.2850660085678 160.5368441939354 160.18353134393692
+2024-10-14 21:32:49,808 - Eval_11_student - DEBUG - test loss: 167.5851121544838 160.35000628232956 158.1403135061264 158.31540709733963 156.49795389175415 156.08693063259125 155.47830164432526
+2024-10-14 21:32:49,808 - Eval_11_student - DEBUG - PLOT_EPOCH 6

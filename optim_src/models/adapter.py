@@ -13,7 +13,7 @@ from torch.nn import (
 class Adapter(Module):
     def __init__(
         self,
-        input_size: int = 3,
+        input_size: int = 2,
         output_size: int = 32,
         num_layers: int = 4,
         hidden_size=128,

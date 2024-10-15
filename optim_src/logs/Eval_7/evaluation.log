@@ -1,0 +1,66 @@
+2024-10-09 17:24:46,495 - Eval_7_evaluation - INFO - models: teacher_mipgan2 teacher_stylegan teacher_mipgan2.stylegan student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:24:46,599 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-09 17:24:59,839 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-09 17:25:09,921 - Eval_7_evaluation - INFO - models: teacher_mipgan2 teacher_stylegan teacher_mipgan2.stylegan student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:25:09,986 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-09 17:25:19,117 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-09 17:25:21,983 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-09 17:25:34,088 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-09 17:25:46,311 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-09 17:25:48,873 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-09 17:25:56,204 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2.stylegan
+2024-10-09 17:26:08,882 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2.stylegan
+2024-10-09 17:26:15,894 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-09 17:26:22,431 - Eval_7_evaluation - DEBUG - fetching scores for: student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:26:24,702 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-09 17:26:37,643 - Eval_7_evaluation - DEBUG - fetching scores for: student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:26:37,728 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-09 17:26:50,551 - Eval_7_evaluation - INFO - EER Table:
+2024-10-09 17:26:50,551 - Eval_7_evaluation - INFO - teacher_mipgan2: {'mipgan2': 0.0, 'stylegan': 0.0}
+2024-10-09 17:26:50,551 - Eval_7_evaluation - INFO - teacher_stylegan: {'mipgan2': 0.0, 'stylegan': 0.0}
+2024-10-09 17:26:50,551 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan: {'mipgan2': 0.06, 'stylegan': 0.12}
+2024-10-09 17:26:50,551 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0: {'mipgan2': 0.26, 'stylegan': 0.0}
+2024-10-09 17:26:50,552 - Eval_7_evaluation - INFO - DEER Table:
+2024-10-09 17:26:50,552 - Eval_7_evaluation - INFO - teacher_mipgan2 on mipgan2 vs stylegan: DEER = 0.0000
+2024-10-09 17:26:50,552 - Eval_7_evaluation - INFO - teacher_stylegan on mipgan2 vs stylegan: DEER = 0.0000
+2024-10-09 17:26:50,552 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan on mipgan2 vs stylegan: DEER = 0.0600
+2024-10-09 17:26:50,552 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0 on mipgan2 vs stylegan: DEER = 0.2600
+2024-10-09 17:27:06,384 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-09 17:27:34,741 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2.stylegan
+2024-10-09 17:27:45,017 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2.stylegan
+2024-10-09 17:28:00,824 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2.stylegan
+2024-10-09 17:28:12,621 - Eval_7_evaluation - DEBUG - fetching scores for: teacher_mipgan2.stylegan
+2024-10-09 17:28:24,952 - Eval_7_evaluation - DEBUG - fetching scores for: student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:28:35,205 - Eval_7_evaluation - DEBUG - fetching scores for: student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:28:56,110 - Eval_7_evaluation - DEBUG - fetching scores for: student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:29:08,463 - Eval_7_evaluation - DEBUG - fetching scores for: student_Morphing_Diffusion_2024_llmbd_1.0
+2024-10-09 17:29:20,878 - Eval_7_evaluation - INFO - EER Table:
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2: {'lma': 0.0, 'lmaubo': 0.0, 'mordiff': 15.77, 'pipe': 15.96}
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_stylegan: {'lma': 0.0, 'lmaubo': 0.0, 'mordiff': 41.5, 'pipe': 41.59}
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan: {'lma': 0.13, 'lmaubo': 1.41, 'mordiff': 0.12, 'pipe': 0.06}
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0: {'lma': 0.0, 'lmaubo': 4.68, 'mordiff': 0.0, 'pipe': 0.0}
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - DEER Table:
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2 on lma vs lmaubo: DEER = 0.0000
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2 on lma vs mordiff: DEER = 15.7700
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2 on lma vs pipe: DEER = 15.9600
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2 on lmaubo vs mordiff: DEER = 15.7700
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2 on lmaubo vs pipe: DEER = 15.9600
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_mipgan2 on mordiff vs pipe: DEER = 0.1900
+2024-10-09 17:29:20,879 - Eval_7_evaluation - INFO - teacher_stylegan on lma vs lmaubo: DEER = 0.0000
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_stylegan on lma vs mordiff: DEER = 41.5000
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_stylegan on lma vs pipe: DEER = 41.5900
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_stylegan on lmaubo vs mordiff: DEER = 41.5000
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_stylegan on lmaubo vs pipe: DEER = 41.5900
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_stylegan on mordiff vs pipe: DEER = 0.0900
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan on lma vs lmaubo: DEER = 1.2800
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan on lma vs mordiff: DEER = 0.0100
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan on lma vs pipe: DEER = 0.0700
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan on lmaubo vs mordiff: DEER = 1.2900
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan on lmaubo vs pipe: DEER = 1.3500
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - teacher_mipgan2.stylegan on mordiff vs pipe: DEER = 0.0600
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0 on lma vs lmaubo: DEER = 4.6800
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0 on lma vs mordiff: DEER = 0.0000
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0 on lma vs pipe: DEER = 0.0000
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0 on lmaubo vs mordiff: DEER = 4.6800
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0 on lmaubo vs pipe: DEER = 4.6800
+2024-10-09 17:29:20,880 - Eval_7_evaluation - INFO - student_Morphing_Diffusion_2024_llmbd_1.0 on mordiff vs pipe: DEER = 0.0000

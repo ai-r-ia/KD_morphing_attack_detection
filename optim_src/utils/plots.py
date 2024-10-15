@@ -117,9 +117,12 @@ def plot_combined_hist(istest, saving_dir, models) -> None:
             plt.savefig(f"{dir_path}/{morph}_traindb.png")
 
 
-def plot_eer_bars(istest, saving_dir) -> None:
+def plot_eer_bars(istest, isferet, saving_dir) -> None:
     if istest:
-        eer_file = f"{saving_dir}/eer_testdb.pkl"
+        if isferet:
+            eer_file = f"{saving_dir}/eer_testdb_feret.pkl"
+        else:
+            eer_file = f"{saving_dir}/eer_testdb.pkl"
     else:
         eer_file = f"{saving_dir}/eer_traindb.pkl"
 
@@ -161,7 +164,10 @@ def plot_eer_bars(istest, saving_dir) -> None:
 
     os.makedirs(f"{dir_path}", exist_ok=True)
     if istest:
-        plt.savefig(f"{dir_path}/test_eer.png")
+        if isferet:
+            plt.savefig(f"{dir_path}/test_eer_feret.png")
+        else:
+            plt.savefig(f"{dir_path}/test_eer.png")
     else:
         plt.savefig(f"{dir_path}/train__eer.png")
 

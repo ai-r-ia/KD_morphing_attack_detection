@@ -91,11 +91,26 @@ def create_parser() -> argparse.ArgumentParser:
     )
 
     parser.add_argument(
+        "-em",
+        "--eval_morphs",
+        # default="lmaubo_mipgan2_mordiff",
+        type=str,
+        help="specify eval morph types",
+    )
+
+    parser.add_argument(
         "--istest",
         action="store_true",
         help="set to use test database for evaluation",
     )
     parser.set_defaults(istest=False)
+
+    parser.add_argument(
+        "--isferet",
+        action="store_true",
+        help="set to use feret database for evaluation",
+    )
+    parser.set_defaults(isferet=False)
 
     parser.add_argument(
         "-sm",
@@ -108,7 +123,9 @@ def create_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "-rdir",
         "--root_dir",
-        default="/home/ubuntu/volume/data/PRINT_SCAN/digital",
+        default="/home/ubuntu/volume/data/PRINT_SCAN/cleaned_digital/digital",
+        # default="/home/ubuntu/volume/data/PRINT_SCAN/digital",
+        # E:\filestorage\nbl-users\Shreyas-Sushrut-Raghu\FaceMoprhingDatabases\cleaned_datasets\frgc\digital
         type=str,
         help="specify root directory address",
     )
@@ -116,7 +133,8 @@ def create_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "-mdir",
         "--morph_dir",
-        default="/home/ubuntu/volume/data/PRINT_SCAN/digital",
+        # default="/home/ubuntu/volume/data/PRINT_SCAN/digital",
+        default="/home/ubuntu/volume/data/PRINT_SCAN/cleaned_digital/digital",
         type=str,
         help="specify morph directory address",
     )

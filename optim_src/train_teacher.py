@@ -18,7 +18,7 @@ def train(args):
     logger.info(f"train_teacher {args.morphtype}")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     early_stopping = EarlyStopping(logger=logger)
-    
+
     wrapper = DatasetWrapper(args.root_dir, args.morphtype, morph_dir=args.morph_dir)
     trainds = wrapper.get_train_dataset(
         2, args.batch_size, morph_type=args.morphtype, shuffle=True, num_workers=8
@@ -45,6 +45,14 @@ def train(args):
     accuracy_list = []
     epoch = -1
     plot_epoch = 0
+
+    if os.path.exists(chk_pt_path):
+        print(f"loading model for {args.morphtype}")
+        checkpoint = torch.load(chk_pt_path, weights_only=True)
+        model.load_state_dict(checkpoint["model_state_dict"], strict=False)
+        epoch = checkpoint["epoch"]
+        optim.load_state_dict(checkpoint["optimizer_state_dict"])
+        plot_epoch = epoch + 1
 
     for epoch in range(epoch + 1, args.epochs):
         start_time = time.time()

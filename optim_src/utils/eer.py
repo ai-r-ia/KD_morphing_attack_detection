@@ -47,7 +47,11 @@ def classify(enrollfeat: torch.Tensor, probefeat: torch.Tensor) -> torch.Tensor:
 
 
 def eval_and_get_eer(model_name, model, morph, device, args, saving_dir, logger):
-    wrapper = DatasetWrapper(args.root_dir, morph_type=morph)
+    if morph == "post_process":
+        args.morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
+    if morph != "post_process":
+        args.morph_dir = args.root_dir
+    wrapper = DatasetWrapper(args.root_dir, morph_type=morph, morph_dir=args.morph_dir)
     trainds = wrapper.get_train_dataset(
         0, args.batch_size, morph_type=morph, shuffle=True, num_workers=8
     )
@@ -59,7 +63,18 @@ def eval_and_get_eer(model_name, model, morph, device, args, saving_dir, logger)
 
     logger.debug("fetching scores for: %s", model_name)
     eer = None
-    if os.path.exists(f"logs/scores/{model_name}/genuine_{model_name}_{morph}.npy"):
+    genuine_scores = []
+    imposter_scores = []
+    if args.isferet and os.path.exists(f"logs/scores/{model_name}/genuine_{model_name}_{morph}_feret.npy"):
+        genuine_scores = np.load(
+            f"logs/scores/{model_name}/genuine_{model_name}_{morph}_feret.npy"
+        )
+        imposter_scores = np.load(
+            f"logs/scores/{model_name}/imposter_{model_name}_{morph}_feret.npy"
+        )
+    elif not args.isferet and os.path.exists(
+        f"logs/scores/{model_name}/genuine_{model_name}_{morph}.npy"
+    ):
         genuine_scores = np.load(
             f"logs/scores/{model_name}/genuine_{model_name}_{morph}.npy"
         )
@@ -67,8 +82,6 @@ def eval_and_get_eer(model_name, model, morph, device, args, saving_dir, logger)
             f"logs/scores/{model_name}/imposter_{model_name}_{morph}.npy"
         )
     else:
-        genuine_scores = []
-        imposter_scores = []
         with torch.no_grad():
             enroll_features_list = []
             enroll_labels_list = []
@@ -105,15 +118,25 @@ def eval_and_get_eer(model_name, model, morph, device, args, saving_dir, logger)
             f"logs/scores/{model_name}",
             exist_ok=True,
         )
-        np.save(
-            f"logs/scores/{model_name}/genuine_{model_name}_{morph}.npy",
-            genuine_scores,
-        )
-        np.save(
-            f"logs/scores/{model_name}/imposter_{model_name}_{morph}.npy",
-            imposter_scores,
-        )
-
+        if args.isferet:
+            np.save(
+                f"logs/scores/{model_name}/genuine_{model_name}_{morph}_feret.npy",
+                genuine_scores,
+            )
+            np.save(
+                f"logs/scores/{model_name}/imposter_{model_name}_{morph}_feret.npy",
+                imposter_scores,
+            )
+        else:
+            np.save(
+                f"logs/scores/{model_name}/genuine_{model_name}_{morph}.npy",
+                genuine_scores,
+            )
+            np.save(
+                f"logs/scores/{model_name}/imposter_{model_name}_{morph}.npy",
+                imposter_scores,
+            )
+    print(model_name, len(imposter_scores), len(genuine_scores), morph)
     eer, *_ = calculate_eer(genuine_scores, imposter_scores)
 
     return eer
@@ -125,6 +148,7 @@ def compute_eer(eval_morphs, models, device, saving_dir, args, logger) -> None:
         for morph in eval_morphs:
             if model_name not in eer_table:
                 eer_table[model_name] = {}
+
             eer_table[model_name][morph] = eval_and_get_eer(
                 model_name=model_name,
                 model=model,
@@ -139,10 +163,14 @@ def compute_eer(eval_morphs, models, device, saving_dir, args, logger) -> None:
     for model_name, eers in eer_table.items():
         logger.info(f"{model_name}: {eers}")
         print(f"{model_name}: {eers}")
-
+    print(saving_dir)
     if args.istest:
-        with open(f"{saving_dir}/eer_testdb.pkl", "wb") as file:
-            pickle.dump(eer_table, file)
+        if args.isferet:
+            with open(f"{saving_dir}/eer_testdb_feret.pkl", "wb") as file:
+                pickle.dump(eer_table, file)
+        else:
+            with open(f"{saving_dir}/eer_testdb.pkl", "wb") as file:
+                pickle.dump(eer_table, file)
     else:
         with open(f"{saving_dir}/eer_traindb.pkl", "wb") as file:
             pickle.dump(eer_table, file)

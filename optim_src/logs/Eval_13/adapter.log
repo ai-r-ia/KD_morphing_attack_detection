@@ -1,0 +1,1206 @@
+2024-10-14 11:36:20,966 - Eval_13_adapter - INFO - train_adapter
+2024-10-14 11:36:25,300 - Eval_13_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-14 11:36:28,242 - Eval_13_adapter - DEBUG - Train Loss: 177.12430131435394
+2024-10-14 11:36:28,245 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-14 11:36:28,246 - Eval_13_adapter - INFO - loss decreased (177.124301 --> 177.124301).
+2024-10-14 11:36:28,246 - Eval_13_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-14 11:36:30,271 - Eval_13_adapter - DEBUG - Train Loss: 140.98158967494965
+2024-10-14 11:36:30,275 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-14 11:36:30,275 - Eval_13_adapter - INFO - loss decreased (140.981590 --> 140.981590).
+2024-10-14 11:36:30,275 - Eval_13_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-14 11:36:32,372 - Eval_13_adapter - DEBUG - Train Loss: 112.78925096988678
+2024-10-14 11:36:32,375 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-14 11:36:32,376 - Eval_13_adapter - INFO - loss decreased (112.789251 --> 112.789251).
+2024-10-14 11:36:32,376 - Eval_13_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-14 11:36:34,433 - Eval_13_adapter - DEBUG - Train Loss: 88.59641766548157
+2024-10-14 11:36:34,436 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-14 11:36:34,436 - Eval_13_adapter - INFO - loss decreased (88.596418 --> 88.596418).
+2024-10-14 11:36:34,437 - Eval_13_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-14 11:36:36,489 - Eval_13_adapter - DEBUG - Train Loss: 68.5166882276535
+2024-10-14 11:36:36,492 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-14 11:36:36,492 - Eval_13_adapter - INFO - loss decreased (68.516688 --> 68.516688).
+2024-10-14 11:36:36,493 - Eval_13_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-14 11:36:38,615 - Eval_13_adapter - DEBUG - Train Loss: 51.5479781627655
+2024-10-14 11:36:38,618 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-14 11:36:38,618 - Eval_13_adapter - INFO - loss decreased (51.547978 --> 51.547978).
+2024-10-14 11:36:38,619 - Eval_13_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-14 11:36:40,793 - Eval_13_adapter - DEBUG - Train Loss: 38.268208742141724
+2024-10-14 11:36:40,797 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-14 11:36:40,797 - Eval_13_adapter - INFO - loss decreased (38.268209 --> 38.268209).
+2024-10-14 11:36:40,798 - Eval_13_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-14 11:36:42,962 - Eval_13_adapter - DEBUG - Train Loss: 27.638949036598206
+2024-10-14 11:36:42,965 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-14 11:36:42,965 - Eval_13_adapter - INFO - loss decreased (27.638949 --> 27.638949).
+2024-10-14 11:36:42,966 - Eval_13_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-14 11:36:45,132 - Eval_13_adapter - DEBUG - Train Loss: 18.822309494018555
+2024-10-14 11:36:45,135 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-14 11:36:45,135 - Eval_13_adapter - INFO - loss decreased (18.822309 --> 18.822309).
+2024-10-14 11:36:45,136 - Eval_13_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-14 11:36:47,505 - Eval_13_adapter - DEBUG - Train Loss: 11.443423926830292
+2024-10-14 11:36:47,509 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-14 11:36:47,509 - Eval_13_adapter - INFO - loss decreased (11.443424 --> 11.443424).
+2024-10-14 11:36:47,510 - Eval_13_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-14 11:36:49,886 - Eval_13_adapter - DEBUG - Train Loss: 5.0859755873680115
+2024-10-14 11:36:49,890 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-14 11:36:49,890 - Eval_13_adapter - INFO - loss decreased (5.085976 --> 5.085976).
+2024-10-14 11:36:49,890 - Eval_13_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-14 11:36:52,288 - Eval_13_adapter - DEBUG - Train Loss: -0.4406762719154358
+2024-10-14 11:36:52,292 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-14 11:36:52,292 - Eval_13_adapter - INFO - loss decreased (-0.440676 --> -0.440676).
+2024-10-14 11:36:52,292 - Eval_13_adapter - DEBUG - Epoch: 12, learning rate:  0.1
+2024-10-14 11:36:54,682 - Eval_13_adapter - DEBUG - Train Loss: -5.335596978664398
+2024-10-14 11:36:54,685 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 12
+2024-10-14 11:36:54,685 - Eval_13_adapter - INFO - loss decreased (-5.335597 --> -5.335597).
+2024-10-14 11:36:54,686 - Eval_13_adapter - DEBUG - Epoch: 13, learning rate:  0.1
+2024-10-14 11:36:57,089 - Eval_13_adapter - DEBUG - Train Loss: -9.82902181148529
+2024-10-14 11:36:57,095 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 13
+2024-10-14 11:36:57,095 - Eval_13_adapter - INFO - loss decreased (-9.829022 --> -9.829022).
+2024-10-14 11:36:57,095 - Eval_13_adapter - DEBUG - Epoch: 14, learning rate:  0.1
+2024-10-14 11:36:59,513 - Eval_13_adapter - DEBUG - Train Loss: -13.73837149143219
+2024-10-14 11:36:59,516 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 14
+2024-10-14 11:36:59,516 - Eval_13_adapter - INFO - loss decreased (-13.738371 --> -13.738371).
+2024-10-14 11:36:59,517 - Eval_13_adapter - DEBUG - Epoch: 15, learning rate:  0.1
+2024-10-14 11:37:01,792 - Eval_13_adapter - DEBUG - Train Loss: -17.4473894238472
+2024-10-14 11:37:01,795 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 15
+2024-10-14 11:37:01,795 - Eval_13_adapter - INFO - loss decreased (-17.447389 --> -17.447389).
+2024-10-14 11:37:01,795 - Eval_13_adapter - DEBUG - Epoch: 16, learning rate:  0.1
+2024-10-14 11:37:04,055 - Eval_13_adapter - DEBUG - Train Loss: -20.987243711948395
+2024-10-14 11:37:04,058 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 16
+2024-10-14 11:37:04,058 - Eval_13_adapter - INFO - loss decreased (-20.987244 --> -20.987244).
+2024-10-14 11:37:04,058 - Eval_13_adapter - DEBUG - Epoch: 17, learning rate:  0.1
+2024-10-14 11:37:06,357 - Eval_13_adapter - DEBUG - Train Loss: -23.27708888053894
+2024-10-14 11:37:06,360 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 17
+2024-10-14 11:37:06,360 - Eval_13_adapter - INFO - loss decreased (-23.277089 --> -23.277089).
+2024-10-14 11:37:06,361 - Eval_13_adapter - DEBUG - Epoch: 18, learning rate:  0.1
+2024-10-14 11:37:08,469 - Eval_13_adapter - DEBUG - Train Loss: -26.49903517961502
+2024-10-14 11:37:08,473 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 18
+2024-10-14 11:37:08,473 - Eval_13_adapter - INFO - loss decreased (-26.499035 --> -26.499035).
+2024-10-14 11:37:08,474 - Eval_13_adapter - DEBUG - Epoch: 19, learning rate:  0.1
+2024-10-14 11:37:10,567 - Eval_13_adapter - DEBUG - Train Loss: -28.786373138427734
+2024-10-14 11:37:10,570 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 19
+2024-10-14 11:37:10,570 - Eval_13_adapter - INFO - loss decreased (-28.786373 --> -28.786373).
+2024-10-14 11:37:10,571 - Eval_13_adapter - DEBUG - Epoch: 20, learning rate:  0.1
+2024-10-14 11:37:12,755 - Eval_13_adapter - DEBUG - Train Loss: -31.88601517677307
+2024-10-14 11:37:12,758 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 20
+2024-10-14 11:37:12,758 - Eval_13_adapter - INFO - loss decreased (-31.886015 --> -31.886015).
+2024-10-14 11:37:12,758 - Eval_13_adapter - DEBUG - Epoch: 21, learning rate:  0.1
+2024-10-14 11:37:14,820 - Eval_13_adapter - DEBUG - Train Loss: -33.39665526151657
+2024-10-14 11:37:14,823 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 21
+2024-10-14 11:37:14,823 - Eval_13_adapter - INFO - loss decreased (-33.396655 --> -33.396655).
+2024-10-14 11:37:14,824 - Eval_13_adapter - DEBUG - Epoch: 22, learning rate:  0.1
+2024-10-14 11:37:16,861 - Eval_13_adapter - DEBUG - Train Loss: -35.64445602893829
+2024-10-14 11:37:16,864 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 22
+2024-10-14 11:37:16,864 - Eval_13_adapter - INFO - loss decreased (-35.644456 --> -35.644456).
+2024-10-14 11:37:16,865 - Eval_13_adapter - DEBUG - Epoch: 23, learning rate:  0.1
+2024-10-14 11:37:18,941 - Eval_13_adapter - DEBUG - Train Loss: -37.76980382204056
+2024-10-14 11:37:18,945 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 23
+2024-10-14 11:37:18,945 - Eval_13_adapter - INFO - loss decreased (-37.769804 --> -37.769804).
+2024-10-14 11:37:18,945 - Eval_13_adapter - DEBUG - Epoch: 24, learning rate:  0.1
+2024-10-14 11:37:21,006 - Eval_13_adapter - DEBUG - Train Loss: -39.36797362565994
+2024-10-14 11:37:21,009 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 24
+2024-10-14 11:37:21,009 - Eval_13_adapter - INFO - loss decreased (-39.367974 --> -39.367974).
+2024-10-14 11:37:21,010 - Eval_13_adapter - DEBUG - Epoch: 25, learning rate:  0.1
+2024-10-14 11:37:23,097 - Eval_13_adapter - DEBUG - Train Loss: -41.098952412605286
+2024-10-14 11:37:23,100 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 25
+2024-10-14 11:37:23,100 - Eval_13_adapter - INFO - loss decreased (-41.098952 --> -41.098952).
+2024-10-14 11:37:23,101 - Eval_13_adapter - DEBUG - Epoch: 26, learning rate:  0.1
+2024-10-14 11:37:25,196 - Eval_13_adapter - DEBUG - Train Loss: -42.520153164863586
+2024-10-14 11:37:25,199 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 26
+2024-10-14 11:37:25,199 - Eval_13_adapter - INFO - loss decreased (-42.520153 --> -42.520153).
+2024-10-14 11:37:25,200 - Eval_13_adapter - DEBUG - Epoch: 27, learning rate:  0.1
+2024-10-14 11:37:27,366 - Eval_13_adapter - DEBUG - Train Loss: -44.26621013879776
+2024-10-14 11:37:27,370 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 27
+2024-10-14 11:37:27,370 - Eval_13_adapter - INFO - loss decreased (-44.266210 --> -44.266210).
+2024-10-14 11:37:27,371 - Eval_13_adapter - DEBUG - Epoch: 28, learning rate:  0.1
+2024-10-14 11:37:29,574 - Eval_13_adapter - DEBUG - Train Loss: -45.894199192523956
+2024-10-14 11:37:29,577 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 28
+2024-10-14 11:37:29,577 - Eval_13_adapter - INFO - loss decreased (-45.894199 --> -45.894199).
+2024-10-14 11:37:29,578 - Eval_13_adapter - DEBUG - Epoch: 29, learning rate:  0.1
+2024-10-14 11:37:31,808 - Eval_13_adapter - DEBUG - Train Loss: -47.27918207645416
+2024-10-14 11:37:31,812 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 29
+2024-10-14 11:37:31,813 - Eval_13_adapter - INFO - loss decreased (-47.279182 --> -47.279182).
+2024-10-14 11:37:31,813 - Eval_13_adapter - DEBUG - Epoch: 30, learning rate:  0.1
+2024-10-14 11:37:34,053 - Eval_13_adapter - DEBUG - Train Loss: -48.4309298992157
+2024-10-14 11:37:34,057 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 30
+2024-10-14 11:37:34,057 - Eval_13_adapter - INFO - loss decreased (-48.430930 --> -48.430930).
+2024-10-14 11:37:34,058 - Eval_13_adapter - DEBUG - Epoch: 31, learning rate:  0.1
+2024-10-14 11:37:36,415 - Eval_13_adapter - DEBUG - Train Loss: -49.652787566185
+2024-10-14 11:37:36,418 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 31
+2024-10-14 11:37:36,418 - Eval_13_adapter - INFO - loss decreased (-49.652788 --> -49.652788).
+2024-10-14 11:37:36,419 - Eval_13_adapter - DEBUG - Epoch: 32, learning rate:  0.1
+2024-10-14 11:37:38,668 - Eval_13_adapter - DEBUG - Train Loss: -50.81734764575958
+2024-10-14 11:37:38,671 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 32
+2024-10-14 11:37:38,671 - Eval_13_adapter - INFO - loss decreased (-50.817348 --> -50.817348).
+2024-10-14 11:37:38,671 - Eval_13_adapter - DEBUG - Epoch: 33, learning rate:  0.1
+2024-10-14 11:37:40,856 - Eval_13_adapter - DEBUG - Train Loss: -51.825254797935486
+2024-10-14 11:37:40,859 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 33
+2024-10-14 11:37:40,859 - Eval_13_adapter - INFO - loss decreased (-51.825255 --> -51.825255).
+2024-10-14 11:37:40,859 - Eval_13_adapter - DEBUG - Epoch: 34, learning rate:  0.1
+2024-10-14 11:37:43,059 - Eval_13_adapter - DEBUG - Train Loss: -52.721515476703644
+2024-10-14 11:37:43,063 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 34
+2024-10-14 11:37:43,063 - Eval_13_adapter - INFO - loss decreased (-52.721515 --> -52.721515).
+2024-10-14 11:37:43,063 - Eval_13_adapter - DEBUG - Epoch: 35, learning rate:  0.1
+2024-10-14 11:37:45,367 - Eval_13_adapter - DEBUG - Train Loss: -53.89453995227814
+2024-10-14 11:37:45,370 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 35
+2024-10-14 11:37:45,370 - Eval_13_adapter - INFO - loss decreased (-53.894540 --> -53.894540).
+2024-10-14 11:37:45,370 - Eval_13_adapter - DEBUG - Epoch: 36, learning rate:  0.1
+2024-10-14 11:37:47,861 - Eval_13_adapter - DEBUG - Train Loss: -54.85137057304382
+2024-10-14 11:37:47,865 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 36
+2024-10-14 11:37:47,865 - Eval_13_adapter - INFO - loss decreased (-54.851371 --> -54.851371).
+2024-10-14 11:37:47,865 - Eval_13_adapter - DEBUG - Epoch: 37, learning rate:  0.1
+2024-10-14 11:37:50,237 - Eval_13_adapter - DEBUG - Train Loss: -56.09886968135834
+2024-10-14 11:37:50,243 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 37
+2024-10-14 11:37:50,244 - Eval_13_adapter - INFO - loss decreased (-56.098870 --> -56.098870).
+2024-10-14 11:37:50,244 - Eval_13_adapter - DEBUG - Epoch: 38, learning rate:  0.1
+2024-10-14 11:37:52,575 - Eval_13_adapter - DEBUG - Train Loss: -56.45960891246796
+2024-10-14 11:37:52,578 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 38
+2024-10-14 11:37:52,578 - Eval_13_adapter - INFO - loss decreased (-56.459609 --> -56.459609).
+2024-10-14 11:37:52,579 - Eval_13_adapter - DEBUG - Epoch: 39, learning rate:  0.1
+2024-10-14 11:37:54,972 - Eval_13_adapter - DEBUG - Train Loss: -57.30327135324478
+2024-10-14 11:37:54,976 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 39
+2024-10-14 11:37:54,976 - Eval_13_adapter - INFO - loss decreased (-57.303271 --> -57.303271).
+2024-10-14 11:37:54,977 - Eval_13_adapter - DEBUG - Epoch: 40, learning rate:  0.1
+2024-10-14 11:37:57,401 - Eval_13_adapter - DEBUG - Train Loss: -58.16510659456253
+2024-10-14 11:37:57,405 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 40
+2024-10-14 11:37:57,405 - Eval_13_adapter - INFO - loss decreased (-58.165107 --> -58.165107).
+2024-10-14 11:37:57,406 - Eval_13_adapter - DEBUG - Epoch: 41, learning rate:  0.1
+2024-10-14 11:37:59,672 - Eval_13_adapter - DEBUG - Train Loss: -59.07831138372421
+2024-10-14 11:37:59,675 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 41
+2024-10-14 11:37:59,676 - Eval_13_adapter - INFO - loss decreased (-59.078311 --> -59.078311).
+2024-10-14 11:37:59,676 - Eval_13_adapter - DEBUG - Epoch: 42, learning rate:  0.1
+2024-10-14 11:38:01,983 - Eval_13_adapter - DEBUG - Train Loss: -59.506795048713684
+2024-10-14 11:38:01,986 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 42
+2024-10-14 11:38:01,986 - Eval_13_adapter - INFO - loss decreased (-59.506795 --> -59.506795).
+2024-10-14 11:38:01,987 - Eval_13_adapter - DEBUG - Epoch: 43, learning rate:  0.1
+2024-10-14 11:38:04,141 - Eval_13_adapter - DEBUG - Train Loss: -60.25730413198471
+2024-10-14 11:38:04,144 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 43
+2024-10-14 11:38:04,144 - Eval_13_adapter - INFO - loss decreased (-60.257304 --> -60.257304).
+2024-10-14 11:38:04,145 - Eval_13_adapter - DEBUG - Epoch: 44, learning rate:  0.1
+2024-10-14 11:38:06,205 - Eval_13_adapter - DEBUG - Train Loss: -60.825541496276855
+2024-10-14 11:38:06,208 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 44
+2024-10-14 11:38:06,209 - Eval_13_adapter - INFO - loss decreased (-60.825541 --> -60.825541).
+2024-10-14 11:38:06,209 - Eval_13_adapter - DEBUG - Epoch: 45, learning rate:  0.1
+2024-10-14 11:38:08,252 - Eval_13_adapter - DEBUG - Train Loss: -61.27743011713028
+2024-10-14 11:38:08,256 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 45
+2024-10-14 11:38:08,256 - Eval_13_adapter - INFO - loss decreased (-61.277430 --> -61.277430).
+2024-10-14 11:38:08,257 - Eval_13_adapter - DEBUG - Epoch: 46, learning rate:  0.1
+2024-10-14 11:38:10,383 - Eval_13_adapter - DEBUG - Train Loss: -62.41469198465347
+2024-10-14 11:38:10,387 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 46
+2024-10-14 11:38:10,387 - Eval_13_adapter - INFO - loss decreased (-62.414692 --> -62.414692).
+2024-10-14 11:38:10,387 - Eval_13_adapter - DEBUG - Epoch: 47, learning rate:  0.1
+2024-10-14 11:38:12,655 - Eval_13_adapter - DEBUG - Train Loss: -62.895885825157166
+2024-10-14 11:38:12,659 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 47
+2024-10-14 11:38:12,659 - Eval_13_adapter - INFO - loss decreased (-62.895886 --> -62.895886).
+2024-10-14 11:38:12,659 - Eval_13_adapter - DEBUG - Epoch: 48, learning rate:  0.1
+2024-10-14 11:38:14,889 - Eval_13_adapter - DEBUG - Train Loss: -63.37190532684326
+2024-10-14 11:38:14,892 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 48
+2024-10-14 11:38:14,892 - Eval_13_adapter - INFO - loss decreased (-63.371905 --> -63.371905).
+2024-10-14 11:38:14,893 - Eval_13_adapter - DEBUG - Epoch: 49, learning rate:  0.1
+2024-10-14 11:38:17,074 - Eval_13_adapter - DEBUG - Train Loss: -64.23584741353989
+2024-10-14 11:38:17,078 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 49
+2024-10-14 11:38:17,078 - Eval_13_adapter - INFO - loss decreased (-64.235847 --> -64.235847).
+2024-10-14 11:38:17,079 - Eval_13_adapter - DEBUG - Epoch: 50, learning rate:  0.1
+2024-10-14 11:38:19,344 - Eval_13_adapter - DEBUG - Train Loss: -64.83722704648972
+2024-10-14 11:38:19,348 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 50
+2024-10-14 11:38:19,348 - Eval_13_adapter - INFO - loss decreased (-64.837227 --> -64.837227).
+2024-10-14 11:38:19,349 - Eval_13_adapter - DEBUG - Epoch: 51, learning rate:  0.1
+2024-10-14 11:38:21,549 - Eval_13_adapter - DEBUG - Train Loss: -64.95925778150558
+2024-10-14 11:38:21,553 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 51
+2024-10-14 11:38:21,554 - Eval_13_adapter - INFO - loss decreased (-64.959258 --> -64.959258).
+2024-10-14 11:38:21,555 - Eval_13_adapter - DEBUG - Epoch: 52, learning rate:  0.1
+2024-10-14 11:38:23,811 - Eval_13_adapter - DEBUG - Train Loss: -65.79436737298965
+2024-10-14 11:38:23,815 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 52
+2024-10-14 11:38:23,815 - Eval_13_adapter - INFO - loss decreased (-65.794367 --> -65.794367).
+2024-10-14 11:38:23,815 - Eval_13_adapter - DEBUG - Epoch: 53, learning rate:  0.1
+2024-10-14 11:38:26,209 - Eval_13_adapter - DEBUG - Train Loss: -66.24595391750336
+2024-10-14 11:38:26,213 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 53
+2024-10-14 11:38:26,213 - Eval_13_adapter - INFO - loss decreased (-66.245954 --> -66.245954).
+2024-10-14 11:38:26,214 - Eval_13_adapter - DEBUG - Epoch: 54, learning rate:  0.1
+2024-10-14 11:38:28,567 - Eval_13_adapter - DEBUG - Train Loss: -66.77699679136276
+2024-10-14 11:38:28,570 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 54
+2024-10-14 11:38:28,570 - Eval_13_adapter - INFO - loss decreased (-66.776997 --> -66.776997).
+2024-10-14 11:38:28,571 - Eval_13_adapter - DEBUG - Epoch: 55, learning rate:  0.1
+2024-10-14 11:38:30,924 - Eval_13_adapter - DEBUG - Train Loss: -67.36733841896057
+2024-10-14 11:38:30,927 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 55
+2024-10-14 11:38:30,927 - Eval_13_adapter - INFO - loss decreased (-67.367338 --> -67.367338).
+2024-10-14 11:38:30,928 - Eval_13_adapter - DEBUG - Epoch: 56, learning rate:  0.1
+2024-10-14 11:38:33,177 - Eval_13_adapter - DEBUG - Train Loss: -68.04862523078918
+2024-10-14 11:38:33,180 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 56
+2024-10-14 11:38:33,180 - Eval_13_adapter - INFO - loss decreased (-68.048625 --> -68.048625).
+2024-10-14 11:38:33,181 - Eval_13_adapter - DEBUG - Epoch: 57, learning rate:  0.1
+2024-10-14 11:38:35,503 - Eval_13_adapter - DEBUG - Train Loss: -68.24604153633118
+2024-10-14 11:38:35,506 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 57
+2024-10-14 11:38:35,506 - Eval_13_adapter - INFO - loss decreased (-68.246042 --> -68.246042).
+2024-10-14 11:38:35,507 - Eval_13_adapter - DEBUG - Epoch: 58, learning rate:  0.1
+2024-10-14 11:38:37,814 - Eval_13_adapter - DEBUG - Train Loss: -68.96381974220276
+2024-10-14 11:38:37,818 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 58
+2024-10-14 11:38:37,818 - Eval_13_adapter - INFO - loss decreased (-68.963820 --> -68.963820).
+2024-10-14 11:38:37,818 - Eval_13_adapter - DEBUG - Epoch: 59, learning rate:  0.1
+2024-10-14 11:38:40,019 - Eval_13_adapter - DEBUG - Train Loss: -69.10016512870789
+2024-10-14 11:38:40,025 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 59
+2024-10-14 11:38:40,025 - Eval_13_adapter - INFO - loss decreased (-69.100165 --> -69.100165).
+2024-10-14 11:38:40,026 - Eval_13_adapter - DEBUG - Epoch: 60, learning rate:  0.1
+2024-10-14 11:38:42,285 - Eval_13_adapter - DEBUG - Train Loss: -69.4853224158287
+2024-10-14 11:38:42,288 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 60
+2024-10-14 11:38:42,288 - Eval_13_adapter - INFO - loss decreased (-69.485322 --> -69.485322).
+2024-10-14 11:38:42,289 - Eval_13_adapter - DEBUG - Epoch: 61, learning rate:  0.1
+2024-10-14 11:38:44,636 - Eval_13_adapter - DEBUG - Train Loss: -69.91450184583664
+2024-10-14 11:38:44,640 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 61
+2024-10-14 11:38:44,640 - Eval_13_adapter - INFO - loss decreased (-69.914502 --> -69.914502).
+2024-10-14 11:38:44,640 - Eval_13_adapter - DEBUG - Epoch: 62, learning rate:  0.1
+2024-10-14 11:38:46,958 - Eval_13_adapter - DEBUG - Train Loss: -70.20888042449951
+2024-10-14 11:38:46,962 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 62
+2024-10-14 11:38:46,962 - Eval_13_adapter - INFO - loss decreased (-70.208880 --> -70.208880).
+2024-10-14 11:38:46,962 - Eval_13_adapter - DEBUG - Epoch: 63, learning rate:  0.1
+2024-10-14 11:38:49,311 - Eval_13_adapter - DEBUG - Train Loss: -70.76388269662857
+2024-10-14 11:38:49,315 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 63
+2024-10-14 11:38:49,315 - Eval_13_adapter - INFO - loss decreased (-70.763883 --> -70.763883).
+2024-10-14 11:38:49,316 - Eval_13_adapter - DEBUG - Epoch: 64, learning rate:  0.1
+2024-10-14 11:38:51,581 - Eval_13_adapter - DEBUG - Train Loss: -71.16783809661865
+2024-10-14 11:38:51,585 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 64
+2024-10-14 11:38:51,585 - Eval_13_adapter - INFO - loss decreased (-71.167838 --> -71.167838).
+2024-10-14 11:38:51,585 - Eval_13_adapter - DEBUG - Epoch: 65, learning rate:  0.1
+2024-10-14 11:38:53,977 - Eval_13_adapter - DEBUG - Train Loss: -71.53167885541916
+2024-10-14 11:38:53,981 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 65
+2024-10-14 11:38:53,981 - Eval_13_adapter - INFO - loss decreased (-71.531679 --> -71.531679).
+2024-10-14 11:38:53,982 - Eval_13_adapter - DEBUG - Epoch: 66, learning rate:  0.1
+2024-10-14 11:38:56,470 - Eval_13_adapter - DEBUG - Train Loss: -71.86171352863312
+2024-10-14 11:38:56,473 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 66
+2024-10-14 11:38:56,473 - Eval_13_adapter - INFO - loss decreased (-71.861714 --> -71.861714).
+2024-10-14 11:38:56,473 - Eval_13_adapter - DEBUG - Epoch: 67, learning rate:  0.1
+2024-10-14 11:38:58,659 - Eval_13_adapter - DEBUG - Train Loss: -72.39196306467056
+2024-10-14 11:38:58,664 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 67
+2024-10-14 11:38:58,664 - Eval_13_adapter - INFO - loss decreased (-72.391963 --> -72.391963).
+2024-10-14 11:38:58,664 - Eval_13_adapter - DEBUG - Epoch: 68, learning rate:  0.1
+2024-10-14 11:39:00,676 - Eval_13_adapter - DEBUG - Train Loss: -72.52359646558762
+2024-10-14 11:39:00,680 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 68
+2024-10-14 11:39:00,680 - Eval_13_adapter - INFO - loss decreased (-72.523596 --> -72.523596).
+2024-10-14 11:39:00,681 - Eval_13_adapter - DEBUG - Epoch: 69, learning rate:  0.1
+2024-10-14 11:39:02,792 - Eval_13_adapter - DEBUG - Train Loss: -73.1526044011116
+2024-10-14 11:39:02,796 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 69
+2024-10-14 11:39:02,796 - Eval_13_adapter - INFO - loss decreased (-73.152604 --> -73.152604).
+2024-10-14 11:39:02,797 - Eval_13_adapter - DEBUG - Epoch: 70, learning rate:  0.1
+2024-10-14 11:39:04,818 - Eval_13_adapter - DEBUG - Train Loss: -73.1699029803276
+2024-10-14 11:39:04,821 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 70
+2024-10-14 11:39:04,821 - Eval_13_adapter - INFO - loss decreased (-73.169903 --> -73.169903).
+2024-10-14 11:39:04,822 - Eval_13_adapter - DEBUG - Epoch: 71, learning rate:  0.1
+2024-10-14 11:39:06,836 - Eval_13_adapter - DEBUG - Train Loss: -73.65244150161743
+2024-10-14 11:39:06,840 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 71
+2024-10-14 11:39:06,840 - Eval_13_adapter - INFO - loss decreased (-73.652442 --> -73.652442).
+2024-10-14 11:39:06,840 - Eval_13_adapter - DEBUG - Epoch: 72, learning rate:  0.1
+2024-10-14 11:39:09,030 - Eval_13_adapter - DEBUG - Train Loss: -74.02272880077362
+2024-10-14 11:39:09,035 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 72
+2024-10-14 11:39:09,036 - Eval_13_adapter - INFO - loss decreased (-74.022729 --> -74.022729).
+2024-10-14 11:39:09,037 - Eval_13_adapter - DEBUG - Epoch: 73, learning rate:  0.1
+2024-10-14 11:39:11,165 - Eval_13_adapter - DEBUG - Train Loss: -74.47665804624557
+2024-10-14 11:39:11,168 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 73
+2024-10-14 11:39:11,169 - Eval_13_adapter - INFO - loss decreased (-74.476658 --> -74.476658).
+2024-10-14 11:39:11,169 - Eval_13_adapter - DEBUG - Epoch: 74, learning rate:  0.1
+2024-10-14 11:39:13,373 - Eval_13_adapter - DEBUG - Train Loss: -74.33576899766922
+2024-10-14 11:39:13,377 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 74
+2024-10-14 11:39:13,377 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:39:13,378 - Eval_13_adapter - DEBUG - Epoch: 75, learning rate:  0.1
+2024-10-14 11:39:15,795 - Eval_13_adapter - DEBUG - Train Loss: -74.98775607347488
+2024-10-14 11:39:15,798 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 75
+2024-10-14 11:39:15,799 - Eval_13_adapter - INFO - loss decreased (-74.987756 --> -74.987756).
+2024-10-14 11:39:15,799 - Eval_13_adapter - DEBUG - Epoch: 76, learning rate:  0.1
+2024-10-14 11:39:18,001 - Eval_13_adapter - DEBUG - Train Loss: -75.2966103553772
+2024-10-14 11:39:18,004 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 76
+2024-10-14 11:39:18,005 - Eval_13_adapter - INFO - loss decreased (-75.296610 --> -75.296610).
+2024-10-14 11:39:18,005 - Eval_13_adapter - DEBUG - Epoch: 77, learning rate:  0.1
+2024-10-14 11:39:20,384 - Eval_13_adapter - DEBUG - Train Loss: -75.19918167591095
+2024-10-14 11:39:20,388 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 77
+2024-10-14 11:39:20,388 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:39:20,388 - Eval_13_adapter - DEBUG - Epoch: 78, learning rate:  0.1
+2024-10-14 11:39:22,734 - Eval_13_adapter - DEBUG - Train Loss: -76.02108544111252
+2024-10-14 11:39:22,740 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 78
+2024-10-14 11:39:22,741 - Eval_13_adapter - INFO - loss decreased (-76.021085 --> -76.021085).
+2024-10-14 11:39:22,742 - Eval_13_adapter - DEBUG - Epoch: 79, learning rate:  0.1
+2024-10-14 11:39:24,950 - Eval_13_adapter - DEBUG - Train Loss: -76.03992319107056
+2024-10-14 11:39:24,954 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 79
+2024-10-14 11:39:24,954 - Eval_13_adapter - INFO - loss decreased (-76.039923 --> -76.039923).
+2024-10-14 11:39:24,954 - Eval_13_adapter - DEBUG - Epoch: 80, learning rate:  0.1
+2024-10-14 11:39:26,978 - Eval_13_adapter - DEBUG - Train Loss: -76.04263192415237
+2024-10-14 11:39:26,981 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 80
+2024-10-14 11:39:26,981 - Eval_13_adapter - INFO - loss decreased (-76.042632 --> -76.042632).
+2024-10-14 11:39:26,982 - Eval_13_adapter - DEBUG - Epoch: 81, learning rate:  0.1
+2024-10-14 11:39:28,872 - Eval_13_adapter - DEBUG - Train Loss: -77.05172604322433
+2024-10-14 11:39:28,875 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 81
+2024-10-14 11:39:28,875 - Eval_13_adapter - INFO - loss decreased (-77.051726 --> -77.051726).
+2024-10-14 11:39:28,876 - Eval_13_adapter - DEBUG - Epoch: 82, learning rate:  0.1
+2024-10-14 11:39:30,978 - Eval_13_adapter - DEBUG - Train Loss: -76.721635222435
+2024-10-14 11:39:30,982 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 82
+2024-10-14 11:39:30,982 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:39:30,982 - Eval_13_adapter - DEBUG - Epoch: 83, learning rate:  0.1
+2024-10-14 11:39:33,322 - Eval_13_adapter - DEBUG - Train Loss: -77.06877553462982
+2024-10-14 11:39:33,326 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 83
+2024-10-14 11:39:33,326 - Eval_13_adapter - INFO - loss decreased (-77.068776 --> -77.068776).
+2024-10-14 11:39:33,327 - Eval_13_adapter - DEBUG - Epoch: 84, learning rate:  0.1
+2024-10-14 11:39:35,705 - Eval_13_adapter - DEBUG - Train Loss: -77.23309350013733
+2024-10-14 11:39:35,711 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 84
+2024-10-14 11:39:35,711 - Eval_13_adapter - INFO - loss decreased (-77.233094 --> -77.233094).
+2024-10-14 11:39:35,712 - Eval_13_adapter - DEBUG - Epoch: 85, learning rate:  0.1
+2024-10-14 11:39:38,083 - Eval_13_adapter - DEBUG - Train Loss: -77.76642590761185
+2024-10-14 11:39:38,086 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 85
+2024-10-14 11:39:38,086 - Eval_13_adapter - INFO - loss decreased (-77.766426 --> -77.766426).
+2024-10-14 11:39:38,087 - Eval_13_adapter - DEBUG - Epoch: 86, learning rate:  0.1
+2024-10-14 11:39:40,492 - Eval_13_adapter - DEBUG - Train Loss: -78.18344694375992
+2024-10-14 11:39:40,495 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 86
+2024-10-14 11:39:40,495 - Eval_13_adapter - INFO - loss decreased (-78.183447 --> -78.183447).
+2024-10-14 11:39:40,495 - Eval_13_adapter - DEBUG - Epoch: 87, learning rate:  0.1
+2024-10-14 11:39:42,998 - Eval_13_adapter - DEBUG - Train Loss: -78.00303643941879
+2024-10-14 11:39:43,002 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 87
+2024-10-14 11:39:43,002 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:39:43,002 - Eval_13_adapter - DEBUG - Epoch: 88, learning rate:  0.1
+2024-10-14 11:39:45,456 - Eval_13_adapter - DEBUG - Train Loss: -78.44362080097198
+2024-10-14 11:39:45,461 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 88
+2024-10-14 11:39:45,461 - Eval_13_adapter - INFO - loss decreased (-78.443621 --> -78.443621).
+2024-10-14 11:39:45,462 - Eval_13_adapter - DEBUG - Epoch: 89, learning rate:  0.1
+2024-10-14 11:39:48,018 - Eval_13_adapter - DEBUG - Train Loss: -78.77135354280472
+2024-10-14 11:39:48,024 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 89
+2024-10-14 11:39:48,024 - Eval_13_adapter - INFO - loss decreased (-78.771354 --> -78.771354).
+2024-10-14 11:39:48,025 - Eval_13_adapter - DEBUG - Epoch: 90, learning rate:  0.1
+2024-10-14 11:39:50,635 - Eval_13_adapter - DEBUG - Train Loss: -78.86643552780151
+2024-10-14 11:39:50,639 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 90
+2024-10-14 11:39:50,639 - Eval_13_adapter - INFO - loss decreased (-78.866436 --> -78.866436).
+2024-10-14 11:39:50,639 - Eval_13_adapter - DEBUG - Epoch: 91, learning rate:  0.1
+2024-10-14 11:39:53,060 - Eval_13_adapter - DEBUG - Train Loss: -79.33585000038147
+2024-10-14 11:39:53,067 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 91
+2024-10-14 11:39:53,067 - Eval_13_adapter - INFO - loss decreased (-79.335850 --> -79.335850).
+2024-10-14 11:39:53,068 - Eval_13_adapter - DEBUG - Epoch: 92, learning rate:  0.1
+2024-10-14 11:39:55,407 - Eval_13_adapter - DEBUG - Train Loss: -79.41300696134567
+2024-10-14 11:39:55,410 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 92
+2024-10-14 11:39:55,410 - Eval_13_adapter - INFO - loss decreased (-79.413007 --> -79.413007).
+2024-10-14 11:39:55,411 - Eval_13_adapter - DEBUG - Epoch: 93, learning rate:  0.1
+2024-10-14 11:39:57,775 - Eval_13_adapter - DEBUG - Train Loss: -79.44182759523392
+2024-10-14 11:39:57,778 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 93
+2024-10-14 11:39:57,779 - Eval_13_adapter - INFO - loss decreased (-79.441828 --> -79.441828).
+2024-10-14 11:39:57,779 - Eval_13_adapter - DEBUG - Epoch: 94, learning rate:  0.1
+2024-10-14 11:39:59,874 - Eval_13_adapter - DEBUG - Train Loss: -79.94813114404678
+2024-10-14 11:39:59,877 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 94
+2024-10-14 11:39:59,877 - Eval_13_adapter - INFO - loss decreased (-79.948131 --> -79.948131).
+2024-10-14 11:39:59,878 - Eval_13_adapter - DEBUG - Epoch: 95, learning rate:  0.1
+2024-10-14 11:40:01,979 - Eval_13_adapter - DEBUG - Train Loss: -79.83068430423737
+2024-10-14 11:40:01,982 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 95
+2024-10-14 11:40:01,982 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:40:01,982 - Eval_13_adapter - DEBUG - Epoch: 96, learning rate:  0.1
+2024-10-14 11:40:04,133 - Eval_13_adapter - DEBUG - Train Loss: -80.3418807387352
+2024-10-14 11:40:04,136 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 96
+2024-10-14 11:40:04,136 - Eval_13_adapter - INFO - loss decreased (-80.341881 --> -80.341881).
+2024-10-14 11:40:04,137 - Eval_13_adapter - DEBUG - Epoch: 97, learning rate:  0.1
+2024-10-14 11:40:06,284 - Eval_13_adapter - DEBUG - Train Loss: -80.2280375957489
+2024-10-14 11:40:06,287 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 97
+2024-10-14 11:40:06,287 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:40:06,288 - Eval_13_adapter - DEBUG - Epoch: 98, learning rate:  0.1
+2024-10-14 11:40:08,397 - Eval_13_adapter - DEBUG - Train Loss: -80.6882803440094
+2024-10-14 11:40:08,402 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 98
+2024-10-14 11:40:08,402 - Eval_13_adapter - INFO - loss decreased (-80.688280 --> -80.688280).
+2024-10-14 11:40:08,402 - Eval_13_adapter - DEBUG - Epoch: 99, learning rate:  0.1
+2024-10-14 11:40:10,590 - Eval_13_adapter - DEBUG - Train Loss: -80.64935559034348
+2024-10-14 11:40:10,593 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 99
+2024-10-14 11:40:10,594 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:40:10,594 - Eval_13_adapter - INFO - train loss: 177.12430131435394 140.98158967494965 112.78925096988678 88.59641766548157 68.5166882276535 51.5479781627655 38.268208742141724 27.638949036598206 18.822309494018555 11.443423926830292 5.0859755873680115 -0.4406762719154358 -5.335596978664398 -9.82902181148529 -13.73837149143219 -17.4473894238472 -20.987243711948395 -23.27708888053894 -26.49903517961502 -28.786373138427734 -31.88601517677307 -33.39665526151657 -35.64445602893829 -37.76980382204056 -39.36797362565994 -41.098952412605286 -42.520153164863586 -44.26621013879776 -45.894199192523956 -47.27918207645416 -48.4309298992157 -49.652787566185 -50.81734764575958 -51.825254797935486 -52.721515476703644 -53.89453995227814 -54.85137057304382 -56.09886968135834 -56.45960891246796 -57.30327135324478 -58.16510659456253 -59.07831138372421 -59.506795048713684 -60.25730413198471 -60.825541496276855 -61.27743011713028 -62.41469198465347 -62.895885825157166 -63.37190532684326 -64.23584741353989 -64.83722704648972 -64.95925778150558 -65.79436737298965 -66.24595391750336 -66.77699679136276 -67.36733841896057 -68.04862523078918 -68.24604153633118 -68.96381974220276 -69.10016512870789 -69.4853224158287 -69.91450184583664 -70.20888042449951 -70.76388269662857 -71.16783809661865 -71.53167885541916 -71.86171352863312 -72.39196306467056 -72.52359646558762 -73.1526044011116 -73.1699029803276 -73.65244150161743 -74.02272880077362 -74.47665804624557 -74.33576899766922 -74.98775607347488 -75.2966103553772 -75.19918167591095 -76.02108544111252 -76.03992319107056 -76.04263192415237 -77.05172604322433 -76.721635222435 -77.06877553462982 -77.23309350013733 -77.76642590761185 -78.18344694375992 -78.00303643941879 -78.44362080097198 -78.77135354280472 -78.86643552780151 -79.33585000038147 -79.41300696134567 -79.44182759523392 -79.94813114404678 -79.83068430423737 -80.3418807387352 -80.2280375957489 -80.6882803440094 -80.64935559034348
+2024-10-14 11:40:13,576 - Eval_13_adapter - INFO - train_adapter
+2024-10-14 11:40:14,803 - Eval_13_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-14 11:40:17,672 - Eval_13_adapter - DEBUG - Train Loss: 215.49879598617554
+2024-10-14 11:40:17,675 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-14 11:40:17,675 - Eval_13_adapter - INFO - loss decreased (215.498796 --> 215.498796).
+2024-10-14 11:40:17,676 - Eval_13_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-14 11:40:19,514 - Eval_13_adapter - DEBUG - Train Loss: 181.04661095142365
+2024-10-14 11:40:19,517 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-14 11:40:19,517 - Eval_13_adapter - INFO - loss decreased (181.046611 --> 181.046611).
+2024-10-14 11:40:19,518 - Eval_13_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-14 11:40:21,152 - Eval_13_adapter - INFO - train_adapter
+2024-10-14 11:40:21,330 - Eval_13_adapter - DEBUG - Train Loss: 149.19369077682495
+2024-10-14 11:40:21,333 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-14 11:40:21,333 - Eval_13_adapter - INFO - loss decreased (149.193691 --> 149.193691).
+2024-10-14 11:40:21,334 - Eval_13_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-14 11:40:22,308 - Eval_13_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-14 11:40:23,350 - Eval_13_adapter - DEBUG - Train Loss: 119.97089350223541
+2024-10-14 11:40:23,354 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-14 11:40:23,354 - Eval_13_adapter - INFO - loss decreased (119.970894 --> 119.970894).
+2024-10-14 11:40:23,355 - Eval_13_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-14 11:40:25,207 - Eval_13_adapter - DEBUG - Train Loss: 220.4567515850067
+2024-10-14 11:40:25,211 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-14 11:40:25,211 - Eval_13_adapter - INFO - loss decreased (220.456752 --> 220.456752).
+2024-10-14 11:40:25,211 - Eval_13_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-14 11:40:25,558 - Eval_13_adapter - DEBUG - Train Loss: 94.40358805656433
+2024-10-14 11:40:25,562 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-14 11:40:25,562 - Eval_13_adapter - INFO - loss decreased (94.403588 --> 94.403588).
+2024-10-14 11:40:25,562 - Eval_13_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-14 11:40:27,545 - Eval_13_adapter - DEBUG - Train Loss: 184.29044699668884
+2024-10-14 11:40:27,549 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-14 11:40:27,549 - Eval_13_adapter - INFO - loss decreased (184.290447 --> 184.290447).
+2024-10-14 11:40:27,549 - Eval_13_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-14 11:40:27,878 - Eval_13_adapter - DEBUG - Train Loss: 73.79587078094482
+2024-10-14 11:40:27,882 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-14 11:40:27,882 - Eval_13_adapter - INFO - loss decreased (73.795871 --> 73.795871).
+2024-10-14 11:40:27,882 - Eval_13_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-14 11:40:29,924 - Eval_13_adapter - DEBUG - Train Loss: 152.4361456632614
+2024-10-14 11:40:29,927 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-14 11:40:29,927 - Eval_13_adapter - INFO - loss decreased (152.436146 --> 152.436146).
+2024-10-14 11:40:29,928 - Eval_13_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-14 11:40:30,280 - Eval_13_adapter - DEBUG - Train Loss: 57.96276903152466
+2024-10-14 11:40:30,284 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-14 11:40:30,284 - Eval_13_adapter - INFO - loss decreased (57.962769 --> 57.962769).
+2024-10-14 11:40:30,284 - Eval_13_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-14 11:40:32,327 - Eval_13_adapter - DEBUG - Train Loss: 123.26741635799408
+2024-10-14 11:40:32,331 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-14 11:40:32,331 - Eval_13_adapter - INFO - loss decreased (123.267416 --> 123.267416).
+2024-10-14 11:40:32,332 - Eval_13_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-14 11:40:32,703 - Eval_13_adapter - DEBUG - Train Loss: 45.862075090408325
+2024-10-14 11:40:32,706 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-14 11:40:32,706 - Eval_13_adapter - INFO - loss decreased (45.862075 --> 45.862075).
+2024-10-14 11:40:32,707 - Eval_13_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-14 11:40:34,789 - Eval_13_adapter - DEBUG - Train Loss: 99.35772657394409
+2024-10-14 11:40:34,792 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-14 11:40:34,793 - Eval_13_adapter - INFO - loss decreased (99.357727 --> 99.357727).
+2024-10-14 11:40:34,793 - Eval_13_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-14 11:40:35,194 - Eval_13_adapter - DEBUG - Train Loss: 35.474133253097534
+2024-10-14 11:40:35,197 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-14 11:40:35,198 - Eval_13_adapter - INFO - loss decreased (35.474133 --> 35.474133).
+2024-10-14 11:40:35,198 - Eval_13_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-14 11:40:37,151 - Eval_13_adapter - DEBUG - Train Loss: 81.30006945133209
+2024-10-14 11:40:37,154 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-14 11:40:37,155 - Eval_13_adapter - INFO - loss decreased (81.300069 --> 81.300069).
+2024-10-14 11:40:37,155 - Eval_13_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-14 11:40:37,604 - Eval_13_adapter - DEBUG - Train Loss: 27.276544749736786
+2024-10-14 11:40:37,608 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-14 11:40:37,608 - Eval_13_adapter - INFO - loss decreased (27.276545 --> 27.276545).
+2024-10-14 11:40:37,609 - Eval_13_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-14 11:40:39,378 - Eval_13_adapter - DEBUG - Train Loss: 65.84952962398529
+2024-10-14 11:40:39,381 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-14 11:40:39,381 - Eval_13_adapter - INFO - loss decreased (65.849530 --> 65.849530).
+2024-10-14 11:40:39,382 - Eval_13_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-14 11:40:39,898 - Eval_13_adapter - DEBUG - Train Loss: 19.561170876026154
+2024-10-14 11:40:39,901 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-14 11:40:39,901 - Eval_13_adapter - INFO - loss decreased (19.561171 --> 19.561171).
+2024-10-14 11:40:39,901 - Eval_13_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-14 11:40:41,466 - Eval_13_adapter - DEBUG - Train Loss: 54.05778694152832
+2024-10-14 11:40:41,469 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-14 11:40:41,469 - Eval_13_adapter - INFO - loss decreased (54.057787 --> 54.057787).
+2024-10-14 11:40:41,469 - Eval_13_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-14 11:40:42,091 - Eval_13_adapter - DEBUG - Train Loss: 13.189229190349579
+2024-10-14 11:40:42,095 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-14 11:40:42,095 - Eval_13_adapter - INFO - loss decreased (13.189229 --> 13.189229).
+2024-10-14 11:40:42,096 - Eval_13_adapter - DEBUG - Epoch: 12, learning rate:  0.1
+2024-10-14 11:40:43,490 - Eval_13_adapter - DEBUG - Train Loss: 44.51688885688782
+2024-10-14 11:40:43,494 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-14 11:40:43,494 - Eval_13_adapter - INFO - loss decreased (44.516889 --> 44.516889).
+2024-10-14 11:40:43,495 - Eval_13_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-14 11:40:44,164 - Eval_13_adapter - DEBUG - Train Loss: 8.278226375579834
+2024-10-14 11:40:44,168 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 12
+2024-10-14 11:40:44,168 - Eval_13_adapter - INFO - loss decreased (8.278226 --> 8.278226).
+2024-10-14 11:40:44,168 - Eval_13_adapter - DEBUG - Epoch: 13, learning rate:  0.1
+2024-10-14 11:40:45,546 - Eval_13_adapter - DEBUG - Train Loss: 35.785791516304016
+2024-10-14 11:40:45,549 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-14 11:40:45,549 - Eval_13_adapter - INFO - loss decreased (35.785792 --> 35.785792).
+2024-10-14 11:40:45,549 - Eval_13_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-14 11:40:46,137 - Eval_13_adapter - DEBUG - Train Loss: 3.297425329685211
+2024-10-14 11:40:46,140 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 13
+2024-10-14 11:40:46,141 - Eval_13_adapter - INFO - loss decreased (3.297425 --> 3.297425).
+2024-10-14 11:40:46,141 - Eval_13_adapter - DEBUG - Epoch: 14, learning rate:  0.1
+2024-10-14 11:40:47,707 - Eval_13_adapter - DEBUG - Train Loss: 29.235581278800964
+2024-10-14 11:40:47,710 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-14 11:40:47,710 - Eval_13_adapter - INFO - loss decreased (29.235581 --> 29.235581).
+2024-10-14 11:40:47,710 - Eval_13_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-14 11:40:48,239 - Eval_13_adapter - DEBUG - Train Loss: -1.0713764429092407
+2024-10-14 11:40:48,242 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 14
+2024-10-14 11:40:48,242 - Eval_13_adapter - INFO - loss decreased (-1.071376 --> -1.071376).
+2024-10-14 11:40:48,243 - Eval_13_adapter - DEBUG - Epoch: 15, learning rate:  0.1
+2024-10-14 11:40:49,851 - Eval_13_adapter - DEBUG - Train Loss: 22.80418771505356
+2024-10-14 11:40:49,854 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-14 11:40:49,854 - Eval_13_adapter - INFO - loss decreased (22.804188 --> 22.804188).
+2024-10-14 11:40:49,854 - Eval_13_adapter - DEBUG - Epoch: 12, learning rate:  0.1
+2024-10-14 11:40:50,379 - Eval_13_adapter - DEBUG - Train Loss: -5.106205880641937
+2024-10-14 11:40:50,382 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 15
+2024-10-14 11:40:50,382 - Eval_13_adapter - INFO - loss decreased (-5.106206 --> -5.106206).
+2024-10-14 11:40:50,382 - Eval_13_adapter - DEBUG - Epoch: 16, learning rate:  0.1
+2024-10-14 11:40:52,013 - Eval_13_adapter - DEBUG - Train Loss: 17.499506890773773
+2024-10-14 11:40:52,016 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 12
+2024-10-14 11:40:52,016 - Eval_13_adapter - INFO - loss decreased (17.499507 --> 17.499507).
+2024-10-14 11:40:52,016 - Eval_13_adapter - DEBUG - Epoch: 13, learning rate:  0.1
+2024-10-14 11:40:52,431 - Eval_13_adapter - DEBUG - Train Loss: -9.215025305747986
+2024-10-14 11:40:52,436 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 16
+2024-10-14 11:40:52,436 - Eval_13_adapter - INFO - loss decreased (-9.215025 --> -9.215025).
+2024-10-14 11:40:52,437 - Eval_13_adapter - DEBUG - Epoch: 17, learning rate:  0.1
+2024-10-14 11:40:54,042 - Eval_13_adapter - DEBUG - Train Loss: 12.30626267194748
+2024-10-14 11:40:54,045 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 13
+2024-10-14 11:40:54,045 - Eval_13_adapter - INFO - loss decreased (12.306263 --> 12.306263).
+2024-10-14 11:40:54,045 - Eval_13_adapter - DEBUG - Epoch: 14, learning rate:  0.1
+2024-10-14 11:40:54,493 - Eval_13_adapter - DEBUG - Train Loss: -12.131742537021637
+2024-10-14 11:40:54,497 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 17
+2024-10-14 11:40:54,497 - Eval_13_adapter - INFO - loss decreased (-12.131743 --> -12.131743).
+2024-10-14 11:40:54,497 - Eval_13_adapter - DEBUG - Epoch: 18, learning rate:  0.1
+2024-10-14 11:40:56,168 - Eval_13_adapter - DEBUG - Train Loss: 7.749091267585754
+2024-10-14 11:40:56,172 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 14
+2024-10-14 11:40:56,173 - Eval_13_adapter - INFO - loss decreased (7.749091 --> 7.749091).
+2024-10-14 11:40:56,173 - Eval_13_adapter - DEBUG - Epoch: 15, learning rate:  0.1
+2024-10-14 11:40:56,634 - Eval_13_adapter - DEBUG - Train Loss: -14.801840424537659
+2024-10-14 11:40:56,638 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 18
+2024-10-14 11:40:56,638 - Eval_13_adapter - INFO - loss decreased (-14.801840 --> -14.801840).
+2024-10-14 11:40:56,639 - Eval_13_adapter - DEBUG - Epoch: 19, learning rate:  0.1
+2024-10-14 11:40:58,475 - Eval_13_adapter - DEBUG - Train Loss: 3.982945740222931
+2024-10-14 11:40:58,478 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 15
+2024-10-14 11:40:58,479 - Eval_13_adapter - INFO - loss decreased (3.982946 --> 3.982946).
+2024-10-14 11:40:58,479 - Eval_13_adapter - DEBUG - Epoch: 16, learning rate:  0.1
+2024-10-14 11:40:58,914 - Eval_13_adapter - DEBUG - Train Loss: -17.305270850658417
+2024-10-14 11:40:58,917 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 19
+2024-10-14 11:40:58,918 - Eval_13_adapter - INFO - loss decreased (-17.305271 --> -17.305271).
+2024-10-14 11:40:58,919 - Eval_13_adapter - DEBUG - Epoch: 20, learning rate:  0.1
+2024-10-14 11:41:00,702 - Eval_13_adapter - DEBUG - Train Loss: 0.732675313949585
+2024-10-14 11:41:00,706 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 16
+2024-10-14 11:41:00,707 - Eval_13_adapter - INFO - loss decreased (0.732675 --> 0.732675).
+2024-10-14 11:41:00,707 - Eval_13_adapter - DEBUG - Epoch: 17, learning rate:  0.1
+2024-10-14 11:41:01,150 - Eval_13_adapter - DEBUG - Train Loss: -19.934881150722504
+2024-10-14 11:41:01,154 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 20
+2024-10-14 11:41:01,154 - Eval_13_adapter - INFO - loss decreased (-19.934881 --> -19.934881).
+2024-10-14 11:41:01,154 - Eval_13_adapter - DEBUG - Epoch: 21, learning rate:  0.1
+2024-10-14 11:41:02,743 - Eval_13_adapter - DEBUG - Train Loss: -2.962308943271637
+2024-10-14 11:41:02,749 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 17
+2024-10-14 11:41:02,749 - Eval_13_adapter - INFO - loss decreased (-2.962309 --> -2.962309).
+2024-10-14 11:41:02,749 - Eval_13_adapter - DEBUG - Epoch: 18, learning rate:  0.1
+2024-10-14 11:41:03,389 - Eval_13_adapter - DEBUG - Train Loss: -22.365160167217255
+2024-10-14 11:41:03,393 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 21
+2024-10-14 11:41:03,393 - Eval_13_adapter - INFO - loss decreased (-22.365160 --> -22.365160).
+2024-10-14 11:41:03,394 - Eval_13_adapter - DEBUG - Epoch: 22, learning rate:  0.1
+2024-10-14 11:41:04,810 - Eval_13_adapter - DEBUG - Train Loss: -6.0262062549591064
+2024-10-14 11:41:04,814 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 18
+2024-10-14 11:41:04,814 - Eval_13_adapter - INFO - loss decreased (-6.026206 --> -6.026206).
+2024-10-14 11:41:04,814 - Eval_13_adapter - DEBUG - Epoch: 19, learning rate:  0.1
+2024-10-14 11:41:05,725 - Eval_13_adapter - DEBUG - Train Loss: -24.863968551158905
+2024-10-14 11:41:05,728 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 22
+2024-10-14 11:41:05,729 - Eval_13_adapter - INFO - loss decreased (-24.863969 --> -24.863969).
+2024-10-14 11:41:05,729 - Eval_13_adapter - DEBUG - Epoch: 23, learning rate:  0.1
+2024-10-14 11:41:06,978 - Eval_13_adapter - DEBUG - Train Loss: -9.039538562297821
+2024-10-14 11:41:06,981 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 19
+2024-10-14 11:41:06,981 - Eval_13_adapter - INFO - loss decreased (-9.039539 --> -9.039539).
+2024-10-14 11:41:06,982 - Eval_13_adapter - DEBUG - Epoch: 20, learning rate:  0.1
+2024-10-14 11:41:08,019 - Eval_13_adapter - DEBUG - Train Loss: -26.73804897069931
+2024-10-14 11:41:08,022 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 23
+2024-10-14 11:41:08,022 - Eval_13_adapter - INFO - loss decreased (-26.738049 --> -26.738049).
+2024-10-14 11:41:08,023 - Eval_13_adapter - DEBUG - Epoch: 24, learning rate:  0.1
+2024-10-14 11:41:09,173 - Eval_13_adapter - DEBUG - Train Loss: -11.392736911773682
+2024-10-14 11:41:09,176 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 20
+2024-10-14 11:41:09,176 - Eval_13_adapter - INFO - loss decreased (-11.392737 --> -11.392737).
+2024-10-14 11:41:09,177 - Eval_13_adapter - DEBUG - Epoch: 21, learning rate:  0.1
+2024-10-14 11:41:10,174 - Eval_13_adapter - DEBUG - Train Loss: -28.553860127925873
+2024-10-14 11:41:10,177 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 24
+2024-10-14 11:41:10,178 - Eval_13_adapter - INFO - loss decreased (-28.553860 --> -28.553860).
+2024-10-14 11:41:10,178 - Eval_13_adapter - DEBUG - Epoch: 25, learning rate:  0.1
+2024-10-14 11:41:11,191 - Eval_13_adapter - DEBUG - Train Loss: -13.623898446559906
+2024-10-14 11:41:11,194 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 21
+2024-10-14 11:41:11,194 - Eval_13_adapter - INFO - loss decreased (-13.623898 --> -13.623898).
+2024-10-14 11:41:11,195 - Eval_13_adapter - DEBUG - Epoch: 22, learning rate:  0.1
+2024-10-14 11:41:12,317 - Eval_13_adapter - DEBUG - Train Loss: -30.3070108294487
+2024-10-14 11:41:12,321 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 25
+2024-10-14 11:41:12,321 - Eval_13_adapter - INFO - loss decreased (-30.307011 --> -30.307011).
+2024-10-14 11:41:12,321 - Eval_13_adapter - DEBUG - Epoch: 26, learning rate:  0.1
+2024-10-14 11:41:13,241 - Eval_13_adapter - DEBUG - Train Loss: -16.07136559486389
+2024-10-14 11:41:13,244 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 22
+2024-10-14 11:41:13,245 - Eval_13_adapter - INFO - loss decreased (-16.071366 --> -16.071366).
+2024-10-14 11:41:13,245 - Eval_13_adapter - DEBUG - Epoch: 23, learning rate:  0.1
+2024-10-14 11:41:14,465 - Eval_13_adapter - DEBUG - Train Loss: -32.27630650997162
+2024-10-14 11:41:14,469 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 26
+2024-10-14 11:41:14,469 - Eval_13_adapter - INFO - loss decreased (-32.276307 --> -32.276307).
+2024-10-14 11:41:14,470 - Eval_13_adapter - DEBUG - Epoch: 27, learning rate:  0.1
+2024-10-14 11:41:15,332 - Eval_13_adapter - DEBUG - Train Loss: -18.085655450820923
+2024-10-14 11:41:15,336 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 23
+2024-10-14 11:41:15,337 - Eval_13_adapter - INFO - loss decreased (-18.085655 --> -18.085655).
+2024-10-14 11:41:15,337 - Eval_13_adapter - DEBUG - Epoch: 24, learning rate:  0.1
+2024-10-14 11:41:16,615 - Eval_13_adapter - DEBUG - Train Loss: -33.34362334012985
+2024-10-14 11:41:16,618 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 27
+2024-10-14 11:41:16,618 - Eval_13_adapter - INFO - loss decreased (-33.343623 --> -33.343623).
+2024-10-14 11:41:16,619 - Eval_13_adapter - DEBUG - Epoch: 28, learning rate:  0.1
+2024-10-14 11:41:17,490 - Eval_13_adapter - DEBUG - Train Loss: -20.33318942785263
+2024-10-14 11:41:17,493 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 24
+2024-10-14 11:41:17,493 - Eval_13_adapter - INFO - loss decreased (-20.333189 --> -20.333189).
+2024-10-14 11:41:17,494 - Eval_13_adapter - DEBUG - Epoch: 25, learning rate:  0.1
+2024-10-14 11:41:18,913 - Eval_13_adapter - DEBUG - Train Loss: -34.872556269168854
+2024-10-14 11:41:18,917 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 28
+2024-10-14 11:41:18,917 - Eval_13_adapter - INFO - loss decreased (-34.872556 --> -34.872556).
+2024-10-14 11:41:18,918 - Eval_13_adapter - DEBUG - Epoch: 29, learning rate:  0.1
+2024-10-14 11:41:19,574 - Eval_13_adapter - DEBUG - Train Loss: -22.526749908924103
+2024-10-14 11:41:19,579 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 25
+2024-10-14 11:41:19,579 - Eval_13_adapter - INFO - loss decreased (-22.526750 --> -22.526750).
+2024-10-14 11:41:19,579 - Eval_13_adapter - DEBUG - Epoch: 26, learning rate:  0.1
+2024-10-14 11:41:21,204 - Eval_13_adapter - DEBUG - Train Loss: -36.76550740003586
+2024-10-14 11:41:21,208 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 29
+2024-10-14 11:41:21,208 - Eval_13_adapter - INFO - loss decreased (-36.765507 --> -36.765507).
+2024-10-14 11:41:21,208 - Eval_13_adapter - DEBUG - Epoch: 30, learning rate:  0.1
+2024-10-14 11:41:21,817 - Eval_13_adapter - DEBUG - Train Loss: -23.476179718971252
+2024-10-14 11:41:21,821 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 26
+2024-10-14 11:41:21,821 - Eval_13_adapter - INFO - loss decreased (-23.476180 --> -23.476180).
+2024-10-14 11:41:21,821 - Eval_13_adapter - DEBUG - Epoch: 27, learning rate:  0.1
+2024-10-14 11:41:23,428 - Eval_13_adapter - DEBUG - Train Loss: -38.10224950313568
+2024-10-14 11:41:23,432 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 30
+2024-10-14 11:41:23,432 - Eval_13_adapter - INFO - loss decreased (-38.102250 --> -38.102250).
+2024-10-14 11:41:23,433 - Eval_13_adapter - DEBUG - Epoch: 31, learning rate:  0.1
+2024-10-14 11:41:24,094 - Eval_13_adapter - DEBUG - Train Loss: -25.5038360953331
+2024-10-14 11:41:24,097 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 27
+2024-10-14 11:41:24,097 - Eval_13_adapter - INFO - loss decreased (-25.503836 --> -25.503836).
+2024-10-14 11:41:24,097 - Eval_13_adapter - DEBUG - Epoch: 28, learning rate:  0.1
+2024-10-14 11:41:25,539 - Eval_13_adapter - DEBUG - Train Loss: -39.06128269433975
+2024-10-14 11:41:25,545 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 31
+2024-10-14 11:41:25,545 - Eval_13_adapter - INFO - loss decreased (-39.061283 --> -39.061283).
+2024-10-14 11:41:25,546 - Eval_13_adapter - DEBUG - Epoch: 32, learning rate:  0.1
+2024-10-14 11:41:26,317 - Eval_13_adapter - DEBUG - Train Loss: -26.6262549161911
+2024-10-14 11:41:26,320 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 28
+2024-10-14 11:41:26,320 - Eval_13_adapter - INFO - loss decreased (-26.626255 --> -26.626255).
+2024-10-14 11:41:26,321 - Eval_13_adapter - DEBUG - Epoch: 29, learning rate:  0.1
+2024-10-14 11:41:27,661 - Eval_13_adapter - DEBUG - Train Loss: -40.35678231716156
+2024-10-14 11:41:27,665 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 32
+2024-10-14 11:41:27,665 - Eval_13_adapter - INFO - loss decreased (-40.356782 --> -40.356782).
+2024-10-14 11:41:27,666 - Eval_13_adapter - DEBUG - Epoch: 33, learning rate:  0.1
+2024-10-14 11:41:28,590 - Eval_13_adapter - DEBUG - Train Loss: -28.213544130325317
+2024-10-14 11:41:28,593 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 29
+2024-10-14 11:41:28,594 - Eval_13_adapter - INFO - loss decreased (-28.213544 --> -28.213544).
+2024-10-14 11:41:28,594 - Eval_13_adapter - DEBUG - Epoch: 30, learning rate:  0.1
+2024-10-14 11:41:29,896 - Eval_13_adapter - DEBUG - Train Loss: -41.531942903995514
+2024-10-14 11:41:29,899 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 33
+2024-10-14 11:41:29,899 - Eval_13_adapter - INFO - loss decreased (-41.531943 --> -41.531943).
+2024-10-14 11:41:29,900 - Eval_13_adapter - DEBUG - Epoch: 34, learning rate:  0.1
+2024-10-14 11:41:31,044 - Eval_13_adapter - DEBUG - Train Loss: -29.757533192634583
+2024-10-14 11:41:31,048 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 30
+2024-10-14 11:41:31,048 - Eval_13_adapter - INFO - loss decreased (-29.757533 --> -29.757533).
+2024-10-14 11:41:31,048 - Eval_13_adapter - DEBUG - Epoch: 31, learning rate:  0.1
+2024-10-14 11:41:31,963 - Eval_13_adapter - DEBUG - Train Loss: -42.55300813913345
+2024-10-14 11:41:31,966 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 34
+2024-10-14 11:41:31,966 - Eval_13_adapter - INFO - loss decreased (-42.553008 --> -42.553008).
+2024-10-14 11:41:31,967 - Eval_13_adapter - DEBUG - Epoch: 35, learning rate:  0.1
+2024-10-14 11:41:33,405 - Eval_13_adapter - DEBUG - Train Loss: -31.353308022022247
+2024-10-14 11:41:33,408 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 31
+2024-10-14 11:41:33,409 - Eval_13_adapter - INFO - loss decreased (-31.353308 --> -31.353308).
+2024-10-14 11:41:33,409 - Eval_13_adapter - DEBUG - Epoch: 32, learning rate:  0.1
+2024-10-14 11:41:33,999 - Eval_13_adapter - DEBUG - Train Loss: -43.96360045671463
+2024-10-14 11:41:34,002 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 35
+2024-10-14 11:41:34,003 - Eval_13_adapter - INFO - loss decreased (-43.963600 --> -43.963600).
+2024-10-14 11:41:34,003 - Eval_13_adapter - DEBUG - Epoch: 36, learning rate:  0.1
+2024-10-14 11:41:35,739 - Eval_13_adapter - DEBUG - Train Loss: -31.905502676963806
+2024-10-14 11:41:35,743 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 32
+2024-10-14 11:41:35,743 - Eval_13_adapter - INFO - loss decreased (-31.905503 --> -31.905503).
+2024-10-14 11:41:35,744 - Eval_13_adapter - DEBUG - Epoch: 33, learning rate:  0.1
+2024-10-14 11:41:36,281 - Eval_13_adapter - DEBUG - Train Loss: -44.70212894678116
+2024-10-14 11:41:36,285 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 36
+2024-10-14 11:41:36,286 - Eval_13_adapter - INFO - loss decreased (-44.702129 --> -44.702129).
+2024-10-14 11:41:36,286 - Eval_13_adapter - DEBUG - Epoch: 37, learning rate:  0.1
+2024-10-14 11:41:37,944 - Eval_13_adapter - DEBUG - Train Loss: -33.50280910730362
+2024-10-14 11:41:37,947 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 33
+2024-10-14 11:41:37,947 - Eval_13_adapter - INFO - loss decreased (-33.502809 --> -33.502809).
+2024-10-14 11:41:37,948 - Eval_13_adapter - DEBUG - Epoch: 34, learning rate:  0.1
+2024-10-14 11:41:38,590 - Eval_13_adapter - DEBUG - Train Loss: -45.77232450246811
+2024-10-14 11:41:38,596 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 37
+2024-10-14 11:41:38,597 - Eval_13_adapter - INFO - loss decreased (-45.772325 --> -45.772325).
+2024-10-14 11:41:38,597 - Eval_13_adapter - DEBUG - Epoch: 38, learning rate:  0.1
+2024-10-14 11:41:40,192 - Eval_13_adapter - DEBUG - Train Loss: -35.12194836139679
+2024-10-14 11:41:40,195 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 34
+2024-10-14 11:41:40,195 - Eval_13_adapter - INFO - loss decreased (-35.121948 --> -35.121948).
+2024-10-14 11:41:40,196 - Eval_13_adapter - DEBUG - Epoch: 35, learning rate:  0.1
+2024-10-14 11:41:40,910 - Eval_13_adapter - DEBUG - Train Loss: -46.69021821022034
+2024-10-14 11:41:40,914 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 38
+2024-10-14 11:41:40,914 - Eval_13_adapter - INFO - loss decreased (-46.690218 --> -46.690218).
+2024-10-14 11:41:40,915 - Eval_13_adapter - DEBUG - Epoch: 39, learning rate:  0.1
+2024-10-14 11:41:42,232 - Eval_13_adapter - DEBUG - Train Loss: -35.644726514816284
+2024-10-14 11:41:42,235 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 35
+2024-10-14 11:41:42,235 - Eval_13_adapter - INFO - loss decreased (-35.644727 --> -35.644727).
+2024-10-14 11:41:42,236 - Eval_13_adapter - DEBUG - Epoch: 36, learning rate:  0.1
+2024-10-14 11:41:43,130 - Eval_13_adapter - DEBUG - Train Loss: -47.85218781232834
+2024-10-14 11:41:43,133 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 39
+2024-10-14 11:41:43,135 - Eval_13_adapter - INFO - loss decreased (-47.852188 --> -47.852188).
+2024-10-14 11:41:43,136 - Eval_13_adapter - DEBUG - Epoch: 40, learning rate:  0.1
+2024-10-14 11:41:44,337 - Eval_13_adapter - DEBUG - Train Loss: -36.807214081287384
+2024-10-14 11:41:44,340 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 36
+2024-10-14 11:41:44,341 - Eval_13_adapter - INFO - loss decreased (-36.807214 --> -36.807214).
+2024-10-14 11:41:44,341 - Eval_13_adapter - DEBUG - Epoch: 37, learning rate:  0.1
+2024-10-14 11:41:45,321 - Eval_13_adapter - DEBUG - Train Loss: -48.77186542749405
+2024-10-14 11:41:45,325 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 40
+2024-10-14 11:41:45,325 - Eval_13_adapter - INFO - loss decreased (-48.771865 --> -48.771865).
+2024-10-14 11:41:45,325 - Eval_13_adapter - DEBUG - Epoch: 41, learning rate:  0.1
+2024-10-14 11:41:46,380 - Eval_13_adapter - DEBUG - Train Loss: -38.15591764450073
+2024-10-14 11:41:46,383 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 37
+2024-10-14 11:41:46,383 - Eval_13_adapter - INFO - loss decreased (-38.155918 --> -38.155918).
+2024-10-14 11:41:46,384 - Eval_13_adapter - DEBUG - Epoch: 38, learning rate:  0.1
+2024-10-14 11:41:47,507 - Eval_13_adapter - DEBUG - Train Loss: -48.787926733493805
+2024-10-14 11:41:47,510 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 41
+2024-10-14 11:41:47,511 - Eval_13_adapter - INFO - loss decreased (-48.787927 --> -48.787927).
+2024-10-14 11:41:47,511 - Eval_13_adapter - DEBUG - Epoch: 42, learning rate:  0.1
+2024-10-14 11:41:48,439 - Eval_13_adapter - DEBUG - Train Loss: -38.95213621854782
+2024-10-14 11:41:48,443 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 38
+2024-10-14 11:41:48,443 - Eval_13_adapter - INFO - loss decreased (-38.952136 --> -38.952136).
+2024-10-14 11:41:48,443 - Eval_13_adapter - DEBUG - Epoch: 39, learning rate:  0.1
+2024-10-14 11:41:49,722 - Eval_13_adapter - DEBUG - Train Loss: -50.04272186756134
+2024-10-14 11:41:49,725 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 42
+2024-10-14 11:41:49,725 - Eval_13_adapter - INFO - loss decreased (-50.042722 --> -50.042722).
+2024-10-14 11:41:49,726 - Eval_13_adapter - DEBUG - Epoch: 43, learning rate:  0.1
+2024-10-14 11:41:50,405 - Eval_13_adapter - DEBUG - Train Loss: -39.7295064330101
+2024-10-14 11:41:50,409 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 39
+2024-10-14 11:41:50,410 - Eval_13_adapter - INFO - loss decreased (-39.729506 --> -39.729506).
+2024-10-14 11:41:50,410 - Eval_13_adapter - DEBUG - Epoch: 40, learning rate:  0.1
+2024-10-14 11:41:51,981 - Eval_13_adapter - DEBUG - Train Loss: -50.395753383636475
+2024-10-14 11:41:51,985 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 43
+2024-10-14 11:41:51,985 - Eval_13_adapter - INFO - loss decreased (-50.395753 --> -50.395753).
+2024-10-14 11:41:51,985 - Eval_13_adapter - DEBUG - Epoch: 44, learning rate:  0.1
+2024-10-14 11:41:52,550 - Eval_13_adapter - DEBUG - Train Loss: -41.06424134969711
+2024-10-14 11:41:52,554 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 40
+2024-10-14 11:41:52,555 - Eval_13_adapter - INFO - loss decreased (-41.064241 --> -41.064241).
+2024-10-14 11:41:52,555 - Eval_13_adapter - DEBUG - Epoch: 41, learning rate:  0.1
+2024-10-14 11:41:54,538 - Eval_13_adapter - DEBUG - Train Loss: -51.63632649183273
+2024-10-14 11:41:54,542 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 44
+2024-10-14 11:41:54,542 - Eval_13_adapter - INFO - loss decreased (-51.636326 --> -51.636326).
+2024-10-14 11:41:54,542 - Eval_13_adapter - DEBUG - Epoch: 45, learning rate:  0.1
+2024-10-14 11:41:54,750 - Eval_13_adapter - DEBUG - Train Loss: -42.07904851436615
+2024-10-14 11:41:54,753 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 41
+2024-10-14 11:41:54,753 - Eval_13_adapter - INFO - loss decreased (-42.079049 --> -42.079049).
+2024-10-14 11:41:54,754 - Eval_13_adapter - DEBUG - Epoch: 42, learning rate:  0.1
+2024-10-14 11:41:57,107 - Eval_13_adapter - DEBUG - Train Loss: -52.236659586429596
+2024-10-14 11:41:57,110 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 45
+2024-10-14 11:41:57,110 - Eval_13_adapter - INFO - loss decreased (-52.236660 --> -52.236660).
+2024-10-14 11:41:57,111 - Eval_13_adapter - DEBUG - Epoch: 46, learning rate:  0.1
+2024-10-14 11:41:57,273 - Eval_13_adapter - DEBUG - Train Loss: -42.52265441417694
+2024-10-14 11:41:57,277 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 42
+2024-10-14 11:41:57,277 - Eval_13_adapter - INFO - loss decreased (-42.522654 --> -42.522654).
+2024-10-14 11:41:57,277 - Eval_13_adapter - DEBUG - Epoch: 43, learning rate:  0.1
+2024-10-14 11:41:59,628 - Eval_13_adapter - DEBUG - Train Loss: -43.100759863853455
+2024-10-14 11:41:59,632 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 43
+2024-10-14 11:41:59,632 - Eval_13_adapter - INFO - loss decreased (-43.100760 --> -43.100760).
+2024-10-14 11:41:59,632 - Eval_13_adapter - DEBUG - Epoch: 44, learning rate:  0.1
+2024-10-14 11:41:59,671 - Eval_13_adapter - DEBUG - Train Loss: -53.020193099975586
+2024-10-14 11:41:59,675 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 46
+2024-10-14 11:41:59,675 - Eval_13_adapter - INFO - loss decreased (-53.020193 --> -53.020193).
+2024-10-14 11:41:59,675 - Eval_13_adapter - DEBUG - Epoch: 47, learning rate:  0.1
+2024-10-14 11:42:02,273 - Eval_13_adapter - DEBUG - Train Loss: -44.321709513664246
+2024-10-14 11:42:02,278 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 44
+2024-10-14 11:42:02,278 - Eval_13_adapter - INFO - loss decreased (-44.321710 --> -44.321710).
+2024-10-14 11:42:02,279 - Eval_13_adapter - DEBUG - Epoch: 45, learning rate:  0.1
+2024-10-14 11:42:02,334 - Eval_13_adapter - DEBUG - Train Loss: -53.81396245956421
+2024-10-14 11:42:02,339 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 47
+2024-10-14 11:42:02,339 - Eval_13_adapter - INFO - loss decreased (-53.813962 --> -53.813962).
+2024-10-14 11:42:02,340 - Eval_13_adapter - DEBUG - Epoch: 48, learning rate:  0.1
+2024-10-14 11:42:04,828 - Eval_13_adapter - DEBUG - Train Loss: -44.7570920586586
+2024-10-14 11:42:04,831 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 45
+2024-10-14 11:42:04,831 - Eval_13_adapter - DEBUG - Train Loss: -54.29380577802658
+2024-10-14 11:42:04,831 - Eval_13_adapter - INFO - loss decreased (-44.757092 --> -44.757092).
+2024-10-14 11:42:04,833 - Eval_13_adapter - DEBUG - Epoch: 46, learning rate:  0.1
+2024-10-14 11:42:04,842 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 48
+2024-10-14 11:42:04,843 - Eval_13_adapter - INFO - loss decreased (-54.293806 --> -54.293806).
+2024-10-14 11:42:04,844 - Eval_13_adapter - DEBUG - Epoch: 49, learning rate:  0.1
+2024-10-14 11:42:07,155 - Eval_13_adapter - DEBUG - Train Loss: -45.44840306043625
+2024-10-14 11:42:07,159 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 46
+2024-10-14 11:42:07,159 - Eval_13_adapter - INFO - loss decreased (-45.448403 --> -45.448403).
+2024-10-14 11:42:07,160 - Eval_13_adapter - DEBUG - Epoch: 47, learning rate:  0.1
+2024-10-14 11:42:07,177 - Eval_13_adapter - DEBUG - Train Loss: -54.9407103061676
+2024-10-14 11:42:07,181 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 49
+2024-10-14 11:42:07,181 - Eval_13_adapter - INFO - loss decreased (-54.940710 --> -54.940710).
+2024-10-14 11:42:07,181 - Eval_13_adapter - DEBUG - Epoch: 50, learning rate:  0.1
+2024-10-14 11:42:09,490 - Eval_13_adapter - DEBUG - Train Loss: -46.74738097190857
+2024-10-14 11:42:09,493 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 47
+2024-10-14 11:42:09,494 - Eval_13_adapter - INFO - loss decreased (-46.747381 --> -46.747381).
+2024-10-14 11:42:09,494 - Eval_13_adapter - DEBUG - Epoch: 48, learning rate:  0.1
+2024-10-14 11:42:09,536 - Eval_13_adapter - DEBUG - Train Loss: -55.50387555360794
+2024-10-14 11:42:09,539 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 50
+2024-10-14 11:42:09,540 - Eval_13_adapter - INFO - loss decreased (-55.503876 --> -55.503876).
+2024-10-14 11:42:09,541 - Eval_13_adapter - DEBUG - Epoch: 51, learning rate:  0.1
+2024-10-14 11:42:11,861 - Eval_13_adapter - DEBUG - Train Loss: -47.39035111665726
+2024-10-14 11:42:11,864 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 48
+2024-10-14 11:42:11,864 - Eval_13_adapter - INFO - loss decreased (-47.390351 --> -47.390351).
+2024-10-14 11:42:11,865 - Eval_13_adapter - DEBUG - Epoch: 49, learning rate:  0.1
+2024-10-14 11:42:11,932 - Eval_13_adapter - DEBUG - Train Loss: -55.71723675727844
+2024-10-14 11:42:11,937 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 51
+2024-10-14 11:42:11,937 - Eval_13_adapter - INFO - loss decreased (-55.717237 --> -55.717237).
+2024-10-14 11:42:11,938 - Eval_13_adapter - DEBUG - Epoch: 52, learning rate:  0.1
+2024-10-14 11:42:14,225 - Eval_13_adapter - DEBUG - Train Loss: -47.69273900985718
+2024-10-14 11:42:14,228 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 49
+2024-10-14 11:42:14,228 - Eval_13_adapter - INFO - loss decreased (-47.692739 --> -47.692739).
+2024-10-14 11:42:14,229 - Eval_13_adapter - DEBUG - Epoch: 50, learning rate:  0.1
+2024-10-14 11:42:14,250 - Eval_13_adapter - DEBUG - Train Loss: -56.43015778064728
+2024-10-14 11:42:14,253 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 52
+2024-10-14 11:42:14,254 - Eval_13_adapter - INFO - loss decreased (-56.430158 --> -56.430158).
+2024-10-14 11:42:14,254 - Eval_13_adapter - DEBUG - Epoch: 53, learning rate:  0.1
+2024-10-14 11:42:16,470 - Eval_13_adapter - DEBUG - Train Loss: -56.95446103811264
+2024-10-14 11:42:16,473 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 53
+2024-10-14 11:42:16,473 - Eval_13_adapter - INFO - loss decreased (-56.954461 --> -56.954461).
+2024-10-14 11:42:16,474 - Eval_13_adapter - DEBUG - Epoch: 54, learning rate:  0.1
+2024-10-14 11:42:16,478 - Eval_13_adapter - DEBUG - Train Loss: -48.825794756412506
+2024-10-14 11:42:16,481 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 50
+2024-10-14 11:42:16,481 - Eval_13_adapter - INFO - loss decreased (-48.825795 --> -48.825795).
+2024-10-14 11:42:16,482 - Eval_13_adapter - DEBUG - Epoch: 51, learning rate:  0.1
+2024-10-14 11:42:18,650 - Eval_13_adapter - DEBUG - Train Loss: -58.04318678379059
+2024-10-14 11:42:18,653 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 54
+2024-10-14 11:42:18,653 - Eval_13_adapter - INFO - loss decreased (-58.043187 --> -58.043187).
+2024-10-14 11:42:18,653 - Eval_13_adapter - DEBUG - Epoch: 55, learning rate:  0.1
+2024-10-14 11:42:18,732 - Eval_13_adapter - DEBUG - Train Loss: -49.04553937911987
+2024-10-14 11:42:18,735 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 51
+2024-10-14 11:42:18,736 - Eval_13_adapter - INFO - loss decreased (-49.045539 --> -49.045539).
+2024-10-14 11:42:18,738 - Eval_13_adapter - DEBUG - Epoch: 52, learning rate:  0.1
+2024-10-14 11:42:20,859 - Eval_13_adapter - DEBUG - Train Loss: -49.947191417217255
+2024-10-14 11:42:20,862 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 52
+2024-10-14 11:42:20,862 - Eval_13_adapter - INFO - loss decreased (-49.947191 --> -49.947191).
+2024-10-14 11:42:20,862 - Eval_13_adapter - DEBUG - Epoch: 53, learning rate:  0.1
+2024-10-14 11:42:20,937 - Eval_13_adapter - DEBUG - Train Loss: -58.148138880729675
+2024-10-14 11:42:20,942 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 55
+2024-10-14 11:42:20,942 - Eval_13_adapter - INFO - loss decreased (-58.148139 --> -58.148139).
+2024-10-14 11:42:20,942 - Eval_13_adapter - DEBUG - Epoch: 56, learning rate:  0.1
+2024-10-14 11:42:23,101 - Eval_13_adapter - DEBUG - Train Loss: -50.47399300336838
+2024-10-14 11:42:23,105 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 53
+2024-10-14 11:42:23,105 - Eval_13_adapter - INFO - loss decreased (-50.473993 --> -50.473993).
+2024-10-14 11:42:23,105 - Eval_13_adapter - DEBUG - Epoch: 54, learning rate:  0.1
+2024-10-14 11:42:23,190 - Eval_13_adapter - DEBUG - Train Loss: -59.11112064123154
+2024-10-14 11:42:23,198 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 56
+2024-10-14 11:42:23,198 - Eval_13_adapter - INFO - loss decreased (-59.111121 --> -59.111121).
+2024-10-14 11:42:23,199 - Eval_13_adapter - DEBUG - Epoch: 57, learning rate:  0.1
+2024-10-14 11:42:25,309 - Eval_13_adapter - DEBUG - Train Loss: -50.84719216823578
+2024-10-14 11:42:25,312 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 54
+2024-10-14 11:42:25,312 - Eval_13_adapter - INFO - loss decreased (-50.847192 --> -50.847192).
+2024-10-14 11:42:25,312 - Eval_13_adapter - DEBUG - Epoch: 55, learning rate:  0.1
+2024-10-14 11:42:25,497 - Eval_13_adapter - DEBUG - Train Loss: -58.996616423130035
+2024-10-14 11:42:25,501 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 57
+2024-10-14 11:42:25,501 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:42:25,502 - Eval_13_adapter - DEBUG - Epoch: 58, learning rate:  0.1
+2024-10-14 11:42:27,472 - Eval_13_adapter - DEBUG - Train Loss: -51.821367502212524
+2024-10-14 11:42:27,475 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 55
+2024-10-14 11:42:27,475 - Eval_13_adapter - INFO - loss decreased (-51.821368 --> -51.821368).
+2024-10-14 11:42:27,475 - Eval_13_adapter - DEBUG - Epoch: 56, learning rate:  0.1
+2024-10-14 11:42:27,622 - Eval_13_adapter - DEBUG - Train Loss: -59.912532448768616
+2024-10-14 11:42:27,625 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 58
+2024-10-14 11:42:27,625 - Eval_13_adapter - INFO - loss decreased (-59.912532 --> -59.912532).
+2024-10-14 11:42:27,625 - Eval_13_adapter - DEBUG - Epoch: 59, learning rate:  0.1
+2024-10-14 11:42:29,549 - Eval_13_adapter - DEBUG - Train Loss: -51.98730385303497
+2024-10-14 11:42:29,553 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 56
+2024-10-14 11:42:29,553 - Eval_13_adapter - INFO - loss decreased (-51.987304 --> -51.987304).
+2024-10-14 11:42:29,553 - Eval_13_adapter - DEBUG - Epoch: 57, learning rate:  0.1
+2024-10-14 11:42:29,802 - Eval_13_adapter - DEBUG - Train Loss: -60.76601666212082
+2024-10-14 11:42:29,806 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 59
+2024-10-14 11:42:29,806 - Eval_13_adapter - INFO - loss decreased (-60.766017 --> -60.766017).
+2024-10-14 11:42:29,806 - Eval_13_adapter - DEBUG - Epoch: 60, learning rate:  0.1
+2024-10-14 11:42:31,803 - Eval_13_adapter - DEBUG - Train Loss: -52.102094411849976
+2024-10-14 11:42:31,808 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 57
+2024-10-14 11:42:31,808 - Eval_13_adapter - INFO - loss decreased (-52.102094 --> -52.102094).
+2024-10-14 11:42:31,809 - Eval_13_adapter - DEBUG - Epoch: 58, learning rate:  0.1
+2024-10-14 11:42:32,037 - Eval_13_adapter - DEBUG - Train Loss: -60.857212007045746
+2024-10-14 11:42:32,040 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 60
+2024-10-14 11:42:32,040 - Eval_13_adapter - INFO - loss decreased (-60.857212 --> -60.857212).
+2024-10-14 11:42:32,040 - Eval_13_adapter - DEBUG - Epoch: 61, learning rate:  0.1
+2024-10-14 11:42:34,160 - Eval_13_adapter - DEBUG - Train Loss: -53.14861744642258
+2024-10-14 11:42:34,163 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 58
+2024-10-14 11:42:34,163 - Eval_13_adapter - INFO - loss decreased (-53.148617 --> -53.148617).
+2024-10-14 11:42:34,163 - Eval_13_adapter - DEBUG - Epoch: 59, learning rate:  0.1
+2024-10-14 11:42:34,185 - Eval_13_adapter - DEBUG - Train Loss: -61.23359900712967
+2024-10-14 11:42:34,188 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 61
+2024-10-14 11:42:34,189 - Eval_13_adapter - INFO - loss decreased (-61.233599 --> -61.233599).
+2024-10-14 11:42:34,189 - Eval_13_adapter - DEBUG - Epoch: 62, learning rate:  0.1
+2024-10-14 11:42:36,538 - Eval_13_adapter - DEBUG - Train Loss: -53.62123489379883
+2024-10-14 11:42:36,541 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 59
+2024-10-14 11:42:36,541 - Eval_13_adapter - INFO - loss decreased (-53.621235 --> -53.621235).
+2024-10-14 11:42:36,542 - Eval_13_adapter - DEBUG - Epoch: 60, learning rate:  0.1
+2024-10-14 11:42:36,668 - Eval_13_adapter - DEBUG - Train Loss: -61.895821928977966
+2024-10-14 11:42:36,672 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 62
+2024-10-14 11:42:36,672 - Eval_13_adapter - INFO - loss decreased (-61.895822 --> -61.895822).
+2024-10-14 11:42:36,673 - Eval_13_adapter - DEBUG - Epoch: 63, learning rate:  0.1
+2024-10-14 11:42:39,074 - Eval_13_adapter - DEBUG - Train Loss: -54.33440750837326
+2024-10-14 11:42:39,077 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 60
+2024-10-14 11:42:39,077 - Eval_13_adapter - INFO - loss decreased (-54.334408 --> -54.334408).
+2024-10-14 11:42:39,078 - Eval_13_adapter - DEBUG - Epoch: 61, learning rate:  0.1
+2024-10-14 11:42:39,089 - Eval_13_adapter - DEBUG - Train Loss: -62.032861948013306
+2024-10-14 11:42:39,092 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 63
+2024-10-14 11:42:39,092 - Eval_13_adapter - INFO - loss decreased (-62.032862 --> -62.032862).
+2024-10-14 11:42:39,093 - Eval_13_adapter - DEBUG - Epoch: 64, learning rate:  0.1
+2024-10-14 11:42:41,568 - Eval_13_adapter - DEBUG - Train Loss: -54.89992141723633
+2024-10-14 11:42:41,572 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 61
+2024-10-14 11:42:41,572 - Eval_13_adapter - INFO - loss decreased (-54.899921 --> -54.899921).
+2024-10-14 11:42:41,573 - Eval_13_adapter - DEBUG - Epoch: 62, learning rate:  0.1
+2024-10-14 11:42:41,606 - Eval_13_adapter - DEBUG - Train Loss: -62.51343321800232
+2024-10-14 11:42:41,610 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 64
+2024-10-14 11:42:41,610 - Eval_13_adapter - INFO - loss decreased (-62.513433 --> -62.513433).
+2024-10-14 11:42:41,610 - Eval_13_adapter - DEBUG - Epoch: 65, learning rate:  0.1
+2024-10-14 11:42:44,101 - Eval_13_adapter - DEBUG - Train Loss: -55.084249556064606
+2024-10-14 11:42:44,104 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 62
+2024-10-14 11:42:44,104 - Eval_13_adapter - INFO - loss decreased (-55.084250 --> -55.084250).
+2024-10-14 11:42:44,105 - Eval_13_adapter - DEBUG - Epoch: 63, learning rate:  0.1
+2024-10-14 11:42:44,285 - Eval_13_adapter - DEBUG - Train Loss: -63.254739820957184
+2024-10-14 11:42:44,288 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 65
+2024-10-14 11:42:44,288 - Eval_13_adapter - INFO - loss decreased (-63.254740 --> -63.254740).
+2024-10-14 11:42:44,289 - Eval_13_adapter - DEBUG - Epoch: 66, learning rate:  0.1
+2024-10-14 11:42:46,559 - Eval_13_adapter - DEBUG - Train Loss: -56.12244892120361
+2024-10-14 11:42:46,563 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 63
+2024-10-14 11:42:46,563 - Eval_13_adapter - INFO - loss decreased (-56.122449 --> -56.122449).
+2024-10-14 11:42:46,564 - Eval_13_adapter - DEBUG - Epoch: 64, learning rate:  0.1
+2024-10-14 11:42:46,722 - Eval_13_adapter - DEBUG - Train Loss: -63.192433536052704
+2024-10-14 11:42:46,725 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 66
+2024-10-14 11:42:46,726 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:42:46,726 - Eval_13_adapter - DEBUG - Epoch: 67, learning rate:  0.1
+2024-10-14 11:42:49,015 - Eval_13_adapter - DEBUG - Train Loss: -56.231386840343475
+2024-10-14 11:42:49,018 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 64
+2024-10-14 11:42:49,018 - Eval_13_adapter - INFO - loss decreased (-56.231387 --> -56.231387).
+2024-10-14 11:42:49,019 - Eval_13_adapter - DEBUG - Epoch: 65, learning rate:  0.1
+2024-10-14 11:42:49,226 - Eval_13_adapter - DEBUG - Train Loss: -63.90167135000229
+2024-10-14 11:42:49,230 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 67
+2024-10-14 11:42:49,230 - Eval_13_adapter - INFO - loss decreased (-63.901671 --> -63.901671).
+2024-10-14 11:42:49,231 - Eval_13_adapter - DEBUG - Epoch: 68, learning rate:  0.1
+2024-10-14 11:42:51,328 - Eval_13_adapter - DEBUG - Train Loss: -56.47869670391083
+2024-10-14 11:42:51,331 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 65
+2024-10-14 11:42:51,331 - Eval_13_adapter - INFO - loss decreased (-56.478697 --> -56.478697).
+2024-10-14 11:42:51,332 - Eval_13_adapter - DEBUG - Epoch: 66, learning rate:  0.1
+2024-10-14 11:42:51,722 - Eval_13_adapter - DEBUG - Train Loss: -64.10138088464737
+2024-10-14 11:42:51,726 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 68
+2024-10-14 11:42:51,726 - Eval_13_adapter - INFO - loss decreased (-64.101381 --> -64.101381).
+2024-10-14 11:42:51,726 - Eval_13_adapter - DEBUG - Epoch: 69, learning rate:  0.1
+2024-10-14 11:42:53,633 - Eval_13_adapter - DEBUG - Train Loss: -57.04508650302887
+2024-10-14 11:42:53,636 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 66
+2024-10-14 11:42:53,636 - Eval_13_adapter - INFO - loss decreased (-57.045087 --> -57.045087).
+2024-10-14 11:42:53,637 - Eval_13_adapter - DEBUG - Epoch: 67, learning rate:  0.1
+2024-10-14 11:42:54,133 - Eval_13_adapter - DEBUG - Train Loss: -64.45870792865753
+2024-10-14 11:42:54,137 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 69
+2024-10-14 11:42:54,137 - Eval_13_adapter - INFO - loss decreased (-64.458708 --> -64.458708).
+2024-10-14 11:42:54,137 - Eval_13_adapter - DEBUG - Epoch: 70, learning rate:  0.1
+2024-10-14 11:42:55,784 - Eval_13_adapter - DEBUG - Train Loss: -57.23594981431961
+2024-10-14 11:42:55,789 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 67
+2024-10-14 11:42:55,789 - Eval_13_adapter - INFO - loss decreased (-57.235950 --> -57.235950).
+2024-10-14 11:42:55,789 - Eval_13_adapter - DEBUG - Epoch: 68, learning rate:  0.1
+2024-10-14 11:42:56,531 - Eval_13_adapter - DEBUG - Train Loss: -64.61292916536331
+2024-10-14 11:42:56,534 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 70
+2024-10-14 11:42:56,535 - Eval_13_adapter - INFO - loss decreased (-64.612929 --> -64.612929).
+2024-10-14 11:42:56,536 - Eval_13_adapter - DEBUG - Epoch: 71, learning rate:  0.1
+2024-10-14 11:42:57,999 - Eval_13_adapter - DEBUG - Train Loss: -57.68595093488693
+2024-10-14 11:42:58,003 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 68
+2024-10-14 11:42:58,004 - Eval_13_adapter - INFO - loss decreased (-57.685951 --> -57.685951).
+2024-10-14 11:42:58,004 - Eval_13_adapter - DEBUG - Epoch: 69, learning rate:  0.1
+2024-10-14 11:42:58,768 - Eval_13_adapter - DEBUG - Train Loss: -65.27617305517197
+2024-10-14 11:42:58,773 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 71
+2024-10-14 11:42:58,773 - Eval_13_adapter - INFO - loss decreased (-65.276173 --> -65.276173).
+2024-10-14 11:42:58,774 - Eval_13_adapter - DEBUG - Epoch: 72, learning rate:  0.1
+2024-10-14 11:43:00,059 - Eval_13_adapter - DEBUG - Train Loss: -58.1566886305809
+2024-10-14 11:43:00,063 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 69
+2024-10-14 11:43:00,063 - Eval_13_adapter - INFO - loss decreased (-58.156689 --> -58.156689).
+2024-10-14 11:43:00,063 - Eval_13_adapter - DEBUG - Epoch: 70, learning rate:  0.1
+2024-10-14 11:43:01,085 - Eval_13_adapter - DEBUG - Train Loss: -65.20086163282394
+2024-10-14 11:43:01,088 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 72
+2024-10-14 11:43:01,089 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:01,089 - Eval_13_adapter - DEBUG - Epoch: 73, learning rate:  0.1
+2024-10-14 11:43:02,142 - Eval_13_adapter - DEBUG - Train Loss: -58.71401113271713
+2024-10-14 11:43:02,145 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 70
+2024-10-14 11:43:02,145 - Eval_13_adapter - INFO - loss decreased (-58.714011 --> -58.714011).
+2024-10-14 11:43:02,146 - Eval_13_adapter - DEBUG - Epoch: 71, learning rate:  0.1
+2024-10-14 11:43:03,258 - Eval_13_adapter - DEBUG - Train Loss: -65.9136084318161
+2024-10-14 11:43:03,261 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 73
+2024-10-14 11:43:03,262 - Eval_13_adapter - INFO - loss decreased (-65.913608 --> -65.913608).
+2024-10-14 11:43:03,262 - Eval_13_adapter - DEBUG - Epoch: 74, learning rate:  0.1
+2024-10-14 11:43:04,251 - Eval_13_adapter - DEBUG - Train Loss: -58.65696960687637
+2024-10-14 11:43:04,254 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 71
+2024-10-14 11:43:04,254 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:04,255 - Eval_13_adapter - DEBUG - Epoch: 72, learning rate:  0.1
+2024-10-14 11:43:05,431 - Eval_13_adapter - DEBUG - Train Loss: -66.33072823286057
+2024-10-14 11:43:05,436 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 74
+2024-10-14 11:43:05,436 - Eval_13_adapter - INFO - loss decreased (-66.330728 --> -66.330728).
+2024-10-14 11:43:05,437 - Eval_13_adapter - DEBUG - Epoch: 75, learning rate:  0.1
+2024-10-14 11:43:06,275 - Eval_13_adapter - DEBUG - Train Loss: -59.55251210927963
+2024-10-14 11:43:06,279 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 72
+2024-10-14 11:43:06,279 - Eval_13_adapter - INFO - loss decreased (-59.552512 --> -59.552512).
+2024-10-14 11:43:06,279 - Eval_13_adapter - DEBUG - Epoch: 73, learning rate:  0.1
+2024-10-14 11:43:07,609 - Eval_13_adapter - DEBUG - Train Loss: -66.65221482515335
+2024-10-14 11:43:07,613 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 75
+2024-10-14 11:43:07,614 - Eval_13_adapter - INFO - loss decreased (-66.652215 --> -66.652215).
+2024-10-14 11:43:07,614 - Eval_13_adapter - DEBUG - Epoch: 76, learning rate:  0.1
+2024-10-14 11:43:08,327 - Eval_13_adapter - DEBUG - Train Loss: -59.7066735625267
+2024-10-14 11:43:08,330 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 73
+2024-10-14 11:43:08,330 - Eval_13_adapter - INFO - loss decreased (-59.706674 --> -59.706674).
+2024-10-14 11:43:08,331 - Eval_13_adapter - DEBUG - Epoch: 74, learning rate:  0.1
+2024-10-14 11:43:09,791 - Eval_13_adapter - DEBUG - Train Loss: -66.8716716170311
+2024-10-14 11:43:09,795 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 76
+2024-10-14 11:43:09,795 - Eval_13_adapter - INFO - loss decreased (-66.871672 --> -66.871672).
+2024-10-14 11:43:09,795 - Eval_13_adapter - DEBUG - Epoch: 77, learning rate:  0.1
+2024-10-14 11:43:10,339 - Eval_13_adapter - DEBUG - Train Loss: -60.34450149536133
+2024-10-14 11:43:10,342 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 74
+2024-10-14 11:43:10,342 - Eval_13_adapter - INFO - loss decreased (-60.344501 --> -60.344501).
+2024-10-14 11:43:10,342 - Eval_13_adapter - DEBUG - Epoch: 75, learning rate:  0.1
+2024-10-14 11:43:11,932 - Eval_13_adapter - DEBUG - Train Loss: -66.99358636140823
+2024-10-14 11:43:11,935 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 77
+2024-10-14 11:43:11,936 - Eval_13_adapter - INFO - loss decreased (-66.993586 --> -66.993586).
+2024-10-14 11:43:11,936 - Eval_13_adapter - DEBUG - Epoch: 78, learning rate:  0.1
+2024-10-14 11:43:12,359 - Eval_13_adapter - DEBUG - Train Loss: -60.070118606090546
+2024-10-14 11:43:12,362 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 75
+2024-10-14 11:43:12,362 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:12,363 - Eval_13_adapter - DEBUG - Epoch: 76, learning rate:  0.1
+2024-10-14 11:43:14,149 - Eval_13_adapter - DEBUG - Train Loss: -67.63940185308456
+2024-10-14 11:43:14,152 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 78
+2024-10-14 11:43:14,152 - Eval_13_adapter - INFO - loss decreased (-67.639402 --> -67.639402).
+2024-10-14 11:43:14,153 - Eval_13_adapter - DEBUG - Epoch: 79, learning rate:  0.1
+2024-10-14 11:43:14,482 - Eval_13_adapter - DEBUG - Train Loss: -61.51215994358063
+2024-10-14 11:43:14,485 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 76
+2024-10-14 11:43:14,485 - Eval_13_adapter - INFO - loss decreased (-61.512160 --> -61.512160).
+2024-10-14 11:43:14,485 - Eval_13_adapter - DEBUG - Epoch: 77, learning rate:  0.1
+2024-10-14 11:43:16,399 - Eval_13_adapter - DEBUG - Train Loss: -68.36813998222351
+2024-10-14 11:43:16,402 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 79
+2024-10-14 11:43:16,402 - Eval_13_adapter - INFO - loss decreased (-68.368140 --> -68.368140).
+2024-10-14 11:43:16,403 - Eval_13_adapter - DEBUG - Epoch: 80, learning rate:  0.1
+2024-10-14 11:43:16,755 - Eval_13_adapter - DEBUG - Train Loss: -61.29448825120926
+2024-10-14 11:43:16,759 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 77
+2024-10-14 11:43:16,759 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:16,759 - Eval_13_adapter - DEBUG - Epoch: 78, learning rate:  0.1
+2024-10-14 11:43:18,613 - Eval_13_adapter - DEBUG - Train Loss: -68.03321516513824
+2024-10-14 11:43:18,616 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 80
+2024-10-14 11:43:18,616 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:18,617 - Eval_13_adapter - DEBUG - Epoch: 81, learning rate:  0.1
+2024-10-14 11:43:18,885 - Eval_13_adapter - DEBUG - Train Loss: -61.7686727643013
+2024-10-14 11:43:18,890 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 78
+2024-10-14 11:43:18,890 - Eval_13_adapter - INFO - loss decreased (-61.768673 --> -61.768673).
+2024-10-14 11:43:18,891 - Eval_13_adapter - DEBUG - Epoch: 79, learning rate:  0.1
+2024-10-14 11:43:20,502 - Eval_13_adapter - DEBUG - Train Loss: -68.9923785328865
+2024-10-14 11:43:20,506 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 81
+2024-10-14 11:43:20,506 - Eval_13_adapter - INFO - loss decreased (-68.992379 --> -68.992379).
+2024-10-14 11:43:20,506 - Eval_13_adapter - DEBUG - Epoch: 82, learning rate:  0.1
+2024-10-14 11:43:20,735 - Eval_13_adapter - DEBUG - Train Loss: -61.99619907140732
+2024-10-14 11:43:20,739 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 79
+2024-10-14 11:43:20,739 - Eval_13_adapter - INFO - loss decreased (-61.996199 --> -61.996199).
+2024-10-14 11:43:20,740 - Eval_13_adapter - DEBUG - Epoch: 80, learning rate:  0.1
+2024-10-14 11:43:22,295 - Eval_13_adapter - DEBUG - Train Loss: -68.89967221021652
+2024-10-14 11:43:22,298 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 82
+2024-10-14 11:43:22,298 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:22,299 - Eval_13_adapter - DEBUG - Epoch: 83, learning rate:  0.1
+2024-10-14 11:43:22,476 - Eval_13_adapter - DEBUG - Train Loss: -62.44149202108383
+2024-10-14 11:43:22,480 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 80
+2024-10-14 11:43:22,481 - Eval_13_adapter - INFO - loss decreased (-62.441492 --> -62.441492).
+2024-10-14 11:43:22,481 - Eval_13_adapter - DEBUG - Epoch: 81, learning rate:  0.1
+2024-10-14 11:43:24,212 - Eval_13_adapter - DEBUG - Train Loss: -68.97318094968796
+2024-10-14 11:43:24,216 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 83
+2024-10-14 11:43:24,216 - Eval_13_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-14 11:43:24,217 - Eval_13_adapter - DEBUG - Epoch: 84, learning rate:  0.1
+2024-10-14 11:43:24,339 - Eval_13_adapter - DEBUG - Train Loss: -62.755631148815155
+2024-10-14 11:43:24,342 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 81
+2024-10-14 11:43:24,343 - Eval_13_adapter - INFO - loss decreased (-62.755631 --> -62.755631).
+2024-10-14 11:43:24,343 - Eval_13_adapter - DEBUG - Epoch: 82, learning rate:  0.1
+2024-10-14 11:43:26,217 - Eval_13_adapter - DEBUG - Train Loss: -69.53499925136566
+2024-10-14 11:43:26,220 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 84
+2024-10-14 11:43:26,221 - Eval_13_adapter - INFO - loss decreased (-69.534999 --> -69.534999).
+2024-10-14 11:43:26,221 - Eval_13_adapter - DEBUG - Epoch: 85, learning rate:  0.1
+2024-10-14 11:43:26,374 - Eval_13_adapter - DEBUG - Train Loss: -62.90679919719696
+2024-10-14 11:43:26,378 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 82
+2024-10-14 11:43:26,378 - Eval_13_adapter - INFO - loss decreased (-62.906799 --> -62.906799).
+2024-10-14 11:43:26,378 - Eval_13_adapter - DEBUG - Epoch: 83, learning rate:  0.1
+2024-10-14 11:43:28,116 - Eval_13_adapter - DEBUG - Train Loss: -70.00616586208344
+2024-10-14 11:43:28,119 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 85
+2024-10-14 11:43:28,119 - Eval_13_adapter - INFO - loss decreased (-70.006166 --> -70.006166).
+2024-10-14 11:43:28,120 - Eval_13_adapter - DEBUG - Epoch: 86, learning rate:  0.1
+2024-10-14 11:43:28,251 - Eval_13_adapter - DEBUG - Train Loss: -63.07712084054947
+2024-10-14 11:43:28,254 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 83
+2024-10-14 11:43:28,255 - Eval_13_adapter - INFO - loss decreased (-63.077121 --> -63.077121).
+2024-10-14 11:43:28,256 - Eval_13_adapter - DEBUG - Epoch: 84, learning rate:  0.1
+2024-10-14 11:43:30,066 - Eval_13_adapter - DEBUG - Train Loss: -69.98305892944336
+2024-10-14 11:43:30,069 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 86
+2024-10-14 11:43:30,069 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:30,070 - Eval_13_adapter - DEBUG - Epoch: 87, learning rate:  0.1
+2024-10-14 11:43:30,242 - Eval_13_adapter - DEBUG - Train Loss: -63.54443824291229
+2024-10-14 11:43:30,246 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 84
+2024-10-14 11:43:30,246 - Eval_13_adapter - INFO - loss decreased (-63.544438 --> -63.544438).
+2024-10-14 11:43:30,246 - Eval_13_adapter - DEBUG - Epoch: 85, learning rate:  0.1
+2024-10-14 11:43:31,957 - Eval_13_adapter - DEBUG - Train Loss: -70.53906136751175
+2024-10-14 11:43:31,961 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 87
+2024-10-14 11:43:31,961 - Eval_13_adapter - INFO - loss decreased (-70.539061 --> -70.539061).
+2024-10-14 11:43:31,961 - Eval_13_adapter - DEBUG - Epoch: 88, learning rate:  0.1
+2024-10-14 11:43:32,155 - Eval_13_adapter - DEBUG - Train Loss: -63.71441775560379
+2024-10-14 11:43:32,158 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 85
+2024-10-14 11:43:32,159 - Eval_13_adapter - INFO - loss decreased (-63.714418 --> -63.714418).
+2024-10-14 11:43:32,159 - Eval_13_adapter - DEBUG - Epoch: 86, learning rate:  0.1
+2024-10-14 11:43:33,790 - Eval_13_adapter - DEBUG - Train Loss: -70.07142144441605
+2024-10-14 11:43:33,794 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 88
+2024-10-14 11:43:33,794 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:33,794 - Eval_13_adapter - DEBUG - Epoch: 89, learning rate:  0.1
+2024-10-14 11:43:33,935 - Eval_13_adapter - DEBUG - Train Loss: -64.27245819568634
+2024-10-14 11:43:33,939 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 86
+2024-10-14 11:43:33,940 - Eval_13_adapter - INFO - loss decreased (-64.272458 --> -64.272458).
+2024-10-14 11:43:33,940 - Eval_13_adapter - DEBUG - Epoch: 87, learning rate:  0.1
+2024-10-14 11:43:35,678 - Eval_13_adapter - DEBUG - Train Loss: -70.80225551128387
+2024-10-14 11:43:35,682 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 89
+2024-10-14 11:43:35,683 - Eval_13_adapter - INFO - loss decreased (-70.802256 --> -70.802256).
+2024-10-14 11:43:35,683 - Eval_13_adapter - DEBUG - Epoch: 90, learning rate:  0.1
+2024-10-14 11:43:35,823 - Eval_13_adapter - DEBUG - Train Loss: -64.00961238145828
+2024-10-14 11:43:35,827 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 87
+2024-10-14 11:43:35,828 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:35,829 - Eval_13_adapter - DEBUG - Epoch: 88, learning rate:  0.1
+2024-10-14 11:43:37,575 - Eval_13_adapter - DEBUG - Train Loss: -71.12091958522797
+2024-10-14 11:43:37,578 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 90
+2024-10-14 11:43:37,578 - Eval_13_adapter - INFO - loss decreased (-71.120920 --> -71.120920).
+2024-10-14 11:43:37,578 - Eval_13_adapter - DEBUG - Epoch: 91, learning rate:  0.1
+2024-10-14 11:43:37,750 - Eval_13_adapter - DEBUG - Train Loss: -64.49220925569534
+2024-10-14 11:43:37,753 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 88
+2024-10-14 11:43:37,753 - Eval_13_adapter - INFO - loss decreased (-64.492209 --> -64.492209).
+2024-10-14 11:43:37,754 - Eval_13_adapter - DEBUG - Epoch: 89, learning rate:  0.1
+2024-10-14 11:43:39,481 - Eval_13_adapter - DEBUG - Train Loss: -71.36884874105453
+2024-10-14 11:43:39,484 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 91
+2024-10-14 11:43:39,484 - Eval_13_adapter - INFO - loss decreased (-71.368849 --> -71.368849).
+2024-10-14 11:43:39,484 - Eval_13_adapter - DEBUG - Epoch: 92, learning rate:  0.1
+2024-10-14 11:43:39,642 - Eval_13_adapter - DEBUG - Train Loss: -65.03722995519638
+2024-10-14 11:43:39,647 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 89
+2024-10-14 11:43:39,647 - Eval_13_adapter - INFO - loss decreased (-65.037230 --> -65.037230).
+2024-10-14 11:43:39,649 - Eval_13_adapter - DEBUG - Epoch: 90, learning rate:  0.1
+2024-10-14 11:43:41,264 - Eval_13_adapter - DEBUG - Train Loss: -71.10236549377441
+2024-10-14 11:43:41,267 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 92
+2024-10-14 11:43:41,267 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:41,267 - Eval_13_adapter - DEBUG - Epoch: 93, learning rate:  0.1
+2024-10-14 11:43:41,469 - Eval_13_adapter - DEBUG - Train Loss: -64.88048774003983
+2024-10-14 11:43:41,472 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 90
+2024-10-14 11:43:41,472 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:41,473 - Eval_13_adapter - DEBUG - Epoch: 91, learning rate:  0.1
+2024-10-14 11:43:43,195 - Eval_13_adapter - DEBUG - Train Loss: -71.84847468137741
+2024-10-14 11:43:43,198 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 93
+2024-10-14 11:43:43,198 - Eval_13_adapter - INFO - loss decreased (-71.848475 --> -71.848475).
+2024-10-14 11:43:43,199 - Eval_13_adapter - DEBUG - Epoch: 94, learning rate:  0.1
+2024-10-14 11:43:43,395 - Eval_13_adapter - DEBUG - Train Loss: -65.4816010594368
+2024-10-14 11:43:43,399 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 91
+2024-10-14 11:43:43,400 - Eval_13_adapter - INFO - loss decreased (-65.481601 --> -65.481601).
+2024-10-14 11:43:43,400 - Eval_13_adapter - DEBUG - Epoch: 92, learning rate:  0.1
+2024-10-14 11:43:45,069 - Eval_13_adapter - DEBUG - Train Loss: -72.08839583396912
+2024-10-14 11:43:45,072 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 94
+2024-10-14 11:43:45,072 - Eval_13_adapter - INFO - loss decreased (-72.088396 --> -72.088396).
+2024-10-14 11:43:45,073 - Eval_13_adapter - DEBUG - Epoch: 95, learning rate:  0.1
+2024-10-14 11:43:45,229 - Eval_13_adapter - DEBUG - Train Loss: -65.83397281169891
+2024-10-14 11:43:45,233 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 92
+2024-10-14 11:43:45,233 - Eval_13_adapter - INFO - loss decreased (-65.833973 --> -65.833973).
+2024-10-14 11:43:45,233 - Eval_13_adapter - DEBUG - Epoch: 93, learning rate:  0.1
+2024-10-14 11:43:46,993 - Eval_13_adapter - DEBUG - Train Loss: -72.24500000476837
+2024-10-14 11:43:46,998 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 95
+2024-10-14 11:43:46,998 - Eval_13_adapter - INFO - loss decreased (-72.245000 --> -72.245000).
+2024-10-14 11:43:46,999 - Eval_13_adapter - DEBUG - Epoch: 96, learning rate:  0.1
+2024-10-14 11:43:47,166 - Eval_13_adapter - DEBUG - Train Loss: -66.05226242542267
+2024-10-14 11:43:47,169 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 93
+2024-10-14 11:43:47,169 - Eval_13_adapter - INFO - loss decreased (-66.052262 --> -66.052262).
+2024-10-14 11:43:47,170 - Eval_13_adapter - DEBUG - Epoch: 94, learning rate:  0.1
+2024-10-14 11:43:48,973 - Eval_13_adapter - DEBUG - Train Loss: -73.01251631975174
+2024-10-14 11:43:48,976 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 96
+2024-10-14 11:43:48,976 - Eval_13_adapter - INFO - loss decreased (-73.012516 --> -73.012516).
+2024-10-14 11:43:48,976 - Eval_13_adapter - DEBUG - Epoch: 97, learning rate:  0.1
+2024-10-14 11:43:49,202 - Eval_13_adapter - DEBUG - Train Loss: -66.43295657634735
+2024-10-14 11:43:49,205 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 94
+2024-10-14 11:43:49,205 - Eval_13_adapter - INFO - loss decreased (-66.432957 --> -66.432957).
+2024-10-14 11:43:49,206 - Eval_13_adapter - DEBUG - Epoch: 95, learning rate:  0.1
+2024-10-14 11:43:50,877 - Eval_13_adapter - DEBUG - Train Loss: -72.91884845495224
+2024-10-14 11:43:50,880 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 97
+2024-10-14 11:43:50,880 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:50,881 - Eval_13_adapter - DEBUG - Epoch: 98, learning rate:  0.1
+2024-10-14 11:43:51,100 - Eval_13_adapter - DEBUG - Train Loss: -66.92195051908493
+2024-10-14 11:43:51,107 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 95
+2024-10-14 11:43:51,108 - Eval_13_adapter - INFO - loss decreased (-66.921951 --> -66.921951).
+2024-10-14 11:43:51,109 - Eval_13_adapter - DEBUG - Epoch: 96, learning rate:  0.1
+2024-10-14 11:43:52,880 - Eval_13_adapter - DEBUG - Train Loss: -73.1020137667656
+2024-10-14 11:43:52,884 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 98
+2024-10-14 11:43:52,884 - Eval_13_adapter - INFO - loss decreased (-73.102014 --> -73.102014).
+2024-10-14 11:43:52,884 - Eval_13_adapter - DEBUG - Epoch: 99, learning rate:  0.1
+2024-10-14 11:43:52,995 - Eval_13_adapter - DEBUG - Train Loss: -66.66184824705124
+2024-10-14 11:43:52,999 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 96
+2024-10-14 11:43:52,999 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:53,000 - Eval_13_adapter - DEBUG - Epoch: 97, learning rate:  0.1
+2024-10-14 11:43:54,881 - Eval_13_adapter - DEBUG - Train Loss: -67.31170868873596
+2024-10-14 11:43:54,883 - Eval_13_adapter - DEBUG - Train Loss: -73.25657480955124
+2024-10-14 11:43:54,885 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 97
+2024-10-14 11:43:54,885 - Eval_13_adapter - INFO - loss decreased (-67.311709 --> -67.311709).
+2024-10-14 11:43:54,885 - Eval_13_adapter - DEBUG - Epoch: 98, learning rate:  0.1
+2024-10-14 11:43:54,886 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 99
+2024-10-14 11:43:54,886 - Eval_13_adapter - INFO - loss decreased (-73.256575 --> -73.256575).
+2024-10-14 11:43:54,886 - Eval_13_adapter - INFO - train loss: 215.49879598617554 181.04661095142365 149.19369077682495 119.97089350223541 94.40358805656433 73.79587078094482 57.96276903152466 45.862075090408325 35.474133253097534 27.276544749736786 19.561170876026154 13.189229190349579 8.278226375579834 3.297425329685211 -1.0713764429092407 -5.106205880641937 -9.215025305747986 -12.131742537021637 -14.801840424537659 -17.305270850658417 -19.934881150722504 -22.365160167217255 -24.863968551158905 -26.73804897069931 -28.553860127925873 -30.3070108294487 -32.27630650997162 -33.34362334012985 -34.872556269168854 -36.76550740003586 -38.10224950313568 -39.06128269433975 -40.35678231716156 -41.531942903995514 -42.55300813913345 -43.96360045671463 -44.70212894678116 -45.77232450246811 -46.69021821022034 -47.85218781232834 -48.77186542749405 -48.787926733493805 -50.04272186756134 -50.395753383636475 -51.63632649183273 -52.236659586429596 -53.020193099975586 -53.81396245956421 -54.29380577802658 -54.9407103061676 -55.50387555360794 -55.71723675727844 -56.43015778064728 -56.95446103811264 -58.04318678379059 -58.148138880729675 -59.11112064123154 -58.996616423130035 -59.912532448768616 -60.76601666212082 -60.857212007045746 -61.23359900712967 -61.895821928977966 -62.032861948013306 -62.51343321800232 -63.254739820957184 -63.192433536052704 -63.90167135000229 -64.10138088464737 -64.45870792865753 -64.61292916536331 -65.27617305517197 -65.20086163282394 -65.9136084318161 -66.33072823286057 -66.65221482515335 -66.8716716170311 -66.99358636140823 -67.63940185308456 -68.36813998222351 -68.03321516513824 -68.9923785328865 -68.89967221021652 -68.97318094968796 -69.53499925136566 -70.00616586208344 -69.98305892944336 -70.53906136751175 -70.07142144441605 -70.80225551128387 -71.12091958522797 -71.36884874105453 -71.10236549377441 -71.84847468137741 -72.08839583396912 -72.24500000476837 -73.01251631975174 -72.91884845495224 -73.1020137667656 -73.25657480955124
+2024-10-14 11:43:56,587 - Eval_13_adapter - DEBUG - Train Loss: -67.23448646068573
+2024-10-14 11:43:56,591 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 98
+2024-10-14 11:43:56,592 - Eval_13_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-14 11:43:56,592 - Eval_13_adapter - DEBUG - Epoch: 99, learning rate:  0.1
+2024-10-14 11:43:58,337 - Eval_13_adapter - DEBUG - Train Loss: -67.66153681278229
+2024-10-14 11:43:58,340 - Eval_13_adapter - DEBUG - Model saved successfully at epoch 99
+2024-10-14 11:43:58,340 - Eval_13_adapter - INFO - loss decreased (-67.661537 --> -67.661537).
+2024-10-14 11:43:58,341 - Eval_13_adapter - INFO - train loss: 220.4567515850067 184.29044699668884 152.4361456632614 123.26741635799408 99.35772657394409 81.30006945133209 65.84952962398529 54.05778694152832 44.51688885688782 35.785791516304016 29.235581278800964 22.80418771505356 17.499506890773773 12.30626267194748 7.749091267585754 3.982945740222931 0.732675313949585 -2.962308943271637 -6.0262062549591064 -9.039538562297821 -11.392736911773682 -13.623898446559906 -16.07136559486389 -18.085655450820923 -20.33318942785263 -22.526749908924103 -23.476179718971252 -25.5038360953331 -26.6262549161911 -28.213544130325317 -29.757533192634583 -31.353308022022247 -31.905502676963806 -33.50280910730362 -35.12194836139679 -35.644726514816284 -36.807214081287384 -38.15591764450073 -38.95213621854782 -39.7295064330101 -41.06424134969711 -42.07904851436615 -42.52265441417694 -43.100759863853455 -44.321709513664246 -44.7570920586586 -45.44840306043625 -46.74738097190857 -47.39035111665726 -47.69273900985718 -48.825794756412506 -49.04553937911987 -49.947191417217255 -50.47399300336838 -50.84719216823578 -51.821367502212524 -51.98730385303497 -52.102094411849976 -53.14861744642258 -53.62123489379883 -54.33440750837326 -54.89992141723633 -55.084249556064606 -56.12244892120361 -56.231386840343475 -56.47869670391083 -57.04508650302887 -57.23594981431961 -57.68595093488693 -58.1566886305809 -58.71401113271713 -58.65696960687637 -59.55251210927963 -59.7066735625267 -60.34450149536133 -60.070118606090546 -61.51215994358063 -61.29448825120926 -61.7686727643013 -61.99619907140732 -62.44149202108383 -62.755631148815155 -62.90679919719696 -63.07712084054947 -63.54443824291229 -63.71441775560379 -64.27245819568634 -64.00961238145828 -64.49220925569534 -65.03722995519638 -64.88048774003983 -65.4816010594368 -65.83397281169891 -66.05226242542267 -66.43295657634735 -66.92195051908493 -66.66184824705124 -67.31170868873596 -67.23448646068573 -67.66153681278229

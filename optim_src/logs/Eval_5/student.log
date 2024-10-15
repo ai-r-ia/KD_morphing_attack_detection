@@ -1,0 +1,140 @@
+2024-10-09 08:44:45,264 - Eval_5_student - INFO - train_student
+2024-10-09 08:44:45,295 - Eval_5_student - INFO - teachers: stylegan_Morphing_Diffusion_2024
+2024-10-09 08:45:10,722 - Eval_5_student - INFO - train_student
+2024-10-09 08:45:10,752 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 08:47:43,005 - Eval_5_student - INFO - train_student
+2024-10-09 08:47:43,028 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 08:48:40,891 - Eval_5_student - INFO - train_student
+2024-10-09 08:48:40,920 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 08:49:38,160 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3450 incorrect: 15
+2024-10-09 08:49:38,160 - Eval_5_student - DEBUG - Morph (3609): correct: 3584 incorrect: 25
+2024-10-09 08:52:30,307 - Eval_5_student - INFO - train_student
+2024-10-09 08:52:30,334 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 08:52:30,334 - Eval_5_student - INFO - student morph type:  mipgan2
+2024-10-09 08:52:32,236 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 08:53:37,750 - Eval_5_student - INFO - train_student
+2024-10-09 08:53:37,774 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 08:53:37,774 - Eval_5_student - INFO - student morph type:  mipgan2
+2024-10-09 08:53:39,701 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 08:54:34,991 - Eval_5_student - DEBUG - Train Loss: 93.48147085309029
+2024-10-09 08:54:34,992 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3456 incorrect: 9
+2024-10-09 08:54:34,992 - Eval_5_student - DEBUG - Morph (3609): correct: 3598 incorrect: 11
+2024-10-09 08:55:28,134 - Eval_5_student - DEBUG - Test Loss: 77.39111432433128
+2024-10-09 08:55:28,135 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3456 incorrect: 9
+2024-10-09 08:55:28,135 - Eval_5_student - DEBUG - Morph (3609): correct: 3598 incorrect: 11
+2024-10-09 08:55:28,135 - Eval_5_student - DEBUG - Calculated acc:  [3.5269999999999997]
+2024-10-09 08:55:28,717 - Eval_5_student - DEBUG - Model saved successfully at epoch 0
+2024-10-09 08:55:28,717 - Eval_5_student - INFO - loss decreased (77.391114 --> 77.391114).
+2024-10-09 08:55:28,719 - Eval_5_student - DEBUG - Epoch: 1, learning rate: 0.01
+2024-10-09 08:56:24,151 - Eval_5_student - DEBUG - Train Loss: 77.97894251346588
+2024-10-09 08:56:24,151 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 08:56:24,151 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 08:57:17,676 - Eval_5_student - DEBUG - Test Loss: 74.27737960219383
+2024-10-09 08:57:17,677 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 08:57:17,677 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 08:57:17,677 - Eval_5_student - DEBUG - acc loss: 3.5269999999999997 100
+2024-10-09 08:57:17,677 - Eval_5_student - DEBUG - train loss: 93.48147085309029 77.97894251346588
+2024-10-09 08:57:17,677 - Eval_5_student - DEBUG - test loss: 77.39111432433128 74.27737960219383
+2024-10-09 08:57:17,677 - Eval_5_student - DEBUG - PLOT_EPOCH 1
+2024-10-09 09:14:11,311 - Eval_5_student - INFO - train_student
+2024-10-09 09:14:11,335 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 09:14:11,335 - Eval_5_student - INFO - student morph type:  mipgan2
+2024-10-09 09:14:14,241 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 09:14:14,401 - Eval_5_student - INFO - train_student
+2024-10-09 09:14:14,425 - Eval_5_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-09 09:14:14,426 - Eval_5_student - INFO - student morph type:  stylegan
+2024-10-09 09:14:15,077 - Eval_5_student - INFO - train_student
+2024-10-09 09:14:15,099 - Eval_5_student - INFO - teachers: mipgan2 stylegan
+2024-10-09 09:14:15,099 - Eval_5_student - INFO - student morph type:  Morphing_Diffusion_2024
+2024-10-09 09:14:36,364 - Eval_5_student - INFO - train_student
+2024-10-09 09:14:36,387 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 09:14:36,387 - Eval_5_student - INFO - student morph type:  mipgan2
+2024-10-09 09:14:39,017 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 09:14:39,817 - Eval_5_student - INFO - train_student
+2024-10-09 09:14:39,820 - Eval_5_student - INFO - train_student
+2024-10-09 09:14:39,839 - Eval_5_student - INFO - teachers: mipgan2 stylegan
+2024-10-09 09:14:39,839 - Eval_5_student - INFO - student morph type:  Morphing_Diffusion_2024
+2024-10-09 09:14:39,846 - Eval_5_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-09 09:14:39,846 - Eval_5_student - INFO - student morph type:  stylegan
+2024-10-09 09:52:21,938 - Eval_5_student - INFO - train_student
+2024-10-09 09:52:21,962 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 09:52:21,962 - Eval_5_student - INFO - student morph type:  mipgan2
+2024-10-09 09:52:24,610 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 09:52:25,387 - Eval_5_student - INFO - train_student
+2024-10-09 09:52:25,408 - Eval_5_student - INFO - teachers: mipgan2 stylegan
+2024-10-09 09:52:25,408 - Eval_5_student - INFO - student morph type:  Morphing_Diffusion_2024
+2024-10-09 09:52:25,427 - Eval_5_student - INFO - train_student
+2024-10-09 09:52:25,454 - Eval_5_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-09 09:52:25,454 - Eval_5_student - INFO - student morph type:  stylegan
+2024-10-09 09:53:35,535 - Eval_5_student - INFO - train_student
+2024-10-09 09:53:35,559 - Eval_5_student - INFO - teachers: stylegan Morphing_Diffusion_2024
+2024-10-09 09:53:35,559 - Eval_5_student - INFO - student morph type:  mipgan2
+2024-10-09 09:53:38,510 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 09:53:39,199 - Eval_5_student - INFO - train_student
+2024-10-09 09:53:39,226 - Eval_5_student - INFO - teachers: mipgan2 stylegan
+2024-10-09 09:53:39,227 - Eval_5_student - INFO - student morph type:  Morphing_Diffusion_2024
+2024-10-09 09:53:39,229 - Eval_5_student - INFO - train_student
+2024-10-09 09:53:39,254 - Eval_5_student - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-09 09:53:39,254 - Eval_5_student - INFO - student morph type:  stylegan
+2024-10-09 09:53:42,805 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 09:53:42,828 - Eval_5_student - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-09 09:56:49,021 - Eval_5_student - DEBUG - Train Loss: 94.69640603661537
+2024-10-09 09:56:49,021 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3397 incorrect: 68
+2024-10-09 09:56:49,021 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 09:57:03,543 - Eval_5_student - DEBUG - Train Loss: 91.44395050406456
+2024-10-09 09:57:03,543 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3454 incorrect: 11
+2024-10-09 09:57:03,543 - Eval_5_student - DEBUG - Morph (3567): correct: 3549 incorrect: 18
+2024-10-09 09:57:04,222 - Eval_5_student - DEBUG - Train Loss: 92.94698292016983
+2024-10-09 09:57:04,223 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3440 incorrect: 25
+2024-10-09 09:57:04,223 - Eval_5_student - DEBUG - Morph (3609): correct: 3598 incorrect: 11
+2024-10-09 09:59:54,901 - Eval_5_student - DEBUG - Test Loss: 77.61697125434875
+2024-10-09 09:59:54,901 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3397 incorrect: 68
+2024-10-09 09:59:54,901 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 09:59:54,902 - Eval_5_student - DEBUG - Calculated acc:  [1.0302941176470588]
+2024-10-09 09:59:56,676 - Eval_5_student - DEBUG - Model saved successfully at epoch 0
+2024-10-09 09:59:56,676 - Eval_5_student - INFO - loss decreased (77.616971 --> 77.616971).
+2024-10-09 09:59:56,681 - Eval_5_student - DEBUG - Epoch: 1, learning rate: 0.01
+2024-10-09 10:00:10,203 - Eval_5_student - DEBUG - Test Loss: 76.61656892299652
+2024-10-09 10:00:10,203 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3454 incorrect: 11
+2024-10-09 10:00:10,203 - Eval_5_student - DEBUG - Morph (3567): correct: 3549 incorrect: 18
+2024-10-09 10:00:10,203 - Eval_5_student - DEBUG - Calculated acc:  [2.4148275862068966]
+2024-10-09 10:00:10,717 - Eval_5_student - DEBUG - Model saved successfully at epoch 0
+2024-10-09 10:00:10,717 - Eval_5_student - INFO - loss decreased (76.616569 --> 76.616569).
+2024-10-09 10:00:10,719 - Eval_5_student - DEBUG - Epoch: 1, learning rate: 0.01
+2024-10-09 10:00:11,567 - Eval_5_student - DEBUG - Test Loss: 76.8948033452034
+2024-10-09 10:00:11,568 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3440 incorrect: 25
+2024-10-09 10:00:11,568 - Eval_5_student - DEBUG - Morph (3609): correct: 3598 incorrect: 11
+2024-10-09 10:00:11,568 - Eval_5_student - DEBUG - Calculated acc:  [1.955]
+2024-10-09 10:00:12,172 - Eval_5_student - DEBUG - Model saved successfully at epoch 0
+2024-10-09 10:00:12,172 - Eval_5_student - INFO - loss decreased (76.894803 --> 76.894803).
+2024-10-09 10:00:12,174 - Eval_5_student - DEBUG - Epoch: 1, learning rate: 0.01
+2024-10-09 10:03:18,811 - Eval_5_student - DEBUG - Train Loss: 77.91099166870117
+2024-10-09 10:03:18,812 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 10:03:18,812 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 10:03:32,355 - Eval_5_student - DEBUG - Train Loss: 76.8337282538414
+2024-10-09 10:03:32,355 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 10:03:32,355 - Eval_5_student - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-09 10:03:34,782 - Eval_5_student - DEBUG - Train Loss: 77.39994403719902
+2024-10-09 10:03:34,782 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 10:03:34,782 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 10:06:25,061 - Eval_5_student - DEBUG - Test Loss: 74.2821192741394
+2024-10-09 10:06:25,062 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 10:06:25,062 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 10:06:25,062 - Eval_5_student - DEBUG - acc loss: 1.0302941176470588 100
+2024-10-09 10:06:25,062 - Eval_5_student - DEBUG - train loss: 94.69640603661537 77.91099166870117
+2024-10-09 10:06:25,062 - Eval_5_student - DEBUG - test loss: 77.61697125434875 74.2821192741394
+2024-10-09 10:06:25,062 - Eval_5_student - DEBUG - PLOT_EPOCH 1
+2024-10-09 10:06:35,194 - Eval_5_student - DEBUG - Test Loss: 73.56737533211708
+2024-10-09 10:06:35,195 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 10:06:35,195 - Eval_5_student - DEBUG - Morph (3567): correct: 3567 incorrect: 0
+2024-10-09 10:06:35,195 - Eval_5_student - DEBUG - acc loss: 2.4148275862068966 100
+2024-10-09 10:06:35,195 - Eval_5_student - DEBUG - train loss: 91.44395050406456 76.8337282538414
+2024-10-09 10:06:35,195 - Eval_5_student - DEBUG - test loss: 76.61656892299652 73.56737533211708
+2024-10-09 10:06:35,195 - Eval_5_student - DEBUG - PLOT_EPOCH 1
+2024-10-09 10:06:36,232 - Eval_5_student - DEBUG - Test Loss: 74.03158980607986
+2024-10-09 10:06:36,233 - Eval_5_student - DEBUG - Bonafide (3465): correct: 3465 incorrect: 0
+2024-10-09 10:06:36,233 - Eval_5_student - DEBUG - Morph (3609): correct: 3609 incorrect: 0
+2024-10-09 10:06:36,233 - Eval_5_student - DEBUG - acc loss: 1.955 100
+2024-10-09 10:06:36,233 - Eval_5_student - DEBUG - train loss: 92.94698292016983 77.39994403719902
+2024-10-09 10:06:36,233 - Eval_5_student - DEBUG - test loss: 76.8948033452034 74.03158980607986
+2024-10-09 10:06:36,233 - Eval_5_student - DEBUG - PLOT_EPOCH 1

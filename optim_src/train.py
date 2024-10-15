@@ -87,70 +87,15 @@ def pool_init(semaphore):
 def main():
     learning_rate_adapter = 1e-1
     learning_rate_student = 1e-2
-    # morphs = ["lmaubo", "mipgan2", "mordiff", "pipe"]
-    # args: List[str] = []
-    # process_num = 1
-    # for teacher in ["lmaubo", "mipgan2", "mordiff", "pipe"]:
-    #     for morph in morphs:
-    #         args.append(
-    #             f"python ./utils/save_embeddings.py -t {teacher} -m {morph} --process-num={process_num}"
-    #         )
-    #         process_num += 2
+    args: List[str] = []
+    process_num = 1
 
-#    morphs = [
-    #     ["lma", "post_process", "lmaubo"],
-    #     ["stylegan", "Morphing_Diffusion_2024", "mipgan2"],
-    # ] 
-    # args: List[str] = []
-    # process_num = 1
-    # for i in range(0, len(morphs)):
-    #     teachers = f"{morphs[i % len(morphs)]}_{morphs[(i + 1) % len(morphs)]}_{morphs[(i+2) % len(morphs)]}"
-    #     student_morph = f"{morphs[(i+3)%len(morphs)]}"
-
-    #     for morph in morphs:
-    #     args.append(
-    #         f"python train_adapter.py -lr {learning_rate_adapter} -mn adapter -t {teachers} -ev {i} --process-num={process_num} -m {morph}"
-    #     )
-    #     process_num += 1
-
-    # morphs = [
-    #     ["lma", "post_process", "lmaubo"],
-    #     ["stylegan", "Morphing_Diffusion_2024", "mipgan2"],
-    # ]
-    # args: List[str] = []
-    # eval_num = 4
-    # process_num = 1
-    # loss_lambdas = [1.0]
-    # for i in range(0, len(morphs)):
-    #     teachers = f"{morphs[i][0]}_{morphs[i][1]}"
-    #     student_morph = f"{morphs[i][2]}"
-    #     for loss_lambda in loss_lambdas:
-    #         args.append(
-    #             f"python train_student.py -lr {learning_rate_student} -m {student_morph} -mn student -lmb {loss_lambda} -ev {eval_num} -t {teachers} --process-num={process_num}"
-    #         )
-    #     process_num += 1
-    #     eval_num += 1
-
-    # args: List[str] = []
-    # process_num = 1
-    # for i in range(0, len(morphs)):
-    #     teachers = f"{morphs[i % len(morphs)]}_{morphs[(i + 1) % len(morphs)]}_{morphs[(i+2) % len(morphs)]}"
-    #     student_morph = f"{morphs[(i+3)%len(morphs)]}"
-    #     args.append(
-    #         f"python evaluation.py  -sm {student_morph} -mn student  -ev {i} -t {teachers} --process-num={process_num} --istest"
-    #     )
-    #     args.append(
-    #         f"python evaluation.py  -sm {student_morph} -mn student  -ev {i} -t {teachers} --process-num={process_num}"
-    #     )
-    #     process_num += 2
-
-    # args: List[str] = []
-    # process_num = 1
-    # # for morph in ["lma", "post_process", "stylegan", "Morphing_Diffusion_2024"]:
+    # TRAIN TEACHERS
+    # for morph in ["lma", "post_process", "stylegan", "Morphing_Diffusion_2024"]:
     # for morph in [
-    #     "lmaubo",
-    #     "mipgan2",
-    #     "mordiff",
+    #     # "lmaubo",
+    #     # "mipgan2",
+    #     # "mordiff",
     #     "pipe",
     #     "lma",
     #     "post_process",
@@ -158,7 +103,8 @@ def main():
     #     "Morphing_Diffusion_2024",
     # ]:
     #     if morph == "post_process":
-    #         morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/Digital/After/Mor"
+    #         morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
+    #         # morph_dir = "/cluster/nbl-users/Shreyas-Sushrut-Raghu/FaceMoprhingDatabases/cleaned_datasets/postprocessdata/digital_estimate/morph/after"
     #         args.append(
     #             f"python train_teacher.py -lr 1e-5 -m {morph} -mn teacher -mdir {morph_dir} --process-num={process_num}"
     #         )
@@ -168,17 +114,18 @@ def main():
     #         )
     #     process_num += 1
 
-    # args: List[str] = []
-    # process_num = 1
+    # TRAIN BASELINE // modify morphs and run multiple times based on number of teachers
     # for morph in [
-    #     ["post_process", "lma_lmaubo"],
-    #     ["Morphing_Diffusion_2024", "stylegan_mipgan2"],
+    #     # ["lma" ,"lmaubo"],
+    #     # ["stylegan","mipgan2"],
+    #     ["post_process", "lmaubo_lma"],
+    #     ["Morphing_Diffusion_2024", "mipgan2_stylegan"],
     #     # ["mordiff", "pipe"],
     #     # "post_process",
     #     # "Morphing_Diffusion_2024",
     # ]:
     #     if morph[0] == "post_process":
-    #         morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/Digital/After/Mor"
+    #         morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
     #         args.append(
     #             f"python train_baseline.py -lr 1e-4 -m {morph[0]} -t {morph[1]} -mn baseline -mdir {morph_dir} --process-num={process_num}"
     #         )
@@ -187,6 +134,110 @@ def main():
     #             f"python train_baseline.py -lr 1e-4 -m {morph[0]} -t {morph[1]} -mn baseline --process-num={process_num}"
     #         )
     #     process_num += 1
+
+    # SAVE TEACHER EMBEDDINGS
+    # morphs = [
+    #     "lmaubo",
+    #     "mipgan2",
+    #     "mordiff",
+    #     "pipe",
+    #     "lma",
+    #     "post_process",
+    #     "stylegan",
+    #     "Morphing_Diffusion_2024",
+    # ]
+    # for teacher in [
+    #     "lmaubo",
+    #     "mipgan2",
+    #     "mordiff",
+    #     "pipe",
+    #     "lma",
+    #     "post_process",
+    #     "stylegan",
+    #     "Morphing_Diffusion_2024",
+    # ]:
+    #     for morph in morphs:
+    #         args.append(
+    #             f"python ./utils/save_embeddings.py -t {teacher} -m {morph} --process-num={process_num}"
+    #         )
+    #         process_num += 2
+
+    # TRAIN ADAPTER
+    # morphs = [
+    #     ["lma", "post_process", "lmaubo"],
+    #     ["stylegan", "Morphing_Diffusion_2024", "mipgan2"],
+    # ]
+    # eval_num = 8
+    # for mtypes in morphs:
+    #     for i in range(0, len(mtypes)):
+    #         teachers = f"{mtypes[i%len(mtypes)]}.{mtypes[(i+1)%len(mtypes)]}"
+
+    #         for morph in mtypes:
+    #             print(morph)
+    #             args.append(
+    #                 f"python train_adapter.py -lr {learning_rate_adapter} -mn adapter -t {teachers} -ev {eval_num} --process-num={process_num} -m {morph}"
+    #             )
+    #             process_num += 1
+    #         eval_num += 1
+
+    # TRAIN STUDENT
+    # eval 8 on wards it's cleaned_data, 4-7 previous
+    # morphs = [
+    #     ["lma", "post_process", "lmaubo"],
+    #     ["stylegan", "Morphing_Diffusion_2024", "mipgan2"],
+    # ]
+    # eval_num = 8
+    # loss_lambdas = [1.0]
+    # for mtypes in morphs:
+    #     for i in range(0, len(mtypes)):
+    #         teachers = f"{mtypes[i%len(mtypes)]}.{mtypes[(i+1)%len(mtypes)]}"
+    #         student_morph = f"{mtypes[(i+2)%len(mtypes)]}"
+    #         if student_morph == "post_process":
+    #             morph_dir = (
+    #                 "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
+    #             )
+    #             for loss_lambda in loss_lambdas:
+    #                 args.append(
+    #                     f"python train_student.py -lr {learning_rate_student} -m {student_morph} -mn student -mdir {morph_dir} -lmb {loss_lambda} -ev {eval_num} -t {teachers} --process-num={process_num}"
+    #                 )
+    #         else:
+    #             for loss_lambda in loss_lambdas:
+    #                 args.append(
+    #                     f"python train_student.py -lr {learning_rate_student} -m {student_morph} -mn student  -lmb {loss_lambda} -ev {eval_num} -t {teachers} --process-num={process_num}"
+    #                 )
+    #         process_num += 1
+    #         eval_num += 1
+
+    # EVALUATION
+    # morphs = [
+    #     [
+    #         "lma.post_process.lmaubo",
+    #         # "stylegan.Morphing_Diffusion_2024.mipgan2.mordiff.pipe",
+    #         "greedy.lmaubo.mipgan2.mordiff",
+    #     ],
+    #     [
+    #         "stylegan.Morphing_Diffusion_2024.mipgan2",
+    #         # "lma.lmaubo.post_process.mordiff.pipe",
+    #         "greedy.lmaubo.mipgan2.mordiff",
+    #     ],
+    # ]
+    # eval_num = 8
+    # for morph in morphs:
+    #     mtypes = morph[0].split(".")
+    #     for i in range(0, len(mtypes)):
+    #         teachers = f"{mtypes[i%len(mtypes)]}.{mtypes[(i+1)%len(mtypes)]}"
+    #         student_morph = f"{mtypes[(i+2)%len(mtypes)]}"
+    #         eval_morphs = morph[1]
+    #         root_dir = "/home/ubuntu/volume/data/feret"
+    #         args.append(
+    #             f"python evaluation.py -rdir {root_dir} -sm {student_morph} -ev {eval_num} -t {teachers} --process-num={process_num} -em {eval_morphs} -bs 128 --istest --isferet"
+    #         )
+    #         process_num += 1
+    #         # args.append(
+    #         #     f"python evaluation.py -sm {student_morph} -ev {eval_num} -t {teachers} --process-num={process_num} -em {teachers} -bs 128"
+    #         # )
+    #         # process_num += 2
+    #         eval_num += 1
 
     with Pool(3) as pool:
         pool.map(os.system, args)

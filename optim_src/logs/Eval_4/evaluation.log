@@ -1,0 +1,298 @@
+2024-10-08 16:19:43,994 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:19:44,140 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:23:33,386 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:23:33,438 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:23:44,844 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:23:45,105 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:26:39,633 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:26:39,634 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:26:50,702 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:26:51,185 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:27:57,030 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:27:57,040 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:28:14,031 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:28:14,521 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:28:24,052 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:28:24,987 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:31:17,868 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:31:18,185 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:31:28,604 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:31:29,460 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:33:39,367 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:33:39,549 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:33:50,668 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:33:50,781 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:35:07,563 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:35:07,589 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:35:18,575 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:35:19,033 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:35:36,556 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:35:36,583 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:35:48,201 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:35:48,283 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:42:43,106 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:42:43,155 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:42:54,599 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:42:54,874 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:43:49,155 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:43:49,175 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:44:00,672 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:44:00,693 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:45:30,417 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:45:30,425 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:45:41,528 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:45:42,015 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:49:22,611 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:49:22,700 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:49:32,471 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:49:32,547 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:49:33,863 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:49:33,964 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:51:29,489 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:51:29,535 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 16:51:40,928 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:51:40,997 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 16:51:41,039 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:51:41,107 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:52:25,318 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:52:27,011 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:53:22,238 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:53:54,130 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:54:33,123 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 16:55:13,144 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 16:55:26,274 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 16:56:10,002 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 16:56:19,710 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 16:56:55,677 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 16:57:29,484 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 16:58:12,665 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 16:58:51,185 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 16:59:28,566 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 17:00:06,348 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 17:00:44,812 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:01:22,298 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:02:00,197 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:02:37,543 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:03:16,279 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:03:55,079 - Eval_4_evaluation - INFO - EER Table:
+2024-10-08 17:03:55,079 - Eval_4_evaluation - INFO - teacher_lma: {'stylegan': 0.0, 'Morphing_Diffusion_2024': 14.98, 'mipgan2': 0.04, 'mordiff': 20.24, 'pipe': 20.68}
+2024-10-08 17:03:55,079 - Eval_4_evaluation - INFO - teacher_lmaubo: {'stylegan': 0.0, 'Morphing_Diffusion_2024': 27.7, 'mipgan2': 0.0, 'mordiff': 40.11, 'pipe': 40.39}
+2024-10-08 17:03:55,079 - Eval_4_evaluation - INFO - teacher_post_process: {'stylegan': 39.73, 'Morphing_Diffusion_2024': 45.46, 'mipgan2': 27.26, 'mordiff': 45.71, 'pipe': 45.69}
+2024-10-08 17:03:55,079 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process: {'stylegan': 48.96, 'Morphing_Diffusion_2024': 48.82, 'mipgan2': 46.6, 'mordiff': 46.36, 'pipe': 46.44}
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - DEER Table:
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs Morphing_Diffusion_2024: DEER = 14.9800
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs mipgan2: DEER = 0.0400
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs mordiff: DEER = 20.2400
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs pipe: DEER = 20.6800
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs mipgan2: DEER = 14.9400
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs mordiff: DEER = 5.2600
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs pipe: DEER = 5.7000
+2024-10-08 17:03:55,080 - Eval_4_evaluation - INFO - teacher_lma on mipgan2 vs mordiff: DEER = 20.2000
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma on mipgan2 vs pipe: DEER = 20.6400
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma on mordiff vs pipe: DEER = 0.4400
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs Morphing_Diffusion_2024: DEER = 27.7000
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs mipgan2: DEER = 0.0000
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs mordiff: DEER = 40.1100
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs pipe: DEER = 40.3900
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mipgan2: DEER = 27.7000
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mordiff: DEER = 12.4100
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs pipe: DEER = 12.6900
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 40.1100
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 40.3900
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.2800
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs Morphing_Diffusion_2024: DEER = 5.7300
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs mipgan2: DEER = 12.4700
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs mordiff: DEER = 5.9800
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs pipe: DEER = 5.9600
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mipgan2: DEER = 18.2000
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mordiff: DEER = 0.2500
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs pipe: DEER = 0.2300
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 18.4500
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on mipgan2 vs pipe: DEER = 18.4300
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_post_process on mordiff vs pipe: DEER = 0.0200
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs Morphing_Diffusion_2024: DEER = 0.1400
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs mipgan2: DEER = 2.3600
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs mordiff: DEER = 2.6000
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs pipe: DEER = 2.5200
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs mipgan2: DEER = 2.2200
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs mordiff: DEER = 2.4600
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs pipe: DEER = 2.3800
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mipgan2 vs mordiff: DEER = 0.2400
+2024-10-08 17:03:55,081 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mipgan2 vs pipe: DEER = 0.1600
+2024-10-08 17:03:55,082 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mordiff vs pipe: DEER = 0.0800
+2024-10-08 17:15:39,615 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 17:15:39,651 - Eval_4_evaluation - INFO - eval student: pipe
+2024-10-08 17:15:51,051 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 17:15:51,133 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:15:51,216 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 17:15:51,348 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:16:02,359 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:16:04,694 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:16:28,119 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:16:43,451 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:17:09,249 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:17:35,458 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 17:17:46,843 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 17:18:17,799 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 17:18:28,940 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 17:18:57,645 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 17:19:26,247 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 17:19:51,249 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 17:20:15,748 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 17:20:40,169 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 17:21:05,352 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 17:21:30,069 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:21:55,040 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:22:20,253 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:22:45,376 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:23:11,204 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 17:23:36,144 - Eval_4_evaluation - INFO - EER Table:
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma: {'stylegan': 0.0, 'Morphing_Diffusion_2024': 14.98, 'mipgan2': 0.04, 'mordiff': 20.24, 'pipe': 20.68}
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lmaubo: {'stylegan': 0.0, 'Morphing_Diffusion_2024': 27.7, 'mipgan2': 0.0, 'mordiff': 40.11, 'pipe': 40.39}
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_post_process: {'stylegan': 39.73, 'Morphing_Diffusion_2024': 45.46, 'mipgan2': 27.26, 'mordiff': 45.71, 'pipe': 45.69}
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process: {'stylegan': 48.96, 'Morphing_Diffusion_2024': 48.82, 'mipgan2': 46.6, 'mordiff': 46.36, 'pipe': 46.44}
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - DEER Table:
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs Morphing_Diffusion_2024: DEER = 14.9800
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs mipgan2: DEER = 0.0400
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs mordiff: DEER = 20.2400
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs pipe: DEER = 20.6800
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs mipgan2: DEER = 14.9400
+2024-10-08 17:23:36,145 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs mordiff: DEER = 5.2600
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs pipe: DEER = 5.7000
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma on mipgan2 vs mordiff: DEER = 20.2000
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma on mipgan2 vs pipe: DEER = 20.6400
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma on mordiff vs pipe: DEER = 0.4400
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs Morphing_Diffusion_2024: DEER = 27.7000
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs mipgan2: DEER = 0.0000
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs mordiff: DEER = 40.1100
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs pipe: DEER = 40.3900
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mipgan2: DEER = 27.7000
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mordiff: DEER = 12.4100
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs pipe: DEER = 12.6900
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 40.1100
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 40.3900
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.2800
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs Morphing_Diffusion_2024: DEER = 5.7300
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs mipgan2: DEER = 12.4700
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs mordiff: DEER = 5.9800
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs pipe: DEER = 5.9600
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mipgan2: DEER = 18.2000
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mordiff: DEER = 0.2500
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs pipe: DEER = 0.2300
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 18.4500
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on mipgan2 vs pipe: DEER = 18.4300
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_post_process on mordiff vs pipe: DEER = 0.0200
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs Morphing_Diffusion_2024: DEER = 0.1400
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs mipgan2: DEER = 2.3600
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs mordiff: DEER = 2.6000
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs pipe: DEER = 2.5200
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs mipgan2: DEER = 2.2200
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs mordiff: DEER = 2.4600
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs pipe: DEER = 2.3800
+2024-10-08 17:23:36,146 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mipgan2 vs mordiff: DEER = 0.2400
+2024-10-08 17:23:36,147 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mipgan2 vs pipe: DEER = 0.1600
+2024-10-08 17:23:36,147 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mordiff vs pipe: DEER = 0.0800
+2024-10-08 17:30:51,947 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 17:30:52,056 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:30:52,078 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 17:30:52,190 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:31:01,968 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:31:07,416 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:45:34,632 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 17:45:34,711 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:45:34,867 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 17:45:35,003 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:45:45,902 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 17:45:49,166 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:36:28,008 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:36:28,088 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:36:28,377 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:36:28,501 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:36:37,893 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:36:45,010 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:40:28,491 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:40:28,576 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:40:28,911 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:40:28,991 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:40:37,876 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:47:44,505 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:47:44,606 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:47:45,327 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:47:45,402 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:48:48,987 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:48:49,056 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:48:49,122 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:48:49,243 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:49:01,196 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:49:02,732 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:49:57,192 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:49:57,316 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:49:57,330 - Eval_4_evaluation - INFO - models: teacher_lma teacher_lmaubo teacher_post_process teacher_lma.lmaubo.post_process
+2024-10-08 18:49:57,423 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:50:08,524 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:50:08,658 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:50:27,685 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:50:40,324 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:50:53,327 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:51:18,359 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-08 18:51:49,866 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 18:52:00,381 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 18:52:30,944 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 18:52:40,471 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 18:53:07,527 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-08 18:53:35,782 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 18:54:00,972 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 18:54:29,170 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 18:54:57,188 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 18:55:26,541 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-08 18:55:55,632 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 18:56:22,917 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 18:56:49,940 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 18:57:13,831 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 18:57:44,174 - Eval_4_evaluation - DEBUG - fetching scores for: teacher_lma.lmaubo.post_process
+2024-10-08 18:58:08,636 - Eval_4_evaluation - INFO - EER Table:
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma: {'stylegan': 0.0, 'Morphing_Diffusion_2024': 14.98, 'mipgan2': 0.04, 'mordiff': 20.24, 'pipe': 20.68}
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lmaubo: {'stylegan': 0.0, 'Morphing_Diffusion_2024': 27.7, 'mipgan2': 0.0, 'mordiff': 40.11, 'pipe': 40.39}
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_post_process: {'stylegan': 39.73, 'Morphing_Diffusion_2024': 45.46, 'mipgan2': 27.26, 'mordiff': 45.71, 'pipe': 45.69}
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process: {'stylegan': 48.96, 'Morphing_Diffusion_2024': 48.82, 'mipgan2': 46.6, 'mordiff': 46.36, 'pipe': 46.44}
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - DEER Table:
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs Morphing_Diffusion_2024: DEER = 14.9800
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs mipgan2: DEER = 0.0400
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs mordiff: DEER = 20.2400
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma on stylegan vs pipe: DEER = 20.6800
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs mipgan2: DEER = 14.9400
+2024-10-08 18:58:08,637 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs mordiff: DEER = 5.2600
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma on Morphing_Diffusion_2024 vs pipe: DEER = 5.7000
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma on mipgan2 vs mordiff: DEER = 20.2000
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma on mipgan2 vs pipe: DEER = 20.6400
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma on mordiff vs pipe: DEER = 0.4400
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs Morphing_Diffusion_2024: DEER = 27.7000
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs mipgan2: DEER = 0.0000
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs mordiff: DEER = 40.1100
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on stylegan vs pipe: DEER = 40.3900
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mipgan2: DEER = 27.7000
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mordiff: DEER = 12.4100
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs pipe: DEER = 12.6900
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 40.1100
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 40.3900
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.2800
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs Morphing_Diffusion_2024: DEER = 5.7300
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs mipgan2: DEER = 12.4700
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs mordiff: DEER = 5.9800
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on stylegan vs pipe: DEER = 5.9600
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mipgan2: DEER = 18.2000
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mordiff: DEER = 0.2500
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs pipe: DEER = 0.2300
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 18.4500
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on mipgan2 vs pipe: DEER = 18.4300
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_post_process on mordiff vs pipe: DEER = 0.0200
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs Morphing_Diffusion_2024: DEER = 0.1400
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs mipgan2: DEER = 2.3600
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs mordiff: DEER = 2.6000
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on stylegan vs pipe: DEER = 2.5200
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs mipgan2: DEER = 2.2200
+2024-10-08 18:58:08,638 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs mordiff: DEER = 2.4600
+2024-10-08 18:58:08,639 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on Morphing_Diffusion_2024 vs pipe: DEER = 2.3800
+2024-10-08 18:58:08,639 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mipgan2 vs mordiff: DEER = 0.2400
+2024-10-08 18:58:08,639 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mipgan2 vs pipe: DEER = 0.1600
+2024-10-08 18:58:08,639 - Eval_4_evaluation - INFO - teacher_lma.lmaubo.post_process on mordiff vs pipe: DEER = 0.0800

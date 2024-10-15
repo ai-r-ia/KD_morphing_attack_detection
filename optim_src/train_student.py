@@ -12,19 +12,13 @@ import os
 
 from configs.configs import get_logger, create_parser
 from models.adapter import Adapter
+from train_adapter import get_weights
 from utils.early_stopping import EarlyStopping
 from utils.plots import plot_charts
 from models.vit import ViTEmbeddings
 from datasets.datawrapper import DatasetWrapper
 from train_classifier import train_classifier
 from datasets.embeddingwrapper import EmbeddingDatasetWrapper
-
-weights = {
-    "teacher_lmaubo": 0.49265050088942985,
-    "teacher_mipgan2": 0.2551727366351465,
-    "teacher_mordiff": 0.10869768748244546,
-    "teacher_pipe": 0.14347907499297818,
-}
 
 
 def get_teacher_embdloaders(
@@ -54,12 +48,12 @@ def get_teacher_embdloaders(
 
 
 def train(args):
-    logger = get_logger("student",args.eval_number)
+    logger = get_logger("student", args.eval_number)
     logger.info("train_student")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    early_stopping = EarlyStopping(logger = logger)
+    early_stopping = EarlyStopping(logger=logger)
 
-    wrapper = DatasetWrapper(args.root_dir, args.morphtype)
+    wrapper = DatasetWrapper(args.root_dir, args.morphtype, morph_dir=args.morph_dir)
     trainds = wrapper.get_train_dataset(
         2, args.batch_size, args.morphtype, shuffle=True, num_workers=8
     )
@@ -67,10 +61,11 @@ def train(args):
         2, args.batch_size, args.morphtype, shuffle=True, num_workers=8
     )
 
-    morphs = args.teacher_morphs.split("_")
+    morphs = args.teacher_morphs.split(".")
     logger.info("teachers: {}".format(" ".join(map(str, morphs))))
-    logger.info("student morph type: ", args.morphtype)
+    logger.info(f"student morph type:  {args.morphtype}")
 
+    weights = get_weights(args.teacher_morphs)
     # change root dir here
     root_dir = "data/print_scan_digital/embeddings"
     teacher_dirs = []
@@ -117,14 +112,14 @@ def train(args):
         mor_incorrect = 0
         train_loss: float = 0.0
 
-        logger.debug("Epoch: ", epoch, "learning rate: ", args.learning_rate)
+        logger.debug(f"Epoch: {epoch}, learning rate: {args.learning_rate}")
 
-        for batch_idx, (batch1, batch2, batch3, batch4) in enumerate(
+        for batch_idx, (batch1, batch2, batch4) in enumerate(
             tqdm(
                 zip(
                     train_embdloaders[0],
                     train_embdloaders[1],
-                    train_embdloaders[2],
+                    # train_embdloaders[2],
                     trainds,
                 ),
                 desc="training",
@@ -133,18 +128,26 @@ def train(args):
         ):
             x1, y1 = batch1
             x2, y2 = batch2
-            x3, y3 = batch3
+            # x3, y3 = batch3
             img_path, x4, y4 = batch4
             x1, y1 = x1.to(device), y1.to(device)
             x2, y2 = x2.to(device), y2.to(device)
-            x3, y3 = x3.to(device), y3.to(device)
+            # x3, y3 = x3.to(device), y3.to(device)
             x4, y4 = x4.to(device), y4.to(device)
 
             x1 = x1 * embd_weight[0]
             x2 = x2 * embd_weight[1]
-            x3 = x3 * embd_weight[2]
+            if x1.shape != x2.shape:
+                print("unequal batches")
+                continue
+            # x3 = x3 * embd_weight[2]
             concatenated_embeddings = torch.cat(
-                [x1.unsqueeze(1), x2.unsqueeze(1), x3.unsqueeze(1)], dim=1
+                [
+                    x1.unsqueeze(1),
+                    x2.unsqueeze(1),
+                    #  , x3.unsqueeze(1)
+                ],
+                dim=1,
             )
 
             # concatenated_labels = torch.cat([y1, y2, y3], dim=1)
@@ -154,6 +157,10 @@ def train(args):
             embeddings = torch.squeeze(embeddings)
             preds, embds = model(x4)
             preds = preds.to(device)
+
+            if embds.shape != embeddings.shape:
+                print("unequal embeddings")
+                continue
 
             loss1 = loss_fn1(preds, y4)
             loss2 = loss_fn2(embds, embeddings)
@@ -167,7 +174,7 @@ def train(args):
             mor_correct += mcorrect
             mor_incorrect += mincorrect
             train_loss += total_loss.detach().cpu().item()
-        logger.debug("Train Loss:", train_loss)
+        logger.debug(f"Train Loss: {train_loss}")
         training_loss_list.append(train_loss)
         logger.debug(
             f"Bonafide ({bon_correct + bon_incorrect}): correct: {bon_correct} incorrect: {bon_incorrect}"
@@ -181,12 +188,12 @@ def train(args):
             model.eval()
 
             # with torch.no_grad():
-            for batch_idx, (batch1, batch2, batch3, batch4) in enumerate(
+            for batch_idx, (batch1, batch2, batch4) in enumerate(
                 tqdm(
                     zip(
                         test_embdloaders[0],
                         test_embdloaders[1],
-                        test_embdloaders[2],
+                        # test_embdloaders[2],
                         testds,
                     ),
                     desc="testing",
@@ -195,18 +202,26 @@ def train(args):
             ):
                 x1, y1 = batch1
                 x2, y2 = batch2
-                x3, y3 = batch3
+                # x3, y3 = batch3
                 img_path, x4, y4 = batch4
                 x1, y1 = x1.to(device), y1.to(device)
                 x2, y2 = x2.to(device), y2.to(device)
-                x3, y3 = x3.to(device), y3.to(device)
+                # x3, y3 = x3.to(device), y3.to(device)
                 x4, y4 = x4.to(device), y4.to(device)
 
                 x1 = x1 * embd_weight[0]
                 x2 = x2 * embd_weight[1]
-                x3 = x3 * embd_weight[2]
+                if x1.shape != x2.shape:
+                    print("unequal batches")
+                    continue
+                # x3 = x3 * embd_weight[2]
                 concatenated_embeddings = torch.cat(
-                    [x1.unsqueeze(1), x2.unsqueeze(1), x3.unsqueeze(1)], dim=1
+                    [
+                        x1.unsqueeze(1),
+                        x2.unsqueeze(1),
+                        #   x3.unsqueeze(1)
+                    ],
+                    dim=1,
                 )
 
                 embeddings = adapter(concatenated_embeddings.cuda())
@@ -221,7 +236,7 @@ def train(args):
                 total_loss.backward()
                 validation_loss += total_loss.detach().cpu().item()
 
-            logger.debug("Test Loss:", validation_loss)
+            logger.debug(f"Test Loss: {validation_loss}")
             testing_loss_list.append(validation_loss)
             logger.debug(
                 f"Bonafide ({bon_correct + bon_incorrect}): correct: {bon_correct} incorrect: {bon_incorrect}"  # noqa: E501
@@ -263,7 +278,7 @@ def train(args):
     logger.debug("acc loss: {}".format(" ".join(map(str, accuracy_list))))
     logger.debug("train loss: {}".format(" ".join(map(str, training_loss_list))))
     logger.debug("test loss: {}".format(" ".join(map(str, testing_loss_list))))
-    logger.debug("PLOT_EPOCH", plot_epoch)
+    logger.debug(f"PLOT_EPOCH {plot_epoch}")
 
     dir_path_charts = f"logs/Eval_{args.eval_number}/student/charts"
     plot_charts(

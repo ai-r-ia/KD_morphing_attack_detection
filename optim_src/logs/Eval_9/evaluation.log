@@ -1,0 +1,185 @@
+2024-10-15 07:57:25,385 - Eval_9_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo student_lma_llmbd_1.0
+2024-10-15 07:57:25,481 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 07:59:37,106 - Eval_9_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo student_lma_llmbd_1.0
+2024-10-15 07:59:37,183 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 08:00:34,049 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 08:01:13,923 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 08:02:06,140 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 08:02:34,679 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 08:03:08,539 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 08:03:48,616 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 08:03:55,866 - Eval_9_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo student_lma_llmbd_1.0
+2024-10-15 08:03:56,022 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 08:03:58,873 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 08:04:20,376 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 08:04:42,054 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 08:04:54,091 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 08:05:03,869 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 08:05:39,967 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 08:05:53,575 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo
+2024-10-15 08:06:11,534 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo
+2024-10-15 08:06:12,435 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo
+2024-10-15 08:07:10,307 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo
+2024-10-15 08:07:12,118 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 08:07:40,761 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 08:07:49,170 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo
+2024-10-15 08:08:34,289 - Eval_9_evaluation - INFO - EER Table:
+2024-10-15 08:08:34,289 - Eval_9_evaluation - INFO - teacher_post_process: {'post_process': 0.0, 'lmaubo': 51.31}
+2024-10-15 08:08:34,289 - Eval_9_evaluation - INFO - teacher_lmaubo: {'post_process': 0.87, 'lmaubo': 16.91}
+2024-10-15 08:08:34,289 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo: {'post_process': 0.0, 'lmaubo': 52.68}
+2024-10-15 08:08:34,289 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0: {'post_process': 47.99, 'lmaubo': 50.36}
+2024-10-15 08:08:34,290 - Eval_9_evaluation - INFO - DEER Table:
+2024-10-15 08:08:34,290 - Eval_9_evaluation - INFO - teacher_post_process on post_process vs lmaubo: DEER = 51.3100
+2024-10-15 08:08:34,290 - Eval_9_evaluation - INFO - teacher_lmaubo on post_process vs lmaubo: DEER = 16.0400
+2024-10-15 08:08:34,290 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on post_process vs lmaubo: DEER = 52.6800
+2024-10-15 08:08:34,290 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on post_process vs lmaubo: DEER = 2.3700
+2024-10-15 08:08:40,088 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo
+2024-10-15 08:09:01,057 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo
+2024-10-15 08:09:28,380 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 08:09:56,483 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 08:10:26,203 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 08:11:09,555 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 08:11:41,608 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 08:12:09,831 - Eval_9_evaluation - INFO - EER Table:
+2024-10-15 08:12:09,831 - Eval_9_evaluation - INFO - teacher_post_process: {'stylegan': 50.34, 'Morphing_Diffusion_2024': 0.0, 'mipgan2': 47.74, 'mordiff': 0.0, 'pipe': 0.0}
+2024-10-15 08:12:09,831 - Eval_9_evaluation - INFO - teacher_lmaubo: {'stylegan': 54.87, 'Morphing_Diffusion_2024': 2.17, 'mipgan2': 53.43, 'mordiff': 0.45, 'pipe': 0.49}
+2024-10-15 08:12:09,831 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo: {'stylegan': 48.24, 'Morphing_Diffusion_2024': 0.0, 'mipgan2': 48.97, 'mordiff': 0.0, 'pipe': 0.0}
+2024-10-15 08:12:09,831 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0: {'stylegan': 2.57, 'Morphing_Diffusion_2024': 0.22, 'mipgan2': 52.52, 'mordiff': 0.22, 'pipe': 0.22}
+2024-10-15 08:12:09,832 - Eval_9_evaluation - INFO - DEER Table:
+2024-10-15 08:12:09,832 - Eval_9_evaluation - INFO - teacher_post_process on stylegan vs Morphing_Diffusion_2024: DEER = 50.3400
+2024-10-15 08:12:09,832 - Eval_9_evaluation - INFO - teacher_post_process on stylegan vs mipgan2: DEER = 2.6000
+2024-10-15 08:12:09,832 - Eval_9_evaluation - INFO - teacher_post_process on stylegan vs mordiff: DEER = 50.3400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process on stylegan vs pipe: DEER = 50.3400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mipgan2: DEER = 47.7400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs mordiff: DEER = 0.0000
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process on Morphing_Diffusion_2024 vs pipe: DEER = 0.0000
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 47.7400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process on mipgan2 vs pipe: DEER = 47.7400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process on mordiff vs pipe: DEER = 0.0000
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on stylegan vs Morphing_Diffusion_2024: DEER = 52.7000
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on stylegan vs mipgan2: DEER = 1.4400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on stylegan vs mordiff: DEER = 54.4200
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on stylegan vs pipe: DEER = 54.3800
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mipgan2: DEER = 51.2600
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs mordiff: DEER = 1.7200
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on Morphing_Diffusion_2024 vs pipe: DEER = 1.6800
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 52.9800
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on mipgan2 vs pipe: DEER = 52.9400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_lmaubo on mordiff vs pipe: DEER = 0.0400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on stylegan vs Morphing_Diffusion_2024: DEER = 48.2400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on stylegan vs mipgan2: DEER = 0.7300
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on stylegan vs mordiff: DEER = 48.2400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on stylegan vs pipe: DEER = 48.2400
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on Morphing_Diffusion_2024 vs mipgan2: DEER = 48.9700
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on Morphing_Diffusion_2024 vs mordiff: DEER = 0.0000
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on Morphing_Diffusion_2024 vs pipe: DEER = 0.0000
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on mipgan2 vs mordiff: DEER = 48.9700
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on mipgan2 vs pipe: DEER = 48.9700
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - teacher_post_process.lmaubo on mordiff vs pipe: DEER = 0.0000
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on stylegan vs Morphing_Diffusion_2024: DEER = 2.3500
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on stylegan vs mipgan2: DEER = 49.9500
+2024-10-15 08:12:09,833 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on stylegan vs mordiff: DEER = 2.3500
+2024-10-15 08:12:09,834 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on stylegan vs pipe: DEER = 2.3500
+2024-10-15 08:12:09,834 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on Morphing_Diffusion_2024 vs mipgan2: DEER = 52.3000
+2024-10-15 08:12:09,834 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on Morphing_Diffusion_2024 vs mordiff: DEER = 0.0000
+2024-10-15 08:12:09,834 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on Morphing_Diffusion_2024 vs pipe: DEER = 0.0000
+2024-10-15 08:12:09,834 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on mipgan2 vs mordiff: DEER = 52.3000
+2024-10-15 08:12:09,834 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on mipgan2 vs pipe: DEER = 52.3000
+2024-10-15 08:12:09,834 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on mordiff vs pipe: DEER = 0.0000
+2024-10-15 09:23:14,394 - Eval_9_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_lmaubo_lma_post_process student_lma_llmbd_1.0
+2024-10-15 09:27:41,712 - Eval_9_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_lmaubo_lma_post_process student_lma_llmbd_1.0
+2024-10-15 09:27:41,841 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 09:29:03,591 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 09:29:39,090 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 09:30:06,421 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 09:30:17,288 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 09:30:56,889 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 09:31:23,450 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 09:31:50,056 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 09:32:05,166 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 09:33:18,852 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 09:33:42,906 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 09:34:06,524 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 09:34:17,805 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 09:35:11,901 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 09:35:41,700 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 09:36:17,955 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 09:36:38,237 - Eval_9_evaluation - INFO - EER Table:
+2024-10-15 09:36:38,237 - Eval_9_evaluation - INFO - teacher_post_process: {'greedy': 42.56, 'lmaubo': 51.31, 'mipgan2': 47.74, 'mordiff': 0.0}
+2024-10-15 09:36:38,237 - Eval_9_evaluation - INFO - teacher_lmaubo: {'greedy': 50.92, 'lmaubo': 16.91, 'mipgan2': 53.43, 'mordiff': 0.45}
+2024-10-15 09:36:38,237 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process: {'greedy': 35.84, 'lmaubo': 52.68, 'mipgan2': 48.97, 'mordiff': 0.0}
+2024-10-15 09:36:38,237 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0: {'greedy': 50.85, 'lmaubo': 50.36, 'mipgan2': 52.52, 'mordiff': 0.22}
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - DEER Table:
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_post_process on greedy vs lmaubo: DEER = 8.7500
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_post_process on greedy vs mipgan2: DEER = 5.1800
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_post_process on greedy vs mordiff: DEER = 42.5600
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_post_process on lmaubo vs mipgan2: DEER = 3.5700
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_post_process on lmaubo vs mordiff: DEER = 51.3100
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 47.7400
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo on greedy vs lmaubo: DEER = 34.0100
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo on greedy vs mipgan2: DEER = 2.5100
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo on greedy vs mordiff: DEER = 50.4700
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 36.5200
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 16.4600
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 52.9800
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on greedy vs lmaubo: DEER = 16.8400
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on greedy vs mipgan2: DEER = 13.1300
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on greedy vs mordiff: DEER = 35.8400
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on lmaubo vs mipgan2: DEER = 3.7100
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on lmaubo vs mordiff: DEER = 52.6800
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on mipgan2 vs mordiff: DEER = 48.9700
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on greedy vs lmaubo: DEER = 0.4900
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on greedy vs mipgan2: DEER = 1.6700
+2024-10-15 09:36:38,238 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on greedy vs mordiff: DEER = 50.6300
+2024-10-15 09:36:38,239 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on lmaubo vs mipgan2: DEER = 2.1600
+2024-10-15 09:36:38,239 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on lmaubo vs mordiff: DEER = 50.1400
+2024-10-15 09:36:38,239 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on mipgan2 vs mordiff: DEER = 52.3000
+2024-10-15 10:17:08,099 - Eval_9_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_lmaubo_lma_post_process student_lma_llmbd_1.0
+2024-10-15 10:17:08,180 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 10:19:36,849 - Eval_9_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_lmaubo_lma_post_process student_lma_llmbd_1.0
+2024-10-15 10:19:36,915 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 10:20:18,808 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 10:21:39,294 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 10:23:29,871 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-15 10:24:40,248 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 10:25:19,548 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 10:25:57,965 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 10:26:30,348 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-15 10:27:06,937 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 10:27:51,312 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 10:28:22,436 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 10:28:46,751 - Eval_9_evaluation - DEBUG - fetching scores for: teacher_lmaubo_lma_post_process
+2024-10-15 10:29:56,356 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 10:30:19,623 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 10:31:23,388 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 10:32:25,082 - Eval_9_evaluation - DEBUG - fetching scores for: student_lma_llmbd_1.0
+2024-10-15 10:33:13,467 - Eval_9_evaluation - INFO - EER Table:
+2024-10-15 10:33:13,467 - Eval_9_evaluation - INFO - teacher_post_process: {'greedy': 42.56, 'lmaubo': 50.74, 'mipgan2': 43.84, 'mordiff': 51.98}
+2024-10-15 10:33:13,468 - Eval_9_evaluation - INFO - teacher_lmaubo: {'greedy': 50.92, 'lmaubo': 49.19, 'mipgan2': 49.39, 'mordiff': 50.07}
+2024-10-15 10:33:13,468 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process: {'greedy': 35.84, 'lmaubo': 50.79, 'mipgan2': 38.25, 'mordiff': 51.0}
+2024-10-15 10:33:13,468 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0: {'greedy': 50.85, 'lmaubo': 43.23, 'mipgan2': 49.3, 'mordiff': 50.86}
+2024-10-15 10:33:13,468 - Eval_9_evaluation - INFO - DEER Table:
+2024-10-15 10:33:13,468 - Eval_9_evaluation - INFO - teacher_post_process on greedy vs lmaubo: DEER = 8.1800
+2024-10-15 10:33:13,468 - Eval_9_evaluation - INFO - teacher_post_process on greedy vs mipgan2: DEER = 1.2800
+2024-10-15 10:33:13,468 - Eval_9_evaluation - INFO - teacher_post_process on greedy vs mordiff: DEER = 9.4200
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_post_process on lmaubo vs mipgan2: DEER = 6.9000
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_post_process on lmaubo vs mordiff: DEER = 1.2400
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 8.1400
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo on greedy vs lmaubo: DEER = 1.7300
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo on greedy vs mipgan2: DEER = 1.5300
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo on greedy vs mordiff: DEER = 0.8500
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 0.2000
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 0.8800
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 0.6800
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on greedy vs lmaubo: DEER = 14.9500
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on greedy vs mipgan2: DEER = 2.4100
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on greedy vs mordiff: DEER = 15.1600
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on lmaubo vs mipgan2: DEER = 12.5400
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on lmaubo vs mordiff: DEER = 0.2100
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - teacher_lmaubo_lma_post_process on mipgan2 vs mordiff: DEER = 12.7500
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on greedy vs lmaubo: DEER = 7.6200
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on greedy vs mipgan2: DEER = 1.5500
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on greedy vs mordiff: DEER = 0.0100
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on lmaubo vs mipgan2: DEER = 6.0700
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on lmaubo vs mordiff: DEER = 7.6300
+2024-10-15 10:33:13,469 - Eval_9_evaluation - INFO - student_lma_llmbd_1.0 on mipgan2 vs mordiff: DEER = 1.5600
