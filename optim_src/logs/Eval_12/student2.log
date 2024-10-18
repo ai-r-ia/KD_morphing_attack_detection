@@ -1,0 +1,10 @@
+2024-10-15 15:38:17,754 - Eval_12_student2 - INFO - train_student2
+2024-10-15 15:38:17,775 - Eval_12_student2 - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-15 15:38:17,775 - Eval_12_student2 - INFO - student2 morph type:  stylegan
+2024-10-15 17:40:28,222 - Eval_12_student2 - INFO - train_student2
+2024-10-15 17:40:28,246 - Eval_12_student2 - INFO - teachers: Morphing_Diffusion_2024 mipgan2
+2024-10-15 17:40:28,246 - Eval_12_student2 - INFO - student2 morph type:  stylegan
+2024-10-15 17:40:36,316 - Eval_12_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-15 17:44:02,438 - Eval_12_student2 - DEBUG - Train Loss: 118.36251097917557
+2024-10-15 17:44:02,438 - Eval_12_student2 - DEBUG - Bonafide (3455): correct: 2837 incorrect: 618
+2024-10-15 17:44:02,438 - Eval_12_student2 - DEBUG - Morph (3553): correct: 3297 incorrect: 256

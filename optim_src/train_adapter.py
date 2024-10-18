@@ -185,7 +185,6 @@ def train(args):
     embd_weight = []
     weights = get_weights(args.teacher_morphs)
     for morph in morphs:
-        print("ftytf", morph)
         teacher_dirs.append(f"{root_dir}/teacher_{morph}")
         embd_weight.append(weights[f"teacher_{morph}"])
 

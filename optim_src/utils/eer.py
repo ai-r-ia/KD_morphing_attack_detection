@@ -166,7 +166,7 @@ def compute_eer(eval_morphs, models, device, saving_dir, args, logger) -> None:
     print(saving_dir)
     if args.istest:
         if args.isferet:
-            with open(f"{saving_dir}/eer_testdb_feret.pkl", "wb") as file:
+            with open(f"{saving_dir}/eer_testdb_feret_student2.pkl", "wb") as file:
                 pickle.dump(eer_table, file)
         else:
             with open(f"{saving_dir}/eer_testdb.pkl", "wb") as file:

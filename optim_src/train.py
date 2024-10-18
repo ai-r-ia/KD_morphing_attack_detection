@@ -91,11 +91,10 @@ def main():
     process_num = 1
 
     # TRAIN TEACHERS
-    # for morph in ["lma", "post_process", "stylegan", "Morphing_Diffusion_2024"]:
     # for morph in [
-    #     # "lmaubo",
-    #     # "mipgan2",
-    #     # "mordiff",
+    #     "lmaubo",
+    #     "mipgan2",
+    #     "mordiff",
     #     "pipe",
     #     "lma",
     #     "post_process",
@@ -106,34 +105,34 @@ def main():
     #         morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
     #         # morph_dir = "/cluster/nbl-users/Shreyas-Sushrut-Raghu/FaceMoprhingDatabases/cleaned_datasets/postprocessdata/digital_estimate/morph/after"
     #         args.append(
-    #             f"python train_teacher.py -lr 1e-5 -m {morph} -mn teacher -mdir {morph_dir} --process-num={process_num}"
+    #             f"python train_teacher.py -lr 1e-4 -m {morph} -mn teacher -mdir {morph_dir} --process-num={process_num}"
     #         )
     #     else:
     #         args.append(
-    #             f"python train_teacher.py -lr 1e-5 -m {morph} -mn teacher --process-num={process_num}"
+    #             f"python train_teacher.py -lr 1e-4 -m {morph} -mn teacher --process-num={process_num}"
     #         )
     #     process_num += 1
 
     # TRAIN BASELINE // modify morphs and run multiple times based on number of teachers
-    # for morph in [
-    #     # ["lma" ,"lmaubo"],
-    #     # ["stylegan","mipgan2"],
-    #     ["post_process", "lmaubo_lma"],
-    #     ["Morphing_Diffusion_2024", "mipgan2_stylegan"],
-    #     # ["mordiff", "pipe"],
-    #     # "post_process",
-    #     # "Morphing_Diffusion_2024",
-    # ]:
-    #     if morph[0] == "post_process":
-    #         morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
-    #         args.append(
-    #             f"python train_baseline.py -lr 1e-4 -m {morph[0]} -t {morph[1]} -mn baseline -mdir {morph_dir} --process-num={process_num}"
-    #         )
-    #     else:
-    #         args.append(
-    #             f"python train_baseline.py -lr 1e-4 -m {morph[0]} -t {morph[1]} -mn baseline --process-num={process_num}"
-    #         )
-    #     process_num += 1
+    for morph in [
+        # ["lma", "lmaubo"],
+        # ["stylegan", "mipgan2"],
+        ["post_process", "lmaubo_lma"],
+        ["Morphing_Diffusion_2024", "mipgan2_stylegan"],
+        # ["mordiff", "pipe"],
+        # "post_process",
+        # "Morphing_Diffusion_2024",
+    ]:
+        if morph[0] == "post_process":
+            morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
+            args.append(
+                f"python train_baseline.py -lr 1e-4 -m {morph[0]} -t {morph[1]} -mn baseline -mdir {morph_dir} --process-num={process_num}"
+            )
+        else:
+            args.append(
+                f"python train_baseline.py -lr 1e-4 -m {morph[0]} -t {morph[1]} -mn baseline --process-num={process_num}"
+            )
+        process_num += 1
 
     # SAVE TEACHER EMBEDDINGS
     # morphs = [
@@ -198,12 +197,12 @@ def main():
     #             )
     #             for loss_lambda in loss_lambdas:
     #                 args.append(
-    #                     f"python train_student.py -lr {learning_rate_student} -m {student_morph} -mn student -mdir {morph_dir} -lmb {loss_lambda} -ev {eval_num} -t {teachers} --process-num={process_num}"
+    #                     f"python train_student2.py -lr {learning_rate_student} -m {student_morph} -mn student -mdir {morph_dir} -lmb {loss_lambda} -ev {eval_num} -t {teachers} --process-num={process_num}"
     #                 )
     #         else:
     #             for loss_lambda in loss_lambdas:
     #                 args.append(
-    #                     f"python train_student.py -lr {learning_rate_student} -m {student_morph} -mn student  -lmb {loss_lambda} -ev {eval_num} -t {teachers} --process-num={process_num}"
+    #                     f"python train_student2.py -lr {learning_rate_student} -m {student_morph} -mn student  -lmb {loss_lambda} -ev {eval_num} -t {teachers} --process-num={process_num}"
     #                 )
     #         process_num += 1
     #         eval_num += 1

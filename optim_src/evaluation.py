@@ -12,13 +12,13 @@ from configs.configs import get_logger, create_parser
 # bonafide = 0, morph = 1
 
 
-def compute_deer(eval_morphs, saving_dir, istest,isferet, logger) -> None:
+def compute_deer(eval_morphs, saving_dir, istest, isferet, logger) -> None:
     # Differential equal eror rate-DEER between dataset pairs
 
     deer_records = []
     if istest:
         if isferet:
-            eer_file = f"{saving_dir}/eer_testdb_feret.pkl"
+            eer_file = f"{saving_dir}/eer_testdb_feret_student2.pkl"
         else:
             eer_file = f"{saving_dir}/eer_testdb.pkl"
     else:
@@ -44,7 +44,7 @@ def compute_deer(eval_morphs, saving_dir, istest,isferet, logger) -> None:
 
     if istest:
         if isferet:
-            with open(f"{saving_dir}/deer_testdb_feret.pkl", "wb") as file:
+            with open(f"{saving_dir}/deer_testdb_feret_student2.pkl", "wb") as file:
                 pickle.dump(deer_records, file)
         else:
             with open(f"{saving_dir}/deer_testdb.pkl", "wb") as file:
@@ -113,11 +113,11 @@ def eval(args):
         students.append(ViTEmbeddings())
         students[i].load_state_dict(
             torch.load(
-                f"logs/Eval_{args.eval_number}/student/checkpoints/student_0.01_{args.student_morph}_lmbd_{loss_lambda}_t1_{types[0]}.pt",
+                f"logs/Eval_{args.eval_number}/student2/checkpoints/student2_0.01_{args.student_morph}_lmbd_{loss_lambda}_t1_{types[0]}.pt",
                 weights_only=True,
             )["model_state_dict"]
         )
-        models[f"student_{args.student_morph}_llmbd_{loss_lambda}"] = students[i]
+        models[f"student2_{args.student_morph}_llmbd_{loss_lambda}"] = students[i]
 
     logger.info("models: {}".format(" ".join(map(str, models.keys()))))
 
@@ -154,7 +154,7 @@ def eval(args):
     # plot_hists(istest=args.istest, saving_dir=saving_dir, models=models.keys())
 
     # plot_combined_hist(istest=args.istest, saving_dir=saving_dir, models=models.keys())
-    plot_eer_bars(istest=args.istest, isferet= args.isferet, saving_dir=saving_dir)
+    plot_eer_bars(istest=args.istest, isferet=args.isferet, saving_dir=saving_dir)
 
     print("Le Fin")
 

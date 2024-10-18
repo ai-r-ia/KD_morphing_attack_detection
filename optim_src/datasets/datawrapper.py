@@ -101,11 +101,11 @@ class DatasetWrapper:
         for label, cid in enumerate(self.CLASS_NAMES):
             augment_count = augment_times * 2 if cid == "bonafide" else augment_times
             root_dir = self.root_dir
-            if root_dir == "/home/ubuntu/volume/data/feret" and cid == "bonafide":
-                if split_type == "train":
-                    split_type = "raw/train"
-                if split_type == "test":
-                    split_type = "raw/test"
+            # if root_dir == "/home/ubuntu/volume/data/feret" and cid == "bonafide":
+            #     if split_type == "train":
+            #         split_type = "raw/train"
+            #     if split_type == "test":
+            #         split_type = "raw/test"
             if cid == "morph":
                 cid = f"morph/{morph_type}"
                 if self.morph_dir != self.root_dir:
@@ -131,6 +131,46 @@ class DatasetWrapper:
             num_workers=num_workers,
         )
 
+    def get_multiple_dataset(
+        self,
+        split_type,
+        augment_times: int,
+        batch_size: int,
+        morph_type: str,
+        shuffle: bool = True,
+        num_workers: int = 8,
+    ):
+        data: List[DataItem] = []
+        morphs = morph_type.split(".")
+        for label, cid in enumerate(self.CLASS_NAMES):
+            for morph in morphs:
+                augment_count = (
+                    augment_times * 2 if cid == "bonafide" else augment_times
+                )
+                root_dir = self.root_dir
+                if cid == "morph":
+                    cid = f"morph/{morph_type}"
+                    if self.morph_dir != self.root_dir:
+                        root_dir = self.morph_dir
+                        cid = ""
+
+                print(os.path.join(root_dir, cid, split_type))
+                data.extend(
+                    self.loop_through_dir(
+                        os.path.join(root_dir, cid, split_type),
+                        label,
+                        augment_count,
+                    )
+                )
+                print(len(data))
+
+        return DataLoader(
+            DatasetGenerator(data, self.transform, self.augment),
+            batch_size=batch_size,
+            shuffle=shuffle,
+            num_workers=num_workers,
+        )
+
     def get_train_dataset(
         self,
         augment_times: int,
@@ -138,7 +178,12 @@ class DatasetWrapper:
         morph_type: str,
         shuffle: bool = True,
         num_workers: int = 8,
+        multiple: bool = False,
     ):
+        if multiple:
+            return self.get_multiple_dataset(
+                "train", augment_times, batch_size, morph_type, shuffle, num_workers
+            )
         return self.get_dataset(
             "train", augment_times, batch_size, morph_type, shuffle, num_workers
         )
@@ -150,7 +195,12 @@ class DatasetWrapper:
         morph_type: str,
         shuffle: bool = True,
         num_workers: int = 8,
+        multiple: bool = False,
     ):
+        if multiple:
+            return self.get_multiple_dataset(
+                "train", augment_times, batch_size, morph_type, shuffle, num_workers
+            )
         return self.get_dataset(
             "test", augment_times, batch_size, morph_type, shuffle, num_workers
         )
