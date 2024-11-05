@@ -1,0 +1,772 @@
+2024-10-21 12:09:17,292 - Eval_20_student2 - INFO - train_student2
+2024-10-21 12:09:17,313 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 12:09:17,313 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 12:09:19,321 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 12:13:02,077 - Eval_20_student2 - INFO - train_student2
+2024-10-21 12:13:02,101 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 12:13:02,101 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 12:13:04,341 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 12:13:53,785 - Eval_20_student2 - INFO - train_student2
+2024-10-21 12:13:53,805 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 12:13:53,805 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 12:13:55,849 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 12:19:24,473 - Eval_20_student2 - INFO - train_student2
+2024-10-21 12:19:24,495 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 12:19:24,495 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 12:19:26,619 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 12:27:57,773 - Eval_20_student2 - INFO - train_student2
+2024-10-21 12:27:57,794 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 12:27:57,794 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 12:28:00,059 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 12:28:50,737 - Eval_20_student2 - INFO - train_student2
+2024-10-21 12:28:50,759 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 12:28:50,759 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 12:28:53,006 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 12:29:30,669 - Eval_20_student2 - INFO - train_student2
+2024-10-21 12:29:30,689 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 12:29:30,689 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 12:29:32,852 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 13:15:34,206 - Eval_20_student2 - INFO - train_student2
+2024-10-21 13:15:34,227 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 13:15:34,227 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 13:15:36,407 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 13:16:17,688 - Eval_20_student2 - INFO - train_student2
+2024-10-21 13:16:17,709 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 13:16:17,709 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 13:16:19,967 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 13:21:26,411 - Eval_20_student2 - INFO - train_student2
+2024-10-21 13:21:26,433 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 13:21:26,433 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 13:21:28,590 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 13:21:54,265 - Eval_20_student2 - INFO - train_student2
+2024-10-21 13:21:54,286 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 13:21:54,287 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 13:21:56,515 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 13:22:32,886 - Eval_20_student2 - INFO - train_student2
+2024-10-21 13:22:32,911 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 13:22:32,912 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 13:22:35,173 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 13:45:10,494 - Eval_20_student2 - INFO - train_student2
+2024-10-21 13:45:10,515 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 13:45:10,515 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 13:45:12,898 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:31:00,078 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:31:00,098 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:31:00,098 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:31:02,349 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:32:08,817 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:32:08,838 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:32:08,838 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:32:10,829 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:32:55,526 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:32:55,547 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:32:55,547 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:33:55,848 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:33:55,869 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:33:55,869 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:33:58,032 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:34:45,044 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:34:45,065 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:34:45,065 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:34:47,273 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:35:32,607 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:35:32,628 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:35:32,628 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:36:07,059 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:36:07,079 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:36:07,079 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:36:09,270 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:38:20,891 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:38:20,912 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:38:20,912 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:38:23,130 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:38:47,208 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:38:47,227 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:38:47,228 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:38:49,316 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 14:39:12,024 - Eval_20_student2 - INFO - train_student2
+2024-10-21 14:39:12,045 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 14:39:12,045 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 14:39:14,220 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 15:53:22,013 - Eval_20_student2 - INFO - train_student2
+2024-10-21 15:53:22,034 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 15:53:22,035 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 15:53:23,324 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 16:19:36,649 - Eval_20_student2 - INFO - train_student2
+2024-10-21 16:19:36,669 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 16:19:36,669 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 16:19:38,811 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 20:19:40,330 - Eval_20_student2 - INFO - train_student2
+2024-10-21 20:19:40,353 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 20:19:40,353 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 20:19:42,634 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 20:21:10,770 - Eval_20_student2 - INFO - train_student2
+2024-10-21 20:21:10,790 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 20:21:10,790 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 20:21:12,926 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.01
+2024-10-21 20:21:34,116 - Eval_20_student2 - DEBUG - Train Accuracy: 80.25%
+2024-10-21 20:21:34,116 - Eval_20_student2 - DEBUG - Train Loss: 145.80827087163925
+2024-10-21 20:21:34,116 - Eval_20_student2 - INFO - Train time: 21.19 seconds
+2024-10-21 20:21:50,458 - Eval_20_student2 - DEBUG - Test Accuracy: 86.26%
+2024-10-21 20:21:50,458 - Eval_20_student2 - DEBUG - Test Loss: 162.8935548067093
+2024-10-21 20:21:50,458 - Eval_20_student2 - INFO - Test time: 16.34 seconds
+2024-10-21 20:21:50,676 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 0
+2024-10-21 20:21:50,676 - Eval_20_student2 - INFO - loss decreased (162.893555 --> 162.893555).
+2024-10-21 20:21:50,677 - Eval_20_student2 - DEBUG - Epoch time: 37.77 seconds
+2024-10-21 20:21:50,678 - Eval_20_student2 - DEBUG - Epoch: 1, learning rate: 0.01
+2024-10-21 20:22:10,733 - Eval_20_student2 - DEBUG - Train Accuracy: 93.95%
+2024-10-21 20:22:10,735 - Eval_20_student2 - DEBUG - Train Loss: 101.60784727334976
+2024-10-21 20:22:10,735 - Eval_20_student2 - INFO - Train time: 20.06 seconds
+2024-10-21 20:22:26,332 - Eval_20_student2 - DEBUG - Test Accuracy: 93.93%
+2024-10-21 20:22:26,333 - Eval_20_student2 - DEBUG - Test Loss: 103.04599410295486
+2024-10-21 20:22:26,333 - Eval_20_student2 - INFO - Test time: 15.60 seconds
+2024-10-21 20:22:26,632 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 1
+2024-10-21 20:22:26,632 - Eval_20_student2 - INFO - loss decreased (103.045994 --> 103.045994).
+2024-10-21 20:22:26,632 - Eval_20_student2 - DEBUG - Epoch time: 35.96 seconds
+2024-10-21 20:22:26,634 - Eval_20_student2 - DEBUG - Epoch: 2, learning rate: 0.01
+2024-10-21 20:22:46,441 - Eval_20_student2 - DEBUG - Train Accuracy: 96.15%
+2024-10-21 20:22:46,441 - Eval_20_student2 - DEBUG - Train Loss: 80.82888782024384
+2024-10-21 20:22:46,445 - Eval_20_student2 - INFO - Train time: 19.81 seconds
+2024-10-21 20:23:01,789 - Eval_20_student2 - DEBUG - Test Accuracy: 96.76%
+2024-10-21 20:23:01,789 - Eval_20_student2 - DEBUG - Test Loss: 72.95274856686592
+2024-10-21 20:23:01,789 - Eval_20_student2 - INFO - Test time: 15.34 seconds
+2024-10-21 20:23:02,179 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 2
+2024-10-21 20:23:02,179 - Eval_20_student2 - INFO - loss decreased (72.952749 --> 72.952749).
+2024-10-21 20:23:02,179 - Eval_20_student2 - DEBUG - Epoch time: 35.55 seconds
+2024-10-21 20:23:02,181 - Eval_20_student2 - DEBUG - Epoch: 3, learning rate: 0.01
+2024-10-21 20:23:21,520 - Eval_20_student2 - DEBUG - Train Accuracy: 97.05%
+2024-10-21 20:23:21,520 - Eval_20_student2 - DEBUG - Train Loss: 67.6953821182251
+2024-10-21 20:23:21,520 - Eval_20_student2 - INFO - Train time: 19.34 seconds
+2024-10-21 20:23:36,874 - Eval_20_student2 - DEBUG - Test Accuracy: 95.66%
+2024-10-21 20:23:36,874 - Eval_20_student2 - DEBUG - Test Loss: 52.2017203271389
+2024-10-21 20:23:36,874 - Eval_20_student2 - INFO - Test time: 15.35 seconds
+2024-10-21 20:23:37,330 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 3
+2024-10-21 20:23:37,330 - Eval_20_student2 - INFO - loss decreased (52.201720 --> 52.201720).
+2024-10-21 20:23:37,330 - Eval_20_student2 - DEBUG - Epoch time: 35.15 seconds
+2024-10-21 20:23:37,333 - Eval_20_student2 - DEBUG - Epoch: 4, learning rate: 0.01
+2024-10-21 20:23:56,498 - Eval_20_student2 - DEBUG - Train Accuracy: 97.91%
+2024-10-21 20:23:56,498 - Eval_20_student2 - DEBUG - Train Loss: 56.92193177342415
+2024-10-21 20:23:56,499 - Eval_20_student2 - INFO - Train time: 19.17 seconds
+2024-10-21 20:24:11,975 - Eval_20_student2 - DEBUG - Test Accuracy: 95.77%
+2024-10-21 20:24:11,976 - Eval_20_student2 - DEBUG - Test Loss: 38.8498093187809
+2024-10-21 20:24:11,976 - Eval_20_student2 - INFO - Test time: 15.48 seconds
+2024-10-21 20:24:12,332 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 4
+2024-10-21 20:24:12,333 - Eval_20_student2 - INFO - loss decreased (38.849809 --> 38.849809).
+2024-10-21 20:24:12,333 - Eval_20_student2 - DEBUG - Epoch time: 35.00 seconds
+2024-10-21 20:24:12,335 - Eval_20_student2 - DEBUG - Epoch: 5, learning rate: 0.01
+2024-10-21 20:25:27,754 - Eval_20_student2 - INFO - train_student2
+2024-10-21 20:25:27,775 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 20:25:27,775 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 20:25:29,996 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.0001
+2024-10-21 20:25:45,494 - Eval_20_student2 - DEBUG - Train Accuracy: 51.84%
+2024-10-21 20:25:45,494 - Eval_20_student2 - DEBUG - Train Loss: 184.20334148406982
+2024-10-21 20:25:45,494 - Eval_20_student2 - INFO - Train time: 15.50 seconds
+2024-10-21 20:26:36,121 - Eval_20_student2 - INFO - train_student2
+2024-10-21 20:26:36,142 - Eval_20_student2 - INFO - teachers: lma post_process
+2024-10-21 20:26:36,142 - Eval_20_student2 - INFO - student2 morph type:  lmaubo
+2024-10-21 20:26:38,557 - Eval_20_student2 - DEBUG - Epoch: 0, learning rate: 0.0001
+2024-10-21 20:27:00,033 - Eval_20_student2 - DEBUG - Train Accuracy: 51.39%
+2024-10-21 20:27:00,033 - Eval_20_student2 - DEBUG - Train Loss: 179.09236562252045
+2024-10-21 20:27:00,034 - Eval_20_student2 - INFO - Train time: 21.48 seconds
+2024-10-21 20:27:17,362 - Eval_20_student2 - DEBUG - Test Accuracy: 58.45%
+2024-10-21 20:27:17,362 - Eval_20_student2 - DEBUG - Test Loss: 220.7953007221222
+2024-10-21 20:27:17,362 - Eval_20_student2 - INFO - Test time: 17.33 seconds
+2024-10-21 20:27:17,594 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 0
+2024-10-21 20:27:17,595 - Eval_20_student2 - INFO - loss decreased (220.795301 --> 220.795301).
+2024-10-21 20:27:17,595 - Eval_20_student2 - DEBUG - Epoch time: 39.10 seconds
+2024-10-21 20:27:17,597 - Eval_20_student2 - DEBUG - Epoch: 1, learning rate: 0.0001
+2024-10-21 20:27:38,016 - Eval_20_student2 - DEBUG - Train Accuracy: 53.36%
+2024-10-21 20:27:38,016 - Eval_20_student2 - DEBUG - Train Loss: 177.83578515052795
+2024-10-21 20:27:38,016 - Eval_20_student2 - INFO - Train time: 20.42 seconds
+2024-10-21 20:27:54,110 - Eval_20_student2 - DEBUG - Test Accuracy: 58.88%
+2024-10-21 20:27:54,110 - Eval_20_student2 - DEBUG - Test Loss: 217.65320444107056
+2024-10-21 20:27:54,110 - Eval_20_student2 - INFO - Test time: 16.09 seconds
+2024-10-21 20:27:54,445 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 1
+2024-10-21 20:27:54,446 - Eval_20_student2 - INFO - loss decreased (217.653204 --> 217.653204).
+2024-10-21 20:27:54,446 - Eval_20_student2 - DEBUG - Epoch time: 36.85 seconds
+2024-10-21 20:27:54,448 - Eval_20_student2 - DEBUG - Epoch: 2, learning rate: 0.0001
+2024-10-21 20:28:14,874 - Eval_20_student2 - DEBUG - Train Accuracy: 54.79%
+2024-10-21 20:28:14,875 - Eval_20_student2 - DEBUG - Train Loss: 176.56367313861847
+2024-10-21 20:28:14,875 - Eval_20_student2 - INFO - Train time: 20.43 seconds
+2024-10-21 20:28:30,495 - Eval_20_student2 - DEBUG - Test Accuracy: 59.26%
+2024-10-21 20:28:30,495 - Eval_20_student2 - DEBUG - Test Loss: 214.17308282852173
+2024-10-21 20:28:30,496 - Eval_20_student2 - INFO - Test time: 15.62 seconds
+2024-10-21 20:28:30,708 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 2
+2024-10-21 20:28:30,708 - Eval_20_student2 - INFO - loss decreased (214.173083 --> 214.173083).
+2024-10-21 20:28:30,708 - Eval_20_student2 - DEBUG - Epoch time: 36.26 seconds
+2024-10-21 20:28:30,710 - Eval_20_student2 - DEBUG - Epoch: 3, learning rate: 0.0001
+2024-10-21 20:28:50,104 - Eval_20_student2 - DEBUG - Train Accuracy: 54.84%
+2024-10-21 20:28:50,104 - Eval_20_student2 - DEBUG - Train Loss: 176.41670536994934
+2024-10-21 20:28:50,104 - Eval_20_student2 - INFO - Train time: 19.39 seconds
+2024-10-21 20:29:05,672 - Eval_20_student2 - DEBUG - Test Accuracy: 60.68%
+2024-10-21 20:29:05,673 - Eval_20_student2 - DEBUG - Test Loss: 216.145157456398
+2024-10-21 20:29:05,674 - Eval_20_student2 - INFO - Test time: 15.57 seconds
+2024-10-21 20:29:05,922 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 3
+2024-10-21 20:29:05,922 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:29:05,922 - Eval_20_student2 - DEBUG - Epoch time: 35.21 seconds
+2024-10-21 20:29:05,924 - Eval_20_student2 - DEBUG - Epoch: 4, learning rate: 0.0001
+2024-10-21 20:29:25,482 - Eval_20_student2 - DEBUG - Train Accuracy: 57.91%
+2024-10-21 20:29:25,483 - Eval_20_student2 - DEBUG - Train Loss: 174.95184814929962
+2024-10-21 20:29:25,484 - Eval_20_student2 - INFO - Train time: 19.56 seconds
+2024-10-21 20:29:41,140 - Eval_20_student2 - DEBUG - Test Accuracy: 61.98%
+2024-10-21 20:29:41,141 - Eval_20_student2 - DEBUG - Test Loss: 214.80674040317535
+2024-10-21 20:29:41,141 - Eval_20_student2 - INFO - Test time: 15.66 seconds
+2024-10-21 20:29:41,457 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 4
+2024-10-21 20:29:41,457 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:29:41,457 - Eval_20_student2 - DEBUG - Epoch time: 35.53 seconds
+2024-10-21 20:29:41,459 - Eval_20_student2 - DEBUG - Epoch: 5, learning rate: 0.0001
+2024-10-21 20:30:00,624 - Eval_20_student2 - DEBUG - Train Accuracy: 59.69%
+2024-10-21 20:30:00,626 - Eval_20_student2 - DEBUG - Train Loss: 174.2959829568863
+2024-10-21 20:30:00,626 - Eval_20_student2 - INFO - Train time: 19.17 seconds
+2024-10-21 20:30:15,860 - Eval_20_student2 - DEBUG - Test Accuracy: 62.50%
+2024-10-21 20:30:15,860 - Eval_20_student2 - DEBUG - Test Loss: 213.5177230834961
+2024-10-21 20:30:15,862 - Eval_20_student2 - INFO - Test time: 15.24 seconds
+2024-10-21 20:30:16,052 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 5
+2024-10-21 20:30:16,052 - Eval_20_student2 - INFO - loss decreased (213.517723 --> 213.517723).
+2024-10-21 20:30:16,052 - Eval_20_student2 - DEBUG - Epoch time: 34.59 seconds
+2024-10-21 20:30:16,053 - Eval_20_student2 - DEBUG - Epoch: 6, learning rate: 0.0001
+2024-10-21 20:30:34,823 - Eval_20_student2 - DEBUG - Train Accuracy: 60.27%
+2024-10-21 20:30:34,824 - Eval_20_student2 - DEBUG - Train Loss: 173.77925896644592
+2024-10-21 20:30:34,824 - Eval_20_student2 - INFO - Train time: 18.77 seconds
+2024-10-21 20:30:50,047 - Eval_20_student2 - DEBUG - Test Accuracy: 62.88%
+2024-10-21 20:30:50,047 - Eval_20_student2 - DEBUG - Test Loss: 214.8780356645584
+2024-10-21 20:30:50,047 - Eval_20_student2 - INFO - Test time: 15.22 seconds
+2024-10-21 20:30:50,425 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 6
+2024-10-21 20:30:50,425 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:30:50,425 - Eval_20_student2 - DEBUG - Epoch time: 34.37 seconds
+2024-10-21 20:30:50,427 - Eval_20_student2 - DEBUG - Epoch: 7, learning rate: 0.0001
+2024-10-21 20:31:08,794 - Eval_20_student2 - DEBUG - Train Accuracy: 60.92%
+2024-10-21 20:31:08,794 - Eval_20_student2 - DEBUG - Train Loss: 172.56029427051544
+2024-10-21 20:31:08,794 - Eval_20_student2 - INFO - Train time: 18.37 seconds
+2024-10-21 20:31:23,656 - Eval_20_student2 - DEBUG - Test Accuracy: 63.83%
+2024-10-21 20:31:23,656 - Eval_20_student2 - DEBUG - Test Loss: 212.63750874996185
+2024-10-21 20:31:23,656 - Eval_20_student2 - INFO - Test time: 14.86 seconds
+2024-10-21 20:31:23,964 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 7
+2024-10-21 20:31:23,964 - Eval_20_student2 - INFO - loss decreased (212.637509 --> 212.637509).
+2024-10-21 20:31:23,965 - Eval_20_student2 - DEBUG - Epoch time: 33.54 seconds
+2024-10-21 20:31:23,966 - Eval_20_student2 - DEBUG - Epoch: 8, learning rate: 0.0001
+2024-10-21 20:31:42,463 - Eval_20_student2 - DEBUG - Train Accuracy: 63.38%
+2024-10-21 20:31:42,464 - Eval_20_student2 - DEBUG - Train Loss: 171.95685803890228
+2024-10-21 20:31:42,464 - Eval_20_student2 - INFO - Train time: 18.50 seconds
+2024-10-21 20:31:57,977 - Eval_20_student2 - DEBUG - Test Accuracy: 65.49%
+2024-10-21 20:31:57,978 - Eval_20_student2 - DEBUG - Test Loss: 213.52585005760193
+2024-10-21 20:31:57,978 - Eval_20_student2 - INFO - Test time: 15.51 seconds
+2024-10-21 20:31:58,340 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 8
+2024-10-21 20:31:58,340 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:31:58,340 - Eval_20_student2 - DEBUG - Epoch time: 34.38 seconds
+2024-10-21 20:31:58,342 - Eval_20_student2 - DEBUG - Epoch: 9, learning rate: 0.0001
+2024-10-21 20:32:17,033 - Eval_20_student2 - DEBUG - Train Accuracy: 63.61%
+2024-10-21 20:32:17,033 - Eval_20_student2 - DEBUG - Train Loss: 171.38198852539062
+2024-10-21 20:32:17,033 - Eval_20_student2 - INFO - Train time: 18.69 seconds
+2024-10-21 20:32:32,852 - Eval_20_student2 - DEBUG - Test Accuracy: 65.94%
+2024-10-21 20:32:32,852 - Eval_20_student2 - DEBUG - Test Loss: 211.56002688407898
+2024-10-21 20:32:32,852 - Eval_20_student2 - INFO - Test time: 15.82 seconds
+2024-10-21 20:32:33,231 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 9
+2024-10-21 20:32:33,231 - Eval_20_student2 - INFO - loss decreased (211.560027 --> 211.560027).
+2024-10-21 20:32:33,231 - Eval_20_student2 - DEBUG - Epoch time: 34.89 seconds
+2024-10-21 20:32:33,233 - Eval_20_student2 - DEBUG - Epoch: 10, learning rate: 0.0001
+2024-10-21 20:32:51,633 - Eval_20_student2 - DEBUG - Train Accuracy: 65.68%
+2024-10-21 20:32:51,633 - Eval_20_student2 - DEBUG - Train Loss: 170.39334094524384
+2024-10-21 20:32:51,633 - Eval_20_student2 - INFO - Train time: 18.40 seconds
+2024-10-21 20:33:07,377 - Eval_20_student2 - DEBUG - Test Accuracy: 67.74%
+2024-10-21 20:33:07,377 - Eval_20_student2 - DEBUG - Test Loss: 210.09515690803528
+2024-10-21 20:33:07,377 - Eval_20_student2 - INFO - Test time: 15.74 seconds
+2024-10-21 20:33:07,753 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 10
+2024-10-21 20:33:07,754 - Eval_20_student2 - INFO - loss decreased (210.095157 --> 210.095157).
+2024-10-21 20:33:07,754 - Eval_20_student2 - DEBUG - Epoch time: 34.52 seconds
+2024-10-21 20:33:07,756 - Eval_20_student2 - DEBUG - Epoch: 11, learning rate: 0.0001
+2024-10-21 20:33:26,034 - Eval_20_student2 - DEBUG - Train Accuracy: 67.29%
+2024-10-21 20:33:26,035 - Eval_20_student2 - DEBUG - Train Loss: 169.63095688819885
+2024-10-21 20:33:26,035 - Eval_20_student2 - INFO - Train time: 18.28 seconds
+2024-10-21 20:33:42,687 - Eval_20_student2 - DEBUG - Test Accuracy: 67.51%
+2024-10-21 20:33:42,687 - Eval_20_student2 - DEBUG - Test Loss: 209.98845779895782
+2024-10-21 20:33:42,688 - Eval_20_student2 - INFO - Test time: 16.65 seconds
+2024-10-21 20:33:43,005 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 11
+2024-10-21 20:33:43,005 - Eval_20_student2 - INFO - loss decreased (209.988458 --> 209.988458).
+2024-10-21 20:33:43,005 - Eval_20_student2 - DEBUG - Epoch time: 35.25 seconds
+2024-10-21 20:33:43,007 - Eval_20_student2 - DEBUG - Epoch: 12, learning rate: 0.0001
+2024-10-21 20:34:01,070 - Eval_20_student2 - DEBUG - Train Accuracy: 67.75%
+2024-10-21 20:34:01,070 - Eval_20_student2 - DEBUG - Train Loss: 169.10735750198364
+2024-10-21 20:34:01,070 - Eval_20_student2 - INFO - Train time: 18.06 seconds
+2024-10-21 20:34:17,941 - Eval_20_student2 - DEBUG - Test Accuracy: 67.87%
+2024-10-21 20:34:17,942 - Eval_20_student2 - DEBUG - Test Loss: 210.8379898071289
+2024-10-21 20:34:17,942 - Eval_20_student2 - INFO - Test time: 16.87 seconds
+2024-10-21 20:34:18,216 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 12
+2024-10-21 20:34:18,216 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:34:18,217 - Eval_20_student2 - DEBUG - Epoch time: 35.21 seconds
+2024-10-21 20:34:18,218 - Eval_20_student2 - DEBUG - Epoch: 13, learning rate: 0.0001
+2024-10-21 20:34:36,338 - Eval_20_student2 - DEBUG - Train Accuracy: 69.63%
+2024-10-21 20:34:36,338 - Eval_20_student2 - DEBUG - Train Loss: 168.19499170780182
+2024-10-21 20:34:36,338 - Eval_20_student2 - INFO - Train time: 18.12 seconds
+2024-10-21 20:34:52,708 - Eval_20_student2 - DEBUG - Test Accuracy: 68.71%
+2024-10-21 20:34:52,708 - Eval_20_student2 - DEBUG - Test Loss: 208.06943595409393
+2024-10-21 20:34:52,708 - Eval_20_student2 - INFO - Test time: 16.37 seconds
+2024-10-21 20:34:53,036 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 13
+2024-10-21 20:34:53,036 - Eval_20_student2 - INFO - loss decreased (208.069436 --> 208.069436).
+2024-10-21 20:34:53,036 - Eval_20_student2 - DEBUG - Epoch time: 34.82 seconds
+2024-10-21 20:34:53,038 - Eval_20_student2 - DEBUG - Epoch: 14, learning rate: 0.0001
+2024-10-21 20:35:11,388 - Eval_20_student2 - DEBUG - Train Accuracy: 70.86%
+2024-10-21 20:35:11,388 - Eval_20_student2 - DEBUG - Train Loss: 167.26793026924133
+2024-10-21 20:35:11,388 - Eval_20_student2 - INFO - Train time: 18.35 seconds
+2024-10-21 20:35:28,309 - Eval_20_student2 - DEBUG - Test Accuracy: 69.87%
+2024-10-21 20:35:28,310 - Eval_20_student2 - DEBUG - Test Loss: 208.659081697464
+2024-10-21 20:35:28,310 - Eval_20_student2 - INFO - Test time: 16.92 seconds
+2024-10-21 20:35:28,778 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 14
+2024-10-21 20:35:28,778 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:35:28,778 - Eval_20_student2 - DEBUG - Epoch time: 35.74 seconds
+2024-10-21 20:35:28,780 - Eval_20_student2 - DEBUG - Epoch: 15, learning rate: 0.0001
+2024-10-21 20:35:46,741 - Eval_20_student2 - DEBUG - Train Accuracy: 71.68%
+2024-10-21 20:35:46,741 - Eval_20_student2 - DEBUG - Train Loss: 166.53794878721237
+2024-10-21 20:35:46,741 - Eval_20_student2 - INFO - Train time: 17.96 seconds
+2024-10-21 20:36:02,629 - Eval_20_student2 - DEBUG - Test Accuracy: 70.39%
+2024-10-21 20:36:02,630 - Eval_20_student2 - DEBUG - Test Loss: 206.07298696041107
+2024-10-21 20:36:02,630 - Eval_20_student2 - INFO - Test time: 15.89 seconds
+2024-10-21 20:36:03,012 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 15
+2024-10-21 20:36:03,012 - Eval_20_student2 - INFO - loss decreased (206.072987 --> 206.072987).
+2024-10-21 20:36:03,012 - Eval_20_student2 - DEBUG - Epoch time: 34.23 seconds
+2024-10-21 20:36:03,014 - Eval_20_student2 - DEBUG - Epoch: 16, learning rate: 0.0001
+2024-10-21 20:36:20,579 - Eval_20_student2 - DEBUG - Train Accuracy: 73.16%
+2024-10-21 20:36:20,579 - Eval_20_student2 - DEBUG - Train Loss: 165.64066302776337
+2024-10-21 20:36:20,579 - Eval_20_student2 - INFO - Train time: 17.57 seconds
+2024-10-21 20:36:36,558 - Eval_20_student2 - DEBUG - Test Accuracy: 70.64%
+2024-10-21 20:36:36,559 - Eval_20_student2 - DEBUG - Test Loss: 207.20645022392273
+2024-10-21 20:36:36,559 - Eval_20_student2 - INFO - Test time: 15.98 seconds
+2024-10-21 20:36:36,940 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 16
+2024-10-21 20:36:36,940 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:36:36,940 - Eval_20_student2 - DEBUG - Epoch time: 33.93 seconds
+2024-10-21 20:36:36,942 - Eval_20_student2 - DEBUG - Epoch: 17, learning rate: 0.0001
+2024-10-21 20:36:55,306 - Eval_20_student2 - DEBUG - Train Accuracy: 73.24%
+2024-10-21 20:36:55,307 - Eval_20_student2 - DEBUG - Train Loss: 165.17755472660065
+2024-10-21 20:36:55,307 - Eval_20_student2 - INFO - Train time: 18.36 seconds
+2024-10-21 20:37:11,023 - Eval_20_student2 - DEBUG - Test Accuracy: 71.00%
+2024-10-21 20:37:11,023 - Eval_20_student2 - DEBUG - Test Loss: 206.74901676177979
+2024-10-21 20:37:11,023 - Eval_20_student2 - INFO - Test time: 15.72 seconds
+2024-10-21 20:37:11,381 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 17
+2024-10-21 20:37:11,381 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:37:11,381 - Eval_20_student2 - DEBUG - Epoch time: 34.44 seconds
+2024-10-21 20:37:11,383 - Eval_20_student2 - DEBUG - Epoch: 18, learning rate: 0.0001
+2024-10-21 20:37:29,518 - Eval_20_student2 - DEBUG - Train Accuracy: 74.45%
+2024-10-21 20:37:29,518 - Eval_20_student2 - DEBUG - Train Loss: 164.49888414144516
+2024-10-21 20:37:29,518 - Eval_20_student2 - INFO - Train time: 18.13 seconds
+2024-10-21 20:37:44,993 - Eval_20_student2 - DEBUG - Test Accuracy: 73.07%
+2024-10-21 20:37:44,994 - Eval_20_student2 - DEBUG - Test Loss: 203.7626247406006
+2024-10-21 20:37:44,994 - Eval_20_student2 - INFO - Test time: 15.48 seconds
+2024-10-21 20:37:45,394 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 18
+2024-10-21 20:37:45,395 - Eval_20_student2 - INFO - loss decreased (203.762625 --> 203.762625).
+2024-10-21 20:37:45,395 - Eval_20_student2 - DEBUG - Epoch time: 34.01 seconds
+2024-10-21 20:37:45,396 - Eval_20_student2 - DEBUG - Epoch: 19, learning rate: 0.0001
+2024-10-21 20:38:03,394 - Eval_20_student2 - DEBUG - Train Accuracy: 74.59%
+2024-10-21 20:38:03,394 - Eval_20_student2 - DEBUG - Train Loss: 163.5398536324501
+2024-10-21 20:38:03,394 - Eval_20_student2 - INFO - Train time: 18.00 seconds
+2024-10-21 20:38:18,974 - Eval_20_student2 - DEBUG - Test Accuracy: 71.36%
+2024-10-21 20:38:18,975 - Eval_20_student2 - DEBUG - Test Loss: 204.49259769916534
+2024-10-21 20:38:18,975 - Eval_20_student2 - INFO - Test time: 15.58 seconds
+2024-10-21 20:38:19,300 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 19
+2024-10-21 20:38:19,300 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:38:19,300 - Eval_20_student2 - DEBUG - Epoch time: 33.91 seconds
+2024-10-21 20:38:19,302 - Eval_20_student2 - DEBUG - Epoch: 20, learning rate: 0.0001
+2024-10-21 20:38:37,105 - Eval_20_student2 - DEBUG - Train Accuracy: 74.69%
+2024-10-21 20:38:37,105 - Eval_20_student2 - DEBUG - Train Loss: 163.1548917889595
+2024-10-21 20:38:37,105 - Eval_20_student2 - INFO - Train time: 17.80 seconds
+2024-10-21 20:38:52,922 - Eval_20_student2 - DEBUG - Test Accuracy: 72.80%
+2024-10-21 20:38:52,922 - Eval_20_student2 - DEBUG - Test Loss: 205.4354338645935
+2024-10-21 20:38:52,923 - Eval_20_student2 - INFO - Test time: 15.82 seconds
+2024-10-21 20:38:53,249 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 20
+2024-10-21 20:38:53,249 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:38:53,249 - Eval_20_student2 - DEBUG - Epoch time: 33.95 seconds
+2024-10-21 20:38:53,251 - Eval_20_student2 - DEBUG - Epoch: 21, learning rate: 0.0001
+2024-10-21 20:39:11,198 - Eval_20_student2 - DEBUG - Train Accuracy: 76.21%
+2024-10-21 20:39:11,198 - Eval_20_student2 - DEBUG - Train Loss: 162.22270411252975
+2024-10-21 20:39:11,199 - Eval_20_student2 - INFO - Train time: 17.95 seconds
+2024-10-21 20:39:27,148 - Eval_20_student2 - DEBUG - Test Accuracy: 73.27%
+2024-10-21 20:39:27,148 - Eval_20_student2 - DEBUG - Test Loss: 203.5909194946289
+2024-10-21 20:39:27,148 - Eval_20_student2 - INFO - Test time: 15.95 seconds
+2024-10-21 20:39:27,516 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 21
+2024-10-21 20:39:27,516 - Eval_20_student2 - INFO - loss decreased (203.590919 --> 203.590919).
+2024-10-21 20:39:27,516 - Eval_20_student2 - DEBUG - Epoch time: 34.27 seconds
+2024-10-21 20:39:27,518 - Eval_20_student2 - DEBUG - Epoch: 22, learning rate: 0.0001
+2024-10-21 20:39:45,504 - Eval_20_student2 - DEBUG - Train Accuracy: 76.23%
+2024-10-21 20:39:45,504 - Eval_20_student2 - DEBUG - Train Loss: 161.54075634479523
+2024-10-21 20:39:45,504 - Eval_20_student2 - INFO - Train time: 17.99 seconds
+2024-10-21 20:40:01,227 - Eval_20_student2 - DEBUG - Test Accuracy: 73.67%
+2024-10-21 20:40:01,228 - Eval_20_student2 - DEBUG - Test Loss: 202.14883303642273
+2024-10-21 20:40:01,228 - Eval_20_student2 - INFO - Test time: 15.72 seconds
+2024-10-21 20:40:01,603 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 22
+2024-10-21 20:40:01,604 - Eval_20_student2 - INFO - loss decreased (202.148833 --> 202.148833).
+2024-10-21 20:40:01,604 - Eval_20_student2 - DEBUG - Epoch time: 34.09 seconds
+2024-10-21 20:40:01,606 - Eval_20_student2 - DEBUG - Epoch: 23, learning rate: 0.0001
+2024-10-21 20:40:19,598 - Eval_20_student2 - DEBUG - Train Accuracy: 76.60%
+2024-10-21 20:40:19,599 - Eval_20_student2 - DEBUG - Train Loss: 161.01984232664108
+2024-10-21 20:40:19,599 - Eval_20_student2 - INFO - Train time: 17.99 seconds
+2024-10-21 20:40:35,516 - Eval_20_student2 - DEBUG - Test Accuracy: 73.70%
+2024-10-21 20:40:35,516 - Eval_20_student2 - DEBUG - Test Loss: 199.94073140621185
+2024-10-21 20:40:35,516 - Eval_20_student2 - INFO - Test time: 15.92 seconds
+2024-10-21 20:40:35,967 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 23
+2024-10-21 20:40:35,967 - Eval_20_student2 - INFO - loss decreased (199.940731 --> 199.940731).
+2024-10-21 20:40:35,967 - Eval_20_student2 - DEBUG - Epoch time: 34.36 seconds
+2024-10-21 20:40:35,969 - Eval_20_student2 - DEBUG - Epoch: 24, learning rate: 0.0001
+2024-10-21 20:40:54,012 - Eval_20_student2 - DEBUG - Train Accuracy: 77.89%
+2024-10-21 20:40:54,012 - Eval_20_student2 - DEBUG - Train Loss: 160.21530097723007
+2024-10-21 20:40:54,012 - Eval_20_student2 - INFO - Train time: 18.04 seconds
+2024-10-21 20:41:09,791 - Eval_20_student2 - DEBUG - Test Accuracy: 75.00%
+2024-10-21 20:41:09,792 - Eval_20_student2 - DEBUG - Test Loss: 200.11115765571594
+2024-10-21 20:41:09,792 - Eval_20_student2 - INFO - Test time: 15.78 seconds
+2024-10-21 20:41:10,268 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 24
+2024-10-21 20:41:10,269 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:41:10,269 - Eval_20_student2 - DEBUG - Epoch time: 34.30 seconds
+2024-10-21 20:41:10,271 - Eval_20_student2 - DEBUG - Epoch: 25, learning rate: 0.0001
+2024-10-21 20:41:28,358 - Eval_20_student2 - DEBUG - Train Accuracy: 77.87%
+2024-10-21 20:41:28,358 - Eval_20_student2 - DEBUG - Train Loss: 159.5475161075592
+2024-10-21 20:41:28,358 - Eval_20_student2 - INFO - Train time: 18.09 seconds
+2024-10-21 20:41:44,029 - Eval_20_student2 - DEBUG - Test Accuracy: 75.36%
+2024-10-21 20:41:44,029 - Eval_20_student2 - DEBUG - Test Loss: 198.34328603744507
+2024-10-21 20:41:44,029 - Eval_20_student2 - INFO - Test time: 15.67 seconds
+2024-10-21 20:41:44,326 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 25
+2024-10-21 20:41:44,327 - Eval_20_student2 - INFO - loss decreased (198.343286 --> 198.343286).
+2024-10-21 20:41:44,327 - Eval_20_student2 - DEBUG - Epoch time: 34.06 seconds
+2024-10-21 20:41:44,328 - Eval_20_student2 - DEBUG - Epoch: 26, learning rate: 0.0001
+2024-10-21 20:42:02,219 - Eval_20_student2 - DEBUG - Train Accuracy: 77.85%
+2024-10-21 20:42:02,219 - Eval_20_student2 - DEBUG - Train Loss: 159.02537244558334
+2024-10-21 20:42:02,220 - Eval_20_student2 - INFO - Train time: 17.89 seconds
+2024-10-21 20:42:18,359 - Eval_20_student2 - DEBUG - Test Accuracy: 74.55%
+2024-10-21 20:42:18,360 - Eval_20_student2 - DEBUG - Test Loss: 198.91080796718597
+2024-10-21 20:42:18,360 - Eval_20_student2 - INFO - Test time: 16.14 seconds
+2024-10-21 20:42:18,764 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 26
+2024-10-21 20:42:18,764 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:42:18,764 - Eval_20_student2 - DEBUG - Epoch time: 34.44 seconds
+2024-10-21 20:42:18,766 - Eval_20_student2 - DEBUG - Epoch: 27, learning rate: 0.0001
+2024-10-21 20:42:36,589 - Eval_20_student2 - DEBUG - Train Accuracy: 78.22%
+2024-10-21 20:42:36,590 - Eval_20_student2 - DEBUG - Train Loss: 158.60418128967285
+2024-10-21 20:42:36,590 - Eval_20_student2 - INFO - Train time: 17.82 seconds
+2024-10-21 20:42:52,685 - Eval_20_student2 - DEBUG - Test Accuracy: 75.40%
+2024-10-21 20:42:52,686 - Eval_20_student2 - DEBUG - Test Loss: 198.767343044281
+2024-10-21 20:42:52,686 - Eval_20_student2 - INFO - Test time: 16.10 seconds
+2024-10-21 20:42:53,171 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 27
+2024-10-21 20:42:53,172 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:42:53,172 - Eval_20_student2 - DEBUG - Epoch time: 34.41 seconds
+2024-10-21 20:42:53,174 - Eval_20_student2 - DEBUG - Epoch: 28, learning rate: 0.0001
+2024-10-21 20:43:10,894 - Eval_20_student2 - DEBUG - Train Accuracy: 79.53%
+2024-10-21 20:43:10,895 - Eval_20_student2 - DEBUG - Train Loss: 157.6017918586731
+2024-10-21 20:43:10,895 - Eval_20_student2 - INFO - Train time: 17.72 seconds
+2024-10-21 20:43:28,203 - Eval_20_student2 - DEBUG - Test Accuracy: 75.79%
+2024-10-21 20:43:28,203 - Eval_20_student2 - DEBUG - Test Loss: 199.05207312107086
+2024-10-21 20:43:28,203 - Eval_20_student2 - INFO - Test time: 17.31 seconds
+2024-10-21 20:43:28,690 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 28
+2024-10-21 20:43:28,690 - Eval_20_student2 - INFO - EarlyStopping counter: 3 out of 10
+2024-10-21 20:43:28,690 - Eval_20_student2 - DEBUG - Epoch time: 35.52 seconds
+2024-10-21 20:43:28,692 - Eval_20_student2 - DEBUG - Epoch: 29, learning rate: 0.0001
+2024-10-21 20:43:47,091 - Eval_20_student2 - DEBUG - Train Accuracy: 79.67%
+2024-10-21 20:43:47,091 - Eval_20_student2 - DEBUG - Train Loss: 157.61086559295654
+2024-10-21 20:43:47,091 - Eval_20_student2 - INFO - Train time: 18.40 seconds
+2024-10-21 20:44:03,862 - Eval_20_student2 - DEBUG - Test Accuracy: 76.46%
+2024-10-21 20:44:03,862 - Eval_20_student2 - DEBUG - Test Loss: 197.1125167608261
+2024-10-21 20:44:03,862 - Eval_20_student2 - INFO - Test time: 16.77 seconds
+2024-10-21 20:44:04,364 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 29
+2024-10-21 20:44:04,365 - Eval_20_student2 - INFO - loss decreased (197.112517 --> 197.112517).
+2024-10-21 20:44:04,365 - Eval_20_student2 - DEBUG - Epoch time: 35.67 seconds
+2024-10-21 20:44:04,366 - Eval_20_student2 - DEBUG - Epoch: 30, learning rate: 0.0001
+2024-10-21 20:44:23,305 - Eval_20_student2 - DEBUG - Train Accuracy: 80.14%
+2024-10-21 20:44:23,305 - Eval_20_student2 - DEBUG - Train Loss: 156.42951810359955
+2024-10-21 20:44:23,306 - Eval_20_student2 - INFO - Train time: 18.94 seconds
+2024-10-21 20:44:39,888 - Eval_20_student2 - DEBUG - Test Accuracy: 76.51%
+2024-10-21 20:44:39,888 - Eval_20_student2 - DEBUG - Test Loss: 196.13391745090485
+2024-10-21 20:44:39,889 - Eval_20_student2 - INFO - Test time: 16.58 seconds
+2024-10-21 20:44:40,417 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 30
+2024-10-21 20:44:40,417 - Eval_20_student2 - INFO - loss decreased (196.133917 --> 196.133917).
+2024-10-21 20:44:40,417 - Eval_20_student2 - DEBUG - Epoch time: 36.05 seconds
+2024-10-21 20:44:40,419 - Eval_20_student2 - DEBUG - Epoch: 31, learning rate: 0.0001
+2024-10-21 20:45:00,145 - Eval_20_student2 - DEBUG - Train Accuracy: 79.39%
+2024-10-21 20:45:00,145 - Eval_20_student2 - DEBUG - Train Loss: 156.3901668190956
+2024-10-21 20:45:00,145 - Eval_20_student2 - INFO - Train time: 19.73 seconds
+2024-10-21 20:45:15,997 - Eval_20_student2 - DEBUG - Test Accuracy: 76.64%
+2024-10-21 20:45:15,997 - Eval_20_student2 - DEBUG - Test Loss: 195.46747469902039
+2024-10-21 20:45:15,997 - Eval_20_student2 - INFO - Test time: 15.85 seconds
+2024-10-21 20:45:16,577 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 31
+2024-10-21 20:45:16,577 - Eval_20_student2 - INFO - loss decreased (195.467475 --> 195.467475).
+2024-10-21 20:45:16,577 - Eval_20_student2 - DEBUG - Epoch time: 36.16 seconds
+2024-10-21 20:45:16,579 - Eval_20_student2 - DEBUG - Epoch: 32, learning rate: 0.0001
+2024-10-21 20:45:35,716 - Eval_20_student2 - DEBUG - Train Accuracy: 80.41%
+2024-10-21 20:45:35,717 - Eval_20_student2 - DEBUG - Train Loss: 155.77592819929123
+2024-10-21 20:45:35,717 - Eval_20_student2 - INFO - Train time: 19.14 seconds
+2024-10-21 20:45:51,262 - Eval_20_student2 - DEBUG - Test Accuracy: 76.60%
+2024-10-21 20:45:51,262 - Eval_20_student2 - DEBUG - Test Loss: 196.12721395492554
+2024-10-21 20:45:51,263 - Eval_20_student2 - INFO - Test time: 15.55 seconds
+2024-10-21 20:45:51,624 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 32
+2024-10-21 20:45:51,624 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:45:51,624 - Eval_20_student2 - DEBUG - Epoch time: 35.05 seconds
+2024-10-21 20:45:51,626 - Eval_20_student2 - DEBUG - Epoch: 33, learning rate: 0.0001
+2024-10-21 20:46:10,818 - Eval_20_student2 - DEBUG - Train Accuracy: 81.05%
+2024-10-21 20:46:10,818 - Eval_20_student2 - DEBUG - Train Loss: 155.12838089466095
+2024-10-21 20:46:10,818 - Eval_20_student2 - INFO - Train time: 19.19 seconds
+2024-10-21 20:46:25,905 - Eval_20_student2 - DEBUG - Test Accuracy: 77.18%
+2024-10-21 20:46:25,905 - Eval_20_student2 - DEBUG - Test Loss: 192.41588163375854
+2024-10-21 20:46:25,905 - Eval_20_student2 - INFO - Test time: 15.09 seconds
+2024-10-21 20:46:26,243 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 33
+2024-10-21 20:46:26,243 - Eval_20_student2 - INFO - loss decreased (192.415882 --> 192.415882).
+2024-10-21 20:46:26,243 - Eval_20_student2 - DEBUG - Epoch time: 34.62 seconds
+2024-10-21 20:46:26,245 - Eval_20_student2 - DEBUG - Epoch: 34, learning rate: 0.0001
+2024-10-21 20:46:45,291 - Eval_20_student2 - DEBUG - Train Accuracy: 81.31%
+2024-10-21 20:46:45,291 - Eval_20_student2 - DEBUG - Train Loss: 154.22560197114944
+2024-10-21 20:46:45,291 - Eval_20_student2 - INFO - Train time: 19.05 seconds
+2024-10-21 20:47:00,497 - Eval_20_student2 - DEBUG - Test Accuracy: 78.80%
+2024-10-21 20:47:00,497 - Eval_20_student2 - DEBUG - Test Loss: 195.78613138198853
+2024-10-21 20:47:00,497 - Eval_20_student2 - INFO - Test time: 15.21 seconds
+2024-10-21 20:47:00,876 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 34
+2024-10-21 20:47:00,876 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:47:00,876 - Eval_20_student2 - DEBUG - Epoch time: 34.63 seconds
+2024-10-21 20:47:00,878 - Eval_20_student2 - DEBUG - Epoch: 35, learning rate: 0.0001
+2024-10-21 20:47:19,842 - Eval_20_student2 - DEBUG - Train Accuracy: 81.21%
+2024-10-21 20:47:19,842 - Eval_20_student2 - DEBUG - Train Loss: 154.0705133676529
+2024-10-21 20:47:19,842 - Eval_20_student2 - INFO - Train time: 18.96 seconds
+2024-10-21 20:47:34,933 - Eval_20_student2 - DEBUG - Test Accuracy: 78.33%
+2024-10-21 20:47:34,933 - Eval_20_student2 - DEBUG - Test Loss: 194.55107045173645
+2024-10-21 20:47:34,933 - Eval_20_student2 - INFO - Test time: 15.09 seconds
+2024-10-21 20:47:35,417 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 35
+2024-10-21 20:47:35,417 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:47:35,417 - Eval_20_student2 - DEBUG - Epoch time: 34.54 seconds
+2024-10-21 20:47:35,419 - Eval_20_student2 - DEBUG - Epoch: 36, learning rate: 0.0001
+2024-10-21 20:47:54,605 - Eval_20_student2 - DEBUG - Train Accuracy: 81.29%
+2024-10-21 20:47:54,605 - Eval_20_student2 - DEBUG - Train Loss: 153.42570132017136
+2024-10-21 20:47:54,605 - Eval_20_student2 - INFO - Train time: 19.19 seconds
+2024-10-21 20:48:09,499 - Eval_20_student2 - DEBUG - Test Accuracy: 78.78%
+2024-10-21 20:48:09,500 - Eval_20_student2 - DEBUG - Test Loss: 195.8676359653473
+2024-10-21 20:48:09,500 - Eval_20_student2 - INFO - Test time: 14.89 seconds
+2024-10-21 20:48:09,918 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 36
+2024-10-21 20:48:09,918 - Eval_20_student2 - INFO - EarlyStopping counter: 3 out of 10
+2024-10-21 20:48:09,918 - Eval_20_student2 - DEBUG - Epoch time: 34.50 seconds
+2024-10-21 20:48:09,920 - Eval_20_student2 - DEBUG - Epoch: 37, learning rate: 0.0001
+2024-10-21 20:48:29,036 - Eval_20_student2 - DEBUG - Train Accuracy: 81.48%
+2024-10-21 20:48:29,036 - Eval_20_student2 - DEBUG - Train Loss: 153.00145930051804
+2024-10-21 20:48:29,036 - Eval_20_student2 - INFO - Train time: 19.12 seconds
+2024-10-21 20:48:44,007 - Eval_20_student2 - DEBUG - Test Accuracy: 78.75%
+2024-10-21 20:48:44,007 - Eval_20_student2 - DEBUG - Test Loss: 190.32293391227722
+2024-10-21 20:48:44,007 - Eval_20_student2 - INFO - Test time: 14.97 seconds
+2024-10-21 20:48:44,497 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 37
+2024-10-21 20:48:44,497 - Eval_20_student2 - INFO - loss decreased (190.322934 --> 190.322934).
+2024-10-21 20:48:44,497 - Eval_20_student2 - DEBUG - Epoch time: 34.58 seconds
+2024-10-21 20:48:44,499 - Eval_20_student2 - DEBUG - Epoch: 38, learning rate: 0.0001
+2024-10-21 20:49:04,239 - Eval_20_student2 - DEBUG - Train Accuracy: 81.46%
+2024-10-21 20:49:04,240 - Eval_20_student2 - DEBUG - Train Loss: 152.65591192245483
+2024-10-21 20:49:04,240 - Eval_20_student2 - INFO - Train time: 19.74 seconds
+2024-10-21 20:49:19,884 - Eval_20_student2 - DEBUG - Test Accuracy: 77.63%
+2024-10-21 20:49:19,884 - Eval_20_student2 - DEBUG - Test Loss: 192.0924664735794
+2024-10-21 20:49:19,885 - Eval_20_student2 - INFO - Test time: 15.64 seconds
+2024-10-21 20:49:20,350 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 38
+2024-10-21 20:49:20,350 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:49:20,350 - Eval_20_student2 - DEBUG - Epoch time: 35.85 seconds
+2024-10-21 20:49:20,352 - Eval_20_student2 - DEBUG - Epoch: 39, learning rate: 0.0001
+2024-10-21 20:49:39,443 - Eval_20_student2 - DEBUG - Train Accuracy: 81.91%
+2024-10-21 20:49:39,443 - Eval_20_student2 - DEBUG - Train Loss: 151.79170161485672
+2024-10-21 20:49:39,443 - Eval_20_student2 - INFO - Train time: 19.09 seconds
+2024-10-21 20:49:54,772 - Eval_20_student2 - DEBUG - Test Accuracy: 77.95%
+2024-10-21 20:49:54,772 - Eval_20_student2 - DEBUG - Test Loss: 191.68703174591064
+2024-10-21 20:49:54,772 - Eval_20_student2 - INFO - Test time: 15.33 seconds
+2024-10-21 20:49:55,231 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 39
+2024-10-21 20:49:55,231 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:49:55,231 - Eval_20_student2 - DEBUG - Epoch time: 34.88 seconds
+2024-10-21 20:49:55,233 - Eval_20_student2 - DEBUG - Epoch: 40, learning rate: 0.0001
+2024-10-21 20:50:14,615 - Eval_20_student2 - DEBUG - Train Accuracy: 81.88%
+2024-10-21 20:50:14,615 - Eval_20_student2 - DEBUG - Train Loss: 151.46296912431717
+2024-10-21 20:50:14,615 - Eval_20_student2 - INFO - Train time: 19.38 seconds
+2024-10-21 20:50:31,073 - Eval_20_student2 - DEBUG - Test Accuracy: 78.24%
+2024-10-21 20:50:31,074 - Eval_20_student2 - DEBUG - Test Loss: 192.22305405139923
+2024-10-21 20:50:31,074 - Eval_20_student2 - INFO - Test time: 16.46 seconds
+2024-10-21 20:50:31,425 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 40
+2024-10-21 20:50:31,425 - Eval_20_student2 - INFO - EarlyStopping counter: 3 out of 10
+2024-10-21 20:50:31,425 - Eval_20_student2 - DEBUG - Epoch time: 36.19 seconds
+2024-10-21 20:50:31,427 - Eval_20_student2 - DEBUG - Epoch: 41, learning rate: 0.0001
+2024-10-21 20:50:50,000 - Eval_20_student2 - DEBUG - Train Accuracy: 82.11%
+2024-10-21 20:50:50,000 - Eval_20_student2 - DEBUG - Train Loss: 151.0548380613327
+2024-10-21 20:50:50,000 - Eval_20_student2 - INFO - Train time: 18.57 seconds
+2024-10-21 20:51:06,703 - Eval_20_student2 - DEBUG - Test Accuracy: 79.16%
+2024-10-21 20:51:06,704 - Eval_20_student2 - DEBUG - Test Loss: 192.17326319217682
+2024-10-21 20:51:06,704 - Eval_20_student2 - INFO - Test time: 16.70 seconds
+2024-10-21 20:51:07,152 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 41
+2024-10-21 20:51:07,153 - Eval_20_student2 - INFO - EarlyStopping counter: 4 out of 10
+2024-10-21 20:51:07,153 - Eval_20_student2 - DEBUG - Epoch time: 35.73 seconds
+2024-10-21 20:51:07,155 - Eval_20_student2 - DEBUG - Epoch: 42, learning rate: 0.0001
+2024-10-21 20:51:25,600 - Eval_20_student2 - DEBUG - Train Accuracy: 82.25%
+2024-10-21 20:51:25,600 - Eval_20_student2 - DEBUG - Train Loss: 150.64232963323593
+2024-10-21 20:51:25,600 - Eval_20_student2 - INFO - Train time: 18.45 seconds
+2024-10-21 20:51:42,912 - Eval_20_student2 - DEBUG - Test Accuracy: 80.26%
+2024-10-21 20:51:42,912 - Eval_20_student2 - DEBUG - Test Loss: 190.7015482187271
+2024-10-21 20:51:42,912 - Eval_20_student2 - INFO - Test time: 17.31 seconds
+2024-10-21 20:51:43,217 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 42
+2024-10-21 20:51:43,217 - Eval_20_student2 - INFO - EarlyStopping counter: 5 out of 10
+2024-10-21 20:51:43,218 - Eval_20_student2 - DEBUG - Epoch time: 36.06 seconds
+2024-10-21 20:51:43,219 - Eval_20_student2 - DEBUG - Epoch: 43, learning rate: 0.0001
+2024-10-21 20:52:01,650 - Eval_20_student2 - DEBUG - Train Accuracy: 83.46%
+2024-10-21 20:52:01,651 - Eval_20_student2 - DEBUG - Train Loss: 150.32274359464645
+2024-10-21 20:52:01,651 - Eval_20_student2 - INFO - Train time: 18.43 seconds
+2024-10-21 20:52:19,467 - Eval_20_student2 - DEBUG - Test Accuracy: 78.60%
+2024-10-21 20:52:19,468 - Eval_20_student2 - DEBUG - Test Loss: 189.55528378486633
+2024-10-21 20:52:19,468 - Eval_20_student2 - INFO - Test time: 17.82 seconds
+2024-10-21 20:52:19,962 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 43
+2024-10-21 20:52:19,963 - Eval_20_student2 - INFO - loss decreased (189.555284 --> 189.555284).
+2024-10-21 20:52:19,963 - Eval_20_student2 - DEBUG - Epoch time: 36.75 seconds
+2024-10-21 20:52:19,965 - Eval_20_student2 - DEBUG - Epoch: 44, learning rate: 0.0001
+2024-10-21 20:52:39,385 - Eval_20_student2 - DEBUG - Train Accuracy: 83.67%
+2024-10-21 20:52:39,385 - Eval_20_student2 - DEBUG - Train Loss: 149.61361330747604
+2024-10-21 20:52:39,385 - Eval_20_student2 - INFO - Train time: 19.42 seconds
+2024-10-21 20:52:56,193 - Eval_20_student2 - DEBUG - Test Accuracy: 78.53%
+2024-10-21 20:52:56,193 - Eval_20_student2 - DEBUG - Test Loss: 187.11470651626587
+2024-10-21 20:52:56,193 - Eval_20_student2 - INFO - Test time: 16.81 seconds
+2024-10-21 20:52:56,858 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 44
+2024-10-21 20:52:56,859 - Eval_20_student2 - INFO - loss decreased (187.114707 --> 187.114707).
+2024-10-21 20:52:56,859 - Eval_20_student2 - DEBUG - Epoch time: 36.90 seconds
+2024-10-21 20:52:56,862 - Eval_20_student2 - DEBUG - Epoch: 45, learning rate: 0.0001
+2024-10-21 20:53:16,273 - Eval_20_student2 - DEBUG - Train Accuracy: 83.61%
+2024-10-21 20:53:16,273 - Eval_20_student2 - DEBUG - Train Loss: 149.04372584819794
+2024-10-21 20:53:16,273 - Eval_20_student2 - INFO - Train time: 19.41 seconds
+2024-10-21 20:53:32,075 - Eval_20_student2 - DEBUG - Test Accuracy: 80.22%
+2024-10-21 20:53:32,075 - Eval_20_student2 - DEBUG - Test Loss: 189.10116386413574
+2024-10-21 20:53:32,075 - Eval_20_student2 - INFO - Test time: 15.80 seconds
+2024-10-21 20:53:32,452 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 45
+2024-10-21 20:53:32,452 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:53:32,452 - Eval_20_student2 - DEBUG - Epoch time: 35.59 seconds
+2024-10-21 20:53:32,454 - Eval_20_student2 - DEBUG - Epoch: 46, learning rate: 0.0001
+2024-10-21 20:53:51,811 - Eval_20_student2 - DEBUG - Train Accuracy: 84.30%
+2024-10-21 20:53:51,812 - Eval_20_student2 - DEBUG - Train Loss: 148.5309156179428
+2024-10-21 20:53:51,812 - Eval_20_student2 - INFO - Train time: 19.36 seconds
+2024-10-21 20:54:07,312 - Eval_20_student2 - DEBUG - Test Accuracy: 79.83%
+2024-10-21 20:54:07,313 - Eval_20_student2 - DEBUG - Test Loss: 187.96244394779205
+2024-10-21 20:54:07,313 - Eval_20_student2 - INFO - Test time: 15.50 seconds
+2024-10-21 20:54:07,538 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 46
+2024-10-21 20:54:07,538 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:54:07,538 - Eval_20_student2 - DEBUG - Epoch time: 35.09 seconds
+2024-10-21 20:54:07,540 - Eval_20_student2 - DEBUG - Epoch: 47, learning rate: 0.0001
+2024-10-21 20:54:26,949 - Eval_20_student2 - DEBUG - Train Accuracy: 83.91%
+2024-10-21 20:54:26,950 - Eval_20_student2 - DEBUG - Train Loss: 148.7081823348999
+2024-10-21 20:54:26,950 - Eval_20_student2 - INFO - Train time: 19.41 seconds
+2024-10-21 20:54:42,678 - Eval_20_student2 - DEBUG - Test Accuracy: 79.88%
+2024-10-21 20:54:42,678 - Eval_20_student2 - DEBUG - Test Loss: 186.72713208198547
+2024-10-21 20:54:42,678 - Eval_20_student2 - INFO - Test time: 15.73 seconds
+2024-10-21 20:54:42,935 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 47
+2024-10-21 20:54:42,935 - Eval_20_student2 - INFO - loss decreased (186.727132 --> 186.727132).
+2024-10-21 20:54:42,935 - Eval_20_student2 - DEBUG - Epoch time: 35.40 seconds
+2024-10-21 20:54:42,937 - Eval_20_student2 - DEBUG - Epoch: 48, learning rate: 0.0001
+2024-10-21 20:55:02,669 - Eval_20_student2 - DEBUG - Train Accuracy: 83.26%
+2024-10-21 20:55:02,670 - Eval_20_student2 - DEBUG - Train Loss: 148.11444079875946
+2024-10-21 20:55:02,670 - Eval_20_student2 - INFO - Train time: 19.73 seconds
+2024-10-21 20:55:18,650 - Eval_20_student2 - DEBUG - Test Accuracy: 79.65%
+2024-10-21 20:55:18,650 - Eval_20_student2 - DEBUG - Test Loss: 186.4177759885788
+2024-10-21 20:55:18,651 - Eval_20_student2 - INFO - Test time: 15.98 seconds
+2024-10-21 20:55:19,219 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 48
+2024-10-21 20:55:19,219 - Eval_20_student2 - INFO - loss decreased (186.417776 --> 186.417776).
+2024-10-21 20:55:19,219 - Eval_20_student2 - DEBUG - Epoch time: 36.28 seconds
+2024-10-21 20:55:19,221 - Eval_20_student2 - DEBUG - Epoch: 49, learning rate: 0.0001
+2024-10-21 20:55:39,147 - Eval_20_student2 - DEBUG - Train Accuracy: 83.57%
+2024-10-21 20:55:39,147 - Eval_20_student2 - DEBUG - Train Loss: 148.0949324965477
+2024-10-21 20:55:39,147 - Eval_20_student2 - INFO - Train time: 19.93 seconds
+2024-10-21 20:55:54,910 - Eval_20_student2 - DEBUG - Test Accuracy: 80.42%
+2024-10-21 20:55:54,911 - Eval_20_student2 - DEBUG - Test Loss: 183.717675447464
+2024-10-21 20:55:54,911 - Eval_20_student2 - INFO - Test time: 15.76 seconds
+2024-10-21 20:55:55,221 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 49
+2024-10-21 20:55:55,221 - Eval_20_student2 - INFO - loss decreased (183.717675 --> 183.717675).
+2024-10-21 20:55:55,221 - Eval_20_student2 - DEBUG - Epoch time: 36.00 seconds
+2024-10-21 20:55:55,223 - Eval_20_student2 - DEBUG - Epoch: 50, learning rate: 0.0001
+2024-10-21 20:56:14,378 - Eval_20_student2 - DEBUG - Train Accuracy: 84.45%
+2024-10-21 20:56:14,378 - Eval_20_student2 - DEBUG - Train Loss: 147.1828449368477
+2024-10-21 20:56:14,378 - Eval_20_student2 - INFO - Train time: 19.16 seconds
+2024-10-21 20:56:29,584 - Eval_20_student2 - DEBUG - Test Accuracy: 79.11%
+2024-10-21 20:56:29,584 - Eval_20_student2 - DEBUG - Test Loss: 185.6274642944336
+2024-10-21 20:56:29,584 - Eval_20_student2 - INFO - Test time: 15.21 seconds
+2024-10-21 20:56:29,854 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 50
+2024-10-21 20:56:29,854 - Eval_20_student2 - INFO - EarlyStopping counter: 1 out of 10
+2024-10-21 20:56:29,854 - Eval_20_student2 - DEBUG - Epoch time: 34.63 seconds
+2024-10-21 20:56:29,856 - Eval_20_student2 - DEBUG - Epoch: 51, learning rate: 0.0001
+2024-10-21 20:56:48,877 - Eval_20_student2 - DEBUG - Train Accuracy: 84.86%
+2024-10-21 20:56:48,877 - Eval_20_student2 - DEBUG - Train Loss: 146.73342537879944
+2024-10-21 20:56:48,877 - Eval_20_student2 - INFO - Train time: 19.02 seconds
+2024-10-21 20:57:04,003 - Eval_20_student2 - DEBUG - Test Accuracy: 79.14%
+2024-10-21 20:57:04,003 - Eval_20_student2 - DEBUG - Test Loss: 184.86567616462708
+2024-10-21 20:57:04,004 - Eval_20_student2 - INFO - Test time: 15.13 seconds
+2024-10-21 20:57:04,292 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 51
+2024-10-21 20:57:04,292 - Eval_20_student2 - INFO - EarlyStopping counter: 2 out of 10
+2024-10-21 20:57:04,292 - Eval_20_student2 - DEBUG - Epoch time: 34.44 seconds
+2024-10-21 20:57:04,296 - Eval_20_student2 - DEBUG - Epoch: 52, learning rate: 0.0001
+2024-10-21 20:57:23,599 - Eval_20_student2 - DEBUG - Train Accuracy: 84.36%
+2024-10-21 20:57:23,599 - Eval_20_student2 - DEBUG - Train Loss: 146.84420102834702
+2024-10-21 20:57:23,600 - Eval_20_student2 - INFO - Train time: 19.30 seconds
+2024-10-21 20:57:38,949 - Eval_20_student2 - DEBUG - Test Accuracy: 81.81%
+2024-10-21 20:57:38,949 - Eval_20_student2 - DEBUG - Test Loss: 185.05437088012695
+2024-10-21 20:57:38,949 - Eval_20_student2 - INFO - Test time: 15.35 seconds
+2024-10-21 20:57:39,282 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 52
+2024-10-21 20:57:39,282 - Eval_20_student2 - INFO - EarlyStopping counter: 3 out of 10
+2024-10-21 20:57:39,283 - Eval_20_student2 - DEBUG - Epoch time: 34.99 seconds
+2024-10-21 20:57:39,285 - Eval_20_student2 - DEBUG - Epoch: 53, learning rate: 0.0001
+2024-10-21 20:57:58,415 - Eval_20_student2 - DEBUG - Train Accuracy: 83.87%
+2024-10-21 20:57:58,415 - Eval_20_student2 - DEBUG - Train Loss: 146.5271993279457
+2024-10-21 20:57:58,415 - Eval_20_student2 - INFO - Train time: 19.13 seconds
+2024-10-21 20:58:13,576 - Eval_20_student2 - DEBUG - Test Accuracy: 81.50%
+2024-10-21 20:58:13,576 - Eval_20_student2 - DEBUG - Test Loss: 185.26757383346558
+2024-10-21 20:58:13,576 - Eval_20_student2 - INFO - Test time: 15.16 seconds
+2024-10-21 20:58:13,844 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 53
+2024-10-21 20:58:13,844 - Eval_20_student2 - INFO - EarlyStopping counter: 4 out of 10
+2024-10-21 20:58:13,844 - Eval_20_student2 - DEBUG - Epoch time: 34.56 seconds
+2024-10-21 20:58:13,846 - Eval_20_student2 - DEBUG - Epoch: 54, learning rate: 0.0001
+2024-10-21 20:58:32,812 - Eval_20_student2 - DEBUG - Train Accuracy: 84.49%
+2024-10-21 20:58:32,812 - Eval_20_student2 - DEBUG - Train Loss: 146.17628782987595
+2024-10-21 20:58:32,812 - Eval_20_student2 - INFO - Train time: 18.97 seconds
+2024-10-21 20:58:47,944 - Eval_20_student2 - DEBUG - Test Accuracy: 80.62%
+2024-10-21 20:58:47,944 - Eval_20_student2 - DEBUG - Test Loss: 184.47028601169586
+2024-10-21 20:58:47,944 - Eval_20_student2 - INFO - Test time: 15.13 seconds
+2024-10-21 20:58:48,250 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 54
+2024-10-21 20:58:48,251 - Eval_20_student2 - INFO - EarlyStopping counter: 5 out of 10
+2024-10-21 20:58:48,251 - Eval_20_student2 - DEBUG - Epoch time: 34.41 seconds
+2024-10-21 20:58:48,253 - Eval_20_student2 - DEBUG - Epoch: 55, learning rate: 0.0001
+2024-10-21 20:59:06,613 - Eval_20_student2 - DEBUG - Train Accuracy: 84.36%
+2024-10-21 20:59:06,613 - Eval_20_student2 - DEBUG - Train Loss: 146.02924597263336
+2024-10-21 20:59:06,613 - Eval_20_student2 - INFO - Train time: 18.36 seconds
+2024-10-21 20:59:21,482 - Eval_20_student2 - DEBUG - Test Accuracy: 80.89%
+2024-10-21 20:59:21,482 - Eval_20_student2 - DEBUG - Test Loss: 185.40648245811462
+2024-10-21 20:59:21,482 - Eval_20_student2 - INFO - Test time: 14.87 seconds
+2024-10-21 20:59:21,917 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 55
+2024-10-21 20:59:21,918 - Eval_20_student2 - INFO - EarlyStopping counter: 6 out of 10
+2024-10-21 20:59:21,918 - Eval_20_student2 - DEBUG - Epoch time: 33.67 seconds
+2024-10-21 20:59:21,920 - Eval_20_student2 - DEBUG - Epoch: 56, learning rate: 0.0001
+2024-10-21 20:59:40,356 - Eval_20_student2 - DEBUG - Train Accuracy: 84.32%
+2024-10-21 20:59:40,357 - Eval_20_student2 - DEBUG - Train Loss: 145.38797801733017
+2024-10-21 20:59:40,357 - Eval_20_student2 - INFO - Train time: 18.44 seconds
+2024-10-21 20:59:55,160 - Eval_20_student2 - DEBUG - Test Accuracy: 80.64%
+2024-10-21 20:59:55,160 - Eval_20_student2 - DEBUG - Test Loss: 184.73926663398743
+2024-10-21 20:59:55,160 - Eval_20_student2 - INFO - Test time: 14.80 seconds
+2024-10-21 20:59:55,504 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 56
+2024-10-21 20:59:55,504 - Eval_20_student2 - INFO - EarlyStopping counter: 7 out of 10
+2024-10-21 20:59:55,504 - Eval_20_student2 - DEBUG - Epoch time: 33.59 seconds
+2024-10-21 20:59:55,506 - Eval_20_student2 - DEBUG - Epoch: 57, learning rate: 0.0001
+2024-10-21 21:00:14,040 - Eval_20_student2 - DEBUG - Train Accuracy: 85.76%
+2024-10-21 21:00:14,040 - Eval_20_student2 - DEBUG - Train Loss: 145.21484565734863
+2024-10-21 21:00:14,040 - Eval_20_student2 - INFO - Train time: 18.53 seconds
+2024-10-21 21:00:29,119 - Eval_20_student2 - DEBUG - Test Accuracy: 81.05%
+2024-10-21 21:00:29,119 - Eval_20_student2 - DEBUG - Test Loss: 184.65602111816406
+2024-10-21 21:00:29,119 - Eval_20_student2 - INFO - Test time: 15.08 seconds
+2024-10-21 21:00:29,389 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 57
+2024-10-21 21:00:29,389 - Eval_20_student2 - INFO - EarlyStopping counter: 8 out of 10
+2024-10-21 21:00:29,389 - Eval_20_student2 - DEBUG - Epoch time: 33.88 seconds
+2024-10-21 21:00:29,391 - Eval_20_student2 - DEBUG - Epoch: 58, learning rate: 0.0001
+2024-10-21 21:00:48,581 - Eval_20_student2 - DEBUG - Train Accuracy: 85.47%
+2024-10-21 21:00:48,581 - Eval_20_student2 - DEBUG - Train Loss: 144.7068549990654
+2024-10-21 21:00:48,581 - Eval_20_student2 - INFO - Train time: 19.19 seconds
+2024-10-21 21:01:03,639 - Eval_20_student2 - DEBUG - Test Accuracy: 81.88%
+2024-10-21 21:01:03,640 - Eval_20_student2 - DEBUG - Test Loss: 187.56093835830688
+2024-10-21 21:01:03,640 - Eval_20_student2 - INFO - Test time: 15.06 seconds
+2024-10-21 21:01:03,917 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 58
+2024-10-21 21:01:03,917 - Eval_20_student2 - INFO - EarlyStopping counter: 9 out of 10
+2024-10-21 21:01:03,917 - Eval_20_student2 - DEBUG - Epoch time: 34.53 seconds
+2024-10-21 21:01:03,919 - Eval_20_student2 - DEBUG - Epoch: 59, learning rate: 0.0001
+2024-10-21 21:01:22,762 - Eval_20_student2 - DEBUG - Train Accuracy: 84.67%
+2024-10-21 21:01:22,762 - Eval_20_student2 - DEBUG - Train Loss: 144.8565435409546
+2024-10-21 21:01:22,762 - Eval_20_student2 - INFO - Train time: 18.84 seconds
+2024-10-21 21:01:37,856 - Eval_20_student2 - DEBUG - Test Accuracy: 81.36%
+2024-10-21 21:01:37,857 - Eval_20_student2 - DEBUG - Test Loss: 184.09029912948608
+2024-10-21 21:01:37,857 - Eval_20_student2 - INFO - Test time: 15.09 seconds
+2024-10-21 21:01:38,151 - Eval_20_student2 - DEBUG - Model saved successfully at epoch 59
+2024-10-21 21:01:38,152 - Eval_20_student2 - INFO - EarlyStopping counter: 10 out of 10
+2024-10-21 21:01:38,152 - Eval_20_student2 - INFO - Early stopping triggered. Ending training.
+2024-10-21 21:01:38,152 - Eval_20_student2 - DEBUG - train acc list: [51.38671875000001, 53.359375, 54.78515625, 54.84375, 57.91015625, 59.68750000000001, 60.27343750000001, 60.91796874999999, 63.37890625, 63.61328125, 65.68359375, 67.28515625, 67.75390625, 69.62890625, 70.859375, 71.6796875, 73.1640625, 73.2421875, 74.453125, 74.58984375, 74.6875, 76.2109375, 76.23046875, 76.6015625, 77.890625, 77.87109375, 77.8515625, 78.22265625, 79.53125, 79.66796875, 80.13671875, 79.39453125, 80.41015625, 81.0546875, 81.30859375, 81.2109375, 81.2890625, 81.484375, 81.46484375, 81.9140625, 81.875, 82.109375, 82.24609375, 83.45703125, 83.671875, 83.61328125, 84.296875, 83.90625, 83.26171875, 83.57421875, 84.453125, 84.86328125, 84.35546875, 83.8671875, 84.4921875, 84.35546875, 84.31640625, 85.76171875, 85.46875, 84.66796875]
+2024-10-21 21:01:38,152 - Eval_20_student2 - DEBUG - test acc list: [58.45323741007194, 58.88039568345324, 59.26258992805755, 60.67895683453237, 61.98291366906474, 62.5, 62.882194244604314, 63.826438848920866, 65.49010791366906, 65.93974820143885, 67.73830935251799, 67.51348920863309, 67.87320143884892, 68.70503597122301, 69.87410071942446, 70.39118705035972, 70.63848920863309, 70.99820143884892, 73.06654676258992, 71.35791366906474, 72.79676258992805, 73.26888489208633, 73.67356115107914, 73.69604316546763, 75.0, 75.35971223021582, 74.55035971223022, 75.40467625899281, 75.78687050359713, 76.46133093525181, 76.50629496402878, 76.64118705035972, 76.59622302158273, 77.18075539568345, 78.79946043165468, 78.32733812949641, 78.77697841726618, 78.75449640287769, 77.63039568345323, 77.94514388489209, 78.23741007194245, 79.1591726618705, 80.26079136690647, 78.59712230215827, 78.52967625899281, 80.2158273381295, 79.83363309352518, 79.87859712230215, 79.65377697841727, 80.4181654676259, 79.11420863309353, 79.13669064748201, 81.81205035971223, 81.49730215827337, 80.62050359712231, 80.89028776978418, 80.64298561151078, 81.04766187050359, 81.87949640287769, 81.36241007194245]
+2024-10-21 21:01:38,152 - Eval_20_student2 - DEBUG - train_loss:  [179.09236562252045, 177.83578515052795, 176.56367313861847, 176.41670536994934, 174.95184814929962, 174.2959829568863, 173.77925896644592, 172.56029427051544, 171.95685803890228, 171.38198852539062, 170.39334094524384, 169.63095688819885, 169.10735750198364, 168.19499170780182, 167.26793026924133, 166.53794878721237, 165.64066302776337, 165.17755472660065, 164.49888414144516, 163.5398536324501, 163.1548917889595, 162.22270411252975, 161.54075634479523, 161.01984232664108, 160.21530097723007, 159.5475161075592, 159.02537244558334, 158.60418128967285, 157.6017918586731, 157.61086559295654, 156.42951810359955, 156.3901668190956, 155.77592819929123, 155.12838089466095, 154.22560197114944, 154.0705133676529, 153.42570132017136, 153.00145930051804, 152.65591192245483, 151.79170161485672, 151.46296912431717, 151.0548380613327, 150.64232963323593, 150.32274359464645, 149.61361330747604, 149.04372584819794, 148.5309156179428, 148.7081823348999, 148.11444079875946, 148.0949324965477, 147.1828449368477, 146.73342537879944, 146.84420102834702, 146.5271993279457, 146.17628782987595, 146.02924597263336, 145.38797801733017, 145.21484565734863, 144.7068549990654, 144.8565435409546]
+2024-10-21 21:01:38,152 - Eval_20_student2 - DEBUG - test_loss:  [220.7953007221222, 217.65320444107056, 214.17308282852173, 216.145157456398, 214.80674040317535, 213.5177230834961, 214.8780356645584, 212.63750874996185, 213.52585005760193, 211.56002688407898, 210.09515690803528, 209.98845779895782, 210.8379898071289, 208.06943595409393, 208.659081697464, 206.07298696041107, 207.20645022392273, 206.74901676177979, 203.7626247406006, 204.49259769916534, 205.4354338645935, 203.5909194946289, 202.14883303642273, 199.94073140621185, 200.11115765571594, 198.34328603744507, 198.91080796718597, 198.767343044281, 199.05207312107086, 197.1125167608261, 196.13391745090485, 195.46747469902039, 196.12721395492554, 192.41588163375854, 195.78613138198853, 194.55107045173645, 195.8676359653473, 190.32293391227722, 192.0924664735794, 191.68703174591064, 192.22305405139923, 192.17326319217682, 190.7015482187271, 189.55528378486633, 187.11470651626587, 189.10116386413574, 187.96244394779205, 186.72713208198547, 186.4177759885788, 183.717675447464, 185.6274642944336, 184.86567616462708, 185.05437088012695, 185.26757383346558, 184.47028601169586, 185.40648245811462, 184.73926663398743, 184.65602111816406, 187.56093835830688, 184.09029912948608]
+2024-10-21 21:01:38,152 - Eval_20_student2 - DEBUG - PLOT_EPOCH 59
+2024-10-21 21:01:38,152 - Eval_20_student2 - DEBUG - learning rates: [0.0001, 9.997779521645793e-05, 9.991120277927223e-05, 9.980028840713861e-05, 9.964516155915153e-05, 9.944597532678122e-05, 9.920292628279102e-05, 9.891625428724366e-05, 9.858624225078842e-05, 9.821321585546247e-05, 9.779754323328194e-05, 9.733963460294018e-05, 9.683994186497135e-05, 9.629895815577918e-05, 9.571721736097092e-05, 9.509529358847659e-05, 9.44338006019739e-05, 9.373339121517751e-05, 9.299475664759073e-05, 9.221862584235533e-05, 9.140576474687269e-05, 9.055697555690611e-05, 8.967309592491056e-05, 8.875499813337073e-05, 8.780358823396356e-05, 8.681980515339468e-05, 8.580461976679104e-05, 8.475903393956438e-05, 8.368407953869108e-05, 8.2580817414384e-05, 8.145033635316135e-05, 8.029375200334593e-05, 7.91122057740549e-05, 7.790686370876676e-05, 7.667891533457723e-05, 7.542957248827965e-05, 7.416006812042832e-05, 7.287165507856518e-05, 7.156560487081057e-05, 7.024320641103818e-05, 6.89057647468727e-05, 6.755459977176539e-05, 6.619104492241852e-05, 6.481644586284449e-05, 6.343215915635769e-05, 6.203955092681047e-05, 6.063999551039378e-05, 5.923487409933322e-05, 5.7825573378819186e-05, 5.6413484158515854e-05, 5.5000000000000076e-05, 5.35865158414843e-05, 5.217442662118097e-05, 5.076512590066692e-05, 4.9360004489606375e-05, 4.796044907318967e-05, 4.6567840843642445e-05, 4.518355413715565e-05, 4.380895507758158e-05, 4.2445400228234734e-05]

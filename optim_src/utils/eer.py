@@ -6,6 +6,7 @@ from torch.nn.functional import cosine_similarity
 import os
 
 from datasets.datawrapper import DatasetWrapper
+from models.vit import ViTEmbeddingsAdaptive
 
 
 # https://stackoverflow.com/questions/65230811/correct-compute-of-equal-error-rate-value
@@ -65,7 +66,9 @@ def eval_and_get_eer(model_name, model, morph, device, args, saving_dir, logger)
     eer = None
     genuine_scores = []
     imposter_scores = []
-    if args.isferet and os.path.exists(f"logs/scores/{model_name}/genuine_{model_name}_{morph}_feret.npy"):
+    if args.isferet and os.path.exists(
+        f"logs/scores/{model_name}/genuine_{model_name}_{morph}_feret.npy"
+    ):
         genuine_scores = np.load(
             f"logs/scores/{model_name}/genuine_{model_name}_{morph}_feret.npy"
         )
@@ -89,6 +92,10 @@ def eval_and_get_eer(model_name, model, morph, device, args, saving_dir, logger)
                 trainds, position=args.process_num
             ):
                 enroll_batch = enroll_batch.to(device)
+                # if isinstance(model, ViTEmbeddingsAdaptive):
+                #     print(type(model))
+                #     enroll_features, adapter_preds, embds = model(enroll_batch)
+                # else:
                 enroll_features, embds = model(enroll_batch)
                 enroll_features_list.append(enroll_features.cpu())
                 enroll_labels = torch.argmax(enroll_labels, dim=1)
@@ -99,6 +106,10 @@ def eval_and_get_eer(model_name, model, morph, device, args, saving_dir, logger)
 
             for img_path, probe_batch, probe_labels in tqdm(testds):
                 probe_batch = probe_batch.to(device)
+                print(type(model))
+                # if isinstance(model, ViTEmbeddingsAdaptive):
+                #     probe_features, adapter_preds, embds = model(probe_batch)
+                # else:
                 probe_features, embds = model(probe_batch)
                 probe_labels = torch.argmax(probe_labels, dim=1)
 

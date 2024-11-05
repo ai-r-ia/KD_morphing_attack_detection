@@ -4,7 +4,8 @@ import torch
 import pickle
 from itertools import combinations
 
-from models.vit import ViTEmbeddings
+from models.resnet import ResNet34Embeddings, ResNet34EmbeddingsAdaptive
+from models.vit import ViTEmbeddings, ViTEmbeddingsAdaptive
 from utils.eer import compute_eer
 from utils.plots import plot_combined_hist, plot_eer_bars, plot_hists
 from configs.configs import get_logger, create_parser
@@ -64,7 +65,7 @@ def eval(args):
     teacher1 = ViTEmbeddings()
     teacher1.load_state_dict(
         torch.load(
-            f"logs/teachers/checkpoints/teacher_0.0001_{types[0]}.pt",
+            f"logs/teachers_lr_vit/checkpoints/teacher_0.0001_{types[0]}.pt",
             weights_only=True,
         )["model_state_dict"]
     )
@@ -72,7 +73,7 @@ def eval(args):
     teacher2 = ViTEmbeddings()
     teacher2.load_state_dict(
         torch.load(
-            f"logs/teachers/checkpoints/teacher_0.0001_{types[1]}.pt",
+            f"logs/teachers_lr_vit/checkpoints/teacher_0.0001_{types[1]}.pt",
             weights_only=True,
         )["model_state_dict"]
     )
@@ -85,15 +86,19 @@ def eval(args):
     #     )["model_state_dict"]
     # )
 
-    base_morphs = args.teacher_morphs.replace(".", "_")
-    if args.student_morph in ["lmaubo", "lma", "post_process"]:
-        base_morphs = "lmaubo_lma_post_process"
-    if args.student_morph in ["mipgan2", "stylegan", "Morphing_Diffusion_2024"]:
-        base_morphs = "mipgan2_stylegan_Morphing_Diffusion_2024"
+    teacher_morphs = args.teacher_morphs.split(".")
+    # if args.student_morph in ["lmaubo", "lma", "post_process"]:
+    if set(teacher_morphs).issubset(set(["lmaubo", "lma", "post_process"])):
+        base_morphs = "post_process.lmaubo.lma"
+    # if args.student_morph in ["mipgan2", "stylegan", "Morphing_Diffusion_2024"]:
+    if set(teacher_morphs).issubset(
+        set(["mipgan2", "stylegan", "Morphing_Diffusion_2024"])
+    ):
+        base_morphs = "Morphing_Diffusion_2024.mipgan2.stylegan"
     baseline = ViTEmbeddings()
     baseline.load_state_dict(
         torch.load(
-            f"logs/baseline/checkpoints/baseline_0.0001_{base_morphs}.pt",
+            f"logs/baseline_lr_cmbd_vit/checkpoints/baseline_0.0001_{base_morphs}.pt",
             weights_only=True,
         )["model_state_dict"]
     )
@@ -113,7 +118,7 @@ def eval(args):
         students.append(ViTEmbeddings())
         students[i].load_state_dict(
             torch.load(
-                f"logs/Eval_{args.eval_number}/student2/checkpoints/student2_0.01_{args.student_morph}_lmbd_{loss_lambda}_t1_{types[0]}.pt",
+                f"logs/Eval_{args.eval_number}/student2/checkpoints/student_0.001_{args.student_morph}_lmbd_{loss_lambda}_t1_teacher_{types[0]}.pt",
                 weights_only=True,
             )["model_state_dict"]
         )

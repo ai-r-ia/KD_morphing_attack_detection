@@ -6,7 +6,9 @@ from typing import List, Any
 import albumentations as A
 from sympy import root
 from torch.utils.data import DataLoader
-
+from PIL import Image
+import io
+import torch
 
 from datasets.dataset import DataItem, DatasetGenerator
 
@@ -80,6 +82,9 @@ class DatasetWrapper:
                 A.RandomBrightnessContrast(p=0.2),
                 A.InvertImg(p=0.05),
                 A.PixelDropout(p=0.02),
+                RandomJPEGCompressionAlbumentations(
+                    quality_min=50, quality_max=100, p=0.5
+                ),
             ]
         )
 
@@ -142,18 +147,28 @@ class DatasetWrapper:
     ):
         data: List[DataItem] = []
         morphs = morph_type.split(".")
-        for label, cid in enumerate(self.CLASS_NAMES):
-            for morph in morphs:
+        for morph in morphs:
+            for label, cid in enumerate(self.CLASS_NAMES):
+                if morph == "post_process":
+                    print(self.morph_dir)
+                    self.morph_dir = (
+                        "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
+                    )
+                    print(self.morph_dir)
+                # print(f"morph_dir = {self.morph_dir}")
+
                 augment_count = (
                     augment_times * 2 if cid == "bonafide" else augment_times
                 )
                 root_dir = self.root_dir
                 if cid == "morph":
-                    cid = f"morph/{morph_type}"
+                    cid = f"morph/{morph}"
                     if self.morph_dir != self.root_dir:
                         root_dir = self.morph_dir
                         cid = ""
+                        self.morph_dir = self.root_dir
 
+                # print(f"root dir: {root_dir}")
                 print(os.path.join(root_dir, cid, split_type))
                 data.extend(
                     self.loop_through_dir(
@@ -162,7 +177,8 @@ class DatasetWrapper:
                         augment_count,
                     )
                 )
-                print(len(data))
+
+                # print(len(data))
 
         return DataLoader(
             DatasetGenerator(data, self.transform, self.augment),
@@ -204,3 +220,86 @@ class DatasetWrapper:
         return self.get_dataset(
             "test", augment_times, batch_size, morph_type, shuffle, num_workers
         )
+
+
+class RandomJPEGCompression(object):
+    def __init__(self, quality_min=30, quality_max=90, p=0.5):
+        assert 0 <= quality_min <= 100 and 0 <= quality_max <= 100
+        self.quality_min = quality_min
+        self.quality_max = quality_max
+        self.p = p
+
+    def __call__(self, img):
+        if np.random.rand(1) > self.p:
+            return img
+        # Choose a random quality for JPEG compression
+        quality = np.random.randint(self.quality_min, self.quality_max)
+
+        # Save the image to a bytes buffer using JPEG format
+        buffer = io.BytesIO()
+        img.save(buffer, format="JPEG", quality=quality)
+
+        # Reload the image from the buffer
+        img = Image.open(buffer)
+        return img
+
+
+# class RandomJPEGCompressionAlbumentations(A.ImageOnlyTransform):
+#     def __init__(self, quality_min=30, quality_max=90, p=0.5, always_apply=False):
+#         super(RandomJPEGCompressionAlbumentations, self).__init__(p, always_apply)
+#         assert 0 <= quality_min <= 100 and 0 <= quality_max <= 100
+#         self.quality_min = quality_min
+#         self.quality_max = quality_max
+
+#     def apply(self, img, **params):
+#         # Randomly select a JPEG quality
+#         quality = np.random.randint(self.quality_min, self.quality_max)
+
+#         # Apply JPEG compression to the image
+#         buffer = io.BytesIO()
+#         # print(f"uegfruyjsegf {type(img)}")
+#         img = (img * 255).astype(np.uint8)
+#         img_reshaped = img.reshape((224, 224, 3))
+#         pil_img = Image.fromarray(img_reshaped)  # Convert numpy image to PIL
+#         pil_img.save(buffer, format="JPEG", quality=quality)
+
+#         # Reload the image from the buffer
+#         buffer.seek(0)
+#         img = np.array(Image.open(buffer))
+#         # img = torch.tensor(img).permute(2, 0, 1)
+#         return img
+
+
+class RandomJPEGCompressionAlbumentations(A.ImageOnlyTransform):
+    def __init__(self, quality_min=30, quality_max=90, p=0.5, always_apply=False):
+        super(RandomJPEGCompressionAlbumentations, self).__init__(p, always_apply)
+        assert 0 <= quality_min <= 100 and 0 <= quality_max <= 100
+        self.quality_min = quality_min
+        self.quality_max = quality_max
+
+    def apply(self, img, **params):
+        # Randomly select a JPEG quality
+        quality = np.random.randint(self.quality_min, self.quality_max)
+
+        # Apply JPEG compression to the image
+        buffer = io.BytesIO()
+
+        # Ensure the input image is uint8 type before saving
+        img = (img * 255).astype(np.uint8)
+
+        # Ensure the image is in [H, W, C] format for saving as JPEG
+        if img.ndim == 3 and img.shape[0] == 3:
+            img = img.transpose(1, 2, 0)  # Convert from [C, H, W] to [H, W, C]
+
+        pil_img = Image.fromarray(img)  # Convert numpy image to PIL
+        pil_img.save(buffer, format="JPEG", quality=quality)
+
+        # Reload the image from the buffer
+        buffer.seek(0)
+        img = np.array(Image.open(buffer))
+
+        # Convert back to [C, H, W] format
+        img = img.transpose(2, 0, 1)
+        img = img.astype(np.float32) / 255.0
+
+        return img

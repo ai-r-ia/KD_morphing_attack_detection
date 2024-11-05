@@ -2,22 +2,22 @@ import os
 from typing import List, Tuple
 from torch.utils.data import DataLoader
 import torch
-from torch.optim import SGD
+from torch.optim import SGD, AdamW
 from torch.nn import CrossEntropyLoss
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from tqdm import tqdm
 import time
 
 from configs.configs import get_logger, create_parser
+from models.resnet import ResNet34Embeddings
 from utils.early_stopping import EarlyStopping
 from utils.plots import plot_charts
 from models.vit import ViTEmbeddings
 from datasets.datawrapper import DatasetWrapper
 from train_classifier import train_classifier
 
-def get_teacher_dataloaders(
-    args
-) -> Tuple[List[DataLoader], List[DataLoader]]:
+
+def get_teacher_dataloaders(args) -> Tuple[List[DataLoader], List[DataLoader]]:
     train_dataloaders = []
     test_dataloaders = []
     morphs = args.teacher_morphs.split(".")
@@ -42,23 +42,40 @@ def get_teacher_dataloaders(
         test_dataloaders.append(testds)
     return train_dataloaders, test_dataloaders
 
+
 def train(args):
-    logger = get_logger("baseline_lr")
+    logger = get_logger("baseline_lr_cmbd_vit")
     logger.info(f"train_baseline {args.morphtype}")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     early_stopping = EarlyStopping(logger=logger)
 
     wrapper = DatasetWrapper(args.root_dir, args.morphtype, morph_dir=args.morph_dir)
     trainds = wrapper.get_train_dataset(
-        2, args.batch_size, morph_type=args.teacher_morphs, shuffle=True, num_workers=8
+        2,
+        args.batch_size,
+        morph_type=args.teacher_morphs,
+        shuffle=True,
+        num_workers=8,
+        multiple=True,
     )
     testds = wrapper.get_test_dataset(
-        2, args.batch_size, morph_type=args.teacher_morphs, shuffle=True, num_workers=8
+        2,
+        args.batch_size,
+        morph_type=args.teacher_morphs,
+        shuffle=True,
+        num_workers=8,
+        multiple=True,
     )
 
     loss_fn = CrossEntropyLoss()
     model = ViTEmbeddings()
+    # model = ResNet34Embeddings()
     optim = SGD([p for p in model.parameters() if p.requires_grad], args.learning_rate)
+    # optim = AdamW(
+    #     [p for p in model.parameters() if p.requires_grad],
+    #     args.learning_rate,
+    #     weight_decay=0.05,
+    # )
     scheduler = CosineAnnealingLR(optim, T_max=args.epochs, eta_min=1e-5)
     # Landmark based - Ima, lmaubo, post process
     # GAN - stylegen,  mipgan2,  morphing diffusion 2024, ___cvmi, mipgan1,
@@ -66,10 +83,10 @@ def train(args):
 
     # train_dataloaders, test_dataloaders = get_teacher_dataloaders(args)
 
-    dir_path = "logs/baseline_lr_cmbd/checkpoints"
+    dir_path = "logs/baseline_lr_cmbd_vit/checkpoints"
     os.makedirs(dir_path, exist_ok=True)
 
-    chk_pt_path = f"{dir_path}/{args.model_name}_{args.learning_rate}_{args.teacher_morphs}_{args.morphtype}.pt"
+    chk_pt_path = f"{dir_path}/{args.model_name}_{args.learning_rate}_{args.teacher_morphs}.pt"
 
     validation_after = 1
     training_loss_list = []
@@ -90,11 +107,10 @@ def train(args):
         mor_correct = 0
         mor_incorrect = 0
         train_loss: float = 0.0
-        total_train_samples = 0 
+        total_train_samples = 0
 
         logger.debug(f"Epoch: {epoch},learning rate: {args.learning_rate}")
 
-        
         train_start_time = time.time()
         for image_path, x, y in tqdm(trainds, desc="training"):
             x, y = x.to(device), y.to(device)
@@ -204,7 +220,7 @@ def train(args):
     logger.debug(f"learning rates: {lrs}")
 
     # Plot charts for accuracy and loss
-    dir_path_charts = "logs/baseline_lr_cmbd/charts"
+    dir_path_charts = "logs/baseline_lr_cmbd_vit/charts"
     args.morphtype = f"{args.morphtype}_{args.teacher_morphs}"
     plot_charts(
         train_accuracy_list,

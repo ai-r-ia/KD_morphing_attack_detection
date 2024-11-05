@@ -4,8 +4,10 @@ import numpy as np
 import os
 
 from datasets.datawrapper import DatasetWrapper
+from models.resnet import ResNet34Embeddings
 from models.vit import ViTEmbeddings
 from configs.configs import create_parser, get_logger
+
 
 def save_single_teacher_embds(
     morph: str,
@@ -19,7 +21,8 @@ def save_single_teacher_embds(
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     teacher_model = ViTEmbeddings(only_embeddings=True)
-    chk_pt_path_tchr = f"logs/teachers/checkpoints/teacher_0.0001_{morph}.pt"
+    # teacher_model = ResNet34Embeddings(only_embeddings=True)
+    chk_pt_path_tchr = f"logs/teachers_lr_vit_100/checkpoints/teacher_0.0001_{morph}.pt"
     checkpoint = torch.load(chk_pt_path_tchr, weights_only=True)
     teacher_model.load_state_dict(checkpoint["model_state_dict"], strict=False)
     teacher_model.to(device)
@@ -31,6 +34,7 @@ def save_single_teacher_embds(
             x, y = x.to(device), y.cpu().numpy()
             embds = teacher_model(x)
             embeddings = embds.detach().cpu().numpy()
+            # print(embeddings.shape)
 
             for i in range(len(embeddings)):
                 label = "bonafide" if y[i].argmax() == 0 else "morph"
@@ -64,7 +68,7 @@ def save(args) -> None:
         args.morph_dir = "/home/ubuntu/volume/data/PostProcess_Data/digital/morph/after"
     if args.morphtype != "post_process" and morph != "post_process":
         args.morph_dir = args.root_dir
-    wrapper = DatasetWrapper(args.root_dir, args.morphtype, morph_dir= args.morph_dir)
+    wrapper = DatasetWrapper(args.root_dir, args.morphtype, morph_dir=args.morph_dir)
     trainds = wrapper.get_train_dataset(
         0, args.batch_size, morph_type=morph, shuffle=True, num_workers=8
     )
@@ -78,22 +82,10 @@ def save(args) -> None:
 
     os.makedirs(dir_path, exist_ok=True)
     save_single_teacher_embds(
-        morph,
-        dir_path,
-        trainds,
-        "train",
-        args.morphtype,
-        logger,
-        process_num
+        morph, dir_path, trainds, "train", args.morphtype, logger, process_num
     )
     save_single_teacher_embds(
-        morph,
-        dir_path,
-        testds,
-        "test",
-        args.morphtype,
-        logger,
-        process_num + 1
+        morph, dir_path, testds, "test", args.morphtype, logger, process_num + 1
     )
 
 

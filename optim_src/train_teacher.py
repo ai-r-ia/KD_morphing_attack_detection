@@ -1,13 +1,15 @@
 import os
 import torch
-from torch.optim import SGD
+from torch.optim import SGD, AdamW
+from torch.optim.adam import Adam
 from torch.nn import CrossEntropyLoss
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from tqdm import tqdm
 import time
 
-from arc_loss import ArcLoss
+from utils.arc_loss import ArcLoss
 from configs.configs import get_logger, create_parser
+from models.resnet import ResNet34Embeddings
 from utils.early_stopping import EarlyStopping
 from utils.plots import plot_charts
 from models.vit import ViTEmbeddings
@@ -16,7 +18,7 @@ from train_classifier import train_classifier
 
 
 def train(args):
-    logger = get_logger("teachers_lr")
+    logger = get_logger("teachers_lr_vit_100")
     logger.info(f"train_teacher {args.morphtype}")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     early_stopping = EarlyStopping(logger=logger)
@@ -32,9 +34,22 @@ def train(args):
     arc_loss = ArcLoss()
     loss_fn = CrossEntropyLoss()
     model = ViTEmbeddings()
+    # if args.model == 'vit':
+    #     logger.info("Model is VIT")
+    #     model = ViTEmbeddings()
+    # elif args.model == 'resnet':
+    #     logger.info("Model is Resnet34")
+    #     model = ResNet34Embeddings()
     optim = SGD([p for p in model.parameters() if p.requires_grad], args.learning_rate)
+    # optim = Adam([p for p in model.parameters() if p.requires_grad], args.learning_rate)
+    # optim = AdamW(
+    #     [p for p in model.parameters() if p.requires_grad],
+    #     args.learning_rate,
+    #     weight_decay=0.05,
+    # )
+
     scheduler = CosineAnnealingLR(optim, T_max=args.epochs, eta_min=1e-5)
-    dir_path = "logs/teachers_lr/checkpoints"
+    dir_path = "logs/teachers_lr_vit_100/checkpoints"
     os.makedirs(dir_path, exist_ok=True)
     chk_pt_path = (
         f"{dir_path}/{args.model_name}_{args.learning_rate}_{args.morphtype}.pt"
@@ -79,7 +94,8 @@ def train(args):
             bcorrect, bincorrect, mcorrect, mincorrect = train_classifier(preds, y)
             # logits = arc_loss(embds.to(device), y)
             # batchloss = loss_fn(logits, y)
-            batchloss = loss_fn(preds, y)
+            labels = torch.argmax(y, dim=1)
+            batchloss = loss_fn(preds, labels)
             # print("arcloss ", batchloss, "CSE: ", prev_loss)
             batchloss.backward()
             optim.step()
@@ -126,7 +142,11 @@ def train(args):
                     )
                     # logits = arc_loss(embds.to(device), y)
                     # batchloss = loss_fn(logits, y)
-                    batchloss = loss_fn(preds, y)
+
+                    # batchloss = loss_fn(preds, y)
+                    labels = torch.argmax(y, dim=1)
+                    batchloss = loss_fn(preds, labels)
+
                     # print("arcloss ", batchloss, "CSE: ", prev_loss)
                     validation_loss += batchloss.detach().cpu().item()
                     bon_correct += bcorrect
@@ -183,7 +203,7 @@ def train(args):
     logger.debug(f"learning rates: {lrs}")
 
     # Plot charts for accuracy and loss
-    dir_path_charts = "logs/teachers_lr/charts"
+    dir_path_charts = "logs/teachers_lr_vit_100/charts"
     plot_charts(
         train_accuracy_list,
         test_accuracy_list,

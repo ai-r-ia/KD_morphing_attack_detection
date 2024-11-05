@@ -1,0 +1,37 @@
+2024-10-20 19:57:35,330 - Eval_14_evaluation - INFO - models: teacher_lma teacher_post_process teacher_post_process.lmaubo.lma_lma
+2024-10-20 19:57:35,410 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-20 19:58:05,719 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-20 19:58:42,901 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-20 19:59:09,471 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_lma
+2024-10-20 19:59:44,567 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-20 20:00:11,416 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-20 20:00:39,016 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-20 20:01:04,700 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-20 20:01:31,048 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-20 20:01:58,415 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-20 20:02:26,994 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-20 20:02:56,510 - Eval_14_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-20 20:03:24,174 - Eval_14_evaluation - INFO - EER Table:
+2024-10-20 20:03:24,174 - Eval_14_evaluation - INFO - teacher_lma: {'greedy': 17.01, 'lmaubo': 35.32, 'mipgan2': 14.97, 'mordiff': 29.2}
+2024-10-20 20:03:24,174 - Eval_14_evaluation - INFO - teacher_post_process: {'greedy': 16.2, 'lmaubo': 16.51, 'mipgan2': 16.44, 'mordiff': 16.21}
+2024-10-20 20:03:24,174 - Eval_14_evaluation - INFO - teacher_post_process.lmaubo.lma_lma: {'greedy': 17.14, 'lmaubo': 20.99, 'mipgan2': 21.69, 'mordiff': 17.4}
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - DEER Table:
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_lma on greedy vs lmaubo: DEER = 18.3100
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_lma on greedy vs mipgan2: DEER = 2.0400
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_lma on greedy vs mordiff: DEER = 12.1900
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_lma on lmaubo vs mipgan2: DEER = 20.3500
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_lma on lmaubo vs mordiff: DEER = 6.1200
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_lma on mipgan2 vs mordiff: DEER = 14.2300
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_post_process on greedy vs lmaubo: DEER = 0.3100
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_post_process on greedy vs mipgan2: DEER = 0.2400
+2024-10-20 20:03:24,175 - Eval_14_evaluation - INFO - teacher_post_process on greedy vs mordiff: DEER = 0.0100
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process on lmaubo vs mipgan2: DEER = 0.0700
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process on lmaubo vs mordiff: DEER = 0.3000
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 0.2300
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on greedy vs lmaubo: DEER = 3.8500
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on greedy vs mipgan2: DEER = 4.5500
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on greedy vs mordiff: DEER = 0.2600
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on lmaubo vs mipgan2: DEER = 0.7000
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on lmaubo vs mordiff: DEER = 3.5900
+2024-10-20 20:03:24,176 - Eval_14_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on mipgan2 vs mordiff: DEER = 4.2900
+2024-10-20 20:12:34,900 - Eval_14_evaluation - INFO - models: teacher_lma teacher_post_process teacher_post_process.lmaubo.lma_lma

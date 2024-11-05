@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 # Define the path to the 'log' directory
-log_dir = "/home/ubuntu/volume/mad_kd/KD_morphing_attack_detection/optim_src/logs"  # Adjust this path if needed
+log_dir = "/home/ubuntu/volume/mad_kd/KD_morphing_attack_detection/optim_src/logs/Eval_28"  # Adjust this path if needed
 print("aeroh")
 
 all_feret_eers = []

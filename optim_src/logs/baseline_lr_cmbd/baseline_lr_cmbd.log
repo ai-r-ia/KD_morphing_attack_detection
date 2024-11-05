@@ -1,0 +1,1888 @@
+2024-10-18 21:19:49,501 - Eval_-1_baseline_lr_cmbd - INFO - train_baseline lma
+2024-10-18 21:19:49,615 - Eval_-1_baseline_lr_cmbd - INFO - train_baseline lma
+2024-10-18 21:21:27,965 - Eval_-1_baseline_lr_cmbd - INFO - train_baseline lma
+2024-10-18 21:21:28,034 - Eval_-1_baseline_lr_cmbd - INFO - train_baseline lma
+2024-10-18 21:23:23,597 - Eval_-1_baseline_lr_cmbd - INFO - train_baseline lma
+2024-10-18 21:23:23,624 - Eval_-1_baseline_lr_cmbd - INFO - train_baseline lma
+2024-10-18 21:23:25,957 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-18 21:23:25,979 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 0,learning rate: 0.0001
+2024-10-18 21:29:26,898 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 56.08%
+2024-10-18 21:29:26,898 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 409.9702670574188
+2024-10-18 21:29:26,898 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.94 seconds
+2024-10-18 21:29:55,967 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 58.21%
+2024-10-18 21:29:55,967 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 446.0497772693634
+2024-10-18 21:29:55,967 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 389.99 seconds
+2024-10-18 21:31:35,565 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 60.65%
+2024-10-18 21:31:35,565 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 401.9046910405159
+2024-10-18 21:31:35,565 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.67 seconds
+2024-10-18 21:31:36,080 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 0
+2024-10-18 21:31:36,080 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (401.904691 --> 401.904691).
+2024-10-18 21:31:36,080 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 490.41 seconds
+2024-10-18 21:31:36,082 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-18 21:32:18,267 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 69.28%
+2024-10-18 21:32:18,267 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 424.42746073007584
+2024-10-18 21:32:18,267 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 142.30 seconds
+2024-10-18 21:32:18,804 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 0
+2024-10-18 21:32:18,805 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (424.427461 --> 424.427461).
+2024-10-18 21:32:18,805 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 533.10 seconds
+2024-10-18 21:32:18,807 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 1,learning rate: 0.0001
+2024-10-18 21:37:26,909 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 70.25%
+2024-10-18 21:37:26,909 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 391.4532616138458
+2024-10-18 21:37:26,909 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 350.83 seconds
+2024-10-18 21:38:39,731 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 80.40%
+2024-10-18 21:38:39,731 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 397.34578108787537
+2024-10-18 21:38:39,731 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 380.92 seconds
+2024-10-18 21:39:42,211 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 78.02%
+2024-10-18 21:39:42,211 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 377.8636668920517
+2024-10-18 21:39:42,211 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 135.30 seconds
+2024-10-18 21:39:44,477 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 1
+2024-10-18 21:39:44,477 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (377.863667 --> 377.863667).
+2024-10-18 21:39:44,477 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 488.40 seconds
+2024-10-18 21:39:44,479 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-18 21:41:05,004 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 88.65%
+2024-10-18 21:41:05,004 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 366.58547431230545
+2024-10-18 21:41:05,004 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 145.27 seconds
+2024-10-18 21:41:06,866 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 1
+2024-10-18 21:41:06,866 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (366.585474 --> 366.585474).
+2024-10-18 21:41:06,866 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 528.06 seconds
+2024-10-18 21:41:06,869 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 2,learning rate: 0.0001
+2024-10-18 21:45:18,027 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 79.75%
+2024-10-18 21:45:18,027 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 362.3316583633423
+2024-10-18 21:45:18,027 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 333.55 seconds
+2024-10-18 21:47:12,203 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 92.08%
+2024-10-18 21:47:12,203 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 338.1728852689266
+2024-10-18 21:47:12,203 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 365.33 seconds
+2024-10-18 21:47:39,782 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 80.76%
+2024-10-18 21:47:39,782 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 347.87641155719757
+2024-10-18 21:47:39,782 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 141.75 seconds
+2024-10-18 21:47:41,877 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 2
+2024-10-18 21:47:41,878 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (347.876412 --> 347.876412).
+2024-10-18 21:47:41,878 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 477.40 seconds
+2024-10-18 21:47:41,881 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 3,learning rate: 0.0001
+2024-10-18 21:49:44,189 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 94.72%
+2024-10-18 21:49:44,189 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 311.3935743570328
+2024-10-18 21:49:44,189 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 151.99 seconds
+2024-10-18 21:49:47,195 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 2
+2024-10-18 21:49:47,195 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (311.393574 --> 311.393574).
+2024-10-18 21:49:47,195 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.33 seconds
+2024-10-18 21:49:47,201 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 3,learning rate: 0.0001
+2024-10-18 21:53:05,462 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 82.45%
+2024-10-18 21:53:05,463 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 334.119619846344
+2024-10-18 21:53:05,463 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 323.58 seconds
+2024-10-18 21:55:32,785 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 82.38%
+2024-10-18 21:55:32,786 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 322.3866312801838
+2024-10-18 21:55:32,786 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.32 seconds
+2024-10-18 21:55:34,561 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 3
+2024-10-18 21:55:34,561 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (322.386631 --> 322.386631).
+2024-10-18 21:55:34,561 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 472.68 seconds
+2024-10-18 21:55:34,563 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 4,learning rate: 0.0001
+2024-10-18 21:55:42,329 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 95.70%
+2024-10-18 21:55:42,329 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 292.13321313261986
+2024-10-18 21:55:42,329 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.13 seconds
+2024-10-18 21:58:24,418 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 96.19%
+2024-10-18 21:58:24,418 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 275.5198592543602
+2024-10-18 21:58:24,419 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.09 seconds
+2024-10-18 21:58:26,254 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 3
+2024-10-18 21:58:26,255 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (275.519859 --> 275.519859).
+2024-10-18 21:58:26,255 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.06 seconds
+2024-10-18 21:58:26,257 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 4,learning rate: 0.0001
+2024-10-18 22:00:51,337 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 84.90%
+2024-10-18 22:00:51,337 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 309.99912187457085
+2024-10-18 22:00:51,337 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 316.77 seconds
+2024-10-18 22:03:18,705 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 85.03%
+2024-10-18 22:03:18,705 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 300.43145433068275
+2024-10-18 22:03:18,705 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.37 seconds
+2024-10-18 22:03:20,689 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 4
+2024-10-18 22:03:20,689 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (300.431454 --> 300.431454).
+2024-10-18 22:03:20,689 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 466.13 seconds
+2024-10-18 22:03:20,692 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 5,learning rate: 0.0001
+2024-10-18 22:04:22,933 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 96.51%
+2024-10-18 22:04:22,933 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 265.3094978928566
+2024-10-18 22:04:22,933 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.68 seconds
+2024-10-18 22:07:04,835 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 96.50%
+2024-10-18 22:07:04,835 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 258.2231935560703
+2024-10-18 22:07:04,836 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.90 seconds
+2024-10-18 22:07:06,727 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 4
+2024-10-18 22:07:06,727 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (258.223194 --> 258.223194).
+2024-10-18 22:07:06,727 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.47 seconds
+2024-10-18 22:07:06,731 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 5,learning rate: 0.0001
+2024-10-18 22:08:41,011 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 87.04%
+2024-10-18 22:08:41,011 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 289.7423024773598
+2024-10-18 22:08:41,011 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.32 seconds
+2024-10-18 22:11:08,219 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 87.51%
+2024-10-18 22:11:08,220 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 281.95999935269356
+2024-10-18 22:11:08,220 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.21 seconds
+2024-10-18 22:11:10,111 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 5
+2024-10-18 22:11:10,111 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (281.959999 --> 281.959999).
+2024-10-18 22:11:10,111 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 469.42 seconds
+2024-10-18 22:11:10,115 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 6,learning rate: 0.0001
+2024-10-18 22:13:06,990 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 97.29%
+2024-10-18 22:13:06,990 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 250.1733216047287
+2024-10-18 22:13:06,990 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.26 seconds
+2024-10-18 22:15:48,947 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 97.32%
+2024-10-18 22:15:48,947 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 246.05050733685493
+2024-10-18 22:15:48,947 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.96 seconds
+2024-10-18 22:15:50,534 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 5
+2024-10-18 22:15:50,534 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (246.050507 --> 246.050507).
+2024-10-18 22:15:50,534 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 523.81 seconds
+2024-10-18 22:15:50,539 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 6,learning rate: 0.0001
+2024-10-18 22:16:30,649 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 89.07%
+2024-10-18 22:16:30,649 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 273.4912001788616
+2024-10-18 22:16:30,649 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.53 seconds
+2024-10-18 22:18:57,929 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 90.14%
+2024-10-18 22:18:57,929 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 265.00287640094757
+2024-10-18 22:18:57,930 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.28 seconds
+2024-10-18 22:18:59,467 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 6
+2024-10-18 22:18:59,467 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (265.002876 --> 265.002876).
+2024-10-18 22:18:59,468 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 469.36 seconds
+2024-10-18 22:18:59,472 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 7,learning rate: 0.0001
+2024-10-18 22:21:51,152 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 97.73%
+2024-10-18 22:21:51,152 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 241.18640491366386
+2024-10-18 22:21:51,152 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.61 seconds
+2024-10-18 22:24:25,128 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 90.62%
+2024-10-18 22:24:25,128 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 260.4282272160053
+2024-10-18 22:24:25,128 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 325.66 seconds
+2024-10-18 22:24:31,342 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 97.86%
+2024-10-18 22:24:31,342 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 237.62976583838463
+2024-10-18 22:24:31,343 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 160.19 seconds
+2024-10-18 22:24:32,795 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 6
+2024-10-18 22:24:32,795 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (237.629766 --> 237.629766).
+2024-10-18 22:24:32,795 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.26 seconds
+2024-10-18 22:24:32,798 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 7,learning rate: 0.0001
+2024-10-18 22:26:47,671 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 91.62%
+2024-10-18 22:26:47,671 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 254.17836394906044
+2024-10-18 22:26:47,671 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 142.54 seconds
+2024-10-18 22:26:49,199 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 7
+2024-10-18 22:26:49,199 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (254.178364 --> 254.178364).
+2024-10-18 22:26:49,199 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 469.73 seconds
+2024-10-18 22:26:49,202 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 8,learning rate: 0.0001
+2024-10-18 22:30:31,618 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 97.94%
+2024-10-18 22:30:31,619 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 235.36999332904816
+2024-10-18 22:30:31,619 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 358.82 seconds
+2024-10-18 22:32:20,036 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 92.33%
+2024-10-18 22:32:20,036 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 248.9954377412796
+2024-10-18 22:32:20,036 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.83 seconds
+2024-10-18 22:33:04,700 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.24%
+2024-10-18 22:33:04,700 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 232.52058377861977
+2024-10-18 22:33:04,701 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 153.08 seconds
+2024-10-18 22:33:06,236 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 7
+2024-10-18 22:33:06,236 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (232.520584 --> 232.520584).
+2024-10-18 22:33:06,236 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 513.44 seconds
+2024-10-18 22:33:06,239 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 8,learning rate: 0.0001
+2024-10-18 22:34:35,547 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 67.42%
+2024-10-18 22:34:35,547 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 359.9159392416477
+2024-10-18 22:34:35,547 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 135.51 seconds
+2024-10-18 22:34:37,194 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 8
+2024-10-18 22:34:37,194 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-18 22:34:37,194 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.99 seconds
+2024-10-18 22:34:37,198 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 9,learning rate: 0.0001
+2024-10-18 22:39:20,540 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.28%
+2024-10-18 22:39:20,540 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 230.98421853780746
+2024-10-18 22:39:20,540 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 374.30 seconds
+2024-10-18 22:40:23,546 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 93.02%
+2024-10-18 22:40:23,546 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 242.3078518807888
+2024-10-18 22:40:23,546 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 346.35 seconds
+2024-10-18 22:41:46,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.44%
+2024-10-18 22:41:46,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 228.81204265356064
+2024-10-18 22:41:46,837 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.30 seconds
+2024-10-18 22:41:48,465 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 8
+2024-10-18 22:41:48,465 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (228.812043 --> 228.812043).
+2024-10-18 22:41:48,465 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.23 seconds
+2024-10-18 22:41:48,468 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 9,learning rate: 0.0001
+2024-10-18 22:42:31,811 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 93.83%
+2024-10-18 22:42:31,811 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 237.80751839280128
+2024-10-18 22:42:31,811 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.26 seconds
+2024-10-18 22:42:33,173 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 9
+2024-10-18 22:42:33,173 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (237.807518 --> 237.807518).
+2024-10-18 22:42:33,173 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 475.98 seconds
+2024-10-18 22:42:33,176 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 10,learning rate: 0.0001
+2024-10-18 22:48:05,466 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.50%
+2024-10-18 22:48:05,466 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 227.74207788705826
+2024-10-18 22:48:05,466 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 377.00 seconds
+2024-10-18 22:48:21,914 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 94.34%
+2024-10-18 22:48:21,914 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 233.28098207712173
+2024-10-18 22:48:21,914 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 348.74 seconds
+2024-10-18 22:50:24,641 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.56%
+2024-10-18 22:50:24,642 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 226.0518601834774
+2024-10-18 22:50:24,642 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.18 seconds
+2024-10-18 22:50:25,479 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 94.57%
+2024-10-18 22:50:25,479 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 230.04296559095383
+2024-10-18 22:50:25,480 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 123.57 seconds
+2024-10-18 22:50:26,531 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 9
+2024-10-18 22:50:26,531 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (226.051860 --> 226.051860).
+2024-10-18 22:50:26,531 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.07 seconds
+2024-10-18 22:50:26,536 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 10,learning rate: 0.0001
+2024-10-18 22:50:27,324 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 10
+2024-10-18 22:50:27,325 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (230.042966 --> 230.042966).
+2024-10-18 22:50:27,325 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 474.15 seconds
+2024-10-18 22:50:27,327 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 11,learning rate: 0.0001
+2024-10-18 22:56:19,980 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 94.96%
+2024-10-18 22:56:19,981 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 228.05670747160912
+2024-10-18 22:56:19,981 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 352.65 seconds
+2024-10-18 22:56:47,585 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.77%
+2024-10-18 22:56:47,585 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 225.03785488009453
+2024-10-18 22:56:47,585 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 381.05 seconds
+2024-10-18 22:58:28,234 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 95.21%
+2024-10-18 22:58:28,234 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 225.779969394207
+2024-10-18 22:58:28,234 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.25 seconds
+2024-10-18 22:58:30,560 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 11
+2024-10-18 22:58:30,561 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (225.779969 --> 225.779969).
+2024-10-18 22:58:30,561 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 483.24 seconds
+2024-10-18 22:58:30,563 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 12,learning rate: 0.0001
+2024-10-18 22:59:05,722 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.90%
+2024-10-18 22:59:05,723 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 223.84523412585258
+2024-10-18 22:59:05,723 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 138.14 seconds
+2024-10-18 22:59:07,137 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 10
+2024-10-18 22:59:07,137 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (223.845234 --> 223.845234).
+2024-10-18 22:59:07,137 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.61 seconds
+2024-10-18 22:59:07,141 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 11,learning rate: 0.0001
+2024-10-18 23:04:13,674 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 95.85%
+2024-10-18 23:04:13,674 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 222.54684627056122
+2024-10-18 23:04:13,674 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 343.11 seconds
+2024-10-18 23:05:21,339 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.83%
+2024-10-18 23:05:21,339 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 223.23064449429512
+2024-10-18 23:05:21,339 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 374.20 seconds
+2024-10-18 23:06:28,268 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 95.95%
+2024-10-18 23:06:28,268 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 220.39975693821907
+2024-10-18 23:06:28,268 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.59 seconds
+2024-10-18 23:06:29,746 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 12
+2024-10-18 23:06:29,747 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (220.399757 --> 220.399757).
+2024-10-18 23:06:29,747 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 479.19 seconds
+2024-10-18 23:06:29,749 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 13,learning rate: 0.0001
+2024-10-18 23:07:47,271 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.91%
+2024-10-18 23:07:47,272 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 221.84830659627914
+2024-10-18 23:07:47,272 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 145.93 seconds
+2024-10-18 23:07:48,643 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 11
+2024-10-18 23:07:48,643 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (221.848307 --> 221.848307).
+2024-10-18 23:07:48,643 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 521.51 seconds
+2024-10-18 23:07:48,646 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 12,learning rate: 0.0001
+2024-10-18 23:12:10,696 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 96.15%
+2024-10-18 23:12:10,696 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 219.81396907567978
+2024-10-18 23:12:10,696 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 340.95 seconds
+2024-10-18 23:14:00,535 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.89%
+2024-10-18 23:14:00,535 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 221.42917543649673
+2024-10-18 23:14:00,535 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 371.89 seconds
+2024-10-18 23:14:31,488 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 96.40%
+2024-10-18 23:14:31,488 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 217.025976896286
+2024-10-18 23:14:31,488 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 140.79 seconds
+2024-10-18 23:14:33,406 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 13
+2024-10-18 23:14:33,407 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (217.025977 --> 217.025977).
+2024-10-18 23:14:33,407 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 483.66 seconds
+2024-10-18 23:14:33,410 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 14,learning rate: 0.0001
+2024-10-18 23:16:32,123 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.02%
+2024-10-18 23:16:32,123 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 220.3280339539051
+2024-10-18 23:16:32,123 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 151.59 seconds
+2024-10-18 23:16:34,665 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 12
+2024-10-18 23:16:34,666 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (220.328034 --> 220.328034).
+2024-10-18 23:16:34,666 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 526.02 seconds
+2024-10-18 23:16:34,671 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 13,learning rate: 0.0001
+2024-10-18 23:19:58,141 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 96.47%
+2024-10-18 23:19:58,141 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 216.1204676926136
+2024-10-18 23:19:58,141 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 324.73 seconds
+2024-10-18 23:22:25,484 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 96.90%
+2024-10-18 23:22:25,484 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 214.9131382703781
+2024-10-18 23:22:25,484 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.34 seconds
+2024-10-18 23:22:27,226 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 14
+2024-10-18 23:22:27,226 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (214.913138 --> 214.913138).
+2024-10-18 23:22:27,227 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 473.82 seconds
+2024-10-18 23:22:27,230 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 15,learning rate: 0.0001
+2024-10-18 23:22:29,744 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.00%
+2024-10-18 23:22:29,744 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 220.00064876675606
+2024-10-18 23:22:29,744 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.07 seconds
+2024-10-18 23:25:11,741 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.18%
+2024-10-18 23:25:11,741 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 218.75444972515106
+2024-10-18 23:25:11,741 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.00 seconds
+2024-10-18 23:25:13,826 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 13
+2024-10-18 23:25:13,826 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (218.754450 --> 218.754450).
+2024-10-18 23:25:13,826 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.16 seconds
+2024-10-18 23:25:13,829 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 14,learning rate: 0.0001
+2024-10-18 23:27:43,493 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 96.94%
+2024-10-18 23:27:43,493 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 213.53306797146797
+2024-10-18 23:27:43,493 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 316.26 seconds
+2024-10-18 23:30:10,801 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 97.13%
+2024-10-18 23:30:10,801 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 213.59624314308167
+2024-10-18 23:30:10,801 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.31 seconds
+2024-10-18 23:30:12,284 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 15
+2024-10-18 23:30:12,285 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (213.596243 --> 213.596243).
+2024-10-18 23:30:12,285 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 465.06 seconds
+2024-10-18 23:30:12,288 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 16,learning rate: 0.0001
+2024-10-18 23:31:10,988 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.10%
+2024-10-18 23:31:10,988 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 219.10368910431862
+2024-10-18 23:31:10,988 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.16 seconds
+2024-10-18 23:33:53,070 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.06%
+2024-10-18 23:33:53,070 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 218.56284800171852
+2024-10-18 23:33:53,070 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.08 seconds
+2024-10-18 23:33:54,763 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 14
+2024-10-18 23:33:54,763 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (218.562848 --> 218.562848).
+2024-10-18 23:33:54,763 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.94 seconds
+2024-10-18 23:33:54,769 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 15,learning rate: 0.0001
+2024-10-18 23:35:30,369 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 97.21%
+2024-10-18 23:35:30,369 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 211.2846685051918
+2024-10-18 23:35:30,369 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 318.08 seconds
+2024-10-18 23:37:57,721 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 97.43%
+2024-10-18 23:37:57,722 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.98446509242058
+2024-10-18 23:37:57,722 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.35 seconds
+2024-10-18 23:37:59,847 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 16
+2024-10-18 23:37:59,847 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.984465 --> 210.984465).
+2024-10-18 23:37:59,847 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.56 seconds
+2024-10-18 23:37:59,849 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 17,learning rate: 0.0001
+2024-10-18 23:39:52,030 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.24%
+2024-10-18 23:39:52,030 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 217.6677085161209
+2024-10-18 23:39:52,030 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.26 seconds
+2024-10-18 23:42:33,986 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.24%
+2024-10-18 23:42:33,986 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 217.35459131002426
+2024-10-18 23:42:33,986 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.96 seconds
+2024-10-18 23:42:35,587 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 15
+2024-10-18 23:42:35,587 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (217.354591 --> 217.354591).
+2024-10-18 23:42:35,587 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.82 seconds
+2024-10-18 23:42:35,590 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 16,learning rate: 0.0001
+2024-10-18 23:43:19,113 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 97.50%
+2024-10-18 23:43:19,113 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.25450506806374
+2024-10-18 23:43:19,113 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 319.26 seconds
+2024-10-18 23:45:46,572 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 97.64%
+2024-10-18 23:45:46,572 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.37213185429573
+2024-10-18 23:45:46,572 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.46 seconds
+2024-10-18 23:45:48,103 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 17
+2024-10-18 23:45:48,103 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (208.372132 --> 208.372132).
+2024-10-18 23:45:48,103 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.26 seconds
+2024-10-18 23:45:48,109 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 18,learning rate: 0.0001
+2024-10-18 23:48:31,226 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.32%
+2024-10-18 23:48:31,227 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 216.9569774866104
+2024-10-18 23:48:31,227 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.64 seconds
+2024-10-18 23:51:08,933 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 97.61%
+2024-10-18 23:51:08,933 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.137721657753
+2024-10-18 23:51:08,933 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.82 seconds
+2024-10-18 23:51:11,882 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.43%
+2024-10-18 23:51:11,883 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 216.02484092116356
+2024-10-18 23:51:11,883 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 160.66 seconds
+2024-10-18 23:51:14,042 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 16
+2024-10-18 23:51:14,042 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (216.024841 --> 216.024841).
+2024-10-18 23:51:14,042 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.45 seconds
+2024-10-18 23:51:14,045 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 17,learning rate: 0.0001
+2024-10-18 23:53:30,853 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 97.90%
+2024-10-18 23:53:30,853 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 206.5236784517765
+2024-10-18 23:53:30,853 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 141.92 seconds
+2024-10-18 23:53:32,169 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 18
+2024-10-18 23:53:32,169 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (206.523678 --> 206.523678).
+2024-10-18 23:53:32,169 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 464.07 seconds
+2024-10-18 23:53:32,172 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 19,learning rate: 0.0001
+2024-10-18 23:57:12,721 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.36%
+2024-10-18 23:57:12,721 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 216.04205879569054
+2024-10-18 23:57:12,721 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 358.68 seconds
+2024-10-18 23:59:02,595 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 97.80%
+2024-10-18 23:59:02,595 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 206.32254859805107
+2024-10-18 23:59:02,595 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.42 seconds
+2024-10-18 23:59:46,043 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.32%
+2024-10-18 23:59:46,043 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 215.9594259262085
+2024-10-18 23:59:46,043 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 153.32 seconds
+2024-10-18 23:59:47,504 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 17
+2024-10-18 23:59:47,505 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (215.959426 --> 215.959426).
+2024-10-18 23:59:47,505 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 513.46 seconds
+2024-10-18 23:59:47,508 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 18,learning rate: 0.0001
+2024-10-19 00:01:18,342 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 97.98%
+2024-10-19 00:01:18,342 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 206.63093894720078
+2024-10-19 00:01:18,342 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 135.75 seconds
+2024-10-19 00:01:20,428 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 19
+2024-10-19 00:01:20,429 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 00:01:20,429 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.26 seconds
+2024-10-19 00:01:20,432 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 20,learning rate: 0.0001
+2024-10-19 00:06:00,657 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.41%
+2024-10-19 00:06:00,657 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 215.25447976589203
+2024-10-19 00:06:00,657 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 373.15 seconds
+2024-10-19 00:07:06,166 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.05%
+2024-10-19 00:07:06,166 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 204.83744737505913
+2024-10-19 00:07:06,166 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 345.73 seconds
+2024-10-19 00:08:27,247 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.39%
+2024-10-19 00:08:27,247 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 215.3096123635769
+2024-10-19 00:08:27,247 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.59 seconds
+2024-10-19 00:08:29,160 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 18
+2024-10-19 00:08:29,160 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (215.309612 --> 215.309612).
+2024-10-19 00:08:29,160 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 521.66 seconds
+2024-10-19 00:08:29,164 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 19,learning rate: 0.0001
+2024-10-19 00:09:14,333 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.10%
+2024-10-19 00:09:14,333 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 204.1332495212555
+2024-10-19 00:09:14,333 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.17 seconds
+2024-10-19 00:09:15,832 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 20
+2024-10-19 00:09:15,832 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (204.133250 --> 204.133250).
+2024-10-19 00:09:15,832 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 475.40 seconds
+2024-10-19 00:09:15,835 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 21,learning rate: 0.0001
+2024-10-19 00:14:53,729 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.51%
+2024-10-19 00:14:53,729 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 214.66459274291992
+2024-10-19 00:14:53,729 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 384.57 seconds
+2024-10-19 00:15:12,478 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.14%
+2024-10-19 00:15:12,479 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 203.74145045876503
+2024-10-19 00:15:12,479 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.64 seconds
+2024-10-19 00:17:13,140 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.45%
+2024-10-19 00:17:13,140 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 214.77220338582993
+2024-10-19 00:17:13,140 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.41 seconds
+2024-10-19 00:17:14,720 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.22%
+2024-10-19 00:17:14,720 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 202.80335620045662
+2024-10-19 00:17:14,720 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 122.24 seconds
+2024-10-19 00:17:14,895 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 19
+2024-10-19 00:17:14,895 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (214.772203 --> 214.772203).
+2024-10-19 00:17:14,895 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 525.74 seconds
+2024-10-19 00:17:14,898 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 20,learning rate: 0.0001
+2024-10-19 00:17:16,415 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 21
+2024-10-19 00:17:16,415 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (202.803356 --> 202.803356).
+2024-10-19 00:17:16,415 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 480.58 seconds
+2024-10-19 00:17:16,418 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 22,learning rate: 0.0001
+2024-10-19 00:23:09,224 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.39%
+2024-10-19 00:23:09,224 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 202.18734577298164
+2024-10-19 00:23:09,224 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 352.81 seconds
+2024-10-19 00:23:35,326 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.50%
+2024-10-19 00:23:35,326 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 214.51889064908028
+2024-10-19 00:23:35,326 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 380.43 seconds
+2024-10-19 00:25:17,189 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.35%
+2024-10-19 00:25:17,189 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 202.4715512394905
+2024-10-19 00:25:17,189 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.96 seconds
+2024-10-19 00:25:18,524 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 22
+2024-10-19 00:25:18,524 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (202.471551 --> 202.471551).
+2024-10-19 00:25:18,524 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 482.11 seconds
+2024-10-19 00:25:18,528 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 23,learning rate: 0.0001
+2024-10-19 00:25:55,247 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 00:25:55,247 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 214.2446197271347
+2024-10-19 00:25:55,247 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.92 seconds
+2024-10-19 00:25:57,844 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 20
+2024-10-19 00:25:57,845 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (214.244620 --> 214.244620).
+2024-10-19 00:25:57,845 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.95 seconds
+2024-10-19 00:25:57,848 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 21,learning rate: 0.0001
+2024-10-19 00:31:07,031 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.41%
+2024-10-19 00:31:07,031 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 201.7671484351158
+2024-10-19 00:31:07,031 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 348.50 seconds
+2024-10-19 00:32:18,842 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.56%
+2024-10-19 00:32:18,842 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 213.80056926608086
+2024-10-19 00:32:18,842 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 380.99 seconds
+2024-10-19 00:33:22,183 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.43%
+2024-10-19 00:33:22,184 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 201.29100087285042
+2024-10-19 00:33:22,184 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 135.15 seconds
+2024-10-19 00:33:23,709 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 23
+2024-10-19 00:33:23,709 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (201.291001 --> 201.291001).
+2024-10-19 00:33:23,709 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 485.19 seconds
+2024-10-19 00:33:23,714 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 24,learning rate: 0.0001
+2024-10-19 00:34:45,600 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.58%
+2024-10-19 00:34:45,600 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 213.60901767015457
+2024-10-19 00:34:45,600 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.76 seconds
+2024-10-19 00:34:47,989 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 21
+2024-10-19 00:34:47,989 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (213.609018 --> 213.609018).
+2024-10-19 00:34:47,989 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 530.14 seconds
+2024-10-19 00:34:47,992 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 22,learning rate: 0.0001
+2024-10-19 00:38:56,151 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.46%
+2024-10-19 00:38:56,151 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 201.39547795057297
+2024-10-19 00:38:56,151 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 332.44 seconds
+2024-10-19 00:40:52,770 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.53%
+2024-10-19 00:40:52,771 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 213.66814851760864
+2024-10-19 00:40:52,771 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 364.78 seconds
+2024-10-19 00:41:18,223 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.37%
+2024-10-19 00:41:18,224 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 201.41053366661072
+2024-10-19 00:41:18,224 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 142.07 seconds
+2024-10-19 00:41:19,923 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 24
+2024-10-19 00:41:19,924 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 00:41:19,924 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 476.21 seconds
+2024-10-19 00:41:19,927 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 25,learning rate: 0.0001
+2024-10-19 00:43:26,054 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.59%
+2024-10-19 00:43:26,054 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 213.14838913083076
+2024-10-19 00:43:26,054 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 153.28 seconds
+2024-10-19 00:43:27,452 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 22
+2024-10-19 00:43:27,453 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (213.148389 --> 213.148389).
+2024-10-19 00:43:27,453 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.46 seconds
+2024-10-19 00:43:27,455 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 23,learning rate: 0.0001
+2024-10-19 00:46:49,688 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.65%
+2024-10-19 00:46:49,688 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 199.90024197101593
+2024-10-19 00:46:49,688 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 329.76 seconds
+2024-10-19 00:49:16,976 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.71%
+2024-10-19 00:49:16,976 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 199.91366755962372
+2024-10-19 00:49:16,976 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.29 seconds
+2024-10-19 00:49:18,305 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 25
+2024-10-19 00:49:18,306 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (199.913668 --> 199.913668).
+2024-10-19 00:49:18,306 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 478.38 seconds
+2024-10-19 00:49:18,308 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 26,learning rate: 0.0001
+2024-10-19 00:49:28,252 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.63%
+2024-10-19 00:49:28,252 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 212.97348421812057
+2024-10-19 00:49:28,252 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.80 seconds
+2024-10-19 00:52:10,120 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.58%
+2024-10-19 00:52:10,121 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 213.37463596463203
+2024-10-19 00:52:10,121 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.87 seconds
+2024-10-19 00:52:11,678 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 23
+2024-10-19 00:52:11,679 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 00:52:11,679 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 524.23 seconds
+2024-10-19 00:52:11,681 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 24,learning rate: 0.0001
+2024-10-19 00:54:35,307 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.63%
+2024-10-19 00:54:35,307 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 200.01394447684288
+2024-10-19 00:54:35,307 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 317.00 seconds
+2024-10-19 00:57:02,633 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.62%
+2024-10-19 00:57:02,633 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 200.03210979700089
+2024-10-19 00:57:02,633 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.33 seconds
+2024-10-19 00:57:04,064 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 26
+2024-10-19 00:57:04,064 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 00:57:04,064 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 465.76 seconds
+2024-10-19 00:57:04,067 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 27,learning rate: 0.0001
+2024-10-19 00:58:08,692 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.59%
+2024-10-19 00:58:08,692 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 212.88891473412514
+2024-10-19 00:58:08,692 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.01 seconds
+2024-10-19 01:00:50,573 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.67%
+2024-10-19 01:00:50,574 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 212.25793758034706
+2024-10-19 01:00:50,574 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.88 seconds
+2024-10-19 01:00:52,107 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 24
+2024-10-19 01:00:52,107 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (212.257938 --> 212.257938).
+2024-10-19 01:00:52,107 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.43 seconds
+2024-10-19 01:00:52,110 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 25,learning rate: 0.0001
+2024-10-19 01:02:22,477 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.61%
+2024-10-19 01:02:22,478 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 199.63118094205856
+2024-10-19 01:02:22,478 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 318.41 seconds
+2024-10-19 01:04:49,717 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.80%
+2024-10-19 01:04:49,717 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 198.4239191710949
+2024-10-19 01:04:49,717 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.24 seconds
+2024-10-19 01:04:51,556 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 27
+2024-10-19 01:04:51,556 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (198.423919 --> 198.423919).
+2024-10-19 01:04:51,556 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.49 seconds
+2024-10-19 01:04:51,558 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 28,learning rate: 0.0001
+2024-10-19 01:06:47,035 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.65%
+2024-10-19 01:06:47,035 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 212.3016398847103
+2024-10-19 01:06:47,035 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 354.93 seconds
+2024-10-19 01:09:28,912 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.66%
+2024-10-19 01:09:28,913 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 212.36196318268776
+2024-10-19 01:09:28,913 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.88 seconds
+2024-10-19 01:09:30,646 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 25
+2024-10-19 01:09:30,646 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 01:09:30,646 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.54 seconds
+2024-10-19 01:09:30,649 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 26,learning rate: 0.0001
+2024-10-19 01:10:08,632 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.73%
+2024-10-19 01:10:08,632 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 198.74407094717026
+2024-10-19 01:10:08,632 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 317.07 seconds
+2024-10-19 01:12:35,991 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.65%
+2024-10-19 01:12:35,991 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 198.63447737693787
+2024-10-19 01:12:35,991 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.36 seconds
+2024-10-19 01:12:37,570 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 28
+2024-10-19 01:12:37,571 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 01:12:37,571 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 466.01 seconds
+2024-10-19 01:12:37,574 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 29,learning rate: 0.0001
+2024-10-19 01:15:30,946 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.64%
+2024-10-19 01:15:30,946 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 212.43026965856552
+2024-10-19 01:15:30,946 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.30 seconds
+2024-10-19 01:18:03,309 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.77%
+2024-10-19 01:18:03,309 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 198.4731968343258
+2024-10-19 01:18:03,309 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 325.73 seconds
+2024-10-19 01:18:10,776 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.70%
+2024-10-19 01:18:10,777 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 211.88762256503105
+2024-10-19 01:18:10,777 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 159.83 seconds
+2024-10-19 01:18:12,258 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 26
+2024-10-19 01:18:12,258 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (211.887623 --> 211.887623).
+2024-10-19 01:18:12,258 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 521.61 seconds
+2024-10-19 01:18:12,261 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 27,learning rate: 0.0001
+2024-10-19 01:20:25,524 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.89%
+2024-10-19 01:20:25,524 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 197.5910149216652
+2024-10-19 01:20:25,524 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 142.21 seconds
+2024-10-19 01:20:26,899 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 29
+2024-10-19 01:20:26,900 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (197.591015 --> 197.591015).
+2024-10-19 01:20:26,900 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 469.33 seconds
+2024-10-19 01:20:26,905 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 30,learning rate: 0.0001
+2024-10-19 01:24:16,797 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.73%
+2024-10-19 01:24:16,797 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 211.7127920985222
+2024-10-19 01:24:16,797 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 364.54 seconds
+2024-10-19 01:26:03,391 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.89%
+2024-10-19 01:26:03,391 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 197.5450700223446
+2024-10-19 01:26:03,391 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 336.49 seconds
+2024-10-19 01:26:49,515 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.66%
+2024-10-19 01:26:49,516 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 211.884525090456
+2024-10-19 01:26:49,516 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 152.72 seconds
+2024-10-19 01:26:50,889 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 27
+2024-10-19 01:26:50,890 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (211.884525 --> 211.884525).
+2024-10-19 01:26:50,890 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.63 seconds
+2024-10-19 01:26:50,892 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 28,learning rate: 0.0001
+2024-10-19 01:28:18,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.76%
+2024-10-19 01:28:18,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 198.3004158437252
+2024-10-19 01:28:18,837 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 135.45 seconds
+2024-10-19 01:28:20,687 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 30
+2024-10-19 01:28:20,687 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 01:28:20,687 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 473.79 seconds
+2024-10-19 01:28:20,690 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 31,learning rate: 0.0001
+2024-10-19 01:33:05,248 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.75%
+2024-10-19 01:33:05,248 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 211.50906214118004
+2024-10-19 01:33:05,248 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 374.36 seconds
+2024-10-19 01:34:07,284 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.89%
+2024-10-19 01:34:07,285 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 197.02138325572014
+2024-10-19 01:34:07,285 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 346.59 seconds
+2024-10-19 01:35:31,251 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.68%
+2024-10-19 01:35:31,251 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 211.59996205568314
+2024-10-19 01:35:31,251 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.00 seconds
+2024-10-19 01:35:33,234 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 28
+2024-10-19 01:35:33,234 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (211.599962 --> 211.599962).
+2024-10-19 01:35:33,234 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.34 seconds
+2024-10-19 01:35:33,237 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 29,learning rate: 0.0001
+2024-10-19 01:36:14,695 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.06%
+2024-10-19 01:36:14,695 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 196.88130497932434
+2024-10-19 01:36:14,695 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.41 seconds
+2024-10-19 01:36:18,467 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 31
+2024-10-19 01:36:18,467 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (196.881305 --> 196.881305).
+2024-10-19 01:36:18,467 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 477.78 seconds
+2024-10-19 01:36:18,469 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 32,learning rate: 0.0001
+2024-10-19 01:41:55,356 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.71%
+2024-10-19 01:41:55,357 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 211.58766382932663
+2024-10-19 01:41:55,357 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 382.12 seconds
+2024-10-19 01:42:15,088 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.10%
+2024-10-19 01:42:15,089 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 196.23637455701828
+2024-10-19 01:42:15,089 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.62 seconds
+2024-10-19 01:44:14,958 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.78%
+2024-10-19 01:44:14,958 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 211.38308942317963
+2024-10-19 01:44:14,958 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.60 seconds
+2024-10-19 01:44:16,937 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.00%
+2024-10-19 01:44:16,938 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 196.5320980846882
+2024-10-19 01:44:16,938 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 121.85 seconds
+2024-10-19 01:44:16,978 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 29
+2024-10-19 01:44:16,978 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (211.383089 --> 211.383089).
+2024-10-19 01:44:16,979 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 523.74 seconds
+2024-10-19 01:44:16,981 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 30,learning rate: 0.0001
+2024-10-19 01:44:18,724 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 32
+2024-10-19 01:44:18,724 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (196.532098 --> 196.532098).
+2024-10-19 01:44:18,725 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 480.26 seconds
+2024-10-19 01:44:18,729 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 33,learning rate: 0.0001
+2024-10-19 01:50:19,913 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 98.94%
+2024-10-19 01:50:19,913 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 196.98881575465202
+2024-10-19 01:50:19,913 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 361.18 seconds
+2024-10-19 01:50:45,721 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.77%
+2024-10-19 01:50:45,721 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 211.24352449178696
+2024-10-19 01:50:45,721 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 388.74 seconds
+2024-10-19 01:52:27,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 98.89%
+2024-10-19 01:52:27,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 196.94384583830833
+2024-10-19 01:52:27,837 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.92 seconds
+2024-10-19 01:52:29,907 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 33
+2024-10-19 01:52:29,907 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 01:52:29,907 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 491.18 seconds
+2024-10-19 01:52:29,909 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 34,learning rate: 0.0001
+2024-10-19 01:53:04,199 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.78%
+2024-10-19 01:53:04,199 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 211.15109485387802
+2024-10-19 01:53:04,199 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 138.48 seconds
+2024-10-19 01:53:05,865 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 30
+2024-10-19 01:53:05,865 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (211.151095 --> 211.151095).
+2024-10-19 01:53:05,865 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 528.89 seconds
+2024-10-19 01:53:05,868 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 31,learning rate: 0.0001
+2024-10-19 01:58:20,290 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.04%
+2024-10-19 01:58:20,290 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 196.1019631922245
+2024-10-19 01:58:20,290 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 350.38 seconds
+2024-10-19 01:59:27,672 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.75%
+2024-10-19 01:59:27,672 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 211.14915934205055
+2024-10-19 01:59:27,672 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 381.80 seconds
+2024-10-19 02:00:34,640 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.04%
+2024-10-19 02:00:34,640 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 195.89799854159355
+2024-10-19 02:00:34,640 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.35 seconds
+2024-10-19 02:00:36,206 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 34
+2024-10-19 02:00:36,206 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (195.897999 --> 195.897999).
+2024-10-19 02:00:36,206 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 486.30 seconds
+2024-10-19 02:00:36,209 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 35,learning rate: 0.0001
+2024-10-19 02:01:53,627 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.74%
+2024-10-19 02:01:53,627 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 211.1978341639042
+2024-10-19 02:01:53,627 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 145.96 seconds
+2024-10-19 02:01:55,186 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 31
+2024-10-19 02:01:55,187 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 02:01:55,187 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 529.32 seconds
+2024-10-19 02:01:55,191 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 32,learning rate: 0.0001
+2024-10-19 02:06:11,013 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.08%
+2024-10-19 02:06:11,013 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 195.9200983941555
+2024-10-19 02:06:11,013 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 334.80 seconds
+2024-10-19 02:08:01,225 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.79%
+2024-10-19 02:08:01,225 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.80799463391304
+2024-10-19 02:08:01,225 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 366.03 seconds
+2024-10-19 02:08:32,099 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.12%
+2024-10-19 02:08:32,100 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 195.65442988276482
+2024-10-19 02:08:32,100 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 141.09 seconds
+2024-10-19 02:08:33,804 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 35
+2024-10-19 02:08:33,804 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (195.654430 --> 195.654430).
+2024-10-19 02:08:33,804 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 477.60 seconds
+2024-10-19 02:08:33,807 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 36,learning rate: 0.0001
+2024-10-19 02:10:33,246 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.75%
+2024-10-19 02:10:33,246 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 211.09162175655365
+2024-10-19 02:10:33,246 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 152.02 seconds
+2024-10-19 02:10:35,082 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 32
+2024-10-19 02:10:35,082 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (211.091622 --> 211.091622).
+2024-10-19 02:10:35,082 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.90 seconds
+2024-10-19 02:10:35,085 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 33,learning rate: 0.0001
+2024-10-19 02:13:59,286 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.14%
+2024-10-19 02:13:59,286 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 195.61207735538483
+2024-10-19 02:13:59,286 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 325.48 seconds
+2024-10-19 02:16:26,660 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.14%
+2024-10-19 02:16:26,660 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 195.32867440581322
+2024-10-19 02:16:26,660 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.37 seconds
+2024-10-19 02:16:28,246 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 36
+2024-10-19 02:16:28,246 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (195.328674 --> 195.328674).
+2024-10-19 02:16:28,246 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 474.44 seconds
+2024-10-19 02:16:28,249 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 37,learning rate: 0.0001
+2024-10-19 02:16:30,548 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.75%
+2024-10-19 02:16:30,548 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.88915321230888
+2024-10-19 02:16:30,549 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.46 seconds
+2024-10-19 02:19:12,548 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.78%
+2024-10-19 02:19:12,548 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.86291626095772
+2024-10-19 02:19:12,548 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.00 seconds
+2024-10-19 02:19:14,554 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 33
+2024-10-19 02:19:14,554 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.862916 --> 210.862916).
+2024-10-19 02:19:14,554 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.47 seconds
+2024-10-19 02:19:14,557 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 34,learning rate: 0.0001
+2024-10-19 02:21:44,820 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.14%
+2024-10-19 02:21:44,820 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 195.28678226470947
+2024-10-19 02:21:44,820 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 316.57 seconds
+2024-10-19 02:24:12,130 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.18%
+2024-10-19 02:24:12,131 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 195.31581458449364
+2024-10-19 02:24:12,131 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.31 seconds
+2024-10-19 02:24:13,609 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 37
+2024-10-19 02:24:13,609 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (195.315815 --> 195.315815).
+2024-10-19 02:24:13,609 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 465.36 seconds
+2024-10-19 02:24:13,611 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 38,learning rate: 0.0001
+2024-10-19 02:25:11,491 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.80%
+2024-10-19 02:25:11,491 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.51962533593178
+2024-10-19 02:25:11,491 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.93 seconds
+2024-10-19 02:27:53,395 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.76%
+2024-10-19 02:27:53,396 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.81547102332115
+2024-10-19 02:27:53,396 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.90 seconds
+2024-10-19 02:27:54,936 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 34
+2024-10-19 02:27:54,936 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.815471 --> 210.815471).
+2024-10-19 02:27:54,936 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.38 seconds
+2024-10-19 02:27:54,941 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 35,learning rate: 0.0001
+2024-10-19 02:29:31,816 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.29%
+2024-10-19 02:29:31,816 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 194.59791696071625
+2024-10-19 02:29:31,816 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 318.20 seconds
+2024-10-19 02:31:59,127 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.24%
+2024-10-19 02:31:59,127 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 194.95469725131989
+2024-10-19 02:31:59,127 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.31 seconds
+2024-10-19 02:32:00,771 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 38
+2024-10-19 02:32:00,771 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (194.954697 --> 194.954697).
+2024-10-19 02:32:00,771 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.16 seconds
+2024-10-19 02:32:00,777 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 39,learning rate: 0.0001
+2024-10-19 02:33:52,836 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.77%
+2024-10-19 02:33:52,836 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.487939119339
+2024-10-19 02:33:52,836 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.90 seconds
+2024-10-19 02:36:34,717 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.75%
+2024-10-19 02:36:34,718 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.78345927596092
+2024-10-19 02:36:34,718 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 161.88 seconds
+2024-10-19 02:36:36,953 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 35
+2024-10-19 02:36:36,953 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.783459 --> 210.783459).
+2024-10-19 02:36:36,953 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.02 seconds
+2024-10-19 02:36:36,957 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 36,learning rate: 0.0001
+2024-10-19 02:37:19,352 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.30%
+2024-10-19 02:37:19,353 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 194.47982543706894
+2024-10-19 02:37:19,353 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 318.58 seconds
+2024-10-19 02:39:46,620 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.26%
+2024-10-19 02:39:46,621 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 194.64023676514626
+2024-10-19 02:39:46,621 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.27 seconds
+2024-10-19 02:39:48,368 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 39
+2024-10-19 02:39:48,368 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (194.640237 --> 194.640237).
+2024-10-19 02:39:48,369 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.60 seconds
+2024-10-19 02:39:48,371 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 40,learning rate: 0.0001
+2024-10-19 02:42:32,027 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.81%
+2024-10-19 02:42:32,027 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.592797011137
+2024-10-19 02:42:32,027 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.07 seconds
+2024-10-19 02:45:09,136 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.27%
+2024-10-19 02:45:09,136 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 194.63950806856155
+2024-10-19 02:45:09,136 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.76 seconds
+2024-10-19 02:45:12,495 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.81%
+2024-10-19 02:45:12,495 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.53012230992317
+2024-10-19 02:45:12,495 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 160.47 seconds
+2024-10-19 02:45:14,194 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 36
+2024-10-19 02:45:14,194 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.530122 --> 210.530122).
+2024-10-19 02:45:14,194 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 517.24 seconds
+2024-10-19 02:45:14,198 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 37,learning rate: 0.0001
+2024-10-19 02:47:31,619 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.32%
+2024-10-19 02:47:31,619 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 194.15772119164467
+2024-10-19 02:47:31,619 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 142.48 seconds
+2024-10-19 02:47:33,502 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 40
+2024-10-19 02:47:33,502 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (194.157721 --> 194.157721).
+2024-10-19 02:47:33,502 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 465.13 seconds
+2024-10-19 02:47:33,505 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 41,learning rate: 0.0001
+2024-10-19 02:51:12,025 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.76%
+2024-10-19 02:51:12,025 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.72740751504898
+2024-10-19 02:51:12,025 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.83 seconds
+2024-10-19 02:53:03,944 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.21%
+2024-10-19 02:53:03,944 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 194.7489246726036
+2024-10-19 02:53:03,944 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.44 seconds
+2024-10-19 02:53:45,746 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.79%
+2024-10-19 02:53:45,746 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.39745369553566
+2024-10-19 02:53:45,746 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 153.72 seconds
+2024-10-19 02:53:47,487 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 37
+2024-10-19 02:53:47,487 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.397454 --> 210.397454).
+2024-10-19 02:53:47,487 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 513.29 seconds
+2024-10-19 02:53:47,491 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 38,learning rate: 0.0001
+2024-10-19 02:55:19,507 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.20%
+2024-10-19 02:55:19,507 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 194.89549407362938
+2024-10-19 02:55:19,507 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 135.56 seconds
+2024-10-19 02:55:20,915 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 41
+2024-10-19 02:55:20,915 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 02:55:20,915 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.41 seconds
+2024-10-19 02:55:20,920 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 42,learning rate: 0.0001
+2024-10-19 02:59:55,027 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.82%
+2024-10-19 02:59:55,028 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.3106869161129
+2024-10-19 02:59:55,028 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 367.54 seconds
+2024-10-19 03:01:00,504 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.31%
+2024-10-19 03:01:00,504 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 194.2434928715229
+2024-10-19 03:01:00,504 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 339.58 seconds
+2024-10-19 03:02:21,613 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.83%
+2024-10-19 03:02:21,613 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.20194721221924
+2024-10-19 03:02:21,613 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.59 seconds
+2024-10-19 03:02:23,694 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 38
+2024-10-19 03:02:23,695 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.201947 --> 210.201947).
+2024-10-19 03:02:23,695 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 516.21 seconds
+2024-10-19 03:02:23,697 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 39,learning rate: 0.0001
+2024-10-19 03:03:08,281 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.24%
+2024-10-19 03:03:08,281 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 194.49365493655205
+2024-10-19 03:03:08,281 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.78 seconds
+2024-10-19 03:03:09,876 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 42
+2024-10-19 03:03:09,876 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 03:03:09,876 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.96 seconds
+2024-10-19 03:03:09,881 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 43,learning rate: 0.0001
+2024-10-19 03:08:48,359 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.84%
+2024-10-19 03:08:48,359 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.2014521062374
+2024-10-19 03:08:48,359 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 384.66 seconds
+2024-10-19 03:09:06,617 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.28%
+2024-10-19 03:09:06,617 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 194.48172867298126
+2024-10-19 03:09:06,617 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.74 seconds
+2024-10-19 03:11:07,527 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.82%
+2024-10-19 03:11:07,527 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.17465287446976
+2024-10-19 03:11:07,527 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.17 seconds
+2024-10-19 03:11:09,006 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.30%
+2024-10-19 03:11:09,007 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 194.4557260274887
+2024-10-19 03:11:09,007 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 122.39 seconds
+2024-10-19 03:11:09,140 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 39
+2024-10-19 03:11:09,140 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.174653 --> 210.174653).
+2024-10-19 03:11:09,140 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 525.45 seconds
+2024-10-19 03:11:09,142 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 40,learning rate: 0.0001
+2024-10-19 03:11:11,400 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 43
+2024-10-19 03:11:11,401 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 03:11:11,401 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 481.52 seconds
+2024-10-19 03:11:11,403 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 44,learning rate: 0.0001
+2024-10-19 03:17:04,766 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.34%
+2024-10-19 03:17:04,766 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.98014390468597
+2024-10-19 03:17:04,766 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 353.36 seconds
+2024-10-19 03:17:29,456 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.78%
+2024-10-19 03:17:29,456 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.22114086151123
+2024-10-19 03:17:29,456 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 380.31 seconds
+2024-10-19 03:19:12,654 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.33%
+2024-10-19 03:19:12,654 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.86695954203606
+2024-10-19 03:19:12,655 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.89 seconds
+2024-10-19 03:19:14,763 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 44
+2024-10-19 03:19:14,763 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (193.866960 --> 193.866960).
+2024-10-19 03:19:14,763 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 483.36 seconds
+2024-10-19 03:19:14,766 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 45,learning rate: 0.0001
+2024-10-19 03:19:47,888 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.83%
+2024-10-19 03:19:47,888 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.09175115823746
+2024-10-19 03:19:47,888 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 138.43 seconds
+2024-10-19 03:19:49,249 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 40
+2024-10-19 03:19:49,249 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.091751 --> 210.091751).
+2024-10-19 03:19:49,249 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.11 seconds
+2024-10-19 03:19:49,251 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 41,learning rate: 0.0001
+2024-10-19 03:24:58,841 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.38%
+2024-10-19 03:24:58,842 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.6411674618721
+2024-10-19 03:24:58,842 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 344.08 seconds
+2024-10-19 03:26:04,591 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.78%
+2024-10-19 03:26:04,592 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.18425071239471
+2024-10-19 03:26:04,592 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 375.34 seconds
+2024-10-19 03:27:13,050 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.38%
+2024-10-19 03:27:13,050 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.60888448357582
+2024-10-19 03:27:13,050 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.21 seconds
+2024-10-19 03:27:14,426 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 45
+2024-10-19 03:27:14,426 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (193.608884 --> 193.608884).
+2024-10-19 03:27:14,426 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 479.66 seconds
+2024-10-19 03:27:14,431 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 46,learning rate: 0.0001
+2024-10-19 03:28:30,619 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.83%
+2024-10-19 03:28:30,619 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.06304454803467
+2024-10-19 03:28:30,619 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.03 seconds
+2024-10-19 03:28:32,141 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 41
+2024-10-19 03:28:32,141 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.063045 --> 210.063045).
+2024-10-19 03:28:32,142 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.89 seconds
+2024-10-19 03:28:32,146 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 42,learning rate: 0.0001
+2024-10-19 03:32:55,801 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.34%
+2024-10-19 03:32:55,801 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.80449271202087
+2024-10-19 03:32:55,801 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 341.37 seconds
+2024-10-19 03:34:44,768 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.85%
+2024-10-19 03:34:44,768 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.05884212255478
+2024-10-19 03:34:44,768 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 372.62 seconds
+2024-10-19 03:35:16,596 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.37%
+2024-10-19 03:35:16,596 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.6746859550476
+2024-10-19 03:35:16,596 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 140.79 seconds
+2024-10-19 03:35:17,981 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 46
+2024-10-19 03:35:17,981 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 03:35:17,981 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 483.56 seconds
+2024-10-19 03:35:17,986 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 47,learning rate: 0.0001
+2024-10-19 03:37:17,423 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.82%
+2024-10-19 03:37:17,424 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.05633407831192
+2024-10-19 03:37:17,424 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 152.65 seconds
+2024-10-19 03:37:19,335 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 42
+2024-10-19 03:37:19,335 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (210.056334 --> 210.056334).
+2024-10-19 03:37:19,335 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 527.19 seconds
+2024-10-19 03:37:19,338 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 43,learning rate: 0.0001
+2024-10-19 03:40:48,654 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.33%
+2024-10-19 03:40:48,655 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.57963660359383
+2024-10-19 03:40:48,655 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.67 seconds
+2024-10-19 03:43:16,110 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.43%
+2024-10-19 03:43:16,110 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.30680882930756
+2024-10-19 03:43:16,110 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.46 seconds
+2024-10-19 03:43:17,733 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 47
+2024-10-19 03:43:17,733 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (193.306809 --> 193.306809).
+2024-10-19 03:43:17,733 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 479.75 seconds
+2024-10-19 03:43:17,738 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 48,learning rate: 0.0001
+2024-10-19 03:43:19,861 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.78%
+2024-10-19 03:43:19,861 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 210.1446469426155
+2024-10-19 03:43:19,861 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.52 seconds
+2024-10-19 03:46:02,134 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.87%
+2024-10-19 03:46:02,134 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.85430386662483
+2024-10-19 03:46:02,134 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.27 seconds
+2024-10-19 03:46:04,157 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 43
+2024-10-19 03:46:04,158 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.854304 --> 209.854304).
+2024-10-19 03:46:04,158 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 524.82 seconds
+2024-10-19 03:46:04,161 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 44,learning rate: 0.0001
+2024-10-19 03:48:37,784 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.39%
+2024-10-19 03:48:37,785 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.47110480070114
+2024-10-19 03:48:37,785 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.05 seconds
+2024-10-19 03:51:05,152 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.41%
+2024-10-19 03:51:05,152 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.24210104346275
+2024-10-19 03:51:05,152 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.37 seconds
+2024-10-19 03:51:07,052 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 48
+2024-10-19 03:51:07,052 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (193.242101 --> 193.242101).
+2024-10-19 03:51:07,052 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 469.32 seconds
+2024-10-19 03:51:07,057 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 49,learning rate: 0.0001
+2024-10-19 03:52:02,932 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.84%
+2024-10-19 03:52:02,932 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.87243536114693
+2024-10-19 03:52:02,932 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 358.77 seconds
+2024-10-19 03:54:45,068 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.83%
+2024-10-19 03:54:45,068 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 210.08144584298134
+2024-10-19 03:54:45,068 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.14 seconds
+2024-10-19 03:54:46,880 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 44
+2024-10-19 03:54:46,880 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 03:54:46,880 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.72 seconds
+2024-10-19 03:54:46,886 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 45,learning rate: 0.0001
+2024-10-19 03:56:26,396 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.37%
+2024-10-19 03:56:26,396 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.50859066843987
+2024-10-19 03:56:26,396 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 319.34 seconds
+2024-10-19 03:58:53,758 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.44%
+2024-10-19 03:58:53,758 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.07159972190857
+2024-10-19 03:58:53,758 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.36 seconds
+2024-10-19 03:58:55,302 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 49
+2024-10-19 03:58:55,302 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (193.071600 --> 193.071600).
+2024-10-19 03:58:55,302 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.25 seconds
+2024-10-19 03:58:55,305 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 50,learning rate: 0.0001
+2024-10-19 04:00:47,435 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.86%
+2024-10-19 04:00:47,436 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.81646487116814
+2024-10-19 04:00:47,436 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.55 seconds
+2024-10-19 04:03:29,584 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.83%
+2024-10-19 04:03:29,584 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.7280417084694
+2024-10-19 04:03:29,584 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.15 seconds
+2024-10-19 04:03:31,058 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 45
+2024-10-19 04:03:31,058 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.728042 --> 209.728042).
+2024-10-19 04:03:31,059 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 524.18 seconds
+2024-10-19 04:03:31,061 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 46,learning rate: 0.0001
+2024-10-19 04:04:16,447 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.37%
+2024-10-19 04:04:16,447 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.4724404513836
+2024-10-19 04:04:16,447 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 321.14 seconds
+2024-10-19 04:06:43,836 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.37%
+2024-10-19 04:06:43,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.80235144495964
+2024-10-19 04:06:43,837 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.39 seconds
+2024-10-19 04:06:45,284 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 50
+2024-10-19 04:06:45,284 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 04:06:45,284 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 469.98 seconds
+2024-10-19 04:06:45,289 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 51,learning rate: 0.0001
+2024-10-19 04:09:28,027 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.83%
+2024-10-19 04:09:28,027 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.9727407991886
+2024-10-19 04:09:28,027 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.97 seconds
+2024-10-19 04:12:06,389 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.34%
+2024-10-19 04:12:06,389 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.50783130526543
+2024-10-19 04:12:06,389 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 321.10 seconds
+2024-10-19 04:12:08,780 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 04:12:08,780 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.72674736380577
+2024-10-19 04:12:08,780 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 160.75 seconds
+2024-10-19 04:12:10,243 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 46
+2024-10-19 04:12:10,243 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.726747 --> 209.726747).
+2024-10-19 04:12:10,243 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.18 seconds
+2024-10-19 04:12:10,246 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 47,learning rate: 0.0001
+2024-10-19 04:14:29,753 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.46%
+2024-10-19 04:14:29,753 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.9465055167675
+2024-10-19 04:14:29,753 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 143.36 seconds
+2024-10-19 04:14:31,469 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 51
+2024-10-19 04:14:31,469 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.946506 --> 192.946506).
+2024-10-19 04:14:31,469 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 466.19 seconds
+2024-10-19 04:14:31,474 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 52,learning rate: 0.0001
+2024-10-19 04:18:08,158 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.86%
+2024-10-19 04:18:08,159 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.6746288239956
+2024-10-19 04:18:08,159 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.91 seconds
+2024-10-19 04:20:01,509 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.39%
+2024-10-19 04:20:01,510 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.0350086390972
+2024-10-19 04:20:01,510 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.04 seconds
+2024-10-19 04:20:42,044 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.82%
+2024-10-19 04:20:42,044 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.87422397732735
+2024-10-19 04:20:42,045 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 153.89 seconds
+2024-10-19 04:20:44,351 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 47
+2024-10-19 04:20:44,352 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 04:20:44,352 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 514.11 seconds
+2024-10-19 04:20:44,356 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 48,learning rate: 0.0001
+2024-10-19 04:22:16,149 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.45%
+2024-10-19 04:22:16,149 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.98718383908272
+2024-10-19 04:22:16,149 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.64 seconds
+2024-10-19 04:22:17,429 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 52
+2024-10-19 04:22:17,430 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 04:22:17,430 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 465.96 seconds
+2024-10-19 04:22:17,434 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 53,learning rate: 0.0001
+2024-10-19 04:26:52,238 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.83%
+2024-10-19 04:26:52,238 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.6439614892006
+2024-10-19 04:26:52,238 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 367.88 seconds
+2024-10-19 04:27:57,230 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.36%
+2024-10-19 04:27:57,231 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.41406041383743
+2024-10-19 04:27:57,231 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 339.80 seconds
+2024-10-19 04:29:18,682 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.81%
+2024-10-19 04:29:18,682 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.81278657913208
+2024-10-19 04:29:18,682 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.44 seconds
+2024-10-19 04:29:20,836 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 48
+2024-10-19 04:29:20,837 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 04:29:20,837 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 516.48 seconds
+2024-10-19 04:29:20,840 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 49,learning rate: 0.0001
+2024-10-19 04:30:04,751 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.45%
+2024-10-19 04:30:04,751 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.87857103347778
+2024-10-19 04:30:04,751 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.52 seconds
+2024-10-19 04:30:06,137 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 53
+2024-10-19 04:30:06,137 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.878571 --> 192.878571).
+2024-10-19 04:30:06,137 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.71 seconds
+2024-10-19 04:30:06,140 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 54,learning rate: 0.0001
+2024-10-19 04:35:46,130 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.87%
+2024-10-19 04:35:46,130 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.59513089060783
+2024-10-19 04:35:46,130 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 385.29 seconds
+2024-10-19 04:36:03,451 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.43%
+2024-10-19 04:36:03,451 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 193.0853899717331
+2024-10-19 04:36:03,451 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.31 seconds
+2024-10-19 04:38:05,343 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.88%
+2024-10-19 04:38:05,343 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.43387937545776
+2024-10-19 04:38:05,343 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.21 seconds
+2024-10-19 04:38:06,494 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.42%
+2024-10-19 04:38:06,494 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 193.0996134877205
+2024-10-19 04:38:06,494 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 123.04 seconds
+2024-10-19 04:38:06,759 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 49
+2024-10-19 04:38:06,759 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.433879 --> 209.433879).
+2024-10-19 04:38:06,760 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 525.92 seconds
+2024-10-19 04:38:06,764 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 50,learning rate: 0.0001
+2024-10-19 04:38:07,899 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 54
+2024-10-19 04:38:07,900 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 04:38:07,900 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 481.76 seconds
+2024-10-19 04:38:07,902 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 55,learning rate: 0.0001
+2024-10-19 04:44:09,458 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.46%
+2024-10-19 04:44:09,458 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.85281938314438
+2024-10-19 04:44:09,458 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 361.56 seconds
+2024-10-19 04:44:36,346 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.85%
+2024-10-19 04:44:36,347 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.70714810490608
+2024-10-19 04:44:36,347 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 389.58 seconds
+2024-10-19 04:46:17,622 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.43%
+2024-10-19 04:46:17,623 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.7090674340725
+2024-10-19 04:46:17,623 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.16 seconds
+2024-10-19 04:46:19,217 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 55
+2024-10-19 04:46:19,217 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.709067 --> 192.709067).
+2024-10-19 04:46:19,217 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 491.32 seconds
+2024-10-19 04:46:19,222 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 56,learning rate: 0.0001
+2024-10-19 04:46:56,305 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 04:46:56,305 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.430801987648
+2024-10-19 04:46:56,305 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.96 seconds
+2024-10-19 04:46:57,721 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 50
+2024-10-19 04:46:57,721 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.430802 --> 209.430802).
+2024-10-19 04:46:57,721 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 530.96 seconds
+2024-10-19 04:46:57,726 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 51,learning rate: 0.0001
+2024-10-19 04:52:02,644 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.42%
+2024-10-19 04:52:02,644 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.90119221806526
+2024-10-19 04:52:02,644 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 343.42 seconds
+2024-10-19 04:53:12,378 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.89%
+2024-10-19 04:53:12,378 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.45206168293953
+2024-10-19 04:53:12,378 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 374.65 seconds
+2024-10-19 04:54:17,554 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.41%
+2024-10-19 04:54:17,555 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.92238447070122
+2024-10-19 04:54:17,555 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.91 seconds
+2024-10-19 04:54:18,951 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 56
+2024-10-19 04:54:18,952 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 04:54:18,952 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 479.73 seconds
+2024-10-19 04:54:18,956 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 57,learning rate: 0.0001
+2024-10-19 04:55:39,047 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.88%
+2024-10-19 04:55:39,048 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.48546969890594
+2024-10-19 04:55:39,048 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.67 seconds
+2024-10-19 04:55:40,581 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 51
+2024-10-19 04:55:40,581 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 04:55:40,581 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.86 seconds
+2024-10-19 04:55:40,584 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 52,learning rate: 0.0001
+2024-10-19 04:59:59,281 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.53%
+2024-10-19 04:59:59,281 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.62441837787628
+2024-10-19 04:59:59,282 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 340.33 seconds
+2024-10-19 05:01:52,219 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.85%
+2024-10-19 05:01:52,219 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.57035520672798
+2024-10-19 05:01:52,219 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 371.64 seconds
+2024-10-19 05:02:20,725 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.49%
+2024-10-19 05:02:20,725 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.86777251958847
+2024-10-19 05:02:20,725 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 141.44 seconds
+2024-10-19 05:02:22,351 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 57
+2024-10-19 05:02:22,351 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 05:02:22,351 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 483.40 seconds
+2024-10-19 05:02:22,354 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 58,learning rate: 0.0001
+2024-10-19 05:04:25,050 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.86%
+2024-10-19 05:04:25,050 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.58166307210922
+2024-10-19 05:04:25,050 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 152.83 seconds
+2024-10-19 05:04:26,742 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 52
+2024-10-19 05:04:26,743 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 05:04:26,743 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 526.16 seconds
+2024-10-19 05:04:26,745 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 53,learning rate: 0.0001
+2024-10-19 05:07:52,769 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.47%
+2024-10-19 05:07:52,769 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.80527871847153
+2024-10-19 05:07:52,769 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.42 seconds
+2024-10-19 05:10:20,219 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.48%
+2024-10-19 05:10:20,219 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.74900069832802
+2024-10-19 05:10:20,219 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.45 seconds
+2024-10-19 05:10:22,543 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 58
+2024-10-19 05:10:22,543 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 05:10:22,543 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 480.19 seconds
+2024-10-19 05:10:22,548 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 59,learning rate: 0.0001
+2024-10-19 05:10:26,427 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.84%
+2024-10-19 05:10:26,427 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.63658860325813
+2024-10-19 05:10:26,427 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 359.68 seconds
+2024-10-19 05:13:08,685 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 05:13:08,686 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.40290555357933
+2024-10-19 05:13:08,686 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.26 seconds
+2024-10-19 05:13:10,048 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 53
+2024-10-19 05:13:10,049 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.402906 --> 209.402906).
+2024-10-19 05:13:10,049 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 523.31 seconds
+2024-10-19 05:13:10,053 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 54,learning rate: 0.0001
+2024-10-19 05:15:43,827 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.45%
+2024-10-19 05:15:43,827 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.6956106722355
+2024-10-19 05:15:43,827 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 321.28 seconds
+2024-10-19 05:18:11,261 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 05:18:11,261 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.50258228182793
+2024-10-19 05:18:11,261 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.43 seconds
+2024-10-19 05:18:13,102 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 59
+2024-10-19 05:18:13,102 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.502582 --> 192.502582).
+2024-10-19 05:18:13,102 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 470.56 seconds
+2024-10-19 05:18:13,107 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 60,learning rate: 0.0001
+2024-10-19 05:19:10,549 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.83%
+2024-10-19 05:19:10,549 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.62338635325432
+2024-10-19 05:19:10,549 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.50 seconds
+2024-10-19 05:21:52,628 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.87%
+2024-10-19 05:21:52,628 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.5817895233631
+2024-10-19 05:21:52,628 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.08 seconds
+2024-10-19 05:21:54,043 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 54
+2024-10-19 05:21:54,043 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 05:21:54,044 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 523.99 seconds
+2024-10-19 05:21:54,049 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 55,learning rate: 0.0001
+2024-10-19 05:23:34,174 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.47%
+2024-10-19 05:23:34,174 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.81604930758476
+2024-10-19 05:23:34,174 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 321.07 seconds
+2024-10-19 05:26:01,610 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.48%
+2024-10-19 05:26:01,610 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.51463744044304
+2024-10-19 05:26:01,610 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.44 seconds
+2024-10-19 05:26:03,375 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 60
+2024-10-19 05:26:03,375 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 05:26:03,375 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 470.27 seconds
+2024-10-19 05:26:03,380 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 61,learning rate: 0.0001
+2024-10-19 05:27:51,976 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.89%
+2024-10-19 05:27:51,976 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.32765647768974
+2024-10-19 05:27:51,976 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.93 seconds
+2024-10-19 05:30:34,235 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.88%
+2024-10-19 05:30:34,235 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.34163025021553
+2024-10-19 05:30:34,235 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.26 seconds
+2024-10-19 05:30:35,903 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 55
+2024-10-19 05:30:35,904 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.341630 --> 209.341630).
+2024-10-19 05:30:35,904 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 521.86 seconds
+2024-10-19 05:30:35,908 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 56,learning rate: 0.0001
+2024-10-19 05:31:20,646 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.52%
+2024-10-19 05:31:20,647 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.49841690063477
+2024-10-19 05:31:20,647 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 317.27 seconds
+2024-10-19 05:33:48,046 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 05:33:48,046 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.556071549654
+2024-10-19 05:33:48,047 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.40 seconds
+2024-10-19 05:33:49,815 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 61
+2024-10-19 05:33:49,815 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 05:33:49,815 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 466.44 seconds
+2024-10-19 05:33:49,820 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 62,learning rate: 0.0001
+2024-10-19 05:36:31,411 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.85%
+2024-10-19 05:36:31,412 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.43942630290985
+2024-10-19 05:36:31,412 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.50 seconds
+2024-10-19 05:39:10,803 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.47%
+2024-10-19 05:39:10,803 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.6659999191761
+2024-10-19 05:39:10,803 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.98 seconds
+2024-10-19 05:39:12,362 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 05:39:12,362 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.33423000574112
+2024-10-19 05:39:12,362 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 160.95 seconds
+2024-10-19 05:39:14,267 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 56
+2024-10-19 05:39:14,268 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.334230 --> 209.334230).
+2024-10-19 05:39:14,268 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.36 seconds
+2024-10-19 05:39:14,271 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 57,learning rate: 0.0001
+2024-10-19 05:41:33,465 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.50%
+2024-10-19 05:41:33,466 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.63740384578705
+2024-10-19 05:41:33,466 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 142.66 seconds
+2024-10-19 05:41:35,697 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 62
+2024-10-19 05:41:35,697 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 05:41:35,697 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 465.88 seconds
+2024-10-19 05:41:35,702 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 63,learning rate: 0.0001
+2024-10-19 05:45:11,521 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.90%
+2024-10-19 05:45:11,521 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.22206941246986
+2024-10-19 05:45:11,521 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.25 seconds
+2024-10-19 05:47:05,898 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.46%
+2024-10-19 05:47:05,898 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.57796162366867
+2024-10-19 05:47:05,898 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.20 seconds
+2024-10-19 05:47:45,090 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.87%
+2024-10-19 05:47:45,090 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.35331371426582
+2024-10-19 05:47:45,090 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 153.57 seconds
+2024-10-19 05:47:46,835 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 57
+2024-10-19 05:47:46,835 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 05:47:46,835 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 512.57 seconds
+2024-10-19 05:47:46,838 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 58,learning rate: 0.0001
+2024-10-19 05:49:22,372 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.47%
+2024-10-19 05:49:22,372 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.74604204297066
+2024-10-19 05:49:22,372 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 136.47 seconds
+2024-10-19 05:49:23,922 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 63
+2024-10-19 05:49:23,922 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 4 out of 10
+2024-10-19 05:49:23,922 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.22 seconds
+2024-10-19 05:49:23,927 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 64,learning rate: 0.0001
+2024-10-19 05:54:00,126 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.92%
+2024-10-19 05:54:00,126 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.21262311935425
+2024-10-19 05:54:00,126 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 373.29 seconds
+2024-10-19 05:55:09,228 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.42%
+2024-10-19 05:55:09,228 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.7510623037815
+2024-10-19 05:55:09,228 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 345.30 seconds
+2024-10-19 05:56:27,211 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.88%
+2024-10-19 05:56:27,211 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.31750175356865
+2024-10-19 05:56:27,211 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.09 seconds
+2024-10-19 05:56:28,982 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 58
+2024-10-19 05:56:28,982 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.317502 --> 209.317502).
+2024-10-19 05:56:28,982 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.15 seconds
+2024-10-19 05:56:28,985 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 59,learning rate: 0.0001
+2024-10-19 05:57:18,047 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.51%
+2024-10-19 05:57:18,048 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.46097138524055
+2024-10-19 05:57:18,048 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.82 seconds
+2024-10-19 05:57:19,937 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 64
+2024-10-19 05:57:19,938 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.460971 --> 192.460971).
+2024-10-19 05:57:19,938 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 476.02 seconds
+2024-10-19 05:57:19,941 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 65,learning rate: 0.0001
+2024-10-19 06:02:52,505 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.90%
+2024-10-19 06:02:52,505 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.32224848866463
+2024-10-19 06:02:52,505 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 383.52 seconds
+2024-10-19 06:03:15,655 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.52%
+2024-10-19 06:03:15,656 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.28821912407875
+2024-10-19 06:03:15,656 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.71 seconds
+2024-10-19 06:05:12,413 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.93%
+2024-10-19 06:05:12,413 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.16392144560814
+2024-10-19 06:05:12,413 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.91 seconds
+2024-10-19 06:05:14,536 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 59
+2024-10-19 06:05:14,536 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.163921 --> 209.163921).
+2024-10-19 06:05:14,536 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 525.55 seconds
+2024-10-19 06:05:14,541 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 60,learning rate: 0.0001
+2024-10-19 06:05:16,641 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.46%
+2024-10-19 06:05:16,641 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.69896990060806
+2024-10-19 06:05:16,641 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 120.99 seconds
+2024-10-19 06:05:18,059 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 65
+2024-10-19 06:05:18,060 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 06:05:18,060 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 478.12 seconds
+2024-10-19 06:05:18,062 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 66,learning rate: 0.0001
+2024-10-19 06:11:11,494 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.44%
+2024-10-19 06:11:11,495 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.57194802165031
+2024-10-19 06:11:11,495 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 353.43 seconds
+2024-10-19 06:11:35,231 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.86%
+2024-10-19 06:11:35,231 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.29057303071022
+2024-10-19 06:11:35,232 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 380.69 seconds
+2024-10-19 06:13:19,245 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.49%
+2024-10-19 06:13:19,245 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.52587154507637
+2024-10-19 06:13:19,245 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.75 seconds
+2024-10-19 06:13:20,554 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 66
+2024-10-19 06:13:20,555 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 06:13:20,555 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 482.49 seconds
+2024-10-19 06:13:20,557 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 67,learning rate: 0.0001
+2024-10-19 06:13:55,120 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 06:13:55,120 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.18833947181702
+2024-10-19 06:13:55,121 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.89 seconds
+2024-10-19 06:13:56,482 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 60
+2024-10-19 06:13:56,482 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 06:13:56,482 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 521.95 seconds
+2024-10-19 06:13:56,484 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 61,learning rate: 0.0001
+2024-10-19 06:19:04,401 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.53%
+2024-10-19 06:19:04,401 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.30632263422012
+2024-10-19 06:19:04,401 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 343.84 seconds
+2024-10-19 06:20:11,688 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.86%
+2024-10-19 06:20:11,688 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.30809545516968
+2024-10-19 06:20:11,688 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 375.20 seconds
+2024-10-19 06:21:18,893 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 06:21:18,893 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.3329393863678
+2024-10-19 06:21:18,893 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.49 seconds
+2024-10-19 06:21:20,820 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 67
+2024-10-19 06:21:20,820 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.332939 --> 192.332939).
+2024-10-19 06:21:20,821 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 480.27 seconds
+2024-10-19 06:21:20,823 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 68,learning rate: 0.0001
+2024-10-19 06:22:36,985 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 06:22:36,985 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.1936795115471
+2024-10-19 06:22:36,985 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 145.30 seconds
+2024-10-19 06:22:38,590 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 61
+2024-10-19 06:22:38,590 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 06:22:38,590 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.11 seconds
+2024-10-19 06:22:38,595 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 62,learning rate: 0.0001
+2024-10-19 06:26:55,994 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.50%
+2024-10-19 06:26:55,994 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.5281130373478
+2024-10-19 06:26:55,994 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 335.17 seconds
+2024-10-19 06:28:45,330 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.89%
+2024-10-19 06:28:45,330 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.18426221609116
+2024-10-19 06:28:45,330 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 366.73 seconds
+2024-10-19 06:29:16,974 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.47%
+2024-10-19 06:29:16,974 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.55898091197014
+2024-10-19 06:29:16,974 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 140.98 seconds
+2024-10-19 06:29:18,856 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 68
+2024-10-19 06:29:18,857 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 06:29:18,857 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 478.04 seconds
+2024-10-19 06:29:18,859 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 69,learning rate: 0.0001
+2024-10-19 06:31:17,173 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 06:31:17,173 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.17538329958916
+2024-10-19 06:31:17,173 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 151.84 seconds
+2024-10-19 06:31:18,885 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 62
+2024-10-19 06:31:18,885 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 06:31:18,885 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.29 seconds
+2024-10-19 06:31:18,890 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 63,learning rate: 0.0001
+2024-10-19 06:34:45,742 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.52%
+2024-10-19 06:34:45,742 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.26248589158058
+2024-10-19 06:34:45,742 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 326.88 seconds
+2024-10-19 06:37:13,285 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.46%
+2024-10-19 06:37:13,285 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.58599722385406
+2024-10-19 06:37:13,285 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.54 seconds
+2024-10-19 06:37:14,793 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 69
+2024-10-19 06:37:14,793 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 06:37:14,793 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 475.94 seconds
+2024-10-19 06:37:14,798 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 70,learning rate: 0.0001
+2024-10-19 06:37:15,185 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.88%
+2024-10-19 06:37:15,185 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.28887343406677
+2024-10-19 06:37:15,185 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.30 seconds
+2024-10-19 06:39:57,446 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.90%
+2024-10-19 06:39:57,447 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.12516224384308
+2024-10-19 06:39:57,447 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.26 seconds
+2024-10-19 06:39:58,897 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 63
+2024-10-19 06:39:58,897 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.125162 --> 209.125162).
+2024-10-19 06:39:58,897 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.01 seconds
+2024-10-19 06:39:58,900 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 64,learning rate: 0.0001
+2024-10-19 06:42:36,010 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.56%
+2024-10-19 06:42:36,010 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.10645920038223
+2024-10-19 06:42:36,010 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 321.21 seconds
+2024-10-19 06:45:03,491 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.53%
+2024-10-19 06:45:03,492 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.28476920723915
+2024-10-19 06:45:03,492 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.48 seconds
+2024-10-19 06:45:05,091 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 70
+2024-10-19 06:45:05,091 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.284769 --> 192.284769).
+2024-10-19 06:45:05,091 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 470.30 seconds
+2024-10-19 06:45:05,096 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 71,learning rate: 0.0001
+2024-10-19 06:45:59,465 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.88%
+2024-10-19 06:45:59,465 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.15833535790443
+2024-10-19 06:45:59,465 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.56 seconds
+2024-10-19 06:48:41,739 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.82%
+2024-10-19 06:48:41,739 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.46275371313095
+2024-10-19 06:48:41,739 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.27 seconds
+2024-10-19 06:48:43,385 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 64
+2024-10-19 06:48:43,386 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 06:48:43,386 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 524.49 seconds
+2024-10-19 06:48:43,388 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 65,learning rate: 0.0001
+2024-10-19 06:50:23,383 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.45%
+2024-10-19 06:50:23,383 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.53001952171326
+2024-10-19 06:50:23,384 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 318.29 seconds
+2024-10-19 06:52:50,872 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.50%
+2024-10-19 06:52:50,873 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.45796394348145
+2024-10-19 06:52:50,873 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.49 seconds
+2024-10-19 06:52:53,161 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 71
+2024-10-19 06:52:53,161 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 06:52:53,161 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.07 seconds
+2024-10-19 06:52:53,164 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 72,learning rate: 0.0001
+2024-10-19 06:54:38,347 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.88%
+2024-10-19 06:54:38,347 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.13585007190704
+2024-10-19 06:54:38,347 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 354.96 seconds
+2024-10-19 06:57:20,550 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.91%
+2024-10-19 06:57:20,551 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.15885707736015
+2024-10-19 06:57:20,551 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.20 seconds
+2024-10-19 06:57:22,215 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 65
+2024-10-19 06:57:22,216 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 06:57:22,216 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.83 seconds
+2024-10-19 06:57:22,219 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 66,learning rate: 0.0001
+2024-10-19 06:58:11,436 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.46%
+2024-10-19 06:58:11,436 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.69388365745544
+2024-10-19 06:58:11,436 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 318.27 seconds
+2024-10-19 07:00:38,764 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.51%
+2024-10-19 07:00:38,765 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.2293526828289
+2024-10-19 07:00:38,765 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.33 seconds
+2024-10-19 07:00:40,848 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 72
+2024-10-19 07:00:40,849 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.229353 --> 192.229353).
+2024-10-19 07:00:40,849 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.69 seconds
+2024-10-19 07:00:40,854 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 73,learning rate: 0.0001
+2024-10-19 07:03:22,287 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.90%
+2024-10-19 07:03:22,288 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.12241849303246
+2024-10-19 07:03:22,288 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.07 seconds
+2024-10-19 07:06:04,593 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.86%
+2024-10-19 07:06:04,593 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.23602002859116
+2024-10-19 07:06:04,593 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.31 seconds
+2024-10-19 07:06:04,622 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.51%
+2024-10-19 07:06:04,622 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.39689630270004
+2024-10-19 07:06:04,622 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 323.77 seconds
+2024-10-19 07:06:06,963 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 66
+2024-10-19 07:06:06,963 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 07:06:06,963 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 524.75 seconds
+2024-10-19 07:06:06,966 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 67,learning rate: 0.0001
+2024-10-19 07:08:27,494 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.47%
+2024-10-19 07:08:27,494 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.50696596503258
+2024-10-19 07:08:27,494 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 142.87 seconds
+2024-10-19 07:08:29,006 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 73
+2024-10-19 07:08:29,006 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 07:08:29,006 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 468.16 seconds
+2024-10-19 07:08:29,009 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 74,learning rate: 0.0001
+2024-10-19 07:12:05,132 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.89%
+2024-10-19 07:12:05,133 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.9922130405903
+2024-10-19 07:12:05,133 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 358.17 seconds
+2024-10-19 07:13:58,779 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.51%
+2024-10-19 07:13:58,779 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.3022785782814
+2024-10-19 07:13:58,779 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 329.77 seconds
+2024-10-19 07:14:39,120 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 07:14:39,120 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.06534469127655
+2024-10-19 07:14:39,120 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 153.99 seconds
+2024-10-19 07:14:41,159 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 67
+2024-10-19 07:14:41,159 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (209.065345 --> 209.065345).
+2024-10-19 07:14:41,159 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 514.20 seconds
+2024-10-19 07:14:41,165 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 68,learning rate: 0.0001
+2024-10-19 07:16:13,645 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.47%
+2024-10-19 07:16:13,646 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.53387758135796
+2024-10-19 07:16:13,646 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.87 seconds
+2024-10-19 07:16:15,049 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 74
+2024-10-19 07:16:15,049 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 07:16:15,049 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 466.04 seconds
+2024-10-19 07:16:15,054 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 75,learning rate: 0.0001
+2024-10-19 07:20:55,401 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.94%
+2024-10-19 07:20:55,401 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.91037672758102
+2024-10-19 07:20:55,401 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 374.24 seconds
+2024-10-19 07:22:01,084 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.51%
+2024-10-19 07:22:01,084 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.28139126300812
+2024-10-19 07:22:01,084 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 346.03 seconds
+2024-10-19 07:23:21,989 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.90%
+2024-10-19 07:23:21,989 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.09481874108315
+2024-10-19 07:23:21,989 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.59 seconds
+2024-10-19 07:23:23,921 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 68
+2024-10-19 07:23:23,921 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 07:23:23,921 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.76 seconds
+2024-10-19 07:23:23,924 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 69,learning rate: 0.0001
+2024-10-19 07:24:08,769 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.48%
+2024-10-19 07:24:08,769 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.46380126476288
+2024-10-19 07:24:08,769 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.69 seconds
+2024-10-19 07:24:10,440 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 75
+2024-10-19 07:24:10,440 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 07:24:10,440 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 475.39 seconds
+2024-10-19 07:24:10,446 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 76,learning rate: 0.0001
+2024-10-19 07:29:41,146 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.88%
+2024-10-19 07:29:41,146 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.26256650686264
+2024-10-19 07:29:41,146 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 377.22 seconds
+2024-10-19 07:29:59,430 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.50%
+2024-10-19 07:29:59,430 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.31896105408669
+2024-10-19 07:29:59,430 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 348.98 seconds
+2024-10-19 07:32:00,652 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.92%
+2024-10-19 07:32:00,652 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.92939788103104
+2024-10-19 07:32:00,652 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.51 seconds
+2024-10-19 07:32:02,046 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.55%
+2024-10-19 07:32:02,047 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.37316954135895
+2024-10-19 07:32:02,047 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 122.62 seconds
+2024-10-19 07:32:02,867 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 69
+2024-10-19 07:32:02,867 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (208.929398 --> 208.929398).
+2024-10-19 07:32:02,867 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.95 seconds
+2024-10-19 07:32:02,869 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 70,learning rate: 0.0001
+2024-10-19 07:32:04,298 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 76
+2024-10-19 07:32:04,298 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 4 out of 10
+2024-10-19 07:32:04,298 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 473.86 seconds
+2024-10-19 07:32:04,303 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 77,learning rate: 0.0001
+2024-10-19 07:38:05,826 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.53%
+2024-10-19 07:38:05,826 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.1682156920433
+2024-10-19 07:38:05,827 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 361.52 seconds
+2024-10-19 07:38:32,187 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.89%
+2024-10-19 07:38:32,187 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.19067522883415
+2024-10-19 07:38:32,187 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 389.32 seconds
+2024-10-19 07:40:13,948 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.48%
+2024-10-19 07:40:13,949 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.4270478785038
+2024-10-19 07:40:13,949 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.12 seconds
+2024-10-19 07:40:16,001 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 77
+2024-10-19 07:40:16,001 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 5 out of 10
+2024-10-19 07:40:16,001 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 491.70 seconds
+2024-10-19 07:40:16,004 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 78,learning rate: 0.0001
+2024-10-19 07:40:50,830 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 07:40:50,830 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.03133508563042
+2024-10-19 07:40:50,830 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 138.64 seconds
+2024-10-19 07:40:52,419 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 70
+2024-10-19 07:40:52,420 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 07:40:52,420 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 529.55 seconds
+2024-10-19 07:40:52,423 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 71,learning rate: 0.0001
+2024-10-19 07:46:06,518 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.45%
+2024-10-19 07:46:06,518 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.64167374372482
+2024-10-19 07:46:06,519 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 350.51 seconds
+2024-10-19 07:47:14,444 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.90%
+2024-10-19 07:47:14,445 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.9822787642479
+2024-10-19 07:47:14,445 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 382.02 seconds
+2024-10-19 07:48:21,092 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.54%
+2024-10-19 07:48:21,093 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.20736920833588
+2024-10-19 07:48:21,093 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.57 seconds
+2024-10-19 07:48:22,581 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 78
+2024-10-19 07:48:22,581 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.207369 --> 192.207369).
+2024-10-19 07:48:22,581 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 486.58 seconds
+2024-10-19 07:48:22,586 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 79,learning rate: 0.0001
+2024-10-19 07:49:40,890 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 07:49:40,890 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.0927301645279
+2024-10-19 07:49:40,890 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.45 seconds
+2024-10-19 07:49:42,332 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 71
+2024-10-19 07:49:42,332 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 07:49:42,332 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 529.91 seconds
+2024-10-19 07:49:42,335 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 72,learning rate: 0.0001
+2024-10-19 07:54:03,614 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.52%
+2024-10-19 07:54:03,615 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.20676025748253
+2024-10-19 07:54:03,615 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 341.03 seconds
+2024-10-19 07:55:54,547 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.87%
+2024-10-19 07:55:54,547 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.1859137415886
+2024-10-19 07:55:54,547 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 372.21 seconds
+2024-10-19 07:56:24,868 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 07:56:24,868 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.17556515336037
+2024-10-19 07:56:24,868 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 141.25 seconds
+2024-10-19 07:56:26,277 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 79
+2024-10-19 07:56:26,277 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.175565 --> 192.175565).
+2024-10-19 07:56:26,277 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 483.70 seconds
+2024-10-19 07:56:26,280 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 80,learning rate: 0.0001
+2024-10-19 07:58:27,440 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.94%
+2024-10-19 07:58:27,441 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.96038991212845
+2024-10-19 07:58:27,441 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 152.89 seconds
+2024-10-19 07:58:29,038 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 72
+2024-10-19 07:58:29,038 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 07:58:29,038 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 526.71 seconds
+2024-10-19 07:58:29,041 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 73,learning rate: 0.0001
+2024-10-19 08:01:52,459 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.56%
+2024-10-19 08:01:52,460 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.10614502429962
+2024-10-19 08:01:52,460 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 326.18 seconds
+2024-10-19 08:04:19,803 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 08:04:19,803 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.28718250989914
+2024-10-19 08:04:19,803 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.34 seconds
+2024-10-19 08:04:21,961 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 80
+2024-10-19 08:04:21,961 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 08:04:21,962 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 475.68 seconds
+2024-10-19 08:04:21,966 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 81,learning rate: 0.0001
+2024-10-19 08:04:24,159 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.90%
+2024-10-19 08:04:24,159 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.14616638422012
+2024-10-19 08:04:24,159 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.12 seconds
+2024-10-19 08:07:06,297 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.88%
+2024-10-19 08:07:06,298 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.16104581952095
+2024-10-19 08:07:06,298 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.14 seconds
+2024-10-19 08:07:07,669 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 73
+2024-10-19 08:07:07,669 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 4 out of 10
+2024-10-19 08:07:07,670 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 518.63 seconds
+2024-10-19 08:07:07,674 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 74,learning rate: 0.0001
+2024-10-19 08:09:39,398 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.51%
+2024-10-19 08:09:39,399 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.0886621773243
+2024-10-19 08:09:39,399 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 317.43 seconds
+2024-10-19 08:12:06,880 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.54%
+2024-10-19 08:12:06,881 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.12996914982796
+2024-10-19 08:12:06,881 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.48 seconds
+2024-10-19 08:12:08,352 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 81
+2024-10-19 08:12:08,352 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.129969 --> 192.129969).
+2024-10-19 08:12:08,352 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 466.39 seconds
+2024-10-19 08:12:08,357 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 82,learning rate: 0.0001
+2024-10-19 08:13:03,697 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.94%
+2024-10-19 08:13:03,697 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.94908064603806
+2024-10-19 08:13:03,697 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.02 seconds
+2024-10-19 08:15:45,847 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.85%
+2024-10-19 08:15:45,847 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.22926485538483
+2024-10-19 08:15:45,847 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.15 seconds
+2024-10-19 08:15:47,412 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 74
+2024-10-19 08:15:47,412 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 5 out of 10
+2024-10-19 08:15:47,412 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.74 seconds
+2024-10-19 08:15:47,415 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 75,learning rate: 0.0001
+2024-10-19 08:17:28,112 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.53%
+2024-10-19 08:17:28,113 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.20546025037766
+2024-10-19 08:17:28,113 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 319.76 seconds
+2024-10-19 08:19:55,498 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.53%
+2024-10-19 08:19:55,498 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.278922021389
+2024-10-19 08:19:55,498 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.39 seconds
+2024-10-19 08:19:58,511 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 82
+2024-10-19 08:19:58,511 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 08:19:58,511 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 470.16 seconds
+2024-10-19 08:19:58,516 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 83,learning rate: 0.0001
+2024-10-19 08:21:45,876 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.89%
+2024-10-19 08:21:45,876 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.0128810107708
+2024-10-19 08:21:45,876 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 358.46 seconds
+2024-10-19 08:24:28,225 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.89%
+2024-10-19 08:24:28,225 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.05807900428772
+2024-10-19 08:24:28,225 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.35 seconds
+2024-10-19 08:24:29,809 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 75
+2024-10-19 08:24:29,809 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 6 out of 10
+2024-10-19 08:24:29,809 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.40 seconds
+2024-10-19 08:24:29,811 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 76,learning rate: 0.0001
+2024-10-19 08:25:19,449 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.54%
+2024-10-19 08:25:19,449 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.96544533967972
+2024-10-19 08:25:19,449 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.93 seconds
+2024-10-19 08:27:46,863 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.47%
+2024-10-19 08:27:46,863 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.351646900177
+2024-10-19 08:27:46,863 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.41 seconds
+2024-10-19 08:27:48,556 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 83
+2024-10-19 08:27:48,557 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 08:27:48,557 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 470.05 seconds
+2024-10-19 08:27:48,560 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 84,learning rate: 0.0001
+2024-10-19 08:30:26,605 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.91%
+2024-10-19 08:30:26,606 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.86891534924507
+2024-10-19 08:30:26,606 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.79 seconds
+2024-10-19 08:33:08,752 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.95%
+2024-10-19 08:33:08,752 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.7582646906376
+2024-10-19 08:33:08,752 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.15 seconds
+2024-10-19 08:33:08,803 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.47%
+2024-10-19 08:33:08,803 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.44077455997467
+2024-10-19 08:33:08,803 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.24 seconds
+2024-10-19 08:33:10,395 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 76
+2024-10-19 08:33:10,395 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (208.758265 --> 208.758265).
+2024-10-19 08:33:10,395 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 520.59 seconds
+2024-10-19 08:33:10,400 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 77,learning rate: 0.0001
+2024-10-19 08:35:33,304 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.50%
+2024-10-19 08:35:33,305 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.4717403948307
+2024-10-19 08:35:33,305 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 144.50 seconds
+2024-10-19 08:35:34,701 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 84
+2024-10-19 08:35:34,701 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 08:35:34,701 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 466.14 seconds
+2024-10-19 08:35:34,704 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 85,learning rate: 0.0001
+2024-10-19 08:39:13,120 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.87%
+2024-10-19 08:39:13,120 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.12013578414917
+2024-10-19 08:39:13,120 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 362.72 seconds
+2024-10-19 08:41:09,181 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.54%
+2024-10-19 08:41:09,181 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.07504558563232
+2024-10-19 08:41:09,181 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 334.48 seconds
+2024-10-19 08:41:47,503 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.88%
+2024-10-19 08:41:47,503 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.1254507303238
+2024-10-19 08:41:47,503 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 154.38 seconds
+2024-10-19 08:41:49,694 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 77
+2024-10-19 08:41:49,694 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 08:41:49,694 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 519.30 seconds
+2024-10-19 08:41:49,697 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 78,learning rate: 0.0001
+2024-10-19 08:43:24,499 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.50%
+2024-10-19 08:43:24,499 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.24845796823502
+2024-10-19 08:43:24,500 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 135.32 seconds
+2024-10-19 08:43:26,132 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 85
+2024-10-19 08:43:26,132 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 4 out of 10
+2024-10-19 08:43:26,132 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 471.43 seconds
+2024-10-19 08:43:26,135 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 86,learning rate: 0.0001
+2024-10-19 08:48:02,914 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.94%
+2024-10-19 08:48:02,914 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.90928542613983
+2024-10-19 08:48:02,914 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 373.22 seconds
+2024-10-19 08:49:11,507 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.47%
+2024-10-19 08:49:11,508 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.36470964550972
+2024-10-19 08:49:11,508 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 345.37 seconds
+2024-10-19 08:50:29,909 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.88%
+2024-10-19 08:50:29,909 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.00367212295532
+2024-10-19 08:50:29,909 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 146.99 seconds
+2024-10-19 08:50:31,960 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 78
+2024-10-19 08:50:31,960 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 08:50:31,961 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.27 seconds
+2024-10-19 08:50:31,963 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 79,learning rate: 0.0001
+2024-10-19 08:51:19,781 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.51%
+2024-10-19 08:51:19,781 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.24536937475204
+2024-10-19 08:51:19,781 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 128.27 seconds
+2024-10-19 08:51:21,917 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 86
+2024-10-19 08:51:21,917 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 5 out of 10
+2024-10-19 08:51:21,918 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 475.79 seconds
+2024-10-19 08:51:21,922 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 87,learning rate: 0.0001
+2024-10-19 08:56:55,153 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.91%
+2024-10-19 08:56:55,154 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.0356691479683
+2024-10-19 08:56:55,154 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 383.19 seconds
+2024-10-19 08:57:17,813 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.55%
+2024-10-19 08:57:17,813 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.11487621068954
+2024-10-19 08:57:17,813 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 355.89 seconds
+2024-10-19 08:59:15,196 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.87%
+2024-10-19 08:59:15,196 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.13004729151726
+2024-10-19 08:59:15,196 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 140.04 seconds
+2024-10-19 08:59:16,744 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 79
+2024-10-19 08:59:16,744 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 08:59:16,744 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 524.78 seconds
+2024-10-19 08:59:16,747 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 80,learning rate: 0.0001
+2024-10-19 08:59:20,105 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.53%
+2024-10-19 08:59:20,105 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.280285269022
+2024-10-19 08:59:20,105 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 122.29 seconds
+2024-10-19 08:59:21,790 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 87
+2024-10-19 08:59:21,791 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 6 out of 10
+2024-10-19 08:59:21,791 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 479.87 seconds
+2024-10-19 08:59:21,795 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 88,learning rate: 0.0001
+2024-10-19 09:05:23,397 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.54%
+2024-10-19 09:05:23,397 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.0790801346302
+2024-10-19 09:05:23,397 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 361.60 seconds
+2024-10-19 09:05:45,373 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.85%
+2024-10-19 09:05:45,373 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 209.19592717289925
+2024-10-19 09:05:45,373 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 388.63 seconds
+2024-10-19 09:07:30,790 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 09:07:30,790 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.18462815880775
+2024-10-19 09:07:30,790 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 127.39 seconds
+2024-10-19 09:07:32,212 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 88
+2024-10-19 09:07:32,213 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 7 out of 10
+2024-10-19 09:07:32,213 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 490.42 seconds
+2024-10-19 09:07:32,217 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 89,learning rate: 0.0001
+2024-10-19 09:08:04,599 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.90%
+2024-10-19 09:08:04,599 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.98432570695877
+2024-10-19 09:08:04,600 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 139.23 seconds
+2024-10-19 09:08:06,282 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 80
+2024-10-19 09:08:06,282 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 4 out of 10
+2024-10-19 09:08:06,282 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 529.54 seconds
+2024-10-19 09:08:06,287 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 81,learning rate: 0.0001
+2024-10-19 09:13:23,452 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.55%
+2024-10-19 09:13:23,452 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 191.9517195224762
+2024-10-19 09:13:23,452 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 351.24 seconds
+2024-10-19 09:14:28,982 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.89%
+2024-10-19 09:14:28,982 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.97292134165764
+2024-10-19 09:14:28,982 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 382.70 seconds
+2024-10-19 09:15:37,711 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.47%
+2024-10-19 09:15:37,712 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.26575112342834
+2024-10-19 09:15:37,712 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 134.26 seconds
+2024-10-19 09:15:39,223 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 89
+2024-10-19 09:15:39,223 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 8 out of 10
+2024-10-19 09:15:39,223 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 487.01 seconds
+2024-10-19 09:15:39,226 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 90,learning rate: 0.0001
+2024-10-19 09:16:54,862 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.90%
+2024-10-19 09:16:54,862 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.08714872598648
+2024-10-19 09:16:54,862 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 145.88 seconds
+2024-10-19 09:16:56,974 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 81
+2024-10-19 09:16:56,975 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 5 out of 10
+2024-10-19 09:16:56,975 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 530.69 seconds
+2024-10-19 09:16:56,980 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 82,learning rate: 0.0001
+2024-10-19 09:21:13,794 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.55%
+2024-10-19 09:21:13,794 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 191.9739395081997
+2024-10-19 09:21:13,794 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 334.57 seconds
+2024-10-19 09:23:03,582 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.91%
+2024-10-19 09:23:03,582 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.89281237125397
+2024-10-19 09:23:03,582 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 366.60 seconds
+2024-10-19 09:23:34,819 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.55%
+2024-10-19 09:23:34,819 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.11854273080826
+2024-10-19 09:23:34,819 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 141.03 seconds
+2024-10-19 09:23:36,241 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 90
+2024-10-19 09:23:36,241 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.118543 --> 192.118543).
+2024-10-19 09:23:36,241 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 477.02 seconds
+2024-10-19 09:23:36,246 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 91,learning rate: 0.0001
+2024-10-19 09:25:36,141 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.92%
+2024-10-19 09:25:36,142 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.05653992295265
+2024-10-19 09:25:36,142 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 152.56 seconds
+2024-10-19 09:25:38,280 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 82
+2024-10-19 09:25:38,280 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 6 out of 10
+2024-10-19 09:25:38,280 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 521.31 seconds
+2024-10-19 09:25:38,285 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 83,learning rate: 0.0001
+2024-10-19 09:29:06,589 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.56%
+2024-10-19 09:29:06,590 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.02313196659088
+2024-10-19 09:29:06,590 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 330.34 seconds
+2024-10-19 09:31:34,029 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.51%
+2024-10-19 09:31:34,029 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.1186579167843
+2024-10-19 09:31:34,029 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.44 seconds
+2024-10-19 09:31:35,997 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 91
+2024-10-19 09:31:35,997 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 09:31:35,997 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 479.76 seconds
+2024-10-19 09:31:36,002 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 92,learning rate: 0.0001
+2024-10-19 09:31:38,452 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.90%
+2024-10-19 09:31:38,452 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.99655804038048
+2024-10-19 09:31:38,452 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 360.17 seconds
+2024-10-19 09:34:20,670 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.87%
+2024-10-19 09:34:20,670 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 209.08828127384186
+2024-10-19 09:34:20,670 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.22 seconds
+2024-10-19 09:34:22,859 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 83
+2024-10-19 09:34:22,859 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 7 out of 10
+2024-10-19 09:34:22,859 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 524.58 seconds
+2024-10-19 09:34:22,863 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 84,learning rate: 0.0001
+2024-10-19 09:36:52,749 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.49%
+2024-10-19 09:36:52,749 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.29055124521255
+2024-10-19 09:36:52,749 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 316.75 seconds
+2024-10-19 09:39:20,232 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.51%
+2024-10-19 09:39:20,232 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.1812173128128
+2024-10-19 09:39:20,232 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.48 seconds
+2024-10-19 09:39:21,901 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 92
+2024-10-19 09:39:21,901 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 09:39:21,901 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 465.90 seconds
+2024-10-19 09:39:21,905 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 93,learning rate: 0.0001
+2024-10-19 09:40:19,894 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.92%
+2024-10-19 09:40:19,894 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.88162887096405
+2024-10-19 09:40:19,895 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 357.03 seconds
+2024-10-19 09:43:02,230 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.92%
+2024-10-19 09:43:02,231 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.7944137752056
+2024-10-19 09:43:02,231 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.34 seconds
+2024-10-19 09:43:04,090 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 84
+2024-10-19 09:43:04,090 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 8 out of 10
+2024-10-19 09:43:04,090 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 521.23 seconds
+2024-10-19 09:43:04,095 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 85,learning rate: 0.0001
+2024-10-19 09:44:39,962 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.54%
+2024-10-19 09:44:39,962 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.05920973420143
+2024-10-19 09:44:39,962 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 318.06 seconds
+2024-10-19 09:47:07,492 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 09:47:07,492 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.14967262744904
+2024-10-19 09:47:07,492 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.53 seconds
+2024-10-19 09:47:09,025 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 93
+2024-10-19 09:47:09,025 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 09:47:09,025 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 467.12 seconds
+2024-10-19 09:47:09,028 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 94,learning rate: 0.0001
+2024-10-19 09:49:02,964 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.95%
+2024-10-19 09:49:02,964 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.92049777507782
+2024-10-19 09:49:02,965 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 358.87 seconds
+2024-10-19 09:51:45,113 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.86%
+2024-10-19 09:51:45,113 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.96932691335678
+2024-10-19 09:51:45,113 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 162.15 seconds
+2024-10-19 09:51:46,715 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 85
+2024-10-19 09:51:46,715 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 9 out of 10
+2024-10-19 09:51:46,715 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 522.62 seconds
+2024-10-19 09:51:46,720 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 86,learning rate: 0.0001
+2024-10-19 09:52:29,794 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.53%
+2024-10-19 09:52:29,794 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.13848543167114
+2024-10-19 09:52:29,794 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 320.77 seconds
+2024-10-19 09:54:57,246 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.53%
+2024-10-19 09:54:57,247 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.0799452662468
+2024-10-19 09:54:57,247 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 147.45 seconds
+2024-10-19 09:54:58,885 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 94
+2024-10-19 09:54:58,885 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (192.079945 --> 192.079945).
+2024-10-19 09:54:58,885 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 469.86 seconds
+2024-10-19 09:54:58,891 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 95,learning rate: 0.0001
+2024-10-19 09:57:43,494 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.92%
+2024-10-19 09:57:43,494 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 208.95467936992645
+2024-10-19 09:57:43,494 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 356.77 seconds
+2024-10-19 10:00:20,619 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.52%
+2024-10-19 10:00:20,619 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.18319255113602
+2024-10-19 10:00:20,619 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 321.73 seconds
+2024-10-19 10:00:24,362 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.92%
+2024-10-19 10:00:24,362 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 208.7628200352192
+2024-10-19 10:00:24,362 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 160.87 seconds
+2024-10-19 10:00:26,756 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 86
+2024-10-19 10:00:26,756 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 10 out of 10
+2024-10-19 10:00:26,756 - Eval_-1_baseline_lr_cmbd - INFO - Early stopping triggered. Ending training.
+2024-10-19 10:00:26,756 - Eval_-1_baseline_lr_cmbd - DEBUG - train acc list: [58.21057601510859, 80.40132200188857, 92.08215297450425, 95.69877242681775, 96.51085930122757, 97.2851746931067, 97.73371104815864, 97.94145420207742, 98.28139754485363, 98.50330500472143, 98.76770538243626, 98.82908404154863, 98.88574126534466, 98.99905571293674, 99.10292728989613, 99.23512747875354, 99.32483474976392, 99.35788479697828, 99.40509915014164, 99.51369216241737, 99.5042492917847, 99.56090651558074, 99.52785646836638, 99.62700661000945, 99.58923512747876, 99.6458923512748, 99.64117091595845, 99.73087818696884, 99.74976392823419, 99.71199244570349, 99.77337110481587, 99.74976392823419, 99.78753541076487, 99.74976392823419, 99.80169971671387, 99.77337110481587, 99.81114258734655, 99.7639282341832, 99.82058545797923, 99.83947119924457, 99.7780925401322, 99.7780925401322, 99.84891406987725, 99.78281397544853, 99.8441926345609, 99.86307837582625, 99.83474976392823, 99.86307837582625, 99.8300283286119, 99.87252124645892, 99.84891406987725, 99.88668555240793, 99.84891406987725, 99.8441926345609, 99.82530689329556, 99.88668555240793, 99.85363550519358, 99.90084985835695, 99.91501416430594, 99.89612842304061, 99.86307837582625, 99.86307837582625, 99.89140698772427, 99.87724268177526, 99.87724268177526, 99.87724268177526, 99.90084985835695, 99.89140698772427, 99.93862134088764, 99.87724268177526, 99.88668555240793, 99.89612842304061, 99.87252124645892, 99.89612842304061, 99.93862134088764, 99.89140698772427, 99.91029272898962, 99.86779981114259, 99.94334277620396, 99.91029272898962, 99.85363550519358, 99.88668555240793, 99.91029272898962, 99.89612842304061, 99.92445703493861, 99.9480642115203, 99.91501416430594]
+2024-10-19 10:00:26,756 - Eval_-1_baseline_lr_cmbd - DEBUG - test acc list: [69.28234183191691, 88.64966949952786, 94.72143531633617, 96.18980169971671, 96.5014164305949, 97.31822474032106, 97.86118980169972, 98.24362606232295, 98.43720491029273, 98.55524079320114, 98.89518413597733, 98.90934844192635, 99.02266288951841, 99.1784702549575, 99.0604343720491, 99.24457034938622, 99.43342776203966, 99.32483474976392, 99.39093484419263, 99.44759206798867, 99.51841359773371, 99.57979225684608, 99.5939565627951, 99.57979225684608, 99.66949952785646, 99.65533522190746, 99.69782813975449, 99.66477809254013, 99.67894239848914, 99.7780925401322, 99.7780925401322, 99.73559962228518, 99.75448536355051, 99.7780925401322, 99.75920679886686, 99.74504249291785, 99.80642115203023, 99.7922568460812, 99.8300283286119, 99.82058545797923, 99.8300283286119, 99.82530689329556, 99.82058545797923, 99.86779981114259, 99.83474976392823, 99.8300283286119, 99.89140698772427, 99.82058545797923, 99.81114258734655, 99.87724268177526, 99.89140698772427, 99.8819641170916, 99.86307837582625, 99.88668555240793, 99.86779981114259, 99.8819641170916, 99.89140698772427, 99.87252124645892, 99.87724268177526, 99.9338999055713, 99.88668555240793, 99.88668555240793, 99.88668555240793, 99.89612842304061, 99.82058545797923, 99.91029272898962, 99.86307837582625, 99.88668555240793, 99.89612842304061, 99.91501416430594, 99.89140698772427, 99.88668555240793, 99.94334277620396, 99.87724268177526, 99.84891406987725, 99.88668555240793, 99.95278564683665, 99.8819641170916, 99.8819641170916, 99.87252124645892, 99.89612842304061, 99.89612842304061, 99.91973559962229, 99.86779981114259, 99.91973559962229, 99.86307837582625, 99.92445703493861]
+2024-10-19 10:00:26,757 - Eval_-1_baseline_lr_cmbd - DEBUG - train_loss:  [446.0497772693634, 397.34578108787537, 338.1728852689266, 292.13321313261986, 265.3094978928566, 250.1733216047287, 241.18640491366386, 235.36999332904816, 230.98421853780746, 227.74207788705826, 225.03785488009453, 223.23064449429512, 221.42917543649673, 220.00064876675606, 219.10368910431862, 217.6677085161209, 216.9569774866104, 216.04205879569054, 215.25447976589203, 214.66459274291992, 214.51889064908028, 213.80056926608086, 213.66814851760864, 212.97348421812057, 212.88891473412514, 212.3016398847103, 212.43026965856552, 211.7127920985222, 211.50906214118004, 211.58766382932663, 211.24352449178696, 211.14915934205055, 210.80799463391304, 210.88915321230888, 210.51962533593178, 210.487939119339, 210.592797011137, 210.72740751504898, 210.3106869161129, 210.2014521062374, 210.22114086151123, 210.18425071239471, 210.05884212255478, 210.1446469426155, 209.87243536114693, 209.81646487116814, 209.9727407991886, 209.6746288239956, 209.6439614892006, 209.59513089060783, 209.70714810490608, 209.45206168293953, 209.57035520672798, 209.63658860325813, 209.62338635325432, 209.32765647768974, 209.43942630290985, 209.22206941246986, 209.21262311935425, 209.32224848866463, 209.29057303071022, 209.30809545516968, 209.18426221609116, 209.28887343406677, 209.15833535790443, 209.13585007190704, 209.12241849303246, 208.9922130405903, 208.91037672758102, 209.26256650686264, 209.19067522883415, 208.9822787642479, 209.1859137415886, 209.14616638422012, 208.94908064603806, 209.0128810107708, 208.86891534924507, 209.12013578414917, 208.90928542613983, 209.0356691479683, 209.19592717289925, 208.97292134165764, 208.89281237125397, 208.99655804038048, 208.88162887096405, 208.92049777507782, 208.95467936992645]
+2024-10-19 10:00:26,757 - Eval_-1_baseline_lr_cmbd - DEBUG - test_loss:  [424.42746073007584, 366.58547431230545, 311.3935743570328, 275.5198592543602, 258.2231935560703, 246.05050733685493, 237.62976583838463, 232.52058377861977, 228.81204265356064, 226.0518601834774, 223.84523412585258, 221.84830659627914, 220.3280339539051, 218.75444972515106, 218.56284800171852, 217.35459131002426, 216.02484092116356, 215.9594259262085, 215.3096123635769, 214.77220338582993, 214.2446197271347, 213.60901767015457, 213.14838913083076, 213.37463596463203, 212.25793758034706, 212.36196318268776, 211.88762256503105, 211.884525090456, 211.59996205568314, 211.38308942317963, 211.15109485387802, 211.1978341639042, 211.09162175655365, 210.86291626095772, 210.81547102332115, 210.78345927596092, 210.53012230992317, 210.39745369553566, 210.20194721221924, 210.17465287446976, 210.09175115823746, 210.06304454803467, 210.05633407831192, 209.85430386662483, 210.08144584298134, 209.7280417084694, 209.72674736380577, 209.87422397732735, 209.81278657913208, 209.43387937545776, 209.430801987648, 209.48546969890594, 209.58166307210922, 209.40290555357933, 209.5817895233631, 209.34163025021553, 209.33423000574112, 209.35331371426582, 209.31750175356865, 209.16392144560814, 209.18833947181702, 209.1936795115471, 209.17538329958916, 209.12516224384308, 209.46275371313095, 209.15885707736015, 209.23602002859116, 209.06534469127655, 209.09481874108315, 208.92939788103104, 209.03133508563042, 209.0927301645279, 208.96038991212845, 209.16104581952095, 209.22926485538483, 209.05807900428772, 208.7582646906376, 209.1254507303238, 209.00367212295532, 209.13004729151726, 208.98432570695877, 209.08714872598648, 209.05653992295265, 209.08828127384186, 208.7944137752056, 208.96932691335678, 208.7628200352192]
+2024-10-19 10:00:26,757 - Eval_-1_baseline_lr_cmbd - DEBUG - PLOT_EPOCH 86
+2024-10-19 10:00:26,757 - Eval_-1_baseline_lr_cmbd - DEBUG - learning rates: [0.0001, 9.997779521645793e-05, 9.991120277927223e-05, 9.980028840713861e-05, 9.964516155915153e-05, 9.944597532678122e-05, 9.920292628279102e-05, 9.891625428724366e-05, 9.858624225078842e-05, 9.821321585546247e-05, 9.779754323328194e-05, 9.733963460294018e-05, 9.683994186497135e-05, 9.629895815577918e-05, 9.571721736097092e-05, 9.509529358847659e-05, 9.44338006019739e-05, 9.373339121517751e-05, 9.299475664759073e-05, 9.221862584235533e-05, 9.140576474687269e-05, 9.055697555690611e-05, 8.967309592491056e-05, 8.875499813337073e-05, 8.780358823396356e-05, 8.681980515339468e-05, 8.580461976679104e-05, 8.475903393956438e-05, 8.368407953869108e-05, 8.2580817414384e-05, 8.145033635316135e-05, 8.029375200334593e-05, 7.91122057740549e-05, 7.790686370876676e-05, 7.667891533457723e-05, 7.542957248827965e-05, 7.416006812042832e-05, 7.287165507856518e-05, 7.156560487081057e-05, 7.024320641103818e-05, 6.89057647468727e-05, 6.755459977176539e-05, 6.619104492241852e-05, 6.481644586284449e-05, 6.343215915635769e-05, 6.203955092681047e-05, 6.063999551039378e-05, 5.923487409933322e-05, 5.7825573378819186e-05, 5.6413484158515854e-05, 5.5000000000000076e-05, 5.35865158414843e-05, 5.217442662118097e-05, 5.076512590066692e-05, 4.9360004489606375e-05, 4.796044907318967e-05, 4.6567840843642445e-05, 4.518355413715565e-05, 4.380895507758158e-05, 4.2445400228234734e-05, 4.109423525312742e-05, 3.975679358896193e-05, 3.8434395129189545e-05, 3.712834492143491e-05, 3.5839931879571766e-05, 3.457042751172043e-05, 3.332108466542284e-05, 3.2093136291233324e-05, 3.0887794225945174e-05, 2.9706247996654154e-05, 2.854966364683875e-05, 2.741918258561609e-05, 2.6315920461308995e-05, 2.5240966060435704e-05, 2.4195380233209035e-05, 2.318019484660539e-05, 2.2196411766036513e-05, 2.124500186662934e-05, 2.032690407508951e-05, 1.944302444309395e-05, 1.8594235253127385e-05, 1.778137415764474e-05, 1.7005243352409347e-05, 1.6266608784822544e-05, 1.5566199398026153e-05, 1.4904706411523462e-05, 1.428278263902914e-05]
+2024-10-19 10:01:12,496 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.50%
+2024-10-19 10:01:12,496 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.28144505620003
+2024-10-19 10:01:12,496 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 51.88 seconds
+2024-10-19 10:01:14,195 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 95
+2024-10-19 10:01:14,195 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 10:01:14,196 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 375.31 seconds
+2024-10-19 10:01:14,200 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 96,learning rate: 0.0001
+2024-10-19 10:03:39,321 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.54%
+2024-10-19 10:03:39,321 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.02847197651863
+2024-10-19 10:03:39,322 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 145.12 seconds
+2024-10-19 10:04:29,115 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.46%
+2024-10-19 10:04:29,116 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.44515201449394
+2024-10-19 10:04:29,116 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 49.79 seconds
+2024-10-19 10:04:32,136 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 96
+2024-10-19 10:04:32,137 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 2 out of 10
+2024-10-19 10:04:32,137 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 197.94 seconds
+2024-10-19 10:04:32,142 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 97,learning rate: 0.0001
+2024-10-19 10:06:57,328 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.55%
+2024-10-19 10:06:57,328 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 191.9391976594925
+2024-10-19 10:06:57,328 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 145.19 seconds
+2024-10-19 10:07:47,363 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.49%
+2024-10-19 10:07:47,363 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.30488646030426
+2024-10-19 10:07:47,363 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 50.03 seconds
+2024-10-19 10:07:48,754 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 97
+2024-10-19 10:07:48,755 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 3 out of 10
+2024-10-19 10:07:48,755 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 196.62 seconds
+2024-10-19 10:07:48,758 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 98,learning rate: 0.0001
+2024-10-19 10:10:13,988 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.51%
+2024-10-19 10:10:13,988 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.16824933886528
+2024-10-19 10:10:13,988 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 145.23 seconds
+2024-10-19 10:11:03,917 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.58%
+2024-10-19 10:11:03,917 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 191.84025248885155
+2024-10-19 10:11:03,917 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 49.93 seconds
+2024-10-19 10:11:06,141 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 98
+2024-10-19 10:11:06,141 - Eval_-1_baseline_lr_cmbd - INFO - loss decreased (191.840252 --> 191.840252).
+2024-10-19 10:11:06,141 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 197.39 seconds
+2024-10-19 10:11:06,146 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch: 99,learning rate: 0.0001
+2024-10-19 10:13:31,131 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Accuracy: 99.54%
+2024-10-19 10:13:31,131 - Eval_-1_baseline_lr_cmbd - DEBUG - Train Loss: 192.00744393467903
+2024-10-19 10:13:31,131 - Eval_-1_baseline_lr_cmbd - INFO - Train time: 144.99 seconds
+2024-10-19 10:14:21,052 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Accuracy: 99.52%
+2024-10-19 10:14:21,052 - Eval_-1_baseline_lr_cmbd - DEBUG - Test Loss: 192.12019953131676
+2024-10-19 10:14:21,052 - Eval_-1_baseline_lr_cmbd - INFO - Test time: 49.92 seconds
+2024-10-19 10:14:22,683 - Eval_-1_baseline_lr_cmbd - DEBUG - Model saved successfully at epoch 99
+2024-10-19 10:14:22,683 - Eval_-1_baseline_lr_cmbd - INFO - EarlyStopping counter: 1 out of 10
+2024-10-19 10:14:22,683 - Eval_-1_baseline_lr_cmbd - DEBUG - Epoch time: 196.54 seconds
+2024-10-19 10:14:22,683 - Eval_-1_baseline_lr_cmbd - DEBUG - train acc list: [56.08069463942182, 70.25425050694119, 79.74834919149379, 82.45203556387459, 84.9009514896272, 87.03790360318203, 89.06566838246763, 90.6202880465866, 92.33088961680444, 93.01721000363958, 94.34305620548017, 94.9565850361358, 95.84568190089949, 96.14724691935736, 96.47480892216504, 96.9427546404617, 97.2131232776998, 97.50428950241772, 97.61347683668694, 97.79545572713565, 98.04502677689388, 98.14381531742318, 98.38818697031144, 98.41418395466125, 98.46097852649093, 98.65335621067956, 98.62735922632974, 98.6065616388499, 98.73134716372901, 98.76774294181875, 98.89252846669785, 98.8873290698279, 99.09530494462643, 98.93932303852753, 99.03811157905683, 99.0849061508865, 99.13690011958613, 99.13690011958613, 99.29288202568503, 99.29808142255499, 99.2668850413352, 99.21489107263557, 99.31367961316488, 99.27728383507514, 99.34487599438465, 99.38127177247439, 99.34487599438465, 99.32927780377476, 99.39167056621432, 99.37087297873447, 99.3656735818645, 99.34487599438465, 99.39167056621432, 99.36047418499454, 99.42806634430406, 99.4644621223938, 99.4228669474341, 99.52685488483336, 99.46966151926377, 99.44886393178392, 99.46966151926377, 99.51645609109343, 99.47486091613374, 99.45926272552383, 99.4228669474341, 99.51645609109343, 99.43846513804398, 99.53205428170332, 99.50085790048354, 99.5216554879634, 99.5632506629231, 99.45406332865387, 99.45926272552383, 99.50605729735351, 99.50605729735351, 99.51125669422348, 99.49565850361358, 99.52685488483336, 99.44886393178392, 99.5216554879634, 99.55805126605314, 99.50605729735351, 99.52685488483336, 99.5372536785733, 99.46966151926377, 99.54245307544325, 99.47486091613374, 99.55285186918317, 99.54245307544325, 99.55285186918317, 99.5476524723132, 99.5632506629231, 99.49045910674363, 99.5372536785733, 99.52685488483336, 99.5216554879634, 99.54245307544325, 99.5476524723132, 99.51125669422348, 99.54245307544325]
+2024-10-19 10:14:22,683 - Eval_-1_baseline_lr_cmbd - DEBUG - test acc list: [60.65096448811937, 78.01695003379608, 80.75703218426663, 82.38444340456506, 85.02573701450632, 87.51104871834868, 90.14194353455, 91.62377164248947, 67.41537981594135, 93.83351531222378, 94.57182966775855, 95.20615608589404, 95.95486923516872, 96.39681796911557, 96.901159465502, 97.12993292778039, 97.43149794623824, 97.63947382103676, 97.89944366453491, 97.98263401445433, 98.09702074559351, 98.21660687360266, 98.34659179535173, 98.4349815421411, 98.36738938283159, 98.71054957624915, 98.61696043258982, 98.79893932303852, 98.65335621067956, 98.89252846669785, 98.75734414807881, 99.05890916653668, 99.00171580096708, 98.89252846669785, 99.04331097592679, 99.12130192897624, 99.13690011958613, 99.1836946914158, 99.24088805698538, 99.25648624759528, 99.3240784069048, 99.19929288202567, 99.23568866011543, 99.29808142255499, 99.33447720064473, 99.38127177247439, 99.37087297873447, 99.43326574117403, 99.40726875682421, 99.43846513804398, 99.37087297873447, 99.4644621223938, 99.44886393178392, 99.45406332865387, 99.41766755056413, 99.43326574117403, 99.41246815369416, 99.48525970987365, 99.48006031300369, 99.51645609109343, 99.48006031300369, 99.51645609109343, 99.49565850361358, 99.46966151926377, 99.50605729735351, 99.4644621223938, 99.49045910674363, 99.51645609109343, 99.47486091613374, 99.45926272552383, 99.53205428170332, 99.49565850361358, 99.50605729735351, 99.46966151926377, 99.46966151926377, 99.48006031300369, 99.55285186918317, 99.48006031300369, 99.5372536785733, 99.5216554879634, 99.5216554879634, 99.5372536785733, 99.52685488483336, 99.47486091613374, 99.49565850361358, 99.50085790048354, 99.50605729735351, 99.52685488483336, 99.5216554879634, 99.46966151926377, 99.55285186918317, 99.50605729735351, 99.50605729735351, 99.51645609109343, 99.52685488483336, 99.49565850361358, 99.45926272552383, 99.49045910674363, 99.58404825040296, 99.51645609109343]
+2024-10-19 10:14:22,683 - Eval_-1_baseline_lr_cmbd - DEBUG - train_loss:  [409.9702670574188, 391.4532616138458, 362.3316583633423, 334.119619846344, 309.99912187457085, 289.7423024773598, 273.4912001788616, 260.4282272160053, 248.9954377412796, 242.3078518807888, 233.28098207712173, 228.05670747160912, 222.54684627056122, 219.81396907567978, 216.1204676926136, 213.53306797146797, 211.2846685051918, 209.25450506806374, 208.137721657753, 206.32254859805107, 204.83744737505913, 203.74145045876503, 202.18734577298164, 201.7671484351158, 201.39547795057297, 199.90024197101593, 200.01394447684288, 199.63118094205856, 198.74407094717026, 198.4731968343258, 197.5450700223446, 197.02138325572014, 196.23637455701828, 196.98881575465202, 196.1019631922245, 195.9200983941555, 195.61207735538483, 195.28678226470947, 194.59791696071625, 194.47982543706894, 194.63950806856155, 194.7489246726036, 194.2434928715229, 194.48172867298126, 193.98014390468597, 193.6411674618721, 193.80449271202087, 193.57963660359383, 193.47110480070114, 193.50859066843987, 193.4724404513836, 193.50783130526543, 193.0350086390972, 193.41406041383743, 193.0853899717331, 192.85281938314438, 192.90119221806526, 192.62441837787628, 192.80527871847153, 192.6956106722355, 192.81604930758476, 192.49841690063477, 192.6659999191761, 192.57796162366867, 192.7510623037815, 192.28821912407875, 192.57194802165031, 192.30632263422012, 192.5281130373478, 192.26248589158058, 192.10645920038223, 192.53001952171326, 192.69388365745544, 192.39689630270004, 192.3022785782814, 192.28139126300812, 192.31896105408669, 192.1682156920433, 192.64167374372482, 192.20676025748253, 192.10614502429962, 192.0886621773243, 192.20546025037766, 192.96544533967972, 192.44077455997467, 192.07504558563232, 192.36470964550972, 192.11487621068954, 192.0790801346302, 191.9517195224762, 191.9739395081997, 192.02313196659088, 192.29055124521255, 192.05920973420143, 192.13848543167114, 192.18319255113602, 192.02847197651863, 191.9391976594925, 192.16824933886528, 192.00744393467903]
+2024-10-19 10:14:22,684 - Eval_-1_baseline_lr_cmbd - DEBUG - test_loss:  [401.9046910405159, 377.8636668920517, 347.87641155719757, 322.3866312801838, 300.43145433068275, 281.95999935269356, 265.00287640094757, 254.17836394906044, 359.9159392416477, 237.80751839280128, 230.04296559095383, 225.779969394207, 220.39975693821907, 217.025976896286, 214.9131382703781, 213.59624314308167, 210.98446509242058, 208.37213185429573, 206.5236784517765, 206.63093894720078, 204.1332495212555, 202.80335620045662, 202.4715512394905, 201.29100087285042, 201.41053366661072, 199.91366755962372, 200.03210979700089, 198.4239191710949, 198.63447737693787, 197.5910149216652, 198.3004158437252, 196.88130497932434, 196.5320980846882, 196.94384583830833, 195.89799854159355, 195.65442988276482, 195.32867440581322, 195.31581458449364, 194.95469725131989, 194.64023676514626, 194.15772119164467, 194.89549407362938, 194.49365493655205, 194.4557260274887, 193.86695954203606, 193.60888448357582, 193.6746859550476, 193.30680882930756, 193.24210104346275, 193.07159972190857, 193.80235144495964, 192.9465055167675, 192.98718383908272, 192.87857103347778, 193.0996134877205, 192.7090674340725, 192.92238447070122, 192.86777251958847, 192.74900069832802, 192.50258228182793, 192.51463744044304, 192.556071549654, 192.63740384578705, 192.74604204297066, 192.46097138524055, 192.69896990060806, 192.52587154507637, 192.3329393863678, 192.55898091197014, 192.58599722385406, 192.28476920723915, 192.45796394348145, 192.2293526828289, 192.50696596503258, 192.53387758135796, 192.46380126476288, 192.37316954135895, 192.4270478785038, 192.20736920833588, 192.17556515336037, 192.28718250989914, 192.12996914982796, 192.278922021389, 192.351646900177, 192.4717403948307, 192.24845796823502, 192.24536937475204, 192.280285269022, 192.18462815880775, 192.26575112342834, 192.11854273080826, 192.1186579167843, 192.1812173128128, 192.14967262744904, 192.0799452662468, 192.28144505620003, 192.44515201449394, 192.30488646030426, 191.84025248885155, 192.12019953131676]
+2024-10-19 10:14:22,684 - Eval_-1_baseline_lr_cmbd - DEBUG - PLOT_EPOCH 99
+2024-10-19 10:14:22,684 - Eval_-1_baseline_lr_cmbd - DEBUG - learning rates: [0.0001, 9.997779521645793e-05, 9.991120277927223e-05, 9.980028840713861e-05, 9.964516155915153e-05, 9.944597532678122e-05, 9.920292628279102e-05, 9.891625428724366e-05, 9.858624225078842e-05, 9.821321585546247e-05, 9.779754323328194e-05, 9.733963460294018e-05, 9.683994186497135e-05, 9.629895815577918e-05, 9.571721736097092e-05, 9.509529358847659e-05, 9.44338006019739e-05, 9.373339121517751e-05, 9.299475664759073e-05, 9.221862584235533e-05, 9.140576474687269e-05, 9.055697555690611e-05, 8.967309592491056e-05, 8.875499813337073e-05, 8.780358823396356e-05, 8.681980515339468e-05, 8.580461976679104e-05, 8.475903393956438e-05, 8.368407953869108e-05, 8.2580817414384e-05, 8.145033635316135e-05, 8.029375200334593e-05, 7.91122057740549e-05, 7.790686370876676e-05, 7.667891533457723e-05, 7.542957248827965e-05, 7.416006812042832e-05, 7.287165507856518e-05, 7.156560487081057e-05, 7.024320641103818e-05, 6.89057647468727e-05, 6.755459977176539e-05, 6.619104492241852e-05, 6.481644586284449e-05, 6.343215915635769e-05, 6.203955092681047e-05, 6.063999551039378e-05, 5.923487409933322e-05, 5.7825573378819186e-05, 5.6413484158515854e-05, 5.5000000000000076e-05, 5.35865158414843e-05, 5.217442662118097e-05, 5.076512590066692e-05, 4.9360004489606375e-05, 4.796044907318967e-05, 4.6567840843642445e-05, 4.518355413715565e-05, 4.380895507758158e-05, 4.2445400228234734e-05, 4.109423525312742e-05, 3.975679358896193e-05, 3.8434395129189545e-05, 3.712834492143491e-05, 3.5839931879571766e-05, 3.457042751172043e-05, 3.332108466542284e-05, 3.2093136291233324e-05, 3.0887794225945174e-05, 2.9706247996654154e-05, 2.854966364683875e-05, 2.741918258561609e-05, 2.6315920461308995e-05, 2.5240966060435704e-05, 2.4195380233209035e-05, 2.318019484660539e-05, 2.2196411766036513e-05, 2.124500186662934e-05, 2.032690407508951e-05, 1.944302444309395e-05, 1.8594235253127385e-05, 1.778137415764474e-05, 1.7005243352409347e-05, 1.6266608784822544e-05, 1.5566199398026153e-05, 1.4904706411523462e-05, 1.428278263902914e-05, 1.370104184422087e-05, 1.3160058135028698e-05, 1.2660365397059863e-05, 1.2202456766718098e-05, 1.1786784144537573e-05, 1.1413757749211612e-05, 1.1083745712756375e-05, 1.0797073717209012e-05, 1.0554024673218808e-05, 1.0354838440848503e-05, 1.0199711592861402e-05, 1.0088797220727781e-05, 1.002220478354208e-05]

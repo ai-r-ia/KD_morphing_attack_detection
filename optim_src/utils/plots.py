@@ -55,39 +55,44 @@ def plot_charts(
 ):
     num_epochs = plot_epoch + 1
 
-    fig, ax = plt.subplots()
-    ax.plot(range(num_epochs), train_loss, color="r", label="train")
-    ax.plot(range(num_epochs), test_loss, color="g", label="test")
+    if test_loss or train_loss:
+        fig, ax = plt.subplots()
+        if train_loss:
+            ax.plot(range(num_epochs), train_loss, color="r", label="train")
+        if test_loss:
+            ax.plot(range(num_epochs), test_loss, color="g", label="test")
 
-    ax.set_xlabel("Epoch")
-    ax.set_ylabel("Loss")
-    ax.set_title("Loss per Epoch")
-    plt.show()
+        ax.set_xlabel("Epoch")
+        ax.set_ylabel("Loss")
+        ax.set_title("Loss per Epoch")
+        plt.show()
 
-    os.makedirs(dir_path, exist_ok=True)
-    plt.savefig(
-        f"{dir_path}/{args.model_name}_loss_{args.learning_rate}_{args.morphtype}_{args.eval_number}.png"
-    )
+        os.makedirs(dir_path, exist_ok=True)
+        plt.savefig(
+            f"{dir_path}/{args.model_name}_loss_{args.learning_rate}_{args.morphtype}_{args.eval_number}.png"
+        )
 
-    fig, ax = plt.subplots()
-    ax.plot(range(num_epochs), train_accuracy)
-    ax.set_xlabel("Epoch")
-    ax.set_ylabel("train accuracy")
-    ax.set_title("accuracy per Epoch")
-    plt.show()
-    plt.savefig(
-        f"{dir_path}/{args.model_name}_train_acc_{args.learning_rate}_{args.morphtype}_{args.eval_number}.png"
-    )
+    if train_accuracy:
+        fig, ax = plt.subplots()
+        ax.plot(range(num_epochs), train_accuracy)
+        ax.set_xlabel("Epoch")
+        ax.set_ylabel("train accuracy")
+        ax.set_title("accuracy per Epoch")
+        plt.show()
+        plt.savefig(
+            f"{dir_path}/{args.model_name}_train_acc_{args.learning_rate}_{args.morphtype}_{args.eval_number}.png"
+        )
 
-    fig, ax = plt.subplots()
-    ax.plot(range(num_epochs), test_accuracy)
-    ax.set_xlabel("Epoch")
-    ax.set_ylabel("test accuracy")
-    ax.set_title("accuracy per Epoch")
-    plt.show()
-    plt.savefig(
-        f"{dir_path}/{args.model_name}_test_acc_{args.learning_rate}_{args.morphtype}_{args.eval_number}.png"
-    )
+    if test_accuracy:
+        fig, ax = plt.subplots()
+        ax.plot(range(num_epochs), test_accuracy)
+        ax.set_xlabel("Epoch")
+        ax.set_ylabel("test accuracy")
+        ax.set_title("accuracy per Epoch")
+        plt.show()
+        plt.savefig(
+            f"{dir_path}/{args.model_name}_test_acc_{args.learning_rate}_{args.morphtype}_{args.eval_number}.png"
+        )
 
 
 def plot_combined_hist(istest, saving_dir, models) -> None:
@@ -132,7 +137,7 @@ def plot_combined_hist(istest, saving_dir, models) -> None:
 def plot_eer_bars(istest, isferet, saving_dir) -> None:
     if istest:
         if isferet:
-            eer_file = f"{saving_dir}/eer_testdb_feret.pkl"
+            eer_file = f"{saving_dir}/eer_testdb_feret_student2.pkl"
         else:
             eer_file = f"{saving_dir}/eer_testdb.pkl"
     else:

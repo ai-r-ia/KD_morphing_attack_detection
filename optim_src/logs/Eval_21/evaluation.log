@@ -1,0 +1,98 @@
+2024-10-21 20:25:34,946 - Eval_21_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo.lma_lma
+2024-10-22 05:09:16,912 - Eval_21_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo.lma_lma
+2024-10-22 05:10:15,648 - Eval_21_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo.lma_lma
+2024-10-22 05:10:15,747 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:11:23,653 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:12:28,118 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:13:13,198 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:13:52,722 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:14:28,443 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:15:06,338 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:15:39,873 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:16:17,045 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-22 05:17:02,730 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-22 05:18:04,307 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-22 05:19:04,276 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma_lma
+2024-10-22 05:19:31,564 - Eval_21_evaluation - INFO - EER Table:
+2024-10-22 05:19:31,564 - Eval_21_evaluation - INFO - teacher_post_process: {'greedy': 16.2, 'lmaubo': 16.51, 'mipgan2': 16.44, 'mordiff': 16.21}
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_lmaubo: {'greedy': 33.78, 'lmaubo': 46.18, 'mipgan2': 49.87, 'mordiff': 42.21}
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma_lma: {'greedy': 17.14, 'lmaubo': 20.99, 'mipgan2': 21.69, 'mordiff': 17.4}
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - DEER Table:
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_post_process on greedy vs lmaubo: DEER = 0.3100
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_post_process on greedy vs mipgan2: DEER = 0.2400
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_post_process on greedy vs mordiff: DEER = 0.0100
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_post_process on lmaubo vs mipgan2: DEER = 0.0700
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_post_process on lmaubo vs mordiff: DEER = 0.3000
+2024-10-22 05:19:31,565 - Eval_21_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 0.2300
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_lmaubo on greedy vs lmaubo: DEER = 12.4000
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_lmaubo on greedy vs mipgan2: DEER = 16.0900
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_lmaubo on greedy vs mordiff: DEER = 8.4300
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 3.6900
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 3.9700
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 7.6600
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on greedy vs lmaubo: DEER = 3.8500
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on greedy vs mipgan2: DEER = 4.5500
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on greedy vs mordiff: DEER = 0.2600
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on lmaubo vs mipgan2: DEER = 0.7000
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on lmaubo vs mordiff: DEER = 3.5900
+2024-10-22 05:19:31,566 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma_lma on mipgan2 vs mordiff: DEER = 4.2900
+2024-10-22 05:36:41,471 - Eval_21_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo.lma student2_lma_llmbd_1.0
+2024-10-22 05:36:41,501 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:37:23,418 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:38:03,905 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:38:41,099 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:39:20,789 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:39:59,443 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:40:39,818 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:41:18,183 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:41:57,630 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 05:42:27,510 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 05:42:58,286 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 05:43:29,145 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 05:53:23,864 - Eval_21_evaluation - INFO - models: teacher_post_process teacher_lmaubo teacher_post_process.lmaubo.lma student2_lma_llmbd_1.0
+2024-10-22 05:53:23,935 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:54:00,169 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:54:37,544 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:55:13,063 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process
+2024-10-22 05:55:49,509 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:56:29,806 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:57:12,165 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:57:51,747 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_lmaubo
+2024-10-22 05:58:32,509 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 05:59:02,263 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 05:59:34,431 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 06:00:05,721 - Eval_21_evaluation - DEBUG - fetching scores for: teacher_post_process.lmaubo.lma
+2024-10-22 06:00:38,909 - Eval_21_evaluation - DEBUG - fetching scores for: student2_lma_llmbd_1.0
+2024-10-22 06:01:21,753 - Eval_21_evaluation - DEBUG - fetching scores for: student2_lma_llmbd_1.0
+2024-10-22 06:02:05,460 - Eval_21_evaluation - DEBUG - fetching scores for: student2_lma_llmbd_1.0
+2024-10-22 06:02:47,524 - Eval_21_evaluation - DEBUG - fetching scores for: student2_lma_llmbd_1.0
+2024-10-22 06:03:28,063 - Eval_21_evaluation - INFO - EER Table:
+2024-10-22 06:03:28,063 - Eval_21_evaluation - INFO - teacher_post_process: {'greedy': 27.42, 'lmaubo': 42.04, 'mipgan2': 46.66, 'mordiff': 26.87}
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - teacher_lmaubo: {'greedy': 36.45, 'lmaubo': 44.79, 'mipgan2': 46.88, 'mordiff': 41.21}
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma: {'greedy': 22.46, 'lmaubo': 24.98, 'mipgan2': 24.5, 'mordiff': 24.92}
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - student2_lma_llmbd_1.0: {'greedy': 43.9, 'lmaubo': 43.69, 'mipgan2': 32.9, 'mordiff': 44.39}
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - DEER Table:
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - teacher_post_process on greedy vs lmaubo: DEER = 14.6200
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - teacher_post_process on greedy vs mipgan2: DEER = 19.2400
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - teacher_post_process on greedy vs mordiff: DEER = 0.5500
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - teacher_post_process on lmaubo vs mipgan2: DEER = 4.6200
+2024-10-22 06:03:28,064 - Eval_21_evaluation - INFO - teacher_post_process on lmaubo vs mordiff: DEER = 15.1700
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_post_process on mipgan2 vs mordiff: DEER = 19.7900
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_lmaubo on greedy vs lmaubo: DEER = 8.3400
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_lmaubo on greedy vs mipgan2: DEER = 10.4300
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_lmaubo on greedy vs mordiff: DEER = 4.7600
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_lmaubo on lmaubo vs mipgan2: DEER = 2.0900
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_lmaubo on lmaubo vs mordiff: DEER = 3.5800
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_lmaubo on mipgan2 vs mordiff: DEER = 5.6700
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma on greedy vs lmaubo: DEER = 2.5200
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma on greedy vs mipgan2: DEER = 2.0400
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma on greedy vs mordiff: DEER = 2.4600
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma on lmaubo vs mipgan2: DEER = 0.4800
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma on lmaubo vs mordiff: DEER = 0.0600
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - teacher_post_process.lmaubo.lma on mipgan2 vs mordiff: DEER = 0.4200
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - student2_lma_llmbd_1.0 on greedy vs lmaubo: DEER = 0.2100
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - student2_lma_llmbd_1.0 on greedy vs mipgan2: DEER = 11.0000
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - student2_lma_llmbd_1.0 on greedy vs mordiff: DEER = 0.4900
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - student2_lma_llmbd_1.0 on lmaubo vs mipgan2: DEER = 10.7900
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - student2_lma_llmbd_1.0 on lmaubo vs mordiff: DEER = 0.7000
+2024-10-22 06:03:28,065 - Eval_21_evaluation - INFO - student2_lma_llmbd_1.0 on mipgan2 vs mordiff: DEER = 11.4900

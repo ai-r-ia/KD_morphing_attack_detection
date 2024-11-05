@@ -16,10 +16,19 @@ class Center_loss(Module):
         self.lambda_c = lambda_c
         self.lambda_s = lambda_s
         self.max_separation_loss = max_separation_loss
-        self.bonafide_center = torch.randn(1, embedding_dim).cuda()
-        self.morph_center = torch.randn(1, embedding_dim).cuda()
+
+        self.bonafide_center = torch.nn.Parameter(
+            torch.randn(1, embedding_dim).cuda(), requires_grad=True
+        )
+        self.morph_center = torch.nn.Parameter(
+            torch.randn(1, embedding_dim).cuda(), requires_grad=True
+        )
+        # self.bonafide_center = torch.randn(1, embedding_dim).cuda()
+        # self.morph_center = torch.randn(1, embedding_dim).cuda()
 
     def forward(self, embeddings, labels):
+        embeddings = functional.normalize(embeddings, p=2, dim=1)
+
         labels = torch.argmax(labels, dim=1)
         bonafide_mask = labels == 0
         morph_mask = labels == 1
@@ -47,5 +56,8 @@ class Center_loss(Module):
             self.lambda_c * (bonafide_loss + morph_loss)
             - self.lambda_s * separation_loss
         )
+
+        # Prevents the total loss from going negative
+        total_loss = torch.clamp(total_loss, min=1e-8)
 
         return total_loss

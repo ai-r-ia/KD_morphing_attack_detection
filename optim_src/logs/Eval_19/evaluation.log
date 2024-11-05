@@ -1,0 +1,37 @@
+2024-10-20 20:04:09,505 - Eval_19_evaluation - INFO - models: teacher_mipgan2 teacher_stylegan teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma
+2024-10-20 20:04:09,571 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-20 20:04:33,155 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-20 20:04:59,375 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-20 20:05:30,251 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_mipgan2
+2024-10-20 20:05:56,001 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-20 20:06:26,190 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-20 20:07:02,208 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-20 20:07:30,472 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_stylegan
+2024-10-20 20:08:02,854 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma
+2024-10-20 20:08:36,532 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma
+2024-10-20 20:09:15,339 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma
+2024-10-20 20:09:37,541 - Eval_19_evaluation - DEBUG - fetching scores for: teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma
+2024-10-20 20:10:13,638 - Eval_19_evaluation - INFO - EER Table:
+2024-10-20 20:10:13,638 - Eval_19_evaluation - INFO - teacher_mipgan2: {'greedy': 49.06, 'lmaubo': 51.45, 'mipgan2': 48.53, 'mordiff': 49.97}
+2024-10-20 20:10:13,638 - Eval_19_evaluation - INFO - teacher_stylegan: {'greedy': 18.94, 'lmaubo': 33.53, 'mipgan2': 20.29, 'mordiff': 24.36}
+2024-10-20 20:10:13,638 - Eval_19_evaluation - INFO - teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma: {'greedy': 22.34, 'lmaubo': 48.93, 'mipgan2': 7.02, 'mordiff': 35.61}
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - DEER Table:
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_mipgan2 on greedy vs lmaubo: DEER = 2.3900
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_mipgan2 on greedy vs mipgan2: DEER = 0.5300
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_mipgan2 on greedy vs mordiff: DEER = 0.9100
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_mipgan2 on lmaubo vs mipgan2: DEER = 2.9200
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_mipgan2 on lmaubo vs mordiff: DEER = 1.4800
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_mipgan2 on mipgan2 vs mordiff: DEER = 1.4400
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_stylegan on greedy vs lmaubo: DEER = 14.5900
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_stylegan on greedy vs mipgan2: DEER = 1.3500
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_stylegan on greedy vs mordiff: DEER = 5.4200
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_stylegan on lmaubo vs mipgan2: DEER = 13.2400
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_stylegan on lmaubo vs mordiff: DEER = 9.1700
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_stylegan on mipgan2 vs mordiff: DEER = 4.0700
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma on greedy vs lmaubo: DEER = 26.5900
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma on greedy vs mipgan2: DEER = 15.3200
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma on greedy vs mordiff: DEER = 13.2700
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma on lmaubo vs mipgan2: DEER = 41.9100
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma on lmaubo vs mordiff: DEER = 13.3200
+2024-10-20 20:10:13,639 - Eval_19_evaluation - INFO - teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma on mipgan2 vs mordiff: DEER = 28.5900
+2024-10-20 20:12:46,442 - Eval_19_evaluation - INFO - models: teacher_mipgan2 teacher_stylegan teacher_Morphing_Diffusion_2024.mipgan2.stylegan_lma

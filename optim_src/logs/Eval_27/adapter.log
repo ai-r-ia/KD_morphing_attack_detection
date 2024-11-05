@@ -1,0 +1,409 @@
+2024-10-24 08:23:43,752 - Eval_27_adapter - INFO - train_adapter
+2024-10-24 08:23:44,820 - Eval_27_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-24 08:23:47,189 - Eval_27_adapter - DEBUG - Train Loss: 494.71181297302246
+2024-10-24 08:23:47,193 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-24 08:23:47,193 - Eval_27_adapter - INFO - loss decreased (494.711813 --> 494.711813).
+2024-10-24 08:23:47,193 - Eval_27_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-24 08:23:48,687 - Eval_27_adapter - DEBUG - Train Loss: 494.978524684906
+2024-10-24 08:23:48,691 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-24 08:23:48,691 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 08:23:48,692 - Eval_27_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-24 08:23:50,221 - Eval_27_adapter - DEBUG - Train Loss: 494.7754936218262
+2024-10-24 08:23:50,227 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-24 08:23:50,227 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 08:23:50,228 - Eval_27_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-24 08:23:51,800 - Eval_27_adapter - DEBUG - Train Loss: 495.1374554634094
+2024-10-24 08:23:51,804 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-24 08:23:51,804 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 08:23:51,805 - Eval_27_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-24 08:23:53,437 - Eval_27_adapter - DEBUG - Train Loss: 494.93594312667847
+2024-10-24 08:23:53,440 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-24 08:23:53,440 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 08:23:53,441 - Eval_27_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-24 08:23:55,032 - Eval_27_adapter - DEBUG - Train Loss: 494.4969789981842
+2024-10-24 08:23:55,038 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-24 08:23:55,038 - Eval_27_adapter - INFO - loss decreased (494.496979 --> 494.496979).
+2024-10-24 08:23:55,039 - Eval_27_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-24 08:23:56,665 - Eval_27_adapter - DEBUG - Train Loss: 495.38431787490845
+2024-10-24 08:23:56,668 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-24 08:23:56,668 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 08:23:56,668 - Eval_27_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-24 08:23:58,119 - Eval_27_adapter - DEBUG - Train Loss: 494.709677696228
+2024-10-24 08:23:58,123 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-24 08:23:58,123 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 08:23:58,123 - Eval_27_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-24 08:23:59,722 - Eval_27_adapter - DEBUG - Train Loss: 494.47419691085815
+2024-10-24 08:23:59,725 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-24 08:23:59,725 - Eval_27_adapter - INFO - loss decreased (494.474197 --> 494.474197).
+2024-10-24 08:23:59,725 - Eval_27_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-24 08:24:01,232 - Eval_27_adapter - DEBUG - Train Loss: 486.98175573349
+2024-10-24 08:24:01,236 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-24 08:24:01,236 - Eval_27_adapter - INFO - loss decreased (486.981756 --> 486.981756).
+2024-10-24 08:24:01,237 - Eval_27_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-24 08:24:02,759 - Eval_27_adapter - DEBUG - Train Loss: 494.9453339576721
+2024-10-24 08:24:02,762 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-24 08:24:02,762 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 08:24:02,763 - Eval_27_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-24 08:24:04,405 - Eval_27_adapter - DEBUG - Train Loss: 492.6863706111908
+2024-10-24 08:24:04,411 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-24 08:24:04,411 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 08:24:04,412 - Eval_27_adapter - DEBUG - Epoch: 12, learning rate:  0.1
+2024-10-24 08:24:05,844 - Eval_27_adapter - DEBUG - Train Loss: 494.72760105133057
+2024-10-24 08:24:05,847 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 12
+2024-10-24 08:24:05,847 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 08:24:05,848 - Eval_27_adapter - DEBUG - Epoch: 13, learning rate:  0.1
+2024-10-24 08:24:07,533 - Eval_27_adapter - DEBUG - Train Loss: 494.69344568252563
+2024-10-24 08:24:07,537 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 13
+2024-10-24 08:24:07,537 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 08:24:07,538 - Eval_27_adapter - DEBUG - Epoch: 14, learning rate:  0.1
+2024-10-24 08:24:09,093 - Eval_27_adapter - DEBUG - Train Loss: 494.6330876350403
+2024-10-24 08:24:09,097 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 14
+2024-10-24 08:24:09,097 - Eval_27_adapter - INFO - EarlyStopping counter: 5 out of 10
+2024-10-24 08:24:09,098 - Eval_27_adapter - DEBUG - Epoch: 15, learning rate:  0.1
+2024-10-24 08:24:10,492 - Eval_27_adapter - DEBUG - Train Loss: 494.5849986076355
+2024-10-24 08:24:10,495 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 15
+2024-10-24 08:24:10,495 - Eval_27_adapter - INFO - EarlyStopping counter: 6 out of 10
+2024-10-24 08:24:10,496 - Eval_27_adapter - DEBUG - Epoch: 16, learning rate:  0.1
+2024-10-24 08:24:12,011 - Eval_27_adapter - DEBUG - Train Loss: 492.4258780479431
+2024-10-24 08:24:12,015 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 16
+2024-10-24 08:24:12,015 - Eval_27_adapter - INFO - EarlyStopping counter: 7 out of 10
+2024-10-24 08:24:12,016 - Eval_27_adapter - DEBUG - Epoch: 17, learning rate:  0.1
+2024-10-24 08:24:13,767 - Eval_27_adapter - DEBUG - Train Loss: 492.25428223609924
+2024-10-24 08:24:13,771 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 17
+2024-10-24 08:24:13,771 - Eval_27_adapter - INFO - EarlyStopping counter: 8 out of 10
+2024-10-24 08:24:13,771 - Eval_27_adapter - DEBUG - Epoch: 18, learning rate:  0.1
+2024-10-24 08:24:15,494 - Eval_27_adapter - DEBUG - Train Loss: 492.55847215652466
+2024-10-24 08:24:15,498 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 18
+2024-10-24 08:24:15,498 - Eval_27_adapter - INFO - EarlyStopping counter: 9 out of 10
+2024-10-24 08:24:15,498 - Eval_27_adapter - DEBUG - Epoch: 19, learning rate:  0.1
+2024-10-24 08:24:17,525 - Eval_27_adapter - DEBUG - Train Loss: 490.9343786239624
+2024-10-24 08:24:17,529 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 19
+2024-10-24 08:24:17,530 - Eval_27_adapter - INFO - EarlyStopping counter: 10 out of 10
+2024-10-24 08:24:17,530 - Eval_27_adapter - INFO - train loss: 494.71181297302246 494.978524684906 494.7754936218262 495.1374554634094 494.93594312667847 494.4969789981842 495.38431787490845 494.709677696228 494.47419691085815 486.98175573349 494.9453339576721 492.6863706111908 494.72760105133057 494.69344568252563 494.6330876350403 494.5849986076355 492.4258780479431 492.25428223609924 492.55847215652466 490.9343786239624
+2024-10-24 08:31:26,120 - Eval_27_adapter - INFO - train_adapter
+2024-10-24 08:31:27,157 - Eval_27_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-24 08:31:29,646 - Eval_27_adapter - DEBUG - Train Loss: 472.4558701515198
+2024-10-24 08:31:29,649 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-24 08:31:29,649 - Eval_27_adapter - INFO - loss decreased (472.455870 --> 472.455870).
+2024-10-24 08:31:29,650 - Eval_27_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-24 08:31:31,102 - Eval_27_adapter - DEBUG - Train Loss: 474.3010358810425
+2024-10-24 08:31:31,108 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-24 08:31:31,108 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 08:31:31,109 - Eval_27_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-24 08:31:32,694 - Eval_27_adapter - DEBUG - Train Loss: 476.4455556869507
+2024-10-24 08:31:32,698 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-24 08:31:32,698 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 08:31:32,699 - Eval_27_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-24 08:31:34,454 - Eval_27_adapter - DEBUG - Train Loss: 472.1140624284744
+2024-10-24 08:31:34,458 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-24 08:31:34,458 - Eval_27_adapter - INFO - loss decreased (472.114062 --> 472.114062).
+2024-10-24 08:31:34,458 - Eval_27_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-24 08:31:36,010 - Eval_27_adapter - DEBUG - Train Loss: 476.279173374176
+2024-10-24 08:31:36,015 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-24 08:31:36,015 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 08:31:36,016 - Eval_27_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-24 08:31:37,678 - Eval_27_adapter - DEBUG - Train Loss: 476.5755994319916
+2024-10-24 08:31:37,682 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-24 08:31:37,682 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 08:31:37,683 - Eval_27_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-24 08:31:39,600 - Eval_27_adapter - DEBUG - Train Loss: 474.36227536201477
+2024-10-24 08:31:39,606 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-24 08:31:39,606 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 08:31:39,607 - Eval_27_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-24 08:31:41,314 - Eval_27_adapter - DEBUG - Train Loss: 474.67683482170105
+2024-10-24 08:31:41,320 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-24 08:31:41,321 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 08:31:41,322 - Eval_27_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-24 08:31:42,968 - Eval_27_adapter - DEBUG - Train Loss: 476.2866430282593
+2024-10-24 08:31:42,974 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-24 08:31:42,974 - Eval_27_adapter - INFO - EarlyStopping counter: 5 out of 10
+2024-10-24 08:31:42,975 - Eval_27_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-24 08:31:44,753 - Eval_27_adapter - DEBUG - Train Loss: 474.48935759067535
+2024-10-24 08:31:44,760 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-24 08:31:44,760 - Eval_27_adapter - INFO - EarlyStopping counter: 6 out of 10
+2024-10-24 08:31:44,761 - Eval_27_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-24 08:31:46,710 - Eval_27_adapter - DEBUG - Train Loss: 476.78030705451965
+2024-10-24 08:31:46,713 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-24 08:31:46,713 - Eval_27_adapter - INFO - EarlyStopping counter: 7 out of 10
+2024-10-24 08:31:46,714 - Eval_27_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-24 08:31:48,432 - Eval_27_adapter - DEBUG - Train Loss: 476.11874866485596
+2024-10-24 08:31:48,437 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-24 08:31:48,437 - Eval_27_adapter - INFO - EarlyStopping counter: 8 out of 10
+2024-10-24 08:31:48,438 - Eval_27_adapter - DEBUG - Epoch: 12, learning rate:  0.1
+2024-10-24 08:31:50,027 - Eval_27_adapter - DEBUG - Train Loss: 476.6589412689209
+2024-10-24 08:31:50,032 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 12
+2024-10-24 08:31:50,032 - Eval_27_adapter - INFO - EarlyStopping counter: 9 out of 10
+2024-10-24 08:31:50,033 - Eval_27_adapter - DEBUG - Epoch: 13, learning rate:  0.1
+2024-10-24 08:31:51,721 - Eval_27_adapter - DEBUG - Train Loss: 476.3190896511078
+2024-10-24 08:31:51,726 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 13
+2024-10-24 08:31:51,726 - Eval_27_adapter - INFO - EarlyStopping counter: 10 out of 10
+2024-10-24 08:31:51,726 - Eval_27_adapter - INFO - train loss: 472.4558701515198 474.3010358810425 476.4455556869507 472.1140624284744 476.279173374176 476.5755994319916 474.36227536201477 474.67683482170105 476.2866430282593 474.48935759067535 476.78030705451965 476.11874866485596 476.6589412689209 476.3190896511078
+2024-10-24 08:38:28,129 - Eval_27_adapter - INFO - train_adapter
+2024-10-24 08:38:29,185 - Eval_27_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-24 08:38:31,661 - Eval_27_adapter - DEBUG - Train Loss: 480.6995189189911
+2024-10-24 08:38:31,665 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-24 08:38:31,665 - Eval_27_adapter - INFO - loss decreased (480.699519 --> 480.699519).
+2024-10-24 08:38:31,666 - Eval_27_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-24 08:38:33,587 - Eval_27_adapter - DEBUG - Train Loss: 478.63749170303345
+2024-10-24 08:38:33,592 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-24 08:38:33,592 - Eval_27_adapter - INFO - loss decreased (478.637492 --> 478.637492).
+2024-10-24 08:38:33,593 - Eval_27_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-24 08:38:35,288 - Eval_27_adapter - DEBUG - Train Loss: 481.04301619529724
+2024-10-24 08:38:35,294 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-24 08:38:35,294 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 08:38:35,295 - Eval_27_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-24 08:38:37,031 - Eval_27_adapter - DEBUG - Train Loss: 480.7931697368622
+2024-10-24 08:38:37,034 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-24 08:38:37,035 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 08:38:37,035 - Eval_27_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-24 08:38:38,671 - Eval_27_adapter - DEBUG - Train Loss: 480.7200427055359
+2024-10-24 08:38:38,675 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-24 08:38:38,675 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 08:38:38,675 - Eval_27_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-24 08:38:40,165 - Eval_27_adapter - DEBUG - Train Loss: 478.79445481300354
+2024-10-24 08:38:40,169 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-24 08:38:40,169 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 08:38:40,170 - Eval_27_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-24 08:38:41,714 - Eval_27_adapter - DEBUG - Train Loss: 478.9083180427551
+2024-10-24 08:38:41,717 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-24 08:38:41,717 - Eval_27_adapter - INFO - EarlyStopping counter: 5 out of 10
+2024-10-24 08:38:41,717 - Eval_27_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-24 08:38:43,200 - Eval_27_adapter - DEBUG - Train Loss: 480.46302342414856
+2024-10-24 08:38:43,204 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-24 08:38:43,204 - Eval_27_adapter - INFO - EarlyStopping counter: 6 out of 10
+2024-10-24 08:38:43,205 - Eval_27_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-24 08:38:44,824 - Eval_27_adapter - DEBUG - Train Loss: 478.9014182090759
+2024-10-24 08:38:44,828 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-24 08:38:44,828 - Eval_27_adapter - INFO - EarlyStopping counter: 7 out of 10
+2024-10-24 08:38:44,829 - Eval_27_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-24 08:38:46,550 - Eval_27_adapter - DEBUG - Train Loss: 481.3308525085449
+2024-10-24 08:38:46,554 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-24 08:38:46,554 - Eval_27_adapter - INFO - EarlyStopping counter: 8 out of 10
+2024-10-24 08:38:46,554 - Eval_27_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-24 08:38:48,136 - Eval_27_adapter - DEBUG - Train Loss: 478.6679244041443
+2024-10-24 08:38:48,139 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-24 08:38:48,140 - Eval_27_adapter - INFO - EarlyStopping counter: 9 out of 10
+2024-10-24 08:38:48,140 - Eval_27_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-24 08:38:49,703 - Eval_27_adapter - DEBUG - Train Loss: 480.1141448020935
+2024-10-24 08:38:49,708 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-24 08:38:49,709 - Eval_27_adapter - INFO - EarlyStopping counter: 10 out of 10
+2024-10-24 08:38:49,709 - Eval_27_adapter - INFO - train loss: 480.6995189189911 478.63749170303345 481.04301619529724 480.7931697368622 480.7200427055359 478.79445481300354 478.9083180427551 480.46302342414856 478.9014182090759 481.3308525085449 478.6679244041443 480.1141448020935
+2024-10-24 18:26:25,164 - Eval_27_adapter - INFO - train_adapter
+2024-10-24 18:26:44,007 - Eval_27_adapter - INFO - train_adapter
+2024-10-24 18:26:45,036 - Eval_27_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-24 18:26:47,530 - Eval_27_adapter - DEBUG - Train Loss: 458.73442792892456
+2024-10-24 18:26:47,535 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-24 18:26:47,535 - Eval_27_adapter - INFO - loss decreased (458.734428 --> 458.734428).
+2024-10-24 18:26:47,535 - Eval_27_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-24 18:26:49,219 - Eval_27_adapter - DEBUG - Train Loss: 453.1347997188568
+2024-10-24 18:26:49,223 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-24 18:26:49,224 - Eval_27_adapter - INFO - loss decreased (453.134800 --> 453.134800).
+2024-10-24 18:26:49,224 - Eval_27_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-24 18:26:50,880 - Eval_27_adapter - DEBUG - Train Loss: 456.3563938140869
+2024-10-24 18:26:50,883 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-24 18:26:50,883 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 18:26:50,883 - Eval_27_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-24 18:26:52,680 - Eval_27_adapter - DEBUG - Train Loss: 456.892009973526
+2024-10-24 18:26:52,683 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-24 18:26:52,683 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 18:26:52,684 - Eval_27_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-24 18:26:54,447 - Eval_27_adapter - DEBUG - Train Loss: 458.73708844184875
+2024-10-24 18:26:54,452 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-24 18:26:54,452 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 18:26:54,452 - Eval_27_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-24 18:26:55,991 - Eval_27_adapter - DEBUG - Train Loss: 459.0433146953583
+2024-10-24 18:26:55,997 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-24 18:26:55,997 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 18:26:55,998 - Eval_27_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-24 18:26:57,416 - Eval_27_adapter - DEBUG - Train Loss: 456.63393092155457
+2024-10-24 18:26:57,420 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-24 18:26:57,420 - Eval_27_adapter - INFO - EarlyStopping counter: 5 out of 10
+2024-10-24 18:26:57,421 - Eval_27_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-24 18:26:59,138 - Eval_27_adapter - DEBUG - Train Loss: 458.7132177352905
+2024-10-24 18:26:59,141 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-24 18:26:59,141 - Eval_27_adapter - INFO - EarlyStopping counter: 6 out of 10
+2024-10-24 18:26:59,141 - Eval_27_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-24 18:27:00,695 - Eval_27_adapter - DEBUG - Train Loss: 456.82791435718536
+2024-10-24 18:27:00,698 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-24 18:27:00,699 - Eval_27_adapter - INFO - EarlyStopping counter: 7 out of 10
+2024-10-24 18:27:00,699 - Eval_27_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-24 18:27:02,341 - Eval_27_adapter - DEBUG - Train Loss: 456.8484193086624
+2024-10-24 18:27:02,344 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-24 18:27:02,344 - Eval_27_adapter - INFO - EarlyStopping counter: 8 out of 10
+2024-10-24 18:27:02,344 - Eval_27_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-24 18:27:03,980 - Eval_27_adapter - DEBUG - Train Loss: 454.97003996372223
+2024-10-24 18:27:03,984 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-24 18:27:03,984 - Eval_27_adapter - INFO - EarlyStopping counter: 9 out of 10
+2024-10-24 18:27:03,984 - Eval_27_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-24 18:27:05,553 - Eval_27_adapter - DEBUG - Train Loss: 454.80993914604187
+2024-10-24 18:27:05,556 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-24 18:27:05,556 - Eval_27_adapter - INFO - EarlyStopping counter: 10 out of 10
+2024-10-24 18:27:05,556 - Eval_27_adapter - INFO - train loss: 458.73442792892456 453.1347997188568 456.3563938140869 456.892009973526 458.73708844184875 459.0433146953583 456.63393092155457 458.7132177352905 456.82791435718536 456.8484193086624 454.97003996372223 454.80993914604187
+2024-10-24 18:54:38,071 - Eval_27_adapter - INFO - train_adapter
+2024-10-24 18:54:39,113 - Eval_27_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-24 18:54:41,653 - Eval_27_adapter - DEBUG - Train Loss: 488.7579789161682
+2024-10-24 18:54:41,657 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-24 18:54:41,657 - Eval_27_adapter - INFO - loss decreased (488.757979 --> 488.757979).
+2024-10-24 18:54:41,657 - Eval_27_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-24 18:54:43,301 - Eval_27_adapter - DEBUG - Train Loss: 485.948056101799
+2024-10-24 18:54:43,305 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-24 18:54:43,305 - Eval_27_adapter - INFO - loss decreased (485.948056 --> 485.948056).
+2024-10-24 18:54:43,306 - Eval_27_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-24 18:54:45,114 - Eval_27_adapter - DEBUG - Train Loss: 486.44426465034485
+2024-10-24 18:54:45,118 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-24 18:54:45,118 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 18:54:45,118 - Eval_27_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-24 18:54:46,562 - Eval_27_adapter - DEBUG - Train Loss: 488.40501594543457
+2024-10-24 18:54:46,568 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-24 18:54:46,568 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 18:54:46,569 - Eval_27_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-24 18:54:48,299 - Eval_27_adapter - DEBUG - Train Loss: 488.6049199104309
+2024-10-24 18:54:48,303 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-24 18:54:48,303 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 18:54:48,303 - Eval_27_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-24 18:54:49,813 - Eval_27_adapter - DEBUG - Train Loss: 488.48987340927124
+2024-10-24 18:54:49,817 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-24 18:54:49,817 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 18:54:49,818 - Eval_27_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-24 18:54:51,305 - Eval_27_adapter - DEBUG - Train Loss: 488.7919976711273
+2024-10-24 18:54:51,309 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-24 18:54:51,309 - Eval_27_adapter - INFO - EarlyStopping counter: 5 out of 10
+2024-10-24 18:54:51,309 - Eval_27_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-24 18:54:53,101 - Eval_27_adapter - DEBUG - Train Loss: 484.248854637146
+2024-10-24 18:54:53,104 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-24 18:54:53,104 - Eval_27_adapter - INFO - loss decreased (484.248855 --> 484.248855).
+2024-10-24 18:54:53,104 - Eval_27_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-24 18:54:54,861 - Eval_27_adapter - DEBUG - Train Loss: 484.17577588558197
+2024-10-24 18:54:54,864 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-24 18:54:54,864 - Eval_27_adapter - INFO - loss decreased (484.175776 --> 484.175776).
+2024-10-24 18:54:54,865 - Eval_27_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-24 18:54:56,724 - Eval_27_adapter - DEBUG - Train Loss: 488.0168755054474
+2024-10-24 18:54:56,727 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-24 18:54:56,728 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 18:54:56,728 - Eval_27_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-24 18:54:58,286 - Eval_27_adapter - DEBUG - Train Loss: 486.44932293891907
+2024-10-24 18:54:58,289 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-24 18:54:58,289 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 18:54:58,289 - Eval_27_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-24 18:54:59,795 - Eval_27_adapter - DEBUG - Train Loss: 484.15983986854553
+2024-10-24 18:54:59,799 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-24 18:54:59,800 - Eval_27_adapter - INFO - loss decreased (484.159840 --> 484.159840).
+2024-10-24 18:54:59,800 - Eval_27_adapter - DEBUG - Epoch: 12, learning rate:  0.1
+2024-10-24 18:55:01,460 - Eval_27_adapter - DEBUG - Train Loss: 485.8978111743927
+2024-10-24 18:55:01,463 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 12
+2024-10-24 18:55:01,463 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 18:55:01,463 - Eval_27_adapter - DEBUG - Epoch: 13, learning rate:  0.1
+2024-10-24 18:55:03,112 - Eval_27_adapter - DEBUG - Train Loss: 481.9257507324219
+2024-10-24 18:55:03,115 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 13
+2024-10-24 18:55:03,115 - Eval_27_adapter - INFO - loss decreased (481.925751 --> 481.925751).
+2024-10-24 18:55:03,116 - Eval_27_adapter - DEBUG - Epoch: 14, learning rate:  0.1
+2024-10-24 18:55:04,927 - Eval_27_adapter - DEBUG - Train Loss: 488.3550012111664
+2024-10-24 18:55:04,930 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 14
+2024-10-24 18:55:04,930 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 18:55:04,931 - Eval_27_adapter - DEBUG - Epoch: 15, learning rate:  0.1
+2024-10-24 18:55:06,761 - Eval_27_adapter - DEBUG - Train Loss: 488.4824113845825
+2024-10-24 18:55:06,766 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 15
+2024-10-24 18:55:06,766 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 18:55:06,767 - Eval_27_adapter - DEBUG - Epoch: 16, learning rate:  0.1
+2024-10-24 18:55:08,528 - Eval_27_adapter - DEBUG - Train Loss: 488.33552169799805
+2024-10-24 18:55:08,532 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 16
+2024-10-24 18:55:08,532 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 18:55:08,532 - Eval_27_adapter - DEBUG - Epoch: 17, learning rate:  0.1
+2024-10-24 18:55:10,245 - Eval_27_adapter - DEBUG - Train Loss: 487.7730119228363
+2024-10-24 18:55:10,249 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 17
+2024-10-24 18:55:10,249 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 18:55:10,249 - Eval_27_adapter - DEBUG - Epoch: 18, learning rate:  0.1
+2024-10-24 18:55:12,097 - Eval_27_adapter - DEBUG - Train Loss: 488.35325288772583
+2024-10-24 18:55:12,101 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 18
+2024-10-24 18:55:12,101 - Eval_27_adapter - INFO - EarlyStopping counter: 5 out of 10
+2024-10-24 18:55:12,102 - Eval_27_adapter - DEBUG - Epoch: 19, learning rate:  0.1
+2024-10-24 18:55:14,068 - Eval_27_adapter - DEBUG - Train Loss: 488.0065989494324
+2024-10-24 18:55:14,072 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 19
+2024-10-24 18:55:14,072 - Eval_27_adapter - INFO - EarlyStopping counter: 6 out of 10
+2024-10-24 18:55:14,072 - Eval_27_adapter - DEBUG - Epoch: 20, learning rate:  0.1
+2024-10-24 18:55:15,898 - Eval_27_adapter - DEBUG - Train Loss: 488.53647470474243
+2024-10-24 18:55:15,902 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 20
+2024-10-24 18:55:15,902 - Eval_27_adapter - INFO - EarlyStopping counter: 7 out of 10
+2024-10-24 18:55:15,903 - Eval_27_adapter - DEBUG - Epoch: 21, learning rate:  0.1
+2024-10-24 18:55:17,632 - Eval_27_adapter - DEBUG - Train Loss: 486.2171063423157
+2024-10-24 18:55:17,638 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 21
+2024-10-24 18:55:17,638 - Eval_27_adapter - INFO - EarlyStopping counter: 8 out of 10
+2024-10-24 18:55:17,639 - Eval_27_adapter - DEBUG - Epoch: 22, learning rate:  0.1
+2024-10-24 18:55:19,485 - Eval_27_adapter - DEBUG - Train Loss: 488.65965938568115
+2024-10-24 18:55:19,488 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 22
+2024-10-24 18:55:19,489 - Eval_27_adapter - INFO - EarlyStopping counter: 9 out of 10
+2024-10-24 18:55:19,489 - Eval_27_adapter - DEBUG - Epoch: 23, learning rate:  0.1
+2024-10-24 18:55:21,256 - Eval_27_adapter - DEBUG - Train Loss: 486.5316286087036
+2024-10-24 18:55:21,261 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 23
+2024-10-24 18:55:21,261 - Eval_27_adapter - INFO - EarlyStopping counter: 10 out of 10
+2024-10-24 18:55:21,261 - Eval_27_adapter - INFO - train loss: 488.7579789161682 485.948056101799 486.44426465034485 488.40501594543457 488.6049199104309 488.48987340927124 488.7919976711273 484.248854637146 484.17577588558197 488.0168755054474 486.44932293891907 484.15983986854553 485.8978111743927 481.9257507324219 488.3550012111664 488.4824113845825 488.33552169799805 487.7730119228363 488.35325288772583 488.0065989494324 488.53647470474243 486.2171063423157 488.65965938568115 486.5316286087036
+2024-10-24 19:03:42,920 - Eval_27_adapter - INFO - train_adapter
+2024-10-24 19:03:43,955 - Eval_27_adapter - DEBUG - Epoch: 0, learning rate:  0.1
+2024-10-24 19:03:46,470 - Eval_27_adapter - DEBUG - Train Loss: 495.6340022087097
+2024-10-24 19:03:46,475 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 0
+2024-10-24 19:03:46,476 - Eval_27_adapter - INFO - loss decreased (495.634002 --> 495.634002).
+2024-10-24 19:03:46,476 - Eval_27_adapter - DEBUG - Epoch: 1, learning rate:  0.1
+2024-10-24 19:03:47,965 - Eval_27_adapter - DEBUG - Train Loss: 495.8184576034546
+2024-10-24 19:03:47,970 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 1
+2024-10-24 19:03:47,970 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 19:03:47,970 - Eval_27_adapter - DEBUG - Epoch: 2, learning rate:  0.1
+2024-10-24 19:03:49,536 - Eval_27_adapter - DEBUG - Train Loss: 495.6161358356476
+2024-10-24 19:03:49,539 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 2
+2024-10-24 19:03:49,539 - Eval_27_adapter - INFO - loss decreased (495.616136 --> 495.616136).
+2024-10-24 19:03:49,539 - Eval_27_adapter - DEBUG - Epoch: 3, learning rate:  0.1
+2024-10-24 19:03:51,053 - Eval_27_adapter - DEBUG - Train Loss: 494.89658212661743
+2024-10-24 19:03:51,057 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 3
+2024-10-24 19:03:51,057 - Eval_27_adapter - INFO - loss decreased (494.896582 --> 494.896582).
+2024-10-24 19:03:51,058 - Eval_27_adapter - DEBUG - Epoch: 4, learning rate:  0.1
+2024-10-24 19:03:52,684 - Eval_27_adapter - DEBUG - Train Loss: 494.93665838241577
+2024-10-24 19:03:52,688 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 4
+2024-10-24 19:03:52,688 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 19:03:52,689 - Eval_27_adapter - DEBUG - Epoch: 5, learning rate:  0.1
+2024-10-24 19:03:54,078 - Eval_27_adapter - DEBUG - Train Loss: 495.5072512626648
+2024-10-24 19:03:54,081 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 5
+2024-10-24 19:03:54,081 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 19:03:54,082 - Eval_27_adapter - DEBUG - Epoch: 6, learning rate:  0.1
+2024-10-24 19:03:55,521 - Eval_27_adapter - DEBUG - Train Loss: 490.94109296798706
+2024-10-24 19:03:55,524 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 6
+2024-10-24 19:03:55,524 - Eval_27_adapter - INFO - loss decreased (490.941093 --> 490.941093).
+2024-10-24 19:03:55,525 - Eval_27_adapter - DEBUG - Epoch: 7, learning rate:  0.1
+2024-10-24 19:03:56,994 - Eval_27_adapter - DEBUG - Train Loss: 495.2134928703308
+2024-10-24 19:03:56,998 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 7
+2024-10-24 19:03:56,998 - Eval_27_adapter - INFO - EarlyStopping counter: 1 out of 10
+2024-10-24 19:03:56,998 - Eval_27_adapter - DEBUG - Epoch: 8, learning rate:  0.1
+2024-10-24 19:03:58,428 - Eval_27_adapter - DEBUG - Train Loss: 495.2970676422119
+2024-10-24 19:03:58,434 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 8
+2024-10-24 19:03:58,434 - Eval_27_adapter - INFO - EarlyStopping counter: 2 out of 10
+2024-10-24 19:03:58,435 - Eval_27_adapter - DEBUG - Epoch: 9, learning rate:  0.1
+2024-10-24 19:04:00,132 - Eval_27_adapter - DEBUG - Train Loss: 493.06782484054565
+2024-10-24 19:04:00,136 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 9
+2024-10-24 19:04:00,136 - Eval_27_adapter - INFO - EarlyStopping counter: 3 out of 10
+2024-10-24 19:04:00,137 - Eval_27_adapter - DEBUG - Epoch: 10, learning rate:  0.1
+2024-10-24 19:04:01,712 - Eval_27_adapter - DEBUG - Train Loss: 493.92964267730713
+2024-10-24 19:04:01,715 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 10
+2024-10-24 19:04:01,715 - Eval_27_adapter - INFO - EarlyStopping counter: 4 out of 10
+2024-10-24 19:04:01,716 - Eval_27_adapter - DEBUG - Epoch: 11, learning rate:  0.1
+2024-10-24 19:04:03,513 - Eval_27_adapter - DEBUG - Train Loss: 495.6562924385071
+2024-10-24 19:04:03,518 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 11
+2024-10-24 19:04:03,518 - Eval_27_adapter - INFO - EarlyStopping counter: 5 out of 10
+2024-10-24 19:04:03,519 - Eval_27_adapter - DEBUG - Epoch: 12, learning rate:  0.1
+2024-10-24 19:04:04,978 - Eval_27_adapter - DEBUG - Train Loss: 495.78620433807373
+2024-10-24 19:04:04,981 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 12
+2024-10-24 19:04:04,981 - Eval_27_adapter - INFO - EarlyStopping counter: 6 out of 10
+2024-10-24 19:04:04,981 - Eval_27_adapter - DEBUG - Epoch: 13, learning rate:  0.1
+2024-10-24 19:04:06,681 - Eval_27_adapter - DEBUG - Train Loss: 493.89591884613037
+2024-10-24 19:04:06,687 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 13
+2024-10-24 19:04:06,687 - Eval_27_adapter - INFO - EarlyStopping counter: 7 out of 10
+2024-10-24 19:04:06,688 - Eval_27_adapter - DEBUG - Epoch: 14, learning rate:  0.1
+2024-10-24 19:04:08,421 - Eval_27_adapter - DEBUG - Train Loss: 495.62802028656006
+2024-10-24 19:04:08,425 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 14
+2024-10-24 19:04:08,425 - Eval_27_adapter - INFO - EarlyStopping counter: 8 out of 10
+2024-10-24 19:04:08,426 - Eval_27_adapter - DEBUG - Epoch: 15, learning rate:  0.1
+2024-10-24 19:04:10,053 - Eval_27_adapter - DEBUG - Train Loss: 491.55086851119995
+2024-10-24 19:04:10,058 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 15
+2024-10-24 19:04:10,058 - Eval_27_adapter - INFO - EarlyStopping counter: 9 out of 10
+2024-10-24 19:04:10,058 - Eval_27_adapter - DEBUG - Epoch: 16, learning rate:  0.1
+2024-10-24 19:04:11,792 - Eval_27_adapter - DEBUG - Train Loss: 493.75302600860596
+2024-10-24 19:04:11,797 - Eval_27_adapter - DEBUG - Model saved successfully at epoch 16
+2024-10-24 19:04:11,797 - Eval_27_adapter - INFO - EarlyStopping counter: 10 out of 10
+2024-10-24 19:04:11,797 - Eval_27_adapter - INFO - train loss: 495.6340022087097 495.8184576034546 495.6161358356476 494.89658212661743 494.93665838241577 495.5072512626648 490.94109296798706 495.2134928703308 495.2970676422119 493.06782484054565 493.92964267730713 495.6562924385071 495.78620433807373 493.89591884613037 495.62802028656006 491.55086851119995 493.75302600860596
